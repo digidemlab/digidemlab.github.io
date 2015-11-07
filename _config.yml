@@ -1,10 +1,10 @@
 # Site settings
-title: Site name
+title: Petter Joelson
 
-email: support@rabash.se
-description: ""
+email: petter@p-jo.se
+description: "Activist & Web Strategist"
 baseurl: ""
-twitter_username: rabashwebb
+twitter_username: p_jo
 github_username:  p-jo
 
 # Build settings

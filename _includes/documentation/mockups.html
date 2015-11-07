@@ -1,9 +1,0 @@
-{% for skisser in item.skisser %}
-  <p>
-  {{skisser.dir}}:
-  {% for skiss in skisser.items %}
-    <a href="{{site.baseurl}}/assets/images/{{include.files}}/{{skisser.dir}}/{{skiss.file}}.png">{{skiss.type}}</a>
-    {% unless forloop.last %} ,{% endunless %}
-  {% endfor %}
-  </p>
-{% endfor %}
