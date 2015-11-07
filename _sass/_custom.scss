@@ -1,10 +1,22 @@
 
+
+
 a {
   text-decoration: underline;
 }
 
 h1 {
   margin-bottom: 0;
+}
+
+
+
+h1, body {
+    @include transition(all 0.3s ease-in-out);
+
+    @media (max-width: $screen-sm-min) {
+    font-size: $font-size-small;
+  }
 }
 
 body, html {
