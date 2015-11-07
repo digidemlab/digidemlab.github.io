@@ -1,8 +1,0 @@
-{% for cat in site.data.documents %}
-  <h3>{{cat.category}}</h3>
-  <ul class="list-unstyled">
-    {% for item in cat.documents %}
-      <li><a href="{{item.link}}"><span class="glyphicon glyphicon-download"></span> {{item.title}}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
