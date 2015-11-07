@@ -1,0 +1,14 @@
+{
+  "name": "socialicious",
+  "homepage": "https://github.com/shalinguyen/socialicious",
+  "_release": "78bb1be63f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "78bb1be63f0b7da490e2ab4586531a8168b783d8"
+  },
+  "_source": "git://github.com/shalinguyen/socialicious.git",
+  "_target": "*",
+  "_originalSource": "socialicious",
+  "_direct": true
+}

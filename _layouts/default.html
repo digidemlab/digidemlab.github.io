@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="robots" content="noindex, nofollow">
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ site.title }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+  {% if page.description %}
+      <meta name="description" content="{{ page.description }}" />
+  {% endif %}
+  <meta name="author" content="{{ site.author }}">
+
+  <link rel="stylesheet" media="screen" href="{{ site.baseurl }}/assets/css/style.css" type="text/css" />
+
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+  {{ content }}
+
+  <!-- JavaScript plugins (requires jQuery) -->
+  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
+
+  <!-- Enable responsive features in IE8 with Respond.js (https://github.com/scottjehl/Respond) -->
+  <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
+
+  <!-- Holder images -->
+  <script src="{{ site.baseurl }}/assets/js/holder.min.js"></script>
+
+  <script>
+
+    // Livereload
+    if(location.hostname == '0.0.0.0') {
+      document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>');
+    }
+
+  </script>
+
+</body>
+</html>
