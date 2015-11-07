@@ -1,82 +1,11 @@
 
-/* Cookies */
-
-.body-cookie .sidebar {
-  margin-top: 95px;
+a {
+  text-decoration: underline;
 }
 
-.body-cookie .jumbotron {
-  margin-top: 97px;
-}
-
-.body-cookie #main.not-front {
-  margin-top: 115px;
-}
-
-.alert {
+h1 {
   margin-bottom: 0;
 }
-
-#main.not-front {
-  margin-top: 70px;
-}
-
-/* navbar */
-
-.navbar-grey {
-  background-color: #eee;
-  border-color: transparent;
-}
-
-.top-nav-collapse {
-  background-color: #fff;
-  opacity: 0.9;
-}
-
-/* Flexslider */
-
-.flexslider {
-  box-shadow: none;
-}
-
-/* Labels i bilder */
-.label-container {
-  position: relative;
-}
-
-  .label-container .label-absolute {
-    position: absolute;
-    bottom: 0.5em;
-    right: 0.5em;
-    font-size: 150%;
-  }
-
-  .label-absolute span {
-      display: block;
-      text-align: left;
-    }
-
-
-/* Stora centrerade tabs för navigering */
-/**
-.nav-center > li {
-  float:none;
-  display:inline-block;
-}
-
-.nav-center {
-  text-align:center;
-}
-
-.nav-tabs > li.active > a,
-.nav-tabs > li.active > a:hover,
-.nav-tabs > li.active > a:focus {
-  border-color: #428bca;
-  border-width: 0 0 5px;
-}
-
-*/
-
 
 body, html {
   height: 100%;
@@ -84,42 +13,9 @@ body, html {
 
 /* body { padding-top: 70px; } */
 
-.padding {
-  padding-bottom: 20px;
-}
-
-.margin {
-  margin-bottom: 60px;
-}
-
-a.area {
-  color: #333;
-}
-
-.nav.nav-tight > li > a {
-  padding-top: 5px;
-  padding-bottom: 5px;
-}
-
-.navbar-submenu {
-  position: relative;
-  top: -21px;
-  left: 0;
-}
-
 img {
   width: 100%;
   height: auto;
-}
-
-.jumbotron a h1,
-a h1,
-a h2,
-/*a h3,*/
-a h4,
-a h5,
-a h6 {
-  color: #333;
 }
 
 .affix-bottom {
