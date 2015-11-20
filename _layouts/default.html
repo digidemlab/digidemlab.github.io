@@ -7,8 +7,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
-  {% if page.description %}
-      <meta name="description" content="{{ page.description }}" />
+  {% if site.description %}
+      <meta name="description" content="{{ site.description }}" />
   {% endif %}
   <meta name="author" content="{{ site.author }}">
 
@@ -26,22 +26,6 @@
 <body>
 
   {{ content }}
-
-  <!-- JavaScript plugins (requires jQuery) -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
-  <!-- Include all compiled plugins (below), or include individual files as needed -->
-  <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
-
-
-  <script>
-
-    // Livereload
-    if(location.hostname == '0.0.0.0') {
-      document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>');
-    }
-
-  </script>
 
 </body>
 </html>

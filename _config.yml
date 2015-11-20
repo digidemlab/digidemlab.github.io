@@ -4,6 +4,7 @@ title: Petter Joelson
 email: petter@p-jo.se
 description: "Activist & Web Strategist"
 baseurl: ""
+author: "Petter Joelson"
 twitter_username: p_jo
 github_username:  p-jo
 
@@ -11,27 +12,6 @@ github_username:  p-jo
 markdown: kramdown
 # relative_permalinks: true
 permalink: pretty
-
-# Defaults
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "article"
-  -
-    scope:
-      path: "event"
-      type: "posts"
-    values:
-      layout: "event"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
 
 # Multilingual settings
 # See https://github.com/tristen/multilingual
