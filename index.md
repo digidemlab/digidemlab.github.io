@@ -3,15 +3,13 @@ layout: global
 
 ---
 
-<div class="container-fluid">
-  <div class="row">
-    <div class="col-sm-12 col-md-10 col-md-offset-1">
-      <h1>{{site.title}}</h1>
-      <p>{{site.description}}<br>
-        <a href="mailto:contact@p-jo.se">Mail</a>,
-        <a href="http://twitter.com/p_jo">Twitter</a>,
-        <a href="https://flipboard.com/@p_jo/reclaiming-the-future-luam4kfty">Flipboard</a>
-      </p>
-    </div>
-  </div>
-</div>
+# {{site.title}}
+
+{{site.description}}  
+[Mail](mailto:contact@p-jo.se),
+[Twitter](http://twitter.com/p_jo),
+[Flipboard](https://flipboard.com/@p_jo/reclaiming-the-future-luam4kfty)
+
+## Newsletter  
+Monthly round-up of positive news and strategies for social change.  
+[Subscribe](http://eepurl.com/bIbxq9)

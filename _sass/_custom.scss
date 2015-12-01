@@ -5,13 +5,18 @@ a {
   text-decoration: underline;
 }
 
-h1 {
+h1, .h1 {
   margin-bottom: 0;
 }
 
+h2, .h2,
+h3, .h3 {
+text-style: italic;
+  margin-bottom: 0;
+  margin-top: ($line-height-computed / 2);
+}
 
-
-h1, body {
+h1, h2, h3, body {
     @include transition(all 0.3s ease-in-out);
 
     @media (max-width: $screen-sm-min) {
