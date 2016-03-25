@@ -13,6 +13,12 @@ markdown: kramdown
 # relative_permalinks: true
 permalink: pretty
 
+# Get JSON-files
+jekyll_get:
+  - data: projects
+    json: 'https://secure.are.na/v2/channels/digidem-tools-web'
+    cache: true
+
 # Multilingual settings
 # See https://github.com/tristen/multilingual
 # permalink: /:categories/:title
