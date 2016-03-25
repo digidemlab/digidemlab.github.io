@@ -1,23 +1,99 @@
 
-
-
-a {
-  text-decoration: underline;
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: $rose-quartz;
+  // gradient-directional($start-color: #555, $end-color: #333, $deg: 45deg)
 }
 
-h1, .h1,
-h2, .h2,
-h3, .h3 {
-text-style: italic;
-  margin-bottom: 0;
-//  margin-top: ($line-height-computed / 2);
+body#front {
+  @include gradient-directional($serenity, #fff, 135deg)
+}
+
+body#contact {
+  @include gradient-directional($rose-quartz, #fff, 135deg)
+}
+
+@media (min-width: $grid-float-breakpoint) {
+  #headline {
+    margin-bottom: 4em;
+  }
+}
+
+.form-control {
+  border-width: 0 0 4px 0;
+  @include box-shadow(none);
+  @include transition(border-color ease-in-out .15s, box-shadow ease-in-out .15s);
+
+  // Customize the `:focus` state to imitate native WebKit styles.
+  &:focus {
+    border-color: $text-color;
+    background: rgba(255, 255, 255, .25);
+    @include box-shadow(none);
+  }
+}
+
+label {
+  font-weight: normal;
+}
+
+.btn {
+  border-width: 4px;
+
+  &:hover,
+  &:focus,
+  &.focus {
+    background: rgba(255, 255, 255, .25);
+  }
+}
+
+#main p a {
+  border-bottom: 2px solid $link-color;
+  &:hover {
+    border-color: lighten($link-color, 30%);
+  }
+}
+
+.navbar-header {
+  //  float: left;
+  text-align: center;
+  width: 100%;
+}
+
+.container-fluid > .navbar-header {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.navbar-brand {
+  float:none;
+  display: inline-block;
+}
+
+.navbar-left {
+  float: left;
+}
+.navbar-right {
+  float: right !important;
+  margin-right: 0;
+}
+
+.avatar {
+  width: 60px; margin: 1em 1em 0 0;
 }
 
 h1, h2, h3, body {
     @include transition(all 0.3s ease-in-out);
 
-    @media (max-width: $screen-sm-min) {
-    font-size: $font-size-small;
+//    @media (max-width: $screen-sm-min) {
+//    font-size: $font-size-small;
+//  }
+}
+
+
+@media (max-width: $screen-sm-min) {
+  h1 {
+    font-size: $font-size-h2;    
   }
 }
 
@@ -30,8 +106,4 @@ body, html {
 img {
   width: 100%;
   height: auto;
-}
-
-.affix-bottom {
-  position: absolute;
 }
