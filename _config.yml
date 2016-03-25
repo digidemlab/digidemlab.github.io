@@ -1,11 +1,11 @@
 # Site settings
-title: Hugin & Munin
+title: Digidem Lab
 
 email: petter@p-jo.se
-description: "Digital Fundraising FTW"
+description: "promoting digital tools for radical democracy"
 baseurl: ""
-author: "Petter Joelson"
-twitter_username: p_jo
+author: "Digidem Lab"
+twitter_username: digidemlab
 github_username:  p-jo
 
 # Build settings

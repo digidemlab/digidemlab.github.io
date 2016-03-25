@@ -1,60 +1,109 @@
 ---
 layout: global
-title: We are a digital fundraising consultancy
-description: Helping you optimise your online fundraising strategy
 id: front
+
+about:
+  - title: Functional
+    icon: wrench
+    text: "User friendly digital tools to address peoples' needs and desires."
+  - title: Open
+    icon: eye
+    text: Open source for better and more secure tools, accessible to all without license costs.
+  - title: Real
+    icon: heart
+    text: More than just dialogue — real participation and decision making.
+
+mission: "Digidem Lab is a non profit organisation, promoting digital tools for democratic
+  participation on all levels of society."
+
+services:
+  - Workshops
+  - Lectures
+  - Consulting
+  - Reviews
 
 ---
 
-<div class="container">
-  <section class="row" id="about">
-    <div class="col-md-8">
-      <p class="lead">{{site.title}} is a consultancy specialized in digital analytics and conversion optimization. We help our clients achieve increased revenue, lowered costs, and more satisfied users.</p>
-
-      <p class="lead">We do this by collecting relevant data and performing deep analysis so that our clients can make the right decisions.</p>
-
-      <!--
-      <p class="">We want to get to the story behind the numbers. Our goal is to reduce user frustration and increase your results.</p>
-      -->
+<header id="header">
+  <div class="container">
+    <div class="row ">
+      <div class="col-sm-12 text-center">
+		    <h1>{{site.title}}</h1>
+	      <p class="lead">{{site.description}}</p>
+      </div>
     </div>
-    <div class="col-md-4">
-      <h3 class="sr-only">What we do</h3>
-      <ul class="fa-ul lead">
-        <li><i class="fa-li fa fa-bolt"></i>Beställarstöd</li>
-        <li><i class="fa-li fa fa-bolt"></i>Analys</li>
-        <li><i class="fa-li fa fa-bolt"></i>Digital strategi</li>
-        <li><i class="fa-li fa fa-bolt"></i>Insamlingsstrategi</li>
-      </ul>
+	</div>
+</header>
 
+<section id="about">
+  <div class="container">
+    <h2 class="sr-only">About</h2>
+    <div class="row ">
+      <div class="col-sm-12 text-center">
+        <p class="lead">{{page.mission}}</p>
+          <ul class="lead list-inline">
+            {% for item in page.services %}
+              <li>
+                <i class=" fa fa-bolt"></i>&nbsp;
+                {{item}}
+              </li>
+            {% endfor %}
+          </ul>
+      </div>
     </div>
-  </section>
+  </div>
+</section>
 
-  <secton class="row" id="contact">
-    <div class="col-sm-6">
-      <p class="pull-left">
-        <img src="/assets/img/sara.jpg" class="img-circle avatar">
-      </p>
-      <h3>Sara Woodgate</h3>
-      <div class="clearfix"></div>
-      <p>Chocolate topping tootsie roll gummi bears. Sweet roll halvah gummi bears marshmallow candy canes gummies soufflé tiramisu. Liquorice cake topping tart marzipan cookie ice cream gummies topping. Caramels halvah dessert cotton candy tart candy marshmallow. Cheesecake chocolate bar biscuit jelly beans sweet powder gummi bears. </p>
-      <ul class="nav nav-pills">
-        <li><a href="#"><i class="fa fa-link"></i></a></li>
-        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-      </ul>
+<section id="services">
+  <div class="container">
+    <h2 class="sr-only">Services</h2>
+    <div class="row">
+      {% for item in page.about %}
+        <div class="col-sm-4 text-center">
+          <i class="fa fa-{{item.icon}} fa-5x"></i>
+          <h3>{{item.title}}</h3>
+          <p>{{item.text}}</p>
+        </div>
+      {% endfor %}
     </div>
-    <div class="col-sm-6">
-      <p class="pull-left">
-        <img src="/assets/img/petter.jpg" class="img-circle avatar">
-      </p>
-      <h3>Petter Joelson</h3>
-      <div class="clearfix"></div>
-      <p>Petter Joelson startade kommunikations- och webbyrån Rabash för åtta år sedan, och har genom den arbetat med webbstrategi och interaktionsdesign för en rad föreningar och NGO:s, bland andra Läkare Utan Gränser, Sveriges Kvinno- och Tjejjourer Unizon, Hörselskadades Riksförbund, Sverige för UNHCR och Djurens Rätt. </p>
-      <ul class="nav nav-pills">
-        <li><a href="#"><i class="fa fa-link"></i></a></li>
-        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-      </ul>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2>Get in touch</h2>
+      </div>
     </div>
-  </section>
-</div>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <form class="form-horizontal" action="https://formspree.io/contact@p-jo.se" method="POST">
+          <div class="form-group">
+            <label for="inputName" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">
+              <input type="text" name="name" class="form-control" id="inputName" placeholder="">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+              <input type="email" name="_replyto" class="form-control" id="inputEmail" placeholder="">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputMessage" class="col-sm-2 control-label">Message</label>
+            <div class="col-sm-10">
+              <textarea name="message" rows="5" class="form-control" id="inputMessage" placeholder=""></textarea>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+              <input type="submit" value="Send" class="btn btn-default">
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

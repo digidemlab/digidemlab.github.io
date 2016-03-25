@@ -2,32 +2,4 @@
 layout: default
 ---
 
-
-<nav class="navbar navbar-transparent">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <a class="navbar-brand" href="/">{{site.title}}</a>
-			<ul class="nav navbar-nav navbar-left">
-				<li><a href="https://medium.com/unicorn-blog">Blog</a></li>
-			</ul>
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="/contact/">Contact</a></li>
-			</ul>
-    </div>
-  </div><!-- /.container-fluid -->
-</nav>
-
-<main id="main">
-	<div class="container" id="headline">
-		<div class="row">
-			<div class="col-md-10 col-md-offset-1 text-center">
-				<h1>{{page.title}}</h1>
-				<p class="lead">{{page.description}}</p>
-			</div>
-		</div>
-	</div>
-
-  			{{content}}
-
-</main>
+{{content}}
