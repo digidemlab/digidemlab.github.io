@@ -1,0 +1,90 @@
+
+
+
+#header {
+  background-color: $poison-green;
+  color: #fff;
+  a {
+    color: #fff;
+  }
+}
+
+#services {
+  background-color: $deep-red;
+  color: #fff;
+}
+
+header,
+section {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+@media (min-width: $grid-float-breakpoint) {
+  header,
+  section {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    min-height: 50%;
+  }
+}
+
+
+h1, h2 {
+  text-transform: uppercase;
+}
+
+
+.form-control {
+  border-width: 0 0 4px 0;
+  @include box-shadow(none);
+  @include transition(border-color ease-in-out .15s, box-shadow ease-in-out .15s);
+
+  // Customize the `:focus` state to imitate native WebKit styles.
+  &:focus {
+    border-color: $text-color;
+    background: rgba(255, 255, 255, .25);
+    @include box-shadow(none);
+  }
+}
+
+label {
+  font-weight: normal;
+}
+
+.btn {
+  border-width: 4px;
+
+  &:hover,
+  &:focus,
+  &.focus {
+    background: rgba(255, 255, 255, .25);
+  }
+}
+
+
+h1, h2, h3, body {
+    @include transition(all 0.3s ease-in-out);
+
+//    @media (max-width: $screen-sm-min) {
+//    font-size: $font-size-small;
+//  }
+}
+
+
+@media (max-width: $screen-sm-min) {
+  h1 {
+    font-size: $font-size-h2;
+  }
+}
+
+body, html {
+  height: 100%;
+}
+
+/* body { padding-top: 70px; } */
+
+img {
+  width: 100%;
+  height: auto;
+}

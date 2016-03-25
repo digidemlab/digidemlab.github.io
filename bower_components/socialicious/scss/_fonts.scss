@@ -1,0 +1,259 @@
+@font-face {
+  font-family: "Socialicious";
+  src:url("../font/socialicious.eot");
+  src:url("../font/socialicious.eot?#iefix") format("embedded-opentype"),
+    url("../font/socialicious.ttf") format("truetype"),
+    url("../font/socialicious.svg#socialicious") format("svg"),
+    url("../font/socialicious.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+[data-icon]:before {
+  font-family: "Socialicious" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "Socialicious" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bebo:before {
+  content: "a";
+}
+.icon-bebo-sign:before {
+  content: "b";
+}
+.icon-behance:before {
+  content: "c";
+}
+.icon-behance-sign:before {
+  content: "d";
+}
+.icon-bread:before {
+  content: "e";
+}
+.icon-bread-sign:before {
+  content: "f";
+}
+.icon-digg:before {
+  content: "g";
+}
+.icon-digg-sign:before {
+  content: "h";
+}
+.icon-disqus:before {
+  content: "i";
+}
+.icon-disqus-sign:before {
+  content: "j";
+}
+.icon-dribbble:before {
+  content: "k";
+}
+.icon-dribbble-sign:before {
+  content: "l";
+}
+.icon-facebook:before {
+  content: "m";
+}
+.icon-facebook-sign:before {
+  content: "n";
+}
+.icon-flickr:before {
+  content: "o";
+}
+.icon-flickr-sign:before {
+  content: "p";
+}
+.icon-github:before {
+  content: "s";
+}
+.icon-github-sign:before {
+  content: "t";
+}
+.icon-goodreads:before {
+  content: "u";
+}
+.icon-goodreads-sign:before {
+  content: "v";
+}
+.icon-googleplus:before {
+  content: "w";
+}
+.icon-googleplus-sign:before {
+  content: "x";
+}
+.icon-instagram:before {
+  content: "y";
+}
+.icon-instagram-sign:before {
+  content: "z";
+}
+.icon-klout:before {
+  content: "A";
+}
+.icon-klout-sign:before {
+  content: "B";
+}
+.icon-lastfm:before {
+  content: "C";
+}
+.icon-lastfm-sign:before {
+  content: "D";
+}
+.icon-linkedin:before {
+  content: "E";
+}
+.icon-linkedin-sign:before {
+  content: "F";
+}
+.icon-pinterest:before {
+  content: "G";
+}
+.icon-pinterest-sign:before {
+  content: "H";
+}
+.icon-pocket:before {
+  content: "I";
+}
+.icon-pocket-sign:before {
+  content: "J";
+}
+.icon-quora:before {
+  content: "K";
+}
+.icon-quora-sign:before {
+  content: "L";
+}
+.icon-reddit:before {
+  content: "M";
+}
+.icon-reddit-sign:before {
+  content: "N";
+}
+.icon-soundcloud:before {
+  content: "O";
+}
+.icon-soundcloud-sign:before {
+  content: "P";
+}
+.icon-spotify:before {
+  content: "Q";
+}
+.icon-spotify-sign:before {
+  content: "R";
+}
+.icon-stumbleupon:before {
+  content: "S";
+}
+.icon-stumbleupon-sign:before {
+  content: "T";
+}
+.icon-techendo:before {
+  content: "U";
+}
+.icon-techendo-sign:before {
+  content: "V";
+}
+.icon-tumblr:before {
+  content: "W";
+}
+.icon-tumblr-sign:before {
+  content: "X";
+}
+.icon-twitter:before {
+  content: "Y";
+}
+.icon-twitter-sign:before {
+  content: "Z";
+}
+.icon-vevo:before {
+  content: "0";
+}
+.icon-vevo-sign:before {
+  content: "1";
+}
+.icon-vimeo:before {
+  content: "2";
+}
+.icon-vimeo-sign:before {
+  content: "3";
+}
+.icon-wordpress:before {
+  content: "4";
+}
+.icon-wordpress-sign:before {
+  content: "5";
+}
+.icon-yelp:before {
+  content: "8";
+}
+.icon-yelp-sign:before {
+  content: "9";
+}
+.icon-youtube:before {
+  content: "!";
+}
+.icon-youtube-sign:before {
+  content: "\"";
+}
+.icon-aboutme:before {
+  content: "#";
+}
+.icon-aboutme-sign:before {
+  content: "$";
+}
+.icon-angellist:before {
+  content: "%";
+}
+.icon-angellist-sign:before {
+  content: "&";
+}
+.icon-dropbox:before {
+  content: "'";
+}
+.icon-dropbox-sign:before {
+  content: "(";
+}
+.icon-meetup:before {
+  content: ")";
+}
+.icon-meetup-sign:before {
+  content: "*";
+}
+.icon-medium:before {
+  content: "+";
+}
+.icon-medium-sign:before {
+  content: ",";
+}
+.icon-foursquare:before {
+  content: "q";
+}
+.icon-foursquare-sign:before {
+  content: "r";
+}
+.icon-yahoo:before {
+  content: "6";
+}
+.icon-yahoo-sign:before {
+  content: "7";
+}

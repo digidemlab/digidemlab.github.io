@@ -1,0 +1,109 @@
+---
+layout: global
+id: front
+
+about:
+  - title: Functional
+    icon: wrench
+    text: "User friendly digital tools to address peoples' needs and desires."
+  - title: Open
+    icon: eye
+    text: Open source for better and more secure tools, accessible to all without license costs.
+  - title: Real
+    icon: heart
+    text: More than just dialogue — real participation and decision making.
+
+mission: "Digidem Lab is a non profit organisation, promoting digital tools for democratic
+  participation on all levels of society."
+
+services:
+  - Workshops
+  - Lectures
+  - Consulting
+  - Reviews
+
+---
+
+<header id="header">
+  <div class="container">
+    <div class="row ">
+      <div class="col-sm-12 text-center">
+		    <h1>{{site.title}}</h1>
+	      <p class="lead">{{site.description}}</p>
+      </div>
+    </div>
+	</div>
+</header>
+
+<section id="about">
+  <div class="container">
+    <h2 class="sr-only">About</h2>
+    <div class="row ">
+      <div class="col-sm-12 text-center">
+        <p class="lead">{{page.mission}}</p>
+          <ul class="lead list-inline">
+            {% for item in page.services %}
+              <li>
+                <i class=" fa fa-bolt"></i>&nbsp;
+                {{item}}
+              </li>
+            {% endfor %}
+          </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="services">
+  <div class="container">
+    <h2 class="sr-only">Services</h2>
+    <div class="row">
+      {% for item in page.about %}
+        <div class="col-sm-4 text-center">
+          <i class="fa fa-{{item.icon}} fa-5x"></i>
+          <h3>{{item.title}}</h3>
+          <p>{{item.text}}</p>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section id="contact">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <h2>Get in touch</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+        <form class="form-horizontal" action="https://formspree.io/contact@p-jo.se" method="POST">
+          <div class="form-group">
+            <label for="inputName" class="col-sm-2 control-label">Name</label>
+            <div class="col-sm-10">
+              <input type="text" name="name" class="form-control" id="inputName" placeholder="">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputEmail" class="col-sm-2 control-label">Email</label>
+            <div class="col-sm-10">
+              <input type="email" name="_replyto" class="form-control" id="inputEmail" placeholder="">
+            </div>
+          </div>
+          <div class="form-group">
+            <label for="inputMessage" class="col-sm-2 control-label">Message</label>
+            <div class="col-sm-10">
+              <textarea name="message" rows="5" class="form-control" id="inputMessage" placeholder=""></textarea>
+            </div>
+          </div>
+          <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-10">
+              <input type="submit" value="Send" class="btn btn-default">
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</section>

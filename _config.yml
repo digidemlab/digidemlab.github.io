@@ -1,0 +1,31 @@
+# Site settings
+title: Digidem Lab
+
+email: petter@p-jo.se
+description: "promoting digital tools for radical democracy"
+baseurl: ""
+author: "Digidem Lab"
+twitter_username: digidemlab
+github_username:  p-jo
+
+# Build settings
+markdown: kramdown
+# relative_permalinks: true
+permalink: pretty
+
+# Multilingual settings
+# See https://github.com/tristen/multilingual
+# permalink: /:categories/:title
+# languages:
+#   - name: 'English'
+#     key: 'en'
+#   - name: 'Español'
+#     key: 'es'
+
+# Prose settings
+# See https://github.com/prose/prose/wiki
+prose:
+  rooturl: '_posts'
+
+# Settings
+exclude:  [".sass-cache", "bower_components"]
