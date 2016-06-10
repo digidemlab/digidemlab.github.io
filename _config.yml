@@ -1,37 +1,27 @@
-# Site settings
+---
 title: Digidem Lab
-
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: petter@p-jo.se
-description: "promoting digital tools for radical democracy"
-baseurl: ""
-author: "Digidem Lab"
+description: promoting digital tools for radical democracy
+baseurl: ''
+author: Digidem Lab
 twitter_username: digidemlab
-github_username:  p-jo
-
-# Build settings
+github_username: p-jo
 markdown: kramdown
-# relative_permalinks: true
 permalink: pretty
-
-# Get JSON-files
 jekyll_get:
-  - data: projects
-    json: 'https://secure.are.na/v2/channels/digidem-tools-web'
-    cache: true
-
-# Multilingual settings
-# See https://github.com/tristen/multilingual
-# permalink: /:categories/:title
-# languages:
-#   - name: 'English'
-#     key: 'en'
-#   - name: 'Español'
-#     key: 'es'
-
-# Prose settings
-# See https://github.com/prose/prose/wiki
+- data: projects
+  json: https://secure.are.na/v2/channels/digidem-tools-web
+  cache: true
 prose:
-  rooturl: '_posts'
-
-# Settings
-exclude:  [".sass-cache", "bower_components"]
+  rooturl: _posts
+exclude:
+- ".sass-cache"
+- bower_components
