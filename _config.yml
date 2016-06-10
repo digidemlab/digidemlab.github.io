@@ -10,7 +10,7 @@ collections:
     output: true
 email: petter@p-jo.se
 description: promoting digital tools for radical democracy
-baseurl: ''
+baseurl: 
 author: Digidem Lab
 twitter_username: digidemlab
 github_username: p-jo
