@@ -1,0 +1,15 @@
+{
+  "name": "Gutenberg",
+  "homepage": "https://github.com/matejlatin/Gutenberg",
+  "version": "1.2.3",
+  "_release": "1.2.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.2.3",
+    "commit": "f3d35b72baea1e7c329b5fcb19a6dbc9f3901e4b"
+  },
+  "_source": "git://github.com/matejlatin/Gutenberg.git",
+  "_target": "^1.2.3",
+  "_originalSource": "matejlatin/Gutenberg",
+  "_direct": true
+}

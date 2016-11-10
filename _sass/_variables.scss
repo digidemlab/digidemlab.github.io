@@ -8,11 +8,11 @@ $bootstrap-sass-asset-helper: false !default;
 //
 //## Gray and brand colors for use across Bootstrap.
 
-$poison-green: #1FE73C;
-$chaos-blue: #2C0BD3;
-$text-green: #009456;
-$gray: #3D3D3D;
-$deep-red: #C80B43;
+$green: #75FF1F;
+$blue: #0425F3;
+$yellow: #FFFF00;
+$purple: #9A24F4;
+$magenta: #FF21F5;
 
 $gray-base:              #000 !default;
 $gray-darker:            lighten($gray-base, 13.5%) !default; // #222
@@ -35,31 +35,31 @@ $brand-danger:          #d9534f !default;
 //** Background color for `<body>`.
 $body-bg:               #fff !default;
 //** Global text color on `<body>`.
-$text-color:            #000 !default;
+$text-color:            $gray-dark !default;
 
 //** Global textual link color.
-$link-color:            $text-color !default; //p-jo
+$link-color:            $brand-primary !default;
 //** Link hover color set via `darken()` function.
-$link-hover-color:      lighten($link-color, 30%) !default;
+$link-hover-color:      darken($link-color, 15%) !default;
 //** Link hover decoration.
-$link-hover-decoration: none !default;
+$link-hover-decoration: underline !default;
 
 
 //== Typography
 //
 //## Font, line-height, and color for body text, headings, and more.
 
-$font-family-sans-serif:  bentonsanscondensed_black, "Helvetica Neue", Helvetica, Arial, sans-serif !default;
-$font-family-serif:       Times, "Times New Roman", serif !default; //p-jo
+$font-family-sans-serif:  'Noto Sans', sans-serif !default;
+$font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
-$font-family-base:        $font-family-sans-serif !default; //p-jo
+$font-family-base:        $font-family-sans-serif !default;
 
-$font-size-base:          24px !default;
+$font-size-base:          14px !default;
 $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
 $font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
 
-$font-size-h1:            floor(($font-size-base * 4.44)) !default; // ~68px
+$font-size-h1:            floor(($font-size-base * 2.6)) !default; // ~36px
 $font-size-h2:            floor(($font-size-base * 2.15)) !default; // ~30px
 $font-size-h3:            ceil(($font-size-base * 1.7)) !default; // ~24px
 $font-size-h4:            ceil(($font-size-base * 1.25)) !default; // ~18px
@@ -73,8 +73,8 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 
 //** By default, this inherits from the `<body>`.
 $headings-font-family:    inherit !default;
-$headings-font-weight:    normal !default;
-$headings-line-height:    1.2 !default;
+$headings-font-weight:    500 !default;
+$headings-line-height:    1.1 !default;
 $headings-color:          inherit !default;
 
 
@@ -113,9 +113,9 @@ $padding-xs-horizontal:     5px !default;
 $line-height-large:         1.3333333 !default; // extra decimals for Win 8.1 Chrome
 $line-height-small:         1.5 !default;
 
-$border-radius-base:        0 !default;
-$border-radius-large:       0 !default;
-$border-radius-small:       0 !default;
+$border-radius-base:        0px !default;
+$border-radius-large:       0px !default;
+$border-radius-small:       0px !default;
 
 //** Global color for active items (e.g., navs or dropdowns).
 $component-active-color:    #fff !default;
@@ -155,9 +155,9 @@ $table-border-color:            #ddd !default;
 
 $btn-font-weight:                normal !default;
 
-$btn-default-color:              $text-color !default;
-$btn-default-bg:                 transparent !default;
-$btn-default-border:             $text-color !default;
+$btn-default-color:              $gray-base !default;
+$btn-default-bg:                 #fff !default;
+$btn-default-border:             $gray-base !default;
 
 $btn-primary-color:              #fff !default;
 $btn-primary-bg:                 $brand-primary !default;
@@ -187,26 +187,26 @@ $btn-link-disabled-color:        $gray-light !default;
 //##
 
 //** `<input>` background color
-$input-bg:                       transparent !default;
+$input-bg:                       #fff !default;
 //** `<input disabled>` background color
 $input-bg-disabled:              $gray-lighter !default;
 
 //** Text color for `<input>`s
-$input-color:                    $text-color !default;
+$input-color:                    $gray !default;
 //** `<input>` border color
-$input-border:                   $text-color !default;
+$input-border:                   $gray-base !default;
 
 // TODO: Rename `$input-border-radius` to `$input-border-radius-base` in v4
 //** Default `.form-control` border radius
 // This has no effect on `<select>`s in some browsers, due to the limited stylability of `<select>`s in CSS.
-$input-border-radius:            none !default;
+$input-border-radius:            $border-radius-base !default;
 //** Large `.form-control` border radius
-$input-border-radius-large:      none !default;
+$input-border-radius-large:      $border-radius-large !default;
 //** Small `.form-control` border radius
-$input-border-radius-small:      none !default;
+$input-border-radius-small:      $border-radius-small !default;
 
 //** Border color for inputs on focus
-$input-border-focus:             #66afe9 !default;
+$input-border-focus:             $magenta !default;
 
 //** Placeholder text color
 $input-color-placeholder:        #999 !default;
@@ -367,7 +367,7 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             #777 !default;
-$navbar-default-bg:                #fff !default;
+$navbar-default-bg:                #f8f8f8 !default;
 $navbar-default-border:            darken($navbar-default-bg, 6.5%) !default;
 
 // Navbar links
@@ -422,7 +422,7 @@ $navbar-inverse-toggle-border-color:        #333 !default;
 
 //=== Shared nav styles
 $nav-link-padding:                          10px 15px !default;
-$nav-link-hover-bg:                         transparent !default;
+$nav-link-hover-bg:                         $gray-lighter !default;
 
 $nav-disabled-link-color:                   $gray-light !default;
 $nav-disabled-link-hover-color:             $gray-light !default;
