@@ -35,7 +35,7 @@ h1, h2 {
 
 
 .form-control {
-  border-width: 0 0 4px 0;
+  border-width: 0 0 2px 0;
   @include box-shadow(none);
   @include transition(border-color ease-in-out .15s, box-shadow ease-in-out .15s);
 
@@ -52,7 +52,7 @@ label {
 }
 
 .btn {
-  border-width: 4px;
+  border-width: 2px;
 
   &:hover,
   &:focus,
@@ -61,16 +61,8 @@ label {
   }
 }
 
-
 h1, h2, h3, body {
     @include transition(all 0.3s ease-in-out);
-}
-
-
-@media (max-width: $screen-sm-min) {
-  h1 {
-    font-size: $font-size-h2;
-  }
 }
 
 body, html {
