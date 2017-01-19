@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: Digidem Lab
 timezone: UTC
@@ -10,7 +11,8 @@ collections:
     output: true
 email: petter@p-jo.se
 description: promoting digital tools for radical democracy
-baseurl:
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 author: Digidem Lab
 twitter_username: digidemlab
 github_username: p-jo
@@ -25,3 +27,9 @@ prose:
 exclude:
 - ".sass-cache"
 - bower_components
+
+# Build settings
+theme: minima
+gems: [bootstrap, autoprefixer-rails, jekyll-assets]
+sass:
+    sass_dir: _sass
