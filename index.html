@@ -1,23 +1,189 @@
 ---
-layout: default
+layout: global
+title: Framtidens demokrati i dina händer
 ---
 
-<div class="home">
+<nav class="navbar navbar-toggleable-md fixed-top navbar-light" style="background-color:#fff;">
+  <div class="container">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="#"><img src="assets/images/DL_logotyp_frame_black.svg" width="286" height="80"></a>
 
-  <h1 class="page-heading">Posts</h1>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <ul class="navbar-nav">
+        <li class="nav-item px-3">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item px-3">
+          <a class="nav-link" href="#">Projects</a>
+        </li>
+        <li class="nav-item px-3">
+          <a class="nav-link" href="#">Blog</a>
+        </li>
+        <li class="nav-item px-3">
+          <a class="nav-link" href="#">Contact</a>
+        </li>
+      </ul>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+      <ul class="navbar-nav ml-5">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">SV</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">EN</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="container my-5">
 
+  <div class="row">
+    <div class="col">
+      <h1 class="display-2">{{page.title}}</h1>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-8">
+      <p class="lead">{{site.description}}</p>
+    </div>
+  </div>
+
+  <div class="d-flex flex-row">
+    <div class="p-2"><a class="" href="#"><strong>Ansök till Digidem Open Lab</strong></a></div>
+    <div class="p-2"><a class="" href="#">Vadå demokrati?</a></div>
+    <div class="p-2"><a class="" href="#">Vilka verktyg pratar ni om?</a></div>
+  </div>
 </div>
+
+<div class="container-fluid">
+  <div class="row"
+    <div class="col">
+      <img class="img-fluid" data-src="holder.js/200x90?auto=true&text=Bild">
+    </div>
+  </div>
+</div>
+
+<div class="container my-5">
+  <div class="row my-5">
+    <div class="col">
+
+      <h2 class="display-4">Digidem Open Lab</h2>
+      <p class="lead">Ansök med ditt projekt idag och bli en del av vårt team osv...</p>
+
+      <div class="row">
+        <div class="col-md-8">
+          <p>Är du 18 till 25 år och vill undersöka, utveckla eller testa deltagande demokrati? Digidem Open Lab erbjuder ett utrymme för aktivister, designers och kodare andra att undersöka, utveckla och praktisera processer för deltagande demokrati. </p>
+          <p>Sök med din projektidé, eller haka på ett projekt som redan finns. Du får tio procents tjänst av 26 000 i tre månader, med träffar varje torsdagkväll i våra lokaler i Göteborg med tid för arbete i grupp eller själv.</p>
+          <div class="media">
+            <img class="d-flex mr-3 rounded-circle" data-src="holder.js/90x90?text=Arvsfonden">
+            <img class="d-flex mr-3 rounded-circle" data-src="holder.js/90x90?text=ABF">
+            <div class="media-body">
+              <p><small>Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna, LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.</small></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="d-flex flex-column">
+            <div class="p-2"><a class="" href="#"><strong>Ansök med ditt projekt</strong></a></div>
+            <div class="p-2"><a class="" href="#">Så funkar Digidem Open Lab</a></div>
+            <div class="p-2"><a class="" href="#"><i class="fa fa-paperclip fa-fw" aria-hidden="true"></i> Whitepaper: Digidem Open Lab</a></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="row mb-5">
+    <div class="col">
+
+      <h2 class="display-4">Digidem Guide</h2>
+      <p class="lead">Praktiska verktyg för att samverka och ta bättre beslut</p>
+
+      <div class="row">
+        <div class="col-md-8">
+          <p>Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi presenterar de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt metod för dina behov.</p>
+          <div class="media">
+            <img class="d-flex mr-3 rounded-circle" data-src="holder.js/90x90?text=Medialab Prado">
+            <img class="d-flex mr-3 rounded-circle" data-src="holder.js/90x90?text=Participa LAB">
+            <div class="media-body">
+              <p><small>Digidem Guide utvecklades av ett internationellt team av designers, forskare och kommunikationsexperter under en två veckors workshop med Participa LAB på Medialab Prado, Madrid.</small></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="d-flex flex-column">
+            <div class="p-2"><a class="" href="http://digidemguide.org"><mark><i class="fa fa-external-link" aria-hidden="true"></i> Digidem Guide</mark></a></div>
+            <div class="p-2"><a href="https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e">Designing a guiding app for digital democracy</a></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <hr>
+
+
+
+  <div class="row">
+    <div class="col-md-8">
+
+      <h2>Kontakt och bokning</h2>
+      <p>Digidem Lab är en ideell organisation som arbetar med att främja deltagande demokrati på alla nivåer i samhället genom att sprida kunskap om digitala verktyg för beslutsfattande och ekonomisk transparens. Vi hjälper gärna er organisation, kommun eller parti att hitta nya sätt att engagera och skapa processer för deltagande. Kontakta oss för att boka in en föreläsning, workshop eller konsultation.</p>
+
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col">
+
+      <div class="media">
+        <img class="d-flex mr-3" data-src="holder.js/120x120?auto=yes&text=Petter Joelson" alt="Petter Joelson">
+        <div class="media-body">
+          <h5 class="mt-0">Petter Joelson</h5>
+          <h6>Project coordinator & Product developer</h6>
+          <p class="card-text">Guidar progressiva organisationer i den digitala världen. Har tidigare startat kommunikationsbyrån Rabash, är freds- och miljöaktivist sedan tonåren och byggde en gång en modell av en kärnvapenmissil i naturlig storlek av sopsäckar, tejp och en datorfläkt.</p>
+          <div>+46 70 867 42 44</div>
+          <div>petter@digidemlab.org</div>
+          <div>@p_jo</div>
+        </div>
+      </div>
+
+    </div>
+    <div class="col">
+
+      <div class="media">
+        <img class="d-flex mr-3" data-src="holder.js/120x120?auto=yes&text=Anna Sanne Göransson" alt="Anna Sanne Göransson">
+        <div class="media-body">
+          <h5 class="mt-0">Anna Sanne Göransson</h5>
+          <h6>Project coordinator & Community manager</h6>
+          <p class="card-text">Community organiser med särskild inriktning på film och digitala medier för att skapa deltagande och empowerment. Har tidigare arbetat på filmstudio i Ouagadougou, som ungdomsledare i Cali och fredsobservatör i Chiapas.</p>
+          <div>+46 76 242 28 24</div>
+          <div>anna@digidemlab.org</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <footer id="footer" class="mt-5">
+    <div class="d-flex justify-content-center">
+      <div class="p-4"><a href="#"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a></div>
+      <div class="p-4"><a href="#"><i class="fa fa-instagram fa-3x" aria-hidden="true"></i></a></div>
+      <div class="p-4"><a href="#"><i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i></a></div>
+      <div class="p-4"><a href="#"><i class="fa fa-github fa-3x" aria-hidden="true"></i></a></div>
+    </div>
+
+    <div class="row">
+      <div class="col text-center">
+        <p><small>Registered in Sweden as Non-Profit 802500-2638</small></p>
+      </div>
+    </div>
+  </footer>
+
+</div> <!-- /container -->
