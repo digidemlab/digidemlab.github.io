@@ -2,6 +2,9 @@
 title: Digidem Lab v2
 timezone: UTC
 collections:
+  crew:
+    title: Crew
+    output: true
   posts:
     title: Posts
     output: true
