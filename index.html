@@ -3,65 +3,100 @@ layout: global
 title: Framtidens demokrati i dina händer
 ---
 
-<div class="container my-5">
+<header class="site-header bg-success" role="banner">
 
-  <div class="row">
-    <div class="col">
-      <h1 class="display-2">{{page.title}}</h1>
+  {% include panels/navbar.html %}
+
+  <div class="container header">
+    <div class="row">
+      <div class="col-lg-10 offset-lg-1 text-center">
+        <img src="assets/images/header.png" class="w-40" alt="">
+        <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{page.title}}</span></h1>
+      </div>
     </div>
   </div>
+</header>
 
-  <div class="row">
-    <div class="col-md-8">
-      <p class="lead">{{site.description}}</p>
+<section>
+  <div class="container mt-3 pt-3 pb-4">
+    <div class="row mb-4">
+      <div class="col-md-7 offset-md-5">
+        <p class="lead text-primary px-4">{{site.description}}</p>
+      </div>
     </div>
-  </div>
+    <nav class="nav flex-column flex-sm-row mb-1">
+      <a class="flex-sm-fill nav-link pl-3 pr-5 py-0 icon-arrow" href="{{full_base_url}}/about">Vadå demokrati?</a>
+      <a class="flex-sm-fill nav-link pl-3 py-0 icon-arrow" href="{{full_base_url}}/projects/digidem-guide">Vilka verktyg pratar ni om?</a>
+    </nav>
 
-  <div class="d-flex flex-row mb-5">
-    <div class="p-2"><a class="" href="{{full_base_url}}/about">Vadå demokrati?</a></div>
-    <div class="p-2"><a class="" href="{{full_base_url}}/projects/digidem-guide">Vilka verktyg pratar ni om?</a></div>
-  </div>
 
-  <div class="row">
-    <div class="col">
-      <div class="card">
+    <div class="row">
+      <div class="col">
+        <div class="card">
 
-        <div class="card-block">
-          <h5 class="card-title"><a class="" href="{{full_base_url}}/projects/digidem-open-lab">Sök till Digidem Open Lab i Göteborg</a></h5>
-          <p class="card-text">Är mellan 18 och 25 år och vill undersöka, utveckla eller testa deltagande demokrati? Sök med ditt projekt och få betalda arbetsmöten och handledning en gång i veckan i tre måndader!</p>
+          <div class="card-block">
+            <h2 class="card-title"><a class="icon-arrow-blue pl-3" href="{{full_base_url}}/projects/digidem-open-lab">Sök till Digidem Open Lab i Göteborg</a></h2>
+            <p class="card-text text-primary">Är mellan 18 och 25 år och vill undersöka, utveckla eller testa deltagande demokrati? Sök med ditt projekt och få betalda arbetsmöten och handledning en gång i veckan i tre måndader!</p>
+          </div>
         </div>
       </div>
     </div>
   </div>
-</div>
+</section>
 
-<div class="container-fluid">
-  <div class="row"
+
+<section class="container-fluid px-0">
+  <div class="row no-gutters">
     <div class="col">
-      <img class="img-fluid" data-src="holder.js/200x90?auto=yes&text=Bild" style="width:100%">
+      <div class="card border-0">
+        <img class="card-img" src="assets/images/start1.png" alt="">
+        <div class="card-img-overlay">
+          <h3 class="card-header border-0">
+            <a href="" class="bg-primary text-success text-uppercase px-2 py-1">Instagram</a>
+          </h3>
+        </div>
+      </div>
+      <div class="card border-0">
+        <img class="card-img" src="assets/images/start3.png" alt="">
+        <div class="card-img-overlay">
+          <h3 class="card-header border-0">
+            <a class="bg-danger text-warning text-uppercase px-2 py-1">Blogg</a>
+          </h3>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card border-0">
+        <img class="card-img" src="assets/images/start2.png" alt="">
+        <div class="card-img-overlay">
+          <h3 class="card-header border-0">
+            <a class="bg-success text-info text-uppercase px-2 py-1">Projekt</a>
+          </h3>
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</section>
 
-<section id="projects" class="container my-5">
+<section id="projects">
 
   {% include panels/projects.html %}
 
 </section>
 
-<hr>
-
-<section id="contact" class="container my-5">
+<section id="contact" class="bg-info">
+  <div class="container py-5">
 
   <div class="row">
-    <div class="col">
+    <div class="col text-center">
 
-      <h2 class="display-4">Kontakt och bokning</h2>
-      <p class="lead">Digidem Lab är en ideell organisation som arbetar med att främja deltagande demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun eller parti att hitta nya sätt att engagera och skapa processer för deltagande.</p>
+      <h2 class="display-4 text-white">Kontakt och bokning</h2>
+      <p class="text-white">Digidem Lab är en ideell organisation som arbetar med att främja deltagande demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun eller parti att hitta nya sätt att engagera och skapa processer för deltagande.</p>
 
     </div>
   </div>
 
   {% include panels/team-compact.html %}
 
-</section> <!-- /container -->
+  </div>
+</section> <!-- /contact -->

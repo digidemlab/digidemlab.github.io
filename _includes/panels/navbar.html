@@ -1,0 +1,39 @@
+
+{% assign custom_url = site.url | append: site.baseurl %}
+{% assign full_base_url = custom_url %}
+
+<nav class="navbar navbar-toggleable-md navbar-light pt-2 pb-0">
+  <div class="container">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="{{full_base_url}}/"><img src="{{full_base_url}}/assets/images/logotyp.svg" width="300" height="84"></a>
+
+    <div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
+
+      <ul class="navbar-nav nav-menu-main">
+        <li class="nav-item">
+          <a class="nav-link px-2 py-0" href="{{full_base_url}}/about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link px-2 py-0" href="{{full_base_url}}/projects">Projects</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link px-2 py-0" href="{{full_base_url}}/contact">Contact</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link px-2 py-0" href="https://medium.com/digidemlab">Blog</a>
+        </li>
+      </ul>
+
+      <ul class="navbar-nav nav-menu-secondary ml-4">
+        <li class="nav-item active">
+          <a class="nav-link py-0" href="#">SV</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link py-0 pr-0" href="#">EN</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
