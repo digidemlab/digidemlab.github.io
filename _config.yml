@@ -1,16 +1,21 @@
-title: Digidem Lab
+---
+title: Digidem Lab v2
 timezone: UTC
 collections:
   posts:
     title: Posts
     output: true
+  project:
+    title: Project
+    output: true
   uploads:
     title: Uploads
     output: true
 email: petter@p-jo.se
-description: Digidem Lab skapar framtidens processer för demokratiskt deltagande. Vi sätter nya verktyg för kollektiv intelligens i dina händer.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+description: Digidem Lab skapar framtidens processer för demokratiskt deltagande.
+  Vi sätter nya verktyg för kollektiv intelligens i dina händer.
+baseurl: 
+url: 
 author: Digidem Lab
 twitter_username: digidemlab
 github_username: p-jo
@@ -18,8 +23,6 @@ markdown: kramdown
 exclude:
 - ".sass-cache"
 - bower_components
-
-# Build settings
 theme: minima
 sass:
-    sass_dir: _sass
+  sass_dir: _sass

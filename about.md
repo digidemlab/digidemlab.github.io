@@ -1,7 +1,9 @@
 ---
-layout: page
 title: About Digidem Lab
-ingress: Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus.
+layout: page
+ingress: Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean
+  eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id
+  elit non mi porta gravida at eget metus.
 ---
 
 ## Underrubrik
