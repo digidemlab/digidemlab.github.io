@@ -268,8 +268,8 @@ $btn-padding-x:                  1.5rem !default;
 $btn-padding-y:                  1.5rem !default;
 
 $btn-box-shadow:                 8px 8px 0 0  $blue !default;
-$btn-focus-box-shadow:           0 0 8px 8px  $blue !default;
-$btn-active-box-shadow:          0 0 8px 8px  $blue !default;
+$btn-focus-box-shadow:           8px 8px 0 0  $blue !default;
+$btn-active-box-shadow:          8px 8px 0 0  $blue !default;
 
 $btn-primary-color:              $brand-primary !default;
 $btn-primary-bg:                 $white !default;
@@ -306,6 +306,16 @@ $btn-primary-border:             $btn-primary-color !default;
 
 .small {
   color: $gray-dark;
+}
+
+.content h2 {
+  float: left;
+  width: 18.25rem;
+  text-transform: uppercase;
+}
+.content p {
+  margin-left: 20.3125rem;
+  margin-bottom: 10rem;
 }
 
 // Navigation
