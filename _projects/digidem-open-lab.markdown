@@ -15,7 +15,7 @@ partner-links:
 ---
 
 ## Yep
-Sök med din projektidé, eller haka på ett projekt som redan finns. Du får tio procents tjänst av 26 000 i tre månader, med träffar varje torsdagkväll i våra lokaler i Göteborg med tid för arbete i grupp eller själv.
+Sök med din projektidé, eller haka på ett projekt som redan finns. Du får tio procents tjänst av 26 000 i tre månader, med träffar varje torsdagkväll i våra lokaler i Göteborg med tid för arbete :+1: i grupp eller själv.
 
 > Du får tio procents tjänst av 26 000 i tre månader, med träffar varje torsdagkväll i våra lokaler i Göteborg med tid för arbete i grupp eller själv.
 
