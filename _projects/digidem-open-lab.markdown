@@ -9,9 +9,9 @@ partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och
   LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
 partner-links:
 - name: ABF
-  logo: logotyp-abf.png
+  logo: "/uploads/logotyp-abf.png"
 - name: Allmänna Arvsfonden
-  logo: logotyp-arvsfonden.png
+  logo: "/uploads/logotyp-arvsfonden.png"
 ---
 
 ## Yep
