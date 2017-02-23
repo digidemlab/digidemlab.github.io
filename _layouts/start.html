@@ -1,5 +1,4 @@
 ---
-title: Framtidens demokrati i dina händer
 layout: default
 ---
 
@@ -10,7 +9,7 @@ layout: default
   <div class="container header">
     <div class="row">
       <div class="col-lg-10 offset-lg-1 text-center">
-        <img src="assets/images/header.png" class="w-40" alt="">
+        <img src="{{page.header-image}}" class="w-40" alt="">
         <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{page.title}}</span></h1>
       </div>
     </div>
@@ -25,8 +24,9 @@ layout: default
       </div>
     </div>
     <nav class="nav flex-column flex-sm-row mb-1">
-      <a class="flex-sm-fill nav-link pl-3 pr-5 py-0 icon-arrow" href="{{full_base_url}}/about">Vadå demokrati?</a>
-      <a class="flex-sm-fill nav-link pl-3 py-0 icon-arrow" href="{{full_base_url}}/projects/digidem-guide">Vilka verktyg pratar ni om?</a>
+      {% for item in page.links %}
+        <a class="flex-sm-fill nav-link pl-3 pr-5 py-0 icon-arrow" href="{{item.link}}">{{item.title}}</a>
+      {% endfor %}
     </nav>
 
 
@@ -35,8 +35,8 @@ layout: default
         <div class="card">
 
           <div class="card-block">
-            <h2 class="card-title"><a class="icon-arrow-blue pl-3" href="{{full_base_url}}/projects/digidem-open-lab">Sök till Digidem Open Lab i Göteborg</a></h2>
-            <p class="card-text text-primary">Är mellan 18 och 25 år och vill undersöka, utveckla eller testa deltagande demokrati? Sök med ditt projekt och få betalda arbetsmöten och handledning en gång i veckan i tre måndader!</p>
+            <h2 class="card-title"><a class="icon-arrow-blue pl-3" href="{{page.news-flash[0].link}}">{{page.news-flash[0].title}}</a></h2>
+            <p class="card-text text-primary">{{page.news-flash[0].content}}</p>
           </div>
         </div>
       </div>
@@ -49,28 +49,28 @@ layout: default
   <div class="row no-gutters">
     <div class="col">
       <div class="card border-0">
-        <img class="card-img" src="assets/images/start1.png" alt="">
+        <img class="card-img" src="{{page.banners[0].image}}" alt="">
         <div class="card-img-overlay">
           <h3 class="card-header border-0">
-            <a href="" class="bg-primary text-success text-uppercase px-2 py-1">Instagram</a>
+            <a href="{{page.banners[0].link}}" class="bg-primary text-success text-uppercase px-2 py-1">{{page.banners[0].title}}</a>
           </h3>
         </div>
       </div>
       <div class="card border-0">
-        <img class="card-img" src="assets/images/start3.png" alt="">
+        <img class="card-img" src="{{page.banners[1].image}}" alt="">
         <div class="card-img-overlay">
           <h3 class="card-header border-0">
-            <a class="bg-danger text-warning text-uppercase px-2 py-1">Blogg</a>
+            <a href="{{page.banners[1].link}}" class="bg-danger text-warning text-uppercase px-2 py-1">{{page.banners[1].title}}</a>
           </h3>
         </div>
       </div>
     </div>
     <div class="col">
       <div class="card border-0">
-        <img class="card-img" src="assets/images/start2.png" alt="">
+        <img class="card-img" src="{{page.banners[2].image}}" alt="">
         <div class="card-img-overlay">
           <h3 class="card-header border-0">
-            <a class="bg-success text-info text-uppercase px-2 py-1">Projekt</a>
+            <a href="{{page.banners[2].link}}" class="bg-success text-info text-uppercase px-2 py-1">{{page.banners[2].title}}</a>
           </h3>
         </div>
       </div>
@@ -90,8 +90,8 @@ layout: default
   <div class="row">
     <div class="col text-center">
 
-      <h2 class="display-2 text-white">Kontakt och bokning</h2>
-      <p class="text-white">Digidem Lab är en ideell organisation som arbetar med att främja deltagande demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun eller parti att hitta nya sätt att engagera och skapa processer för deltagande.</p>
+      <h2 class="display-2 text-white">{{page.contact-title}}</h2>
+      <p class="text-white">{{page.contact-text}}</p>
 
     </div>
   </div>
