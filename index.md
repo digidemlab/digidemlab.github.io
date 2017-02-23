@@ -9,7 +9,7 @@ links:
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- title: Sök till Digidem Open Lab i Göteborg
+- title: 'Sök till Digidem Open Lab i Göteborg :+1:'
   content: Är mellan 18 och 25 år och vill undersöka, utveckla eller testa deltagande
     demokrati? Sök med ditt projekt och få betalda arbetsmöten och handledning en
     gång i veckan i tre måndader!
@@ -32,4 +32,3 @@ contact-text: Digidem Lab är en ideell organisation som arbetar med att främja
   demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun eller
   parti att hitta nya sätt att engagera och skapa processer för deltagande.
 ---
-
