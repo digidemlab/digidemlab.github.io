@@ -17,6 +17,8 @@ partner-links:
 ## Yep
 Sök med din projektidé, eller haka på ett projekt som redan finns. Du får tio procents tjänst av 26 000 i tre månader, med träffar varje torsdagkväll i våra lokaler i Göteborg med tid för arbete i grupp eller själv.
 
+> Du får tio procents tjänst av 26 000 i tre månader, med träffar varje torsdagkväll i våra lokaler i Göteborg med tid för arbete i grupp eller själv.
+
 ## For sure
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
