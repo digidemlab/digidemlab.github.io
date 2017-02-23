@@ -6,7 +6,7 @@ partner-text: Digidem Guide utvecklades av ett internationellt team av designers
   LAB på Medialab Prado, Madrid.
 partner-links:
 - name: Participa LAB
-  logo: logotyp-medialab.jpg
+  logo: "/uploads/logotyp-medialab.jpg"
 ---
 
 ## Varför
