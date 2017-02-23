@@ -1,14 +1,17 @@
 ---
-layout: page
 title: Digidem Open Lab
-ingress: Är du 18 till 25 år och vill undersöka, utveckla eller testa deltagande demokrati? Digidem Open Lab erbjuder ett utrymme för aktivister, designers och kodare andra att undersöka, utveckla och praktisera processer för deltagande demokrati.
-partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna, LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
+layout: page
+ingress: Är du 18 till 25 år och vill undersöka, utveckla eller testa deltagande demokrati?
+  Digidem Open Lab erbjuder ett utrymme för aktivister, designers och kodare andra
+  att undersöka, utveckla och praktisera processer för deltagande demokrati.
+partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF
+  Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna,
+  LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
 partner-links:
-  - name: ABF
-    logo: logotyp-abf.png
-  - name: Allmänna Arvsfonden
-    logo: logotyp-arvsfonden.png
-
+- name: ABF
+  logo: logotyp-abf.png
+- name: Allmänna Arvsfonden
+  logo: logotyp-arvsfonden.png
 ---
 
 ## Yep
