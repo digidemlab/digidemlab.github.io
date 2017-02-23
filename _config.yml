@@ -5,8 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
-  project:
-    title: Project
+  projects:
+    title: Projects
     output: true
   uploads:
     title: Uploads
