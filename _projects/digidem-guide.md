@@ -1,6 +1,5 @@
 ---
 title: Digidem Guide
-layout: page
 ingress: Praktiska verktyg för att samverka och ta bättre beslut.
 partner-text: Digidem Guide utvecklades av ett internationellt team av designers,
   forskare och kommunikationsexperter under en två veckors workshop med Participa
