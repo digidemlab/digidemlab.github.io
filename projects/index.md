@@ -1,5 +1,6 @@
 ---
 title: Aktuella projekt
+position: 2
 layout: view
 ---
 

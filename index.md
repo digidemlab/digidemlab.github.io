@@ -1,5 +1,6 @@
 ---
 title: Framtidens demokrati i dina händer
+position: 0
 layout: start
 header-image: "/uploads/header.png"
 links:
