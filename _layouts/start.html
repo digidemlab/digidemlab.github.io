@@ -9,7 +9,7 @@ layout: default
   <div class="container header">
     <div class="row">
       <div class="col-lg-10 offset-lg-1 text-center">
-        <img src="{{page.header-image}}" class="w-40" alt="">
+        <img src="{{site.baseurl}}{{page.header-image}}" class="w-40" alt="">
         <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{page.title}}</span></h1>
       </div>
     </div>
@@ -25,7 +25,7 @@ layout: default
     </div>
     <nav class="nav flex-column flex-sm-row mb-1">
       {% for item in page.links %}
-        <a class="flex-sm-fill nav-link pl-3 pr-5 py-0 icon-arrow" href="{{item.link}}">{{item.title}}</a>
+        <a class="flex-sm-fill nav-link pl-3 pr-5 py-0 icon-arrow" href="{{site.baseurl}}{{item.link}}">{{item.title}}</a>
       {% endfor %}
     </nav>
 
@@ -35,7 +35,7 @@ layout: default
         <div class="card">
 
           <div class="card-block">
-            <h2 class="card-title"><a class="icon-arrow-blue pl-3" href="{{page.news-flash[0].link}}">{{page.news-flash[0].title}}</a></h2>
+            <h2 class="card-title"><a class="icon-arrow-blue pl-3" href="{{site.baseurl}}{{page.news-flash[0].link}}">{{page.news-flash[0].title}}</a></h2>
             <p class="card-text text-primary">{{page.news-flash[0].content}}</p>
           </div>
         </div>
@@ -49,28 +49,28 @@ layout: default
   <div class="row no-gutters">
     <div class="col-6">
       <div class="card border-0">
-        <img class="card-img" src="{{page.banners[0].image}}" alt="">
+        <img class="card-img" src="{{site.baseurl}}{{page.banners[0].image}}" alt="">
         <div class="card-img-overlay">
           <h3 class="card-header border-0">
-            <a href="{{page.banners[0].link}}" class="bg-primary text-success text-uppercase px-2 py-1">{{page.banners[0].title}}</a>
+            <a href="{{site.baseurl}}{{page.banners[0].link}}" class="bg-primary text-success text-uppercase px-2 py-1">{{page.banners[0].title}}</a>
           </h3>
         </div>
       </div>
       <div class="card border-0">
-        <img class="card-img" src="{{page.banners[1].image}}" alt="">
+        <img class="card-img" src="{{site.baseurl}}{{page.banners[1].image}}" alt="">
         <div class="card-img-overlay">
           <h3 class="card-header border-0">
-            <a href="{{page.banners[1].link}}" class="bg-danger text-warning text-uppercase px-2 py-1">{{page.banners[1].title}}</a>
+            <a href="{{site.baseurl}}{{page.banners[1].link}}" class="bg-danger text-warning text-uppercase px-2 py-1">{{page.banners[1].title}}</a>
           </h3>
         </div>
       </div>
     </div>
     <div class="col-6">
       <div class="card border-0">
-        <img class="card-img" src="{{page.banners[2].image}}" alt="">
+        <img class="card-img" src="{{site.baseurl}}{{page.banners[2].image}}" alt="">
         <div class="card-img-overlay">
           <h3 class="card-header border-0">
-            <a href="{{page.banners[2].link}}" class="bg-success text-info text-uppercase px-2 py-1">{{page.banners[2].title}}</a>
+            <a href="{{site.baseurl}}{{page.banners[2].link}}" class="bg-success text-info text-uppercase px-2 py-1">{{page.banners[2].title}}</a>
           </h3>
         </div>
       </div>
@@ -100,7 +100,7 @@ layout: default
     {% for item in site.crew %}
       <div class="col">
         <div class="media">
-          <img class="d-flex mr-3" src="{{item.image}}" alt="{{item.title}}">
+          <img class="d-flex mr-3" src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
           <div class="media-body">
             <h5 class="mt-0">{{item.title}}</h5>
             <h6>{{item.job}}</h6>
