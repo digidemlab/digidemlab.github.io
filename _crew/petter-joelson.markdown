@@ -1,7 +1,7 @@
 ---
 title: Petter Joelson
 date: 2017-02-23 18:08:00 Z
-image: ''
+image: "/uploads/petter.png"
 job: Project coordinator & Product developer
 presentation: Guidar progressiva organisationer i den digitala världen. Har tidigare
   startat kommunikationsbyrån Rabash, är freds- och miljöaktivist sedan tonåren och
