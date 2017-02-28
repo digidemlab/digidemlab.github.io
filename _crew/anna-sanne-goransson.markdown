@@ -1,7 +1,7 @@
 ---
 title: Anna Sanne Göransson
 date: 2017-02-23 18:08:00 Z
-image: ''
+image: "/uploads/anna.png"
 job: Project coordinator & Community manager
 presentation: Community organiser med särskild inriktning på film och digitala medier
   för att skapa deltagande och empowerment. Har tidigare arbetat på filmstudio i Ouagadougou,
