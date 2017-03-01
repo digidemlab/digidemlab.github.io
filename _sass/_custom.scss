@@ -156,6 +156,10 @@ $spacers: (
   5: (
     x: ($spacer-x * 5),
     y: ($spacer-y * 8)
+  ),
+  6: (
+    x: ($spacer-x * 9),
+    y: ($spacer-y * 10)
   )
 ) !default;
 $border-width: 8px !default;
@@ -242,6 +246,9 @@ $lead-font-weight: $headings-font-weight !default;
 $text-muted: $gray-dark !default;
 $small-font-size: 1rem !default;
 
+$blockquote-small-color:  $black !default;
+$blockquote-font-size:    ($font-size-base * 1.25) !default;
+$blockquote-border-width: 0 !default;
 
 // Cards
 
@@ -304,6 +311,9 @@ $btn-primary-border:             $btn-primary-color !default;
   margin-bottom: 1.5rem;
 }
 
+
+// Content
+
 .content h2 {
   float: left;
   width: 18.25rem;
@@ -314,27 +324,19 @@ $btn-primary-border:             $btn-primary-color !default;
   margin-bottom: 10rem;
 }
 
-.content blockquote {
-  margin: 17rem 1rem 17rem 31rem;
+blockquote {
   font-family: $headings-font-family;
-  text-align: center;
   line-height: 1.83;
-  font-size: 1.875rem;
+  position: relative;
 }
 
-.content blockquote p {
-  margin: 0;
-  display: inline;
-  background: $magenta;
-  color: $yellow;
-  padding: 2px 0;
+blockquote img {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
 }
 
-.content blockquote p:after {
-  content: "\A";
-  display: block;
-  margin-bottom: 1em;
-}
 
 // Navigation
 

@@ -7,11 +7,22 @@ ingress: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framt
   att träffas och förena sina skills för bästa resultat. '
 links:
 - title: Ansök med ditt projekt
-  url: 
+  url:
   style: button
 - title: 'Whitepaper: Digidem Open Lab'
-  url: 
+  url:
   style: paperclip
+banners:
+- image: "/uploads/start1.png"
+  format: normal
+- image: "/uploads/start3.png"
+  format: normal
+- image: "/uploads/start2.png"
+  format: tall
+quotes:
+  - text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast
+     politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.
+    image: "/uploads/quote-image.png"
 partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF
   Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna,
   LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
@@ -22,15 +33,14 @@ partner-links:
   logo: "/uploads/logotyp-arvsfonden.png"
 ---
 
-## Så här ser det ut 
+## Så här ser det ut
 Möjligheterna för demokratiskt deltagande har aldrig varit större än nu. Det finns verktyg för påverkan, diskussion och beslut färdiga att användas. Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast i politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.  
-Det måste inte se ut så här. 
-
-> p joes citat
+Det måste inte se ut så här.
 
 ## Kollektiv intelligens :thermometer: :boom:
 Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat. Digidem Open Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring. Vi träffas varje vecka i våra lokaler i Göteborg och tar fram framtidens demokratiska verktyg.
 
-## Labbet:fire::seedling:
-På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers. 
+{% include panels/quote.html %}
 
+## Labbet:fire::seedling:
+På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers.

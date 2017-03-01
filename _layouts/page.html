@@ -2,20 +2,51 @@
 layout: global
 ---
 
-<article class="container">
-  <div class="row my-5">
-    <div class="col-md-10 offset-md-1 text-center">
-      <h1>{{page.title}}</h1>
+<article>
+  <div class="container">
+    <div class="row my-5">
+      <div class="col-md-10 offset-md-1 text-center">
+        <h1>{{page.title}}</h1>
+      </div>
+    </div>
+    <div class="row mb-4">
+      <div class="col-md-6 offset-md-6">
+        <p class="lead text-primary">{{page.ingress}}</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col content">
+        {% assign paragraphs = content | split:'</p>' %}
+        {% for paragraph in paragraphs limit:1 %}
+          {{ paragraph | append: '</p>' }}
+        {% endfor %}
+      </div>
     </div>
   </div>
-  <div class="row mb-4">
-    <div class="col-md-6 offset-md-6">
-      <p class="lead text-primary">{{page.ingress}}</p>
+
+  {% if page.banners %}
+    {% include panels/banners.html %}
+  {% endif %}
+
+  <div class="container">
+    <div class="row">
+      <div class="col content">
+        {% for paragraph in paragraphs offset:1 %}
+          {{ paragraph | append: '</p>' }}
+        {% endfor %}
+      </div>
     </div>
-  </div>
-  <div class="row">
-    <div class="col content">
-      {{content}}
+    <div class="row mb-4">
+      <div class="col-md-7 offset-md-3">
+        <div class="media">
+          {% for partner in page.partner-links %}
+            <img class="d-flex mr-2 hidden-sm-down" src="{{site.baseurl}}{{partner.logo}}" alt="{{partner.name}}" height="100">
+          {% endfor %}
+          <div class="media-body mr-4">
+            <p class="small text-muted">{{page.partner-text}}</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </article>

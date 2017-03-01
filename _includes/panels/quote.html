@@ -1,0 +1,6 @@
+{% for item in page.quotes %}
+  <blockquote class="blockquote text-center py-4 pl-0 ml-6">
+    <img src="{{site.baseurl}}{{item.image}}" class="ml-6">
+    <p class=""><span class="text-warning bg-danger">{{item.text}}</span></p>
+  </blockquote>
+{% endfor %}
