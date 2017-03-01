@@ -29,7 +29,7 @@ Det måste inte se ut så här.
 > p joes citat
 
 ## Kollektiv intelligens
-Vi tror på att träffas för att blanda skills och erfarenheter för bästa resultat. Digidem Open Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring. Vi träffas varje vecka i våra lokaler i Göteborg och tar fram framtidens demokratiska verktyg.
+Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat. Digidem Open Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring. Vi träffas varje vecka i våra lokaler i Göteborg och tar fram framtidens demokratiska verktyg.
 
 ## Labbet
 På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers. 
