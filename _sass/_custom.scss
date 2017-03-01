@@ -143,11 +143,11 @@ $spacers: (
   ),
   2: (
     x: ($spacer-x * 2),
-    y: ($spacer-y * 3)
+    y: ($spacer-y * 2.5)
   ),
   3: (
     x: ($spacer-x * 3),
-    y: ($spacer-y * 6)
+    y: ($spacer-y * 4)
   ),
   4: (
     x: ($spacer-x * 4),
@@ -239,7 +239,7 @@ $display-line-height: calc;
 $lead-font-size:   1.875rem !default;
 $lead-font-weight: $headings-font-weight !default;
 
-$text-muted: $black !default;
+$text-muted: $gray-dark !default;
 $small-font-size: 1rem !default;
 
 
@@ -304,10 +304,6 @@ $btn-primary-border:             $btn-primary-color !default;
   margin-bottom: 1.5rem;
 }
 
-.small {
-  color: $gray-dark;
-}
-
 .content h2 {
   float: left;
   width: 18.25rem;
@@ -331,11 +327,11 @@ $btn-primary-border:             $btn-primary-color !default;
 }
 
 .icon-arrow {
-  background: url('../images/pil.png') no-repeat 0 50%;
+  background: url('../images/pil.png') no-repeat 0 0.3125rem;
 }
 
 .icon-arrow-blue {
-  background: url('../images/pil-bla.png') no-repeat 0 50%;
+  background: url('../images/pil-bla.png') no-repeat 0 0.3125rem;
 }
 
 .nav-menu-main {
@@ -349,4 +345,42 @@ $btn-primary-border:             $btn-primary-color !default;
   li:first-child a {
     border-right: 1px solid $blue;
   }
+}
+
+// Misc
+
+ul.list-random {
+  margin-bottom: 0;
+}
+
+.list-random-item {
+  position: relative;
+
+  .media-body {
+    z-index: 99;
+  }
+}
+
+.list-random-item-1 {
+  margin-bottom: 15rem;
+}
+
+.list-random-image {
+  position: absolute;
+}
+
+.list-random-image-1 {
+  left: 4rem;
+  top: 0;
+}
+
+.list-random-image-2 {
+  bottom: 0;
+  right: 11rem;
+}
+
+.nav-link .fa-fw {
+  width: 3rem;
+  float: left;
+  padding: 0.25rem 0 1rem;
 }

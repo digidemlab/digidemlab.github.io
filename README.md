@@ -6,3 +6,5 @@ the post or page layouts, copy [those files](https://github.com/jekyll/minima/tr
 
 Bootstrap variables can be overriden in `_sass/custom.scss` - refer
 to the [full list of available values](https://github.com/twbs/bootstrap/blob/v4-dev/scss/_variables.scss).
+
+Install gems with `bundle install`.

@@ -85,35 +85,37 @@ layout: default
 </section>
 
 <section id="contact" class="bg-info">
-  <div class="container py-5">
+  <div class="container pt-3">
 
-  <div class="row">
-    <div class="col text-center">
+    <div class="row">
+      <div class="col-lg-10 offset-lg-1 text-center px-3">
 
-      <h2 class="display-2 text-white">{{page.contact-title}}</h2>
-      <p class="text-white">{{page.contact-text}}</p>
+        <h2 class="display-2 text-white">{{page.contact-title}}</h2>
+        <p class="text-white">{{page.contact-text}}</p>
 
-    </div>
-  </div>
-
-  <div class="row my-5">
-    {% for item in site.crew %}
-      <div class="col">
-        <div class="media">
-          <img class="d-flex mr-3" src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
-          <div class="media-body">
-            <h5 class="mt-0">{{item.title}}</h5>
-            <h6>{{item.job}}</h6>
-            <div>{{item.phone}}</div>
-            <div><a href="mailto:{{item.mail}}">{{item.mail}}</a></div>
-            {% if item.twitter %}
-              <div><a href="http://twitter.com/{{item.twitter}}">{{item.twitter}}</a></div>
-            {% endif %}
-          </div>
-        </div>
       </div>
-    {% endfor %}
-  </div>
+    </div>
+
+    <div class="row">
+      <div class="col">
+        <ul class="list-unstyled list-random mt-2">
+          {% for item in site.crew %}
+            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}}">
+              <div class="media-body pt-1 pb-2">
+                <small>
+                  <strong>{{item.title}}</strong>,
+                  {{item.job}},
+                  {{item.phone}},
+                  <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
+                </small>
+              </div>
+              <img class="list-random-image list-random-image-{{forloop.index}}" style="" src="{{site.baseurl}}{{item.image}}" alt="">
+            </li>
+          {% endfor %}
+
+        </ul>
+      </div>
+    </div>
 
   </div>
 </section> <!-- /contact -->

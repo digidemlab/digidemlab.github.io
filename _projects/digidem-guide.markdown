@@ -1,6 +1,14 @@
 ---
 title: Digidem Guide
-ingress: Praktiska verktyg för att samverka och ta bättre beslut.
+date: 2017-02-23 17:21:00 Z
+excerpt: Praktiska verktyg för att samverka och ta bättre beslut
+ingress: Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi presenterar de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt metod för dina behov.
+links:
+  - title: digidemguide.org
+    url: 'http://digidemguide.org'
+    style: external-link
+  - title: Designing a guiding app for digital democracy
+    url: 'https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e'
 partner-text: Digidem Guide utvecklades av ett internationellt team av designers,
   forskare och kommunikationsexperter under en två veckors workshop med Participa
   LAB på Medialab Prado, Madrid.
