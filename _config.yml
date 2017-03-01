@@ -28,8 +28,8 @@ defaults:
 email: petter@p-jo.se
 description: Digidem Lab skapar framtidens processer för demokratiskt deltagande.
   Vi sätter nya verktyg för kollektiv intelligens i dina händer.
-baseurl: '/digidemlab-v2'
-url:
+baseurl: "/digidemlab-v2"
+url: 
 author: Digidem Lab
 twitter_username: digidemlab
 github_username: p-jo
