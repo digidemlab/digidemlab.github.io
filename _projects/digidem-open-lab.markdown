@@ -7,10 +7,10 @@ ingress: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framt
   att träffas och förena sina skills för bästa resultat. '
 links:
 - title: Ansök med ditt projekt
-  url:
+  url: 
   style: button
 - title: 'Whitepaper: Digidem Open Lab'
-  url:
+  url: 
   style: paperclip
 banners:
 - image: "/uploads/start1.png"
@@ -20,9 +20,10 @@ banners:
 - image: "/uploads/start2.png"
   format: tall
 quotes:
-  - text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast
-     politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.
-    image: "/uploads/quote-image.png"
+- text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi
+    vara fast politiska system som inte kan förnya sig, eller i värsta fall sätter
+    miljardärer och fascister till makten.
+  image: "/uploads/quote-image.png"
 partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF
   Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna,
   LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
