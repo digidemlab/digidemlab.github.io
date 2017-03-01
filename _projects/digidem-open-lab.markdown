@@ -22,7 +22,7 @@ partner-links:
   logo: "/uploads/logotyp-arvsfonden.png"
 ---
 
-## Så här ser det ut :pause_button::face_palm_tone5::sos:
+## Så här ser det ut :face_palm_tone5:
 Möjligheterna för demokratiskt deltagande har aldrig varit större än nu. Det finns verktyg för påverkan, diskussion och beslut färdiga att användas. Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast i politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.  
 Det måste inte se ut så här. 
 
