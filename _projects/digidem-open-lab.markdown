@@ -6,12 +6,12 @@ ingress: Är du 18 till 25 år och vill undersöka, utveckla eller testa deltaga
   Digidem Open Lab erbjuder ett utrymme för aktivister, designers och kodare andra
   att undersöka, utveckla och praktisera processer för deltagande demokrati.
 links:
-  - title: Ansök med ditt projekt
-    url: ''
-    style: button
-  - title: 'Whitepaper: Digidem Open Lab'
-    url: ''
-    style: paperclip
+- title: Ansök med ditt projekt
+  url: ''
+  style: button
+- title: 'Whitepaper: Digidem Open Lab'
+  url: ''
+  style: paperclip
 partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF
   Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna,
   LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
