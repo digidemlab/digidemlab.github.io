@@ -314,6 +314,28 @@ $btn-primary-border:             $btn-primary-color !default;
   margin-bottom: 10rem;
 }
 
+.content blockquote {
+  margin: 17rem 1rem 17rem 31rem;
+  font-family: $headings-font-family;
+  text-align: center;
+  line-height: 1.83;
+  font-size: 1.875rem;
+}
+
+.content blockquote p {
+  margin: 0;
+  display: inline;
+  background: $magenta;
+  color: $yellow;
+  padding: 2px 0;
+}
+
+.content blockquote p:after {
+  content: "\A";
+  display: block;
+  margin-bottom: 1em;
+}
+
 // Navigation
 
 .btn,
