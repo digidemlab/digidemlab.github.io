@@ -22,15 +22,15 @@ partner-links:
   logo: "/uploads/logotyp-arvsfonden.png"
 ---
 
-## Så här ser det ut 
+## Så här ser det ut :pause_button::face_palm_tone5::sos:
 Möjligheterna för demokratiskt deltagande har aldrig varit större än nu. Det finns verktyg för påverkan, diskussion och beslut färdiga att användas. Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast i politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.  
 Det måste inte se ut så här. 
 
 > p joes citat
 
-## Kollektiv intelligens
+## Kollektiv intelligens :thermometer: :boom:
 Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat. Digidem Open Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring. Vi träffas varje vecka i våra lokaler i Göteborg och tar fram framtidens demokratiska verktyg.
 
-## Labbet
+## Labbet:fire::seedling:
 På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers. 
 
