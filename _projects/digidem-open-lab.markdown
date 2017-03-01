@@ -2,9 +2,9 @@
 title: Digidem Open Lab
 date: 2017-02-23 17:00:00 Z
 excerpt: Ansök med ditt projekt idag och bli en del av vårt team osv..
-ingress: Möjligheterna har aldrig varit större. Digidem Open Lab är ett utrymme för
-  aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer
-  för deltagande demokrati för att skapa förändring.
+ingress: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
+  verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra
+  att träffas och förena sina skills för bästa resultat. '
 links:
 - title: Ansök med ditt projekt
   url: 
