@@ -5,6 +5,7 @@ excerpt: Ansök med ditt projekt idag och bli en del av vårt team osv..
 ingress: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
   verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra
   att träffas och förena sina skills för bästa resultat. '
+image: '/uploads/openlab-img.png'
 links:
 - title: Ansök med ditt projekt
   url:
@@ -39,8 +40,6 @@ Det måste inte se ut så här.
 
 ## Kollektiv intelligens :thermometer: :boom:
 Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat. Digidem Open Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring. Vi träffas varje vecka i våra lokaler i Göteborg och tar fram framtidens demokratiska verktyg.
-
-{% include panels/quote.html %}
 
 ## Labbet:fire::seedling:
 På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers.
