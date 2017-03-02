@@ -2,15 +2,19 @@
 title: Om Digidem Lab
 position: 1
 lang: sv
-ingress: Vi tror på det kreativa nyfikna sinnet och kollektiv intelligens underifrån.
-  Vi tror på att samlas oberoende av ålder, status, yrke, plats och tid för att bygga
-  fantastiska saker tillsammans.
+ingress: Digidem Lab är en ideell organisation som verkar för radikal demokrati med ny teknik.
+  Det gör vi bland annat genom vårt öppna lab i Göteborg och guiden Digidem Guide.
 quotes:
 - text: New online tools for interaction and collaboration have let people come together
     across space and time to build amazing things. As the Internet breaks down the
     last justifications for a professional class of politicians, it also builds up
     the tools for replacing them.
   person: Aaron Swartz
+---
+
+
+Vi är en del av en växande demokratirörelse, som använder kollektiv intelligens för att utmana gamla politiska och ekonomiska eliter. Brittiska Jeremy Corbyns digitala manifest, spanska Podemos demokratiska plattform och det växande nätverket för städer som söker nya sätt för deltagande visar på en annan typ av framtid än den som Donald Trump står för.
+
 ---
 
 Möjligheterna för demokratiskt deltagande har aldrig varit större. Vi har tillgång till verktyg för påverkan, diskussion, omröstningar och beslut i realtid, oberoende av geografisk plats.
