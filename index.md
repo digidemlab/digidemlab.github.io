@@ -9,8 +9,8 @@ links:
   link: "/projects/digidem-guide"
 news-flash:
 - title: 'Sök till Digidem Open Lab i Göteborg :+1:'
-  content: "Du måste vara 18 och 25 år<br>\n  Tro att en annan värld är möjlig<br>\n
-    \  Söka med ditt eget projekt som gör din    "
+  content: "Du behöver<br>\n   vara 18 och 25 år<br>\n  Tro att en annan värld är
+    möjlig<br>\n   Söka med ditt eget projekt om nya eller smartare former för deltagande<br> "
   link: "/projects/digidem-open-lab"
 banners:
 - title: blog
