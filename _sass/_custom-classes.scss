@@ -39,23 +39,24 @@
 
 // Content
 
-.content h2 {
+.content h2,
+.content h3 {
   float: left;
   width: 18.25rem;
   text-transform: uppercase;
-}
 
-.content h2:not(:first-child) {
-  margin-top: 7rem;
+  &:not(:first-child){
+    margin-top: 7rem;
+  }
+
+  &:not(:first-child) + p {
+    margin-top: 10rem;
+  }
 }
 
 .content p {
   margin-left: 20.3125rem;
   margin-bottom: 3rem;
-}
-
-.content h2:not(:first-child) + p {
-  margin-top: 10rem;
 }
 
 .content {

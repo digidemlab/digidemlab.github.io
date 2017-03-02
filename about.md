@@ -21,21 +21,23 @@ Nya former för deltagande måste skapas underifrån och i alla delar av samhäl
 
 {% include panels/quote.html %}
 
-## Behoven i centrum
+<h2 style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">Vi tror på</span></h2>
+
+### Behoven i centrum
 Börja med behoven, inte tekniken. Inte en förslagslåda för att ge beslutsfattare bättre samvete. Nya former för deltagande måste skapas underifrån och på alla nivåer i samhället. Deltagande är en process med många steg, men alla stegen måste börja medborgarnas behov.
 
-## Experimenterande skapar utveckling
+### Experimenterande skapar utveckling
 Skapa ett säkert utrymme att testa idéer. Experimenterande och ständiga tester minskar risken för stora misstag och gör små misstag till erfarenheter.
 Återanvänder andras arbete och erfarenheter som redan har gjorts. Hittar lösningar som många kan använda.
 
-## Din data — din kontroll
+### Din data — din kontroll
 Vi använder och utvecklar tjänster som i största möjliga mån ger dig själv, inte storföretag eller stater, kontroll över din egen data. Säkerhet och integritetsskydd ska inte kräva extra arbete av användarna, utan vara inbyggt i bra digitala tjänster. När du går ska du kunna ta med dig din data.
 
-## Det här är för alla
+### Det här är för alla
 Vi använder tillgängliga möteslokaler och använder digitala tjänster som är inkluderande och användarvänliga. De som bäst behöver tjänster för deltagande är ofta de som tycker att de är svårast att använda. Det vill vi ändra på.
 
-## Öppenhet för allmännytta
+### Öppenhet = allmännytta
 Öppna standarder, öppen data, öppen källkod, öppen innovation. Ekonomisk transparens. Det ger väl testade och säkrare tjänster. Det bidrar till vår gemensamma kunskap och allmännytta. Det kan anpassas efter specifika behov.
 
-## Kollektiv intelligens
+### Kollektiv intelligens
 Samverka för bättre resultat. Involvera personer med olika expertiser och erfarenheter. Dokumentera arbete, processer, resultat och best practices och sprid det till så många som möjligt. Föra samman olika fält och expertis/erfarenhet. Dela med oss av kod, design, idéer, framsteg och misslyckanden.
