@@ -13,6 +13,8 @@ quotes:
   person: Aaron Swartz
 ---
 
+Vi samlar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig för att ta fram processer och verktyg för morgondagens deltagande demokrati. Nya former för deltagande måste skapas underifrån och i alla delar av samhället.
+
 Vi är en del av en växande demokratirörelse, som använder kollektiv intelligens för att utmana gamla politiska och ekonomiska eliter. Brittiska Jeremy Corbyns digitala manifest, spanska Podemos demokratiska plattform och det växande nätverket för städer som söker nya sätt för deltagande visar på en annan typ av framtid än den som Donald Trump står för.
 
 {% include panels/quote.html %}
