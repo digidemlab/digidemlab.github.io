@@ -8,10 +8,10 @@ ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med 
 image: "/uploads/openlab-img.png"
 links:
 - title: Ansök med ditt projekt
-  url:
+  url: 
   style: button
 - title: 'Whitepaper: Digidem Open Lab'
-  url:
+  url: 
   style: paperclip
 banners:
 - image: "/uploads/start1.png"
