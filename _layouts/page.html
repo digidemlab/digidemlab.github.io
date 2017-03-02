@@ -65,28 +65,32 @@ layout: global
       </div>
     </div>
 
-    <div class="row mb-4">
-      <div class="col-md-3">
-        <h2 class="text-uppercase">Frågor? Prata med oss!</h2>
-      </div>
-      <div class="col-md-7">
-        <div class="row">
-          {% for item in site.crew %}
-            <div class="col-4 text-center">
-              <p>
-                <img src="{{site.baseurl}}{{item.image}}" style="max-width:100%" height="200">
-              </p>
-              <p class="small">
-                <strong>{{item.title}}</strong><br>
-                {{item.job}}<br>
-                {{item.phone}}<br>
-                <a href="mailto:{{item.mail}}">{{item.mail}}</a>
-              </p>
-            </div>
-          {% endfor %}
+    {% if page.contact %}
+      <div class="row mb-4">
+        <div class="col-md-3">
+          <h2 class="text-uppercase">Frågor? Prata med oss!</h2>
+        </div>
+        <div class="col-md-8">
+          <div class="row">
+            {% for item in page.contact %}
+              <div class="col-6">
+                <div class="media">
+                  <img class="d-flex mr-2 hidden-sm-down" src="{{site.baseurl}}{{item.image}}" style="max-width:100%" height="140">
+                  <div class="media-body">
+                    <p class="small text-muted">
+                      <strong>{{item.name}}</strong><br>
+                      {{item.job}}<br>
+                      {{item.phone}}<br>
+                      <a href="mailto:{{item.mail}}">{{item.mail}}</a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
         </div>
       </div>
-    </div>
+    {% endif %}
 
     <div class="row mb-4">
       <div class="col-md-7 offset-md-3">

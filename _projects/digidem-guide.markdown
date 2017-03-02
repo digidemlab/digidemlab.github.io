@@ -5,12 +5,34 @@ excerpt: Praktiska verktyg för att samverka och ta bättre beslut
 ingress: Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi presenterar
   de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt
   metod för dina behov.
+image: '/uploads/openlab-img.png'
 links:
 - title: digidemguide.org
   url: http://digidemguide.org
   style: external-link
 - title: Designing a guiding app for digital democracy
   url: https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e
+banners:
+- image: "/uploads/start1.png"
+  format: normal
+- image: "/uploads/start3.png"
+  format: normal
+- image: "/uploads/start2.png"
+  format: tall
+quotes:
+- text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi
+    vara fast politiska system som inte kan förnya sig, eller i värsta fall sätter
+    miljardärer och fascister till makten.
+  image: "/uploads/quote-image.png"
+contact:
+  - name: Sara Woodgate
+    image: "/uploads/openlab-img.png"
+    job: Project Coordinator
+    mail: sara@digidemlab.org
+  - name: Jennie Lindell
+    image: "/uploads/openlab-img.png"
+    job: Project Coordinator
+    mail: jennie@digidemlab.org
 partner-text: Digidem Guide utvecklades av ett internationellt team av designers,
   forskare och kommunikationsexperter under en två veckors workshop med Participa
   LAB på Medialab Prado, Madrid.
