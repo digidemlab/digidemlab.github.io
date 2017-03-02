@@ -9,21 +9,20 @@ links:
   link: "/projects/digidem-guide"
 news-flash:
 - title: 'Sök till Digidem Open Lab i Göteborg :+1:'
-  content: Är mellan 18 och 25 år och vill undersöka, utveckla eller testa deltagande
-    demokrati? Sök med ditt projekt och få betalda arbetsmöten och handledning en
-    gång i veckan i tre måndader!
+  content: "Du behöver<br>\n   vara 18 och 25 år<br>\n  Tro att en annan värld är
+    möjlig<br>\n   Söka med ditt eget projekt om nya eller smartare former för deltagande<br> "
   link: "/projects/digidem-open-lab"
 banners:
-- title: Instagram
+- title: blog
   image: "/uploads/start1.png"
   link: 
   format: normal
-- title: Blog
+- title: 
   image: "/uploads/start3.png"
   link: 
   format: normal
 - title: Projekt
-  image: "/uploads/start2.png"
+  image: "/uploads/200w-workincat.gif"
   link: 
   format: tall
 contact-title: Få tag på oss!

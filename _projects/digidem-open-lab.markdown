@@ -5,7 +5,7 @@ excerpt: Ansök med ditt projekt idag och bli en del av vårt team osv..
 ingress: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
   verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra
   att träffas och förena sina skills för bästa resultat. '
-image: '/uploads/openlab-img.png'
+image: "/uploads/openlab-img.png"
 links:
 - title: Ansök med ditt projekt
   url:
