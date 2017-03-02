@@ -15,18 +15,6 @@ quotes:
 
 Vi är en del av en växande demokratirörelse, som använder kollektiv intelligens för att utmana gamla politiska och ekonomiska eliter. Brittiska Jeremy Corbyns digitala manifest, spanska Podemos demokratiska plattform och det växande nätverket för städer som söker nya sätt för deltagande visar på en annan typ av framtid än den som Donald Trump står för.
 
----
-
-Möjligheterna för demokratiskt deltagande har aldrig varit större. Vi har tillgång till verktyg för påverkan, diskussion, omröstningar och beslut i realtid, oberoende av geografisk plats.
-
-Just nu står vi inför frågor som kräver radikalt nya lösningar, globalt och lokalt: fattigdom, rasism, klimatförändringar och krig. Samtidigt är vi fast i politiska system som verkar vara oförmögna att förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.
-
-De största hindren för verkligt deltagande demokrati är inte brist på innovation, utan maktfullkomlighet, korruption och ekonomiska klyftor.  Förutom att undanröja de hindren behöver vi skapa bättre system för att tillvarata vår kollektiva intelligens.
-
-Vi uppmanar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig att samverka för att ta fram processer och verktyg för morgondagens deltagande demokrati.
-
-Nya former för deltagande måste skapas underifrån och i alla delar av samhället. Låt oss tillsammans ta tillbaka makten och tron på att vi alla kan vara med och skapa vår framtid.
-
 {% include panels/quote.html %}
 
 <h2 style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">Vi tror på</span></h2>
