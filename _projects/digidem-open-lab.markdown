@@ -8,10 +8,10 @@ ingress: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framt
 image: "/uploads/openlab-img.png"
 links:
 - title: Ansök med ditt projekt
-  url:
+  url: 
   style: button
 - title: 'Whitepaper: Digidem Open Lab'
-  url:
+  url: 
   style: paperclip
 banners:
 - image: "/uploads/start1.png"
@@ -26,16 +26,16 @@ quotes:
     miljardärer och fascister till makten.
   image: "/uploads/quote-image.png"
 contact:
-  - name: Anna Sanne Göransson
-    image: "/uploads/anna.png"
-    job: Lab Manager
-    phone: "+46 76 242 28 24"
-    mail: anna@digidemlab.org
-  - name: Petter Joelson
-    image: "/uploads/petter.png"
-    job: Lab Manager
-    phone: "+46 70 867 42 44"
-    mail: petter@digidemlab.org
+- name: Anna Sanne Göransson
+  image: "/uploads/anna.png"
+  job: Lab Manager
+  phone: "+46 76 242 28 24"
+  mail: anna@digidemlab.org
+- name: Petter Joelson
+  image: "/uploads/petter.png"
+  job: Lab Manager
+  phone: "+46 70 867 42 44"
+  mail: petter@digidemlab.org
 partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF
   Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna,
   LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
