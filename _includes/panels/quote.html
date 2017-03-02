@@ -1,6 +1,9 @@
 {% for item in page.quotes %}
-  <blockquote class="blockquote text-center py-4 pl-0 ml-6">
-    <img src="{{site.baseurl}}{{item.image}}" class="ml-6">
+  <blockquote class="blockquote text-center py-4 pl-0 ml-6 mt-6">
+    {% if item.image %}
+      <img src="{{site.baseurl}}{{item.image}}" class="ml-6">
+    {% endif %}
     <p class=""><span class="text-warning bg-danger">{{item.text}}</span></p>
+    <footer class="blockquote-footer">{{item.person}} <cite title="item.source">{{item.source}}</cite></footer>
   </blockquote>
 {% endfor %}

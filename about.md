@@ -1,15 +1,41 @@
 ---
-title: About Digidem Lab
+title: Om Digidem Lab
 position: 1
-ingress: Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean
-  eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id
-  elit non mi porta gravida at eget metus.
+lang: sv
+ingress: Vi tror på det kreativa nyfikna sinnet och kollektiv intelligens underifrån. Vi tror på att samlas oberoende av ålder, status, yrke, plats och tid för att bygga fantastiska saker tillsammans.
+quotes:
+  - text: New online tools for interaction and collaboration have let people come together across space and time to build amazing things. As the Internet breaks down the last justifications for a professional class of politicians, it also builds up the tools for replacing them.
+    person: Aaron Swartz
 ---
 
-## Underrubrik
-Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec id elit non mi porta gravida at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
-## Vad vi menar med demokrati
-Aenean lacinia bibendum nulla sed consectetur. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+Möjligheterna för demokratiskt deltagande har aldrig varit större. Vi har tillgång till verktyg för påverkan, diskussion, omröstningar och beslut i realtid, oberoende av geografisk plats.
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Vestibulum id ligula porta felis euismod semper. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui. Donec sed odio dui.
+Just nu står vi inför frågor som kräver radikalt nya lösningar, globalt och lokalt: fattigdom, rasism, klimatförändringar och krig. Samtidigt är vi fast i politiska system som verkar vara oförmögna att förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.
+
+De största hindren för verkligt deltagande demokrati är inte brist på innovation, utan maktfullkomlighet, korruption och ekonomiska klyftor.  Förutom att undanröja de hindren behöver vi skapa bättre system för att tillvarata vår kollektiva intelligens.
+
+Vi uppmanar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig att samverka för att ta fram processer och verktyg för morgondagens deltagande demokrati.
+
+Nya former för deltagande måste skapas underifrån och i alla delar av samhället. Låt oss tillsammans ta tillbaka makten och tron på att vi alla kan vara med och skapa vår framtid.
+
+{% include panels/quote.html %}
+
+## Behoven i centrum
+Börja med behoven, inte tekniken. Inte en förslagslåda för att ge beslutsfattare bättre samvete. Nya former för deltagande måste skapas underifrån och på alla nivåer i samhället. Deltagande är en process med många steg, men alla stegen måste börja medborgarnas behov.
+
+## Experimenterande skapar utveckling
+Skapa ett säkert utrymme att testa idéer. Experimenterande och ständiga tester minskar risken för stora misstag och gör små misstag till erfarenheter.
+Återanvänder andras arbete och erfarenheter som redan har gjorts. Hittar lösningar som många kan använda.
+
+## Din data — din kontroll
+Vi använder och utvecklar tjänster som i största möjliga mån ger dig själv, inte storföretag eller stater, kontroll över din egen data. Säkerhet och integritetsskydd ska inte kräva extra arbete av användarna, utan vara inbyggt i bra digitala tjänster. När du går ska du kunna ta med dig din data.
+
+## Det här är för alla
+Vi använder tillgängliga möteslokaler och använder digitala tjänster som är inkluderande och användarvänliga. De som bäst behöver tjänster för deltagande är ofta de som tycker att de är svårast att använda. Det vill vi ändra på.
+
+## Öppenhet för allmännytta
+Öppna standarder, öppen data, öppen källkod, öppen innovation. Ekonomisk transparens. Det ger väl testade och säkrare tjänster. Det bidrar till vår gemensamma kunskap och allmännytta. Det kan anpassas efter specifika behov.
+
+## Kollektiv intelligens
+Samverka för bättre resultat. Involvera personer med olika expertiser och erfarenheter. Dokumentera arbete, processer, resultat och best practices och sprid det till så många som möjligt. Föra samman olika fält och expertis/erfarenhet. Dela med oss av kod, design, idéer, framsteg och misslyckanden.

@@ -29,38 +29,39 @@ layout: global
         <p class="lead text-primary">{{page.ingress}}</p>
       </div>
     </div>
-    {% if page.image %}
-      <div class="row mb-4">
-        <div class="col-md-4 offset-md-4">
-          <img src="{{site.baseurl}}{{page.image}}" class="img-fluid">
-        </div>
+    <div class="row mb-4">
+      <div class="col-md-4 offset-md-4">
+        <img src="{{site.baseurl}}{{page.image}}" class="img-fluid">
       </div>
-    {% endif %}
+    </div>
     <div class="row">
       <div class="col content">
         {% assign paragraphs = content | split:'</p>' %}
         {% for paragraph in paragraphs limit:1 %}
           {{ paragraph | append: '</p>' }}
         {% endfor %}
-
-        {% if page.banners.size > 0 %}
-
       </div>
     </div>
   </div>
 
-  {% include panels/banners.html %}
+  {% if page.banners %}
+    {% include panels/banners.html %}
+  {% endif %}
 
   <div class="container">
     <div class="row">
       <div class="col content">
-
-        {% endif %}
-
-        {% for paragraph in paragraphs offset:1 %}
+        {% for paragraph in paragraphs offset:1 limit:1 %}
           {{ paragraph | append: '</p>' }}
         {% endfor %}
 
+        {% if page.quotes %}
+          {% include panels/quote.html %}
+        {% endif %}
+
+        {% for paragraph in paragraphs offset:2 %}
+          {{ paragraph | append: '</p>' }}
+        {% endfor %}
       </div>
     </div>
 

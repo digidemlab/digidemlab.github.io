@@ -44,9 +44,26 @@
   width: 18.25rem;
   text-transform: uppercase;
 }
+
+.content h2:not(:first-child) {
+  margin-top: 7rem;
+}
+
 .content p {
   margin-left: 20.3125rem;
-  margin-bottom: 10rem;
+  margin-bottom: 3rem;
+}
+
+.content h2:not(:first-child) + p {
+  margin-top: 10rem;
+}
+
+.content {
+  margin-bottom: 7rem;
+}
+
+.content blockquote {
+  margin-bottom: 3rem;
 }
 
 blockquote {
@@ -62,6 +79,9 @@ blockquote img {
   left: 0;
 }
 
+.content blockquote p {
+  margin-bottom: 1rem;
+}
 
 // Navigation
 
