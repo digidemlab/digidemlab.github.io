@@ -4,6 +4,8 @@
       <img src="{{site.baseurl}}{{item.image}}" class="ml-6">
     {% endif %}
     <p class=""><span class="text-warning bg-danger">{{item.text}}</span></p>
-    <footer class="blockquote-footer">{{item.person}} <cite title="item.source">{{item.source}}</cite></footer>
+    {% if item.person %}
+      <footer class="blockquote-footer">{{item.person}} <cite title="item.source">{{item.source}}</cite></footer>
+    {% endif %}
   </blockquote>
 {% endfor %}
