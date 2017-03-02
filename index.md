@@ -9,11 +9,11 @@ links:
   link: "/projects/digidem-guide"
 news-flash:
 - title: 'Sök till Digidem Open Lab i Göteborg :+1:'
-  content: 'Du behöver:   Vara 18 och 25 år   Vilja undersöka, testa eller utveckla
+  content: "Du behöver:  Vara 18 och 25 år  \nVilja undersöka, testa eller utveckla
     deltagande demokrati  Söka med ditt projekt som gör din grupp/förening/rörelse/parti/världen
     bättre  Du får:  Betalda arbetsmöten en gång i veckan i 3 månader  Handledning
     och research för ditt projekt av våra Lab Managers    Tillgång till Internationellt
-    och nationellt kontaktnät  '
+    och nationellt kontaktnät  "
   link: "/projects/digidem-open-lab"
 banners:
 - title: blog
