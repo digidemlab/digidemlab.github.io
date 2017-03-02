@@ -23,7 +23,7 @@ banners:
   link: 
   format: normal
 - title: Projekt
-  image: "/uploads/start2.png"
+  image: "/uploads/200w-workincat.gif"
   link: 
   format: tall
 contact-title: Få tag på oss!
