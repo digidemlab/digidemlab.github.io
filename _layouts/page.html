@@ -26,7 +26,7 @@ layout: global
         </ul>
       </div>
       <div class="col-md-6 offset-md-2">
-        <p class="lead text-primary">{{page.ingress-text}}</p>
+        <p class="lead text-primary">{{page.ingress-text | markdownify}}</p>
       </div>
     </div>
     {% if page.image %}
