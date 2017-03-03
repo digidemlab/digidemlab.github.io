@@ -143,15 +143,15 @@ $spacers: (
   ),
   2: (
     x: ($spacer-x * 2),
-    y: ($spacer-y * 2.5)
+    y: ($spacer-y * 1.5)
   ),
   3: (
     x: ($spacer-x * 3),
-    y: ($spacer-y * 4)
+    y: ($spacer-y * 3)
   ),
   4: (
     x: ($spacer-x * 4),
-    y: ($spacer-y * 7)
+    y: ($spacer-y * 5.5)
   ),
   5: (
     x: ($spacer-x * 5),
@@ -174,8 +174,8 @@ $grid-breakpoints: (
   xs: 0,
   sm: 576px,
   md: 768px,
-  lg: 992px, // 12 12
-  xl: 1200px // 1332
+  lg: 992px,
+  xl: 1180px
 ) !default;
 @include _assert-ascending($grid-breakpoints, "$grid-breakpoints");
 @include _assert-starts-at-zero($grid-breakpoints);
@@ -188,8 +188,8 @@ $grid-breakpoints: (
 $container-max-widths: (
   sm: 540px,
   md: 720px,
-  lg: 1180px,
-  xl: 1300px
+  lg: 960px,
+  xl: 1125px
 ) !default;
 @include _assert-ascending($container-max-widths, "$container-max-widths");
 
@@ -213,24 +213,24 @@ $link-hover-decoration: underline !default;
 //
 // Font, line-height, and color for body text, headings, and more.
 
-$font-size-base: 1.5rem !default;
-$line-height-base: 1.42 !default;
+$font-size-base: 1.25rem !default;
+$line-height-base: 1.5 !default;
 
 $font-family-sans-serif:    'Noto Sans', sans-serif !default;
 
 $headings-font-family:      'BentonSans', !default;
 $headings-font-weight:      normal !default;
 $headings-color:            $blue !default;
-$headings-line-height:      1.39 !default;
+$headings-line-height:      1.56 !default;
 $headings-margin-bottom:    ($spacer * 2) !default;
 
 
 
-$font-size-h1: 5.625rem !default;
-$font-size-h2: 1.875rem !default;
+$font-size-h1: 5rem !default;
+$font-size-h2: 1.625rem !default;
 
-$display1-size: 5.625rem !default;
-$display2-size: 5.625rem !default;
+$display1-size: 5rem !default;
+$display2-size: 5rem !default;
 $display3-size: 1.5rem !default;
 
 $display1-weight:     $headings-font-weight !default;
@@ -241,14 +241,14 @@ $display4-weight:     $headings-font-weight !default;
 $display-line-height: calc;
 
 
-$lead-font-size:   1.875rem !default;
+$lead-font-size:   1.5rem !default;
 $lead-font-weight: $headings-font-weight !default;
 
 $text-muted: $gray-dark !default;
-$small-font-size: 1rem !default;
+$small-font-size: 0.875rem !default;
 
 $blockquote-small-color:  $black !default;
-$blockquote-font-size:    ($font-size-base * 1.25) !default;
+$blockquote-font-size:    ($font-size-base * 1.5) !default;
 $blockquote-border-width: 0 !default;
 
 // Cards
@@ -273,7 +273,7 @@ $navbar-light-toggler-border:       $blue !default;
 
 // Buttons
 $btn-padding-x:                  1.5rem !default;
-$btn-padding-y:                  1.5rem !default;
+$btn-padding-y:                  1.25rem !default;
 
 $btn-box-shadow:                 8px 8px 0 0  $blue !default;
 $btn-focus-box-shadow:           8px 8px 0 0  $blue !default;

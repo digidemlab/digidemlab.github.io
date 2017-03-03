@@ -7,7 +7,8 @@
 
 .header {
   position: relative;
-  top: 4rem;
+  top: 5.5rem; // ca 89
+  margin-top: -1.6rem; // ca 26
 }
 
 .view-header-box {
@@ -22,8 +23,8 @@
 // Fonts
 
 .display-1 {
-  line-height: 1.39;
-  margin-top: -5.5rem;
+  line-height: 1.375;
+  margin-top: -6rem;
 }
 
 .display-2 {
@@ -32,7 +33,7 @@
 
 .lead {
   font-family: $headings-font-family;
-  line-height: 1.2;
+  line-height: 1.4;
   margin-bottom: 1.5rem;
 }
 
@@ -42,46 +43,31 @@
 .content h2,
 .content h3 {
   float: left;
-  width: 18.25rem;
+  width: 24%;
   text-transform: uppercase;
 
-  &:not(:first-child){
-    margin-top: 7rem;
-  }
+//  &:not(:first-child){
+//    margin-top: 10rem;
+//  }
 
-  &:not(:first-child) + p {
-    margin-top: 10rem;
-  }
+//  &:not(:first-child) + p {
+//    margin-top: 10rem;
+//  }
 }
 
 .content p {
-  margin-left: 20.3125rem;
-  margin-bottom: 3rem;
-}
-
-.content {
-  margin-bottom: 7rem;
-}
-
-.content blockquote {
-  margin-bottom: 3rem;
+  @include make-col-offset(3);
+  margin-bottom: 4rem;
+  padding-left: ($grid-gutter-width-base / 4);
 }
 
 blockquote {
   font-family: $headings-font-family;
   line-height: 1.83;
-  position: relative;
 }
 
-blockquote img {
-  position: absolute;
-  z-index: -1;
-  top: 0;
-  left: 0;
-}
-
-.content blockquote p {
-  margin-bottom: 1rem;
+.blockquote-img {
+  margin-right: -25%;
 }
 
 // Navigation
@@ -92,7 +78,6 @@ blockquote img {
 }
 
 .flex-column .nav-link {
-  font-size: 1.5rem;
   color: $black;
 }
 
@@ -105,11 +90,12 @@ blockquote img {
 }
 
 .nav-menu-main {
-  font-size: 1.875rem;
+  font-size: 1.5rem;
+  line-height: 1;
 }
 
 .nav-menu-secondary {
-  font-size: 1.125rem;
+  font-size: 1rem;
   line-height: 1;
 
   li:first-child a {

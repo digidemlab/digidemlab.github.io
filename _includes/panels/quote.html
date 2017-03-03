@@ -1,11 +1,20 @@
-{% for item in page.quotes %}
-  <blockquote class="blockquote text-center py-4 pl-0 ml-6 mt-6">
-    {% if item.image %}
-      <img src="{{site.baseurl}}{{item.image}}" class="ml-6">
-    {% endif %}
-    <p class=""><span class="text-warning bg-danger">{{item.text}}</span></p>
-    {% if item.person %}
-      <footer class="blockquote-footer">{{item.person}} <cite title="item.source">{{item.source}}</cite></footer>
-    {% endif %}
-  </blockquote>
-{% endfor %}
+<div class="row my-4">
+  <div class="col-md-9 offset-md-3">
+    {% for item in page.quotes %}
+      <blockquote class="blockquote m-0 p-0">
+
+        <div class="d-flex align-items-center text-center h-100" style="">
+          <div class="w-25 blockquote-img">
+            {% if item.image %}
+              <img src="{{site.baseurl}}{{item.image}}">
+            {% endif %}
+          </div>
+          <p class="m-0 px-4"><span class="text-warning bg-danger">{{item.text}}</span></p>
+        </div>
+        {% if item.person %}
+          <footer class="blockquote-footer mt-1 px-4 text-center">{{item.person}} <cite title="item.source">{{item.source}}</cite></footer>
+        {% endif %}
+      </blockquote>
+    {% endfor %}
+  </div>
+</div>
