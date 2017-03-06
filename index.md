@@ -8,24 +8,23 @@ links:
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- title: 'Sök till Digidem Open Lab i Göteborg :+1:'
-  content: "Du behöver<br>\n   vara 18 till 25 år<br>\n  Tro att en annan värld är
-    möjlig<br>\n   Söka med ett projekt om nya former för deltagande för din grupp
+  - text: "Du behöver vara 18 till 25 år Tro att en annan värld är
+    möjlig Söka med ett projekt om nya former för deltagande för din grupp
     eller förening eller världen<br> "
-  link: "/projects/digidem-open-lab"
+    link-title: 'Sök till Digidem Open Lab i Göteborg :+1:'
+    link: "/projects/digidem-open-lab"
 banners:
-- title: blog
+- title: Blogg
   image: "/uploads/start1.png"
-  link: 
+  link: https://medium.com/digidemlab
   format: normal
-- title: 
+- title: Instagram
   image: "/uploads/start3.png"
-  link: 
+  link: https://www.instagram.com/digidemlab/
   format: normal
 - title: Projekt
   image: "/uploads/200w-workincat.gif"
-  link: 
+  link: /projects/
   format: tall
 layout: start
 ---
-

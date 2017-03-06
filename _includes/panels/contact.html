@@ -1,10 +1,10 @@
 <section id="contact" class="bg-info">
-  <div class="container pt-3">
+  <div class="container pt-3b">
 
     <div class="row">
       <div class="col-lg-10 offset-lg-1 text-center px-3">
 
-        <h2 class="display-2 text-white">{{site.contact-title}}</h2>
+        <h2 class="display-2 text-white mb-1">{{site.contact-title}}</h2>
         <p class="text-white">{{site.contact-text}}</p>
 
       </div>
@@ -15,15 +15,13 @@
         <ul class="list-unstyled list-random mt-2">
           {% for item in site.crew %}
             <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}}">
-              <div class="media-body pt-1 pb-2">
-                <small>
-                  <strong>{{item.title}}</strong>,
-                  {{item.job}},
-                  {{item.phone}},
-                  <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
-                </small>
+              <div class="media-body pt-2 pb-3">
+                <strong>{{item.title}}</strong>,
+                {{item.job}},
+                {{item.phone}},
+                <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
               </div>
-              <img class="list-random-image list-random-image-{{forloop.index}}" src="{{site.baseurl}}{{item.image}}" width="200">
+              <img class="list-random-image list-random-image-{{forloop.index}}" src="{{site.baseurl}}{{item.image}}" width="150">
             </li>
           {% endfor %}
 

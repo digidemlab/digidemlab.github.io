@@ -145,9 +145,21 @@ $spacers: (
     x: ($spacer-x * 2),
     y: ($spacer-y * 1.5)
   ),
+  2b: (
+    x: ($spacer-x * 2),
+    y: ($spacer-y * 2)
+  ),
   3: (
     x: ($spacer-x * 3),
     y: ($spacer-y * 3)
+  ),
+  3b: (
+    x: ($spacer-x * 4),
+    y: ($spacer-y * 4)
+  ),
+  3c: (
+    x: ($spacer-x * 4),
+    y: ($spacer-y * 5)
   ),
   4: (
     x: ($spacer-x * 4),
@@ -254,12 +266,12 @@ $blockquote-border-width: 0 !default;
 // Cards
 
 $card-spacer-x:            3.5rem !default;
-$card-spacer-y:            1.5rem !default;
+$card-spacer-y:            3rem !default;
 $card-border-width:        10px !default;
 $card-border-color:        $blue !default;
 
 $card-cap-bg:              transparent !default;
-$card-img-overlay-padding: 3rem !default;
+$card-img-overlay-padding: 0rem !default;
 
 
 // Navbar

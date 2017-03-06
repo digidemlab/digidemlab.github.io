@@ -1,11 +1,17 @@
 ---
 title: Aktuella projekt
-layout: global
+layout: default
 ---
 
-<div class="bg-success view-header-box">
-</div>
-
+<header class="site-header" role="banner">
+  <nav class="navbar navbar-toggleable-md navbar-light pt-3 pb-0">
+    <div class="container">
+      <div class="bg-success view-header-box">
+      </div>
+      {% include panels/navbar.html %}
+    </div>
+  </nav>
+</header>
 <div class="container">
   <div class="row mt-2">
     <div class="col offset-1">
@@ -15,3 +21,4 @@ layout: global
 </div>
 
 {% include panels/projects.html %}
+{% include footer.html %}
