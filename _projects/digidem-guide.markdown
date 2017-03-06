@@ -39,6 +39,7 @@ partner-text: Digidem Guide utvecklades av ett internationellt team av designers
 partner-links:
 - name: Participa LAB
   logo: "/uploads/logotyp-medialab.jpg"
+  link: http://medialab-prado.es/participa-lab
 ---
 
 Digidem Guide är en konkret handledning till digitala verktyg för fördjupad demokrati. Den riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser.
