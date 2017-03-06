@@ -26,7 +26,7 @@ quotes:
   image: 
 contact:
 - name: Sara Woodgate
-  image: "/uploads/openlab-img.png"
+  image: "/uploads/sarapresentationsbild1.gif"
   job: Project Coordinator
   mail: sara@digidemlab.org
 - name: Jennie Lindell
