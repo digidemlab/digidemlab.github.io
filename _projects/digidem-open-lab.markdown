@@ -42,8 +42,10 @@ partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och
 partner-links:
 - name: ABF
   logo: "/uploads/logotyp-abf.png"
+  link: http://www.abf.se/goteborg
 - name: Allmänna Arvsfonden
   logo: "/uploads/logotyp-arvsfonden.png"
+  link: http://www.arvsfonden.se/
 ---
 
 ## Så här ser det ut
