@@ -16,15 +16,16 @@ news-flash:
 banners:
 - title: blog
   image: "/uploads/start1.png"
-  link:
+  link: 
   format: normal
-- title:
+- title: 
   image: "/uploads/start3.png"
-  link:
+  link: 
   format: normal
 - title: Projekt
   image: "/uploads/200w-workincat.gif"
-  link:
+  link: 
   format: tall
 layout: start
 ---
+
