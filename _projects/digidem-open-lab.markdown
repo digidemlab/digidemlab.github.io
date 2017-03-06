@@ -16,9 +16,9 @@ links:
 banners:
 - image: "/uploads/upgrade.gif"
   format: normal
-- image: "/uploads/abrepuerts%20illustration.jpeg"
+- image: "/uploads/BhZhc-ziEtz9vHyK7w3D1R7qSYJE8muOoqbkBNhSUPM.jpg"
   format: normal
-- image: "/uploads/upgrade%20still%20text.gif"
+- image: "/uploads/tNlybyT80Xw2Z_4pJBV1iMSvGD9tUnVy644gQ4eEk9I.jpg"
   format: tall
 quotes:
 - text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi
