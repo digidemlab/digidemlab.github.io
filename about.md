@@ -22,20 +22,19 @@ Vi är en del av en växande demokratirörelse, som använder kollektiv intellig
 <h2 style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">Vi tror på</span></h2>
 
 ### Behoven i centrum
-Börja med behoven, inte tekniken. Inte en förslagslåda för att ge beslutsfattare bättre samvete. Nya former för deltagande måste skapas underifrån och på alla nivåer i samhället. Deltagande är en process med många steg, men alla stegen måste börja medborgarnas behov.
+Processer och verktyg för kollektiv intelligens börjar alltid med deltagarnas behov. Ny teknik i sig kommer inte lösa några problem, inte heller är nya metoder något som kan klistras på exkluderande processer för att dölja deras brister. Verkligt demokratiskt deltagande är en process i flera steg, och alla de stegen ska ha medborgarens behov i centrum.
 
 ### Experimenterande skapar utveckling
-Skapa ett säkert utrymme att testa idéer. Experimenterande och ständiga tester minskar risken för stora misstag och gör små misstag till erfarenheter.
-Återanvänder andras arbete och erfarenheter som redan har gjorts. Hittar lösningar som många kan använda.
+Vi skapar utrymmen för att utveckla nya idéer. Experimenterande och labbande minskar risken för stora misstag och gör små misstag till erfarenheter. Genom att återanvända andras arbete och bygga vidare på internationella erfarenheter blir vi till en del av en global experimentverkstad för kollektiv intelligens.
 
 ### Din data — din kontroll
-Vi använder och utvecklar tjänster som i största möjliga mån ger dig själv, inte storföretag eller stater, kontroll över din egen data. Säkerhet och integritetsskydd ska inte kräva extra arbete av användarna, utan vara inbyggt i bra digitala tjänster. När du går ska du kunna ta med dig din data.
+Vi använder och utvecklar tjänster som i största möjliga mån ger dig själv, inte företag eller stater, kontroll över din data. Säkerhet och integritetsskydd ska inte kräva extra arbete av användarna, utan vara inbyggt i bra digitala tjänster. Du ska kunna välja själv vad du delar med dig av för information och till vem.
 
 ### Det här är för alla
-Vi använder tillgängliga möteslokaler och använder digitala tjänster som är inkluderande och användarvänliga. De som bäst behöver tjänster för deltagande är ofta de som tycker att de är svårast att använda. Det vill vi ändra på.
+Nya former för deltagande måste skapas underifrån och på alla nivåer av samhället. De som bäst behöver tjänster för deltagande är ofta de som tycker att de är svårast att använda. Det vill vi ändra på. Vi använder tillgängliga möteslokaler och digitala tjänster som är tillgänglighetsanpassade, läsbara, väl designade och användarvänliga.
 
-### Öppenhet = allmännytta
-Öppna standarder, öppen data, öppen källkod, öppen innovation. Ekonomisk transparens. Det ger väl testade och säkrare tjänster. Det bidrar till vår gemensamma kunskap och allmännytta. Det kan anpassas efter specifika behov.
+### Öppenhet för allmännytta
+Att utveckla tjänster för allas bästa innebär att göra det öppet. Öppen källkod, öppna standarder, öppen data och öppen innovation är garantier för att ny kunskap kommer alla till del. Vi behöver transparenta och väl testade tjänster som bidrar till vår gemensamma kunskapsbank och som kan utvecklas och anpassas efter specifika behov.
 
 ### Kollektiv intelligens
-Samverka för bättre resultat. Involvera personer med olika expertiser och erfarenheter. Dokumentera arbete, processer, resultat och best practices och sprid det till så många som möjligt. Föra samman olika fält och expertis/erfarenhet. Dela med oss av kod, design, idéer, framsteg och misslyckanden.
+Förändring kräver att vi samlar olika kompetenser och erfarenheter för att arbeta mot ett gemensamt mål. Processer och verktyg för kollektiv intelligens är inte en fråga om teknik, design, forskning eller politik. Det är alla de sakerna på en gång. Vårt jobb är att skapa förutsättningar för så breda och inkluderande samarbeten som möjligt.
