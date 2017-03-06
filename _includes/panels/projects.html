@@ -5,7 +5,7 @@
         <div class="col-md-9">
           <h2 class="display-2"><a href="{{site.baseurl}}{{item.url}}" class="{% cycle '', 'text-info' %}">{{item.title}}</a></h2>
           <p class="lead">{{item.excerpt}}</p>
-          <p>{{item.ingress}}</p>
+          <p>{{ item.ingress-text | strip_html }}</p>
         </div>
       </div>
       <div class="row">
