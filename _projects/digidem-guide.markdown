@@ -5,7 +5,7 @@ excerpt: Praktiska verktyg för att samverka och ta bättre beslut
 ingress-text: Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi
   presenterar de bästa tillgängliga digitala verktygen på ett ställe, så att du kan
   hitta rätt metod för dina behov.
-image: "/uploads/openlab-img.png"
+image: "/uploads/ineedit.gif"
 links:
 - title: digidemguide.org
   url: http://digidemguide.org
@@ -13,17 +13,17 @@ links:
 - title: Designing a guiding app for digital democracy
   url: https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e
 banners:
-- image: "/uploads/start1.png"
+- image: "/uploads/i%20dunno%20emoji.png"
   format: normal
-- image: "/uploads/start3.png"
+- image: "/uploads/so%20fluffy%20cat%20doodle.jpeg"
   format: normal
-- image: "/uploads/start2.png"
+- image: "/uploads/jX8bjIT5dKrlC3sGP-7QXrIpA-CbP5A5I2YyxdGl3-4-36f233.jpg"
   format: tall
 quotes:
-- text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi
-    vara fast politiska system som inte kan förnya sig, eller i värsta fall sätter
-    miljardärer och fascister till makten.
-  image: "/uploads/quote-image.png"
+- text: Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi presenterar
+    de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt
+    metod för dina behov.
+  image: "/uploads/digidemcat.png"
 contact:
 - name: Sara Woodgate
   image: "/uploads/openlab-img.png"
@@ -41,11 +41,10 @@ partner-links:
   logo: "/uploads/logotyp-medialab.jpg"
 ---
 
-## Varför
-Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi presenterar de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt metod för dina behov.
+Digidem Guide är en konkret handledning till digitala verktyg för fördjupad demokrati.
 
-## Hur
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Digidem Guide riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser. sadfssd
 
-## För vem
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec id elit non mi porta gravida at eget metus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Vestibulum id ligula porta felis euismod semper. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Det finns en växande fält av ny teknik för att underlätta demokratiska processer på alla nivåer i samhället. Digidem Guide försöker inte vara en komplett guide till alla initativ eller verktyg, utan en praktisk introdukton till fältet och de verktyg vi tror passar bäst för de flesta användare.
+
+Det första urvalet till guiden gjordes baserat på rekommendationer från det internationella community av experter som samlades på Inteligencia Colectiva Para La Democracia 2016 på Medialab Prado i Madrid. Baserat på det urvalet valde Digidem Guides arbetsgrupp ut 6 verktyg som bedömdes tillföra mest till demokratiska processer, och som dessutom är användarvänliga, pålitlita och anpassningsbara.
