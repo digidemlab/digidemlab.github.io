@@ -12,17 +12,17 @@ layout: default
   <div class="container header">
     <div class="row">
       <div class="col-lg-10 offset-lg-1 text-center">
-        <img src="{{site.baseurl}}{{page.header-image}}" height="445" alt="">
+        <img src="{{site.baseurl}}{{page.header-image}}" class="w-75 img-responsive" height="" alt="">
         <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{page.title}}</span></h1>
       </div>
     </div>
   </div>
 </header>
 
-<section class="container mt-6 pb-3b">
-  <div class="row mb-4">
+<section class="container mt-4 mt-sm-6 pb-3b">
+  <div class="row mb-2 mb-sm-4">
     <div class="col-md-7 offset-md-5">
-      <p class="lead text-primary pl-5">{{site.description}}</p>
+      <p class="lead text-primary pl-md-5">{{site.description}}</p>
     </div>
   </div>
   <nav class="nav flex-column flex-sm-row mb-2b">
@@ -32,7 +32,7 @@ layout: default
   </nav>
 
   <div class="row">
-    <div class="col">
+    <div class="col p-0">
       <div class="card">
         <div class="card-block pt-3 pb-2b">
           <p class="card-text text-primary mb-2b">{{page.news-flash[0].text}}</p>
@@ -46,36 +46,7 @@ layout: default
 </section>
 
 <section class="container-fluid px-0">
-  <div class="row no-gutters">
-    <div class="col-6">
-      <div class="card border-0">
-        <img class="card-img" src="{{site.baseurl}}{{page.banners[0].image}}" alt="">
-        <div class="card-img-overlay">
-          <h3 class="card-header border-0">
-            <a href="{{page.banners[0].link}}" class="bg-primary text-success text-uppercase px-2 py-1">{{page.banners[0].title}}</a>
-          </h3>
-        </div>
-      </div>
-      <div class="card border-0">
-        <img class="card-img" src="{{site.baseurl}}{{page.banners[1].image}}" alt="">
-        <div class="card-img-overlay">
-          <h3 class="card-header border-0">
-            <a href="{{page.banners[1].link}}" class="bg-danger text-warning text-uppercase px-2 py-1">{{page.banners[1].title}}</a>
-          </h3>
-        </div>
-      </div>
-    </div>
-    <div class="col-6">
-      <div class="card border-0">
-        <img class="card-img" src="{{site.baseurl}}{{page.banners[2].image}}" alt="">
-        <div class="card-img-overlay">
-          <h3 class="card-header border-0">
-            <a href="{{page.banners[2].link}}" class="bg-success text-info text-uppercase px-2 py-1">{{page.banners[2].title}}</a>
-          </h3>
-        </div>
-      </div>
-    </div>
-  </div>
+  {% include panels/banners.html %}
 </section>
 
 <section id="projects">

@@ -22,9 +22,8 @@ banners:
   link: https://www.instagram.com/digidemlab/
   format: normal
 - title: Projekt
-  image: "/uploads/200w-workincat.gif"
+  image: "/uploads/workincat-cropped.gif"
   link: "/projects/"
   format: tall
 layout: start
 ---
-

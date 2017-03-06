@@ -14,14 +14,14 @@
       <div class="col">
         <ul class="list-unstyled list-random mt-2">
           {% for item in site.crew %}
-            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}}">
+            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}} {% cycle 'mb-sm-6', '' %}">
               <div class="media-body pt-2 pb-3">
                 <strong>{{item.title}}</strong>,
                 {{item.job}},
                 {{item.phone}},
                 <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
               </div>
-              <img class="list-random-image list-random-image-{{forloop.index}}" src="{{site.baseurl}}{{item.image}}" width="150">
+              <img class="list-random-image list-random-image-{{forloop.index}} hidden-xs-down" src="{{site.baseurl}}{{item.image}}" width="150">
             </li>
           {% endfor %}
 

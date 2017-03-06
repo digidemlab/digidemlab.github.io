@@ -176,6 +176,15 @@ $spacers: (
 ) !default;
 $border-width: 8px !default;
 
+// This variable affects the `.h-*` and `.w-*` classes.
+$sizes: (
+  25: 25%,
+  40: 40%,
+  50: 50%,
+  75: 72%,
+  100: 100%
+) !default;
+
 
 // Grid breakpoints
 //

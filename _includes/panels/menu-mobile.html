@@ -1,19 +1,19 @@
 <!-- FULLSCREEN MODAL CODE (.fullscreen) -->
-<div class="modal fade fullscreen" id="menuModal">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+<div class="modal fullscreen" id="menuModal">
+  <div class="modal-dialog m-0 p-0 h-100 w-100">
+    <div class="modal-content h-100 border-0 bg-success text-primary">
+      <div class="modal-header border-0">
+        <button type="button" class="close text-primary" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body text-center">
-        <ul style="list-style-type:none;">
-          <li><a href="#" class="big">Hello</a></li>
-          <li><a href="#" class="big">A Menu Item</a></li>
-          <li><a href="#" class="big">Another Item</a></li>
-          <li><a href="#" class="big">This One Too!!</a></li>
-          <li><a href="http://meagency.com" class="big">me.agency</a></li>
+        <ul class="nav">
+          {% for item in site.data.menu %}
+            <li class="nav-item">
+              <a class="nav-link px-2 py-0" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
+            </li>
+          {% endfor %}
         </ul>
       </div>
     </div><!-- /.modal-content -->

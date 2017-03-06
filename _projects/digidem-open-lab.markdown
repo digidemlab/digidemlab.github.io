@@ -8,18 +8,18 @@ ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med 
 image: "/uploads/upgrade-c5552c.gif"
 links:
 - title: Ansök med ditt projekt
-  url: 
+  url:
   style: button
 - title: 'Whitepaper: Digidem Open Lab'
-  url: 
+  url:
   style: paperclip
 banners:
-- image: "/uploads/upgrade.gif"
+- image: "/uploads/upgrade-cropped.gif"
   format: normal
-- image: "/uploads/BhZhc-ziEtz9vHyK7w3D1R7qSYJE8muOoqbkBNhSUPM.jpg"
+- image: "/uploads/democracy-wtf.jpg"
   format: normal
-- image: "/uploads/tNlybyT80Xw2Z_4pJBV1iMSvGD9tUnVy644gQ4eEk9I.jpg"
-  format: tall
+- image: "/uploads/lab-with-audrey-wide.jpg"
+  format: wide
 quotes:
 - text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi
     vara fast politiska system som inte kan förnya sig, eller i värsta fall sätter

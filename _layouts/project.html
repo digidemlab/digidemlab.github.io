@@ -10,7 +10,10 @@ layout: global
       </div>
     </div>
     <div class="row mb-4">
-      <div class="col-md-4">
+      <div class="col-md-6 offset-md-2 push-md-4">
+        <div class="lead text-primary">{{ page.ingress-text | markdownify }}</div>
+      </div>
+      <div class="col-md-4 pull-md-8">
         <ul class="nav flex-column">
           {% for link in page.links %}
             <li class="nav-item pr-2 {% unless forloop.last %}mb-2{% endunless %}">
@@ -24,9 +27,6 @@ layout: global
             </li>
           {% endfor %}
         </ul>
-      </div>
-      <div class="col-md-6 offset-md-2">
-        <p class="lead text-primary">{{page.ingress-text}}</p>
       </div>
     </div>
     <div class="row mb-5">
@@ -45,7 +45,9 @@ layout: global
   </div>
 
   {% if page.banners %}
-    {% include panels/banners.html %}
+    <section class="container-fluid px-0 my-4">
+      {% include panels/banners.html %}
+    </section>
   {% endif %}
 
   <div class="container">

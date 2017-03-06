@@ -9,19 +9,7 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-7">
-          <div class="media">
-            {% for partner in item.partner-links %}
-              <a href="{{partner.link}}">
-                <img class="d-flex mr-2 hidden-sm-down" src="{{site.baseurl}}{{partner.logo}}" alt="{{partner.name}}" height="100">
-              </a>
-            {% endfor %}
-            <div class="media-body mr-4">
-              <p class="small text-muted">{{item.partner-text}}</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-4 offset-md-1">
+        <div class="col-md-4 offset-md-1 push-md-7">
           <ul class="nav flex-column">
             {% for link in item.links %}
               <li class="nav-item pl-2 {% unless forloop.last %}mb-2b{% endunless %}">
@@ -35,6 +23,18 @@
               </li>
             {% endfor %}
           </ul>
+        </div>
+        <div class="col-md-7 pull-md-5">
+          <div class="media">
+            {% for partner in item.partner-links %}
+              <a href="{{partner.link}}">
+                <img class="d-flex mr-2 hidden-sm-down" src="{{site.baseurl}}{{partner.logo}}" alt="{{partner.name}}" height="100">
+              </a>
+            {% endfor %}
+            <div class="media-body mr-4">
+              <p class="small text-muted">{{item.partner-text}}</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>

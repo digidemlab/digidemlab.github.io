@@ -1,27 +1,17 @@
-
-{% assign custom_url = site.url | append: site.baseurl %}
-{% assign full_base_url = custom_url %}
-
-<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#main-menu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="modal" data-target="#menuModal" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
   <span class="navbar-toggler-icon"></span>
 </button>
-<a class="navbar-brand" href="{{full_base_url}}/"><img src="{{full_base_url}}/assets/images/logotyp.svg" width="250" height="70"></a>
+
+<a class="navbar-brand" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/images/logotyp.svg" width="250" height="70"></a>
 
 <div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
 
   <ul class="navbar-nav nav-menu-main">
-    <li class="nav-item">
-      <a class="nav-link px-2 py-0" href="{{full_base_url}}/about">Om</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link px-2 py-0" href="{{full_base_url}}/projects">Projekt</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link px-2 py-0" href="{{full_base_url}}/contact">Kontakt</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link px-2 py-0" href="https://medium.com/digidemlab">Blogg</a>
-    </li>
+    {% for item in site.data.menu %}
+      <li class="nav-item">
+        <a class="nav-link px-2 py-0" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
+      </li>
+    {% endfor %}
   </ul>
 
   <ul class="navbar-nav nav-menu-secondary ml-4">
@@ -33,6 +23,3 @@
     </li>
   </ul>
 </div>
-<!--
-<button type="button" class="btn btn-link navbar-toggle collapsed" data-toggle="modal" data-target="#menuModal"> ... </button>
--->
