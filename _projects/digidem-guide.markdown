@@ -41,8 +41,9 @@ partner-links:
   logo: "/uploads/logotyp-medialab.jpg"
 ---
 
-## Varför
+## Testar lite
 Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi presenterar de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt metod för dina behov.
+
 
 ## Hur
 Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Curabitur blandit tempus porttitor. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
