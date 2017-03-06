@@ -41,12 +41,12 @@ partner-links:
   logo: "/uploads/logotyp-medialab.jpg"
 ---
 
-Digidem Guide riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser.
+Digidem Guide är en konkret handledning till digitala verktyg för fördjupad demokrati. Den riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser.
 
 ## Praktisk introduktion
 Det finns en växande fält av ny teknik för att underlätta demokratiska processer på alla nivåer i samhället. Digidem Guide försöker inte vara en komplett guide till alla initativ eller verktyg, utan en praktisk introdukton till fältet och de verktyg vi tror passar bäst för de flesta användare.
 
-## Ett internationellt team
+## Internationellt team
 Det första urvalet till guiden gjordes baserat på rekommendationer från det internationella community av experter som samlades på Inteligencia Colectiva Para La Democracia 2016 på Medialab Prado i Madrid. Baserat på det urvalet valde Digidem Guides arbetsgrupp ut 6 verktyg som bedömdes tillföra mest till demokratiska processer, och som dessutom är användarvänliga, pålitlita och anpassningsbara.
 
 ## Pilotversionen
