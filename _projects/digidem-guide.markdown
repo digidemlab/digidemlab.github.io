@@ -2,9 +2,8 @@
 title: Digidem Guide
 date: 2017-02-23 17:21:00 Z
 excerpt: Din guide till digitala verktyg för fördjupad demokrati.
-ingress-text: Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi
-  presenterar de bästa tillgängliga digitala verktygen på ett ställe, så att du kan
-  hitta rätt metod för dina behov.
+ingress-text: Digidem Guide presenterar de bästa tillgängliga digitala verktygen på
+  ett ställe, så att du kan hitta rätt metod för dina behov.
 image: "/uploads/ineedit.gif"
 links:
 - title: digidemguide.org
@@ -13,20 +12,20 @@ links:
 - title: Designing a guiding app for digital democracy
   url: https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e
 banners:
-- image: "/uploads/i%20dunno%20emoji.png"
+- image: "/uploads/XQSTkjduy6H5Lzxf2H-i0PLdmkFKO6QO0IdO-Yo4NUI.jpg"
   format: normal
 - image: "/uploads/so%20fluffy%20cat%20doodle.jpeg"
   format: normal
 - image: "/uploads/jX8bjIT5dKrlC3sGP-7QXrIpA-CbP5A5I2YyxdGl3-4-36f233.jpg"
   format: tall
 quotes:
-- text: Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi presenterar
+- text: Digidem Guide arbetar för att föra in demokrati i din vardag. Vi presenterar
     de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt
     metod för dina behov.
   image: 
 contact:
 - name: Sara Woodgate
-  image: "/uploads/openlab-img.png"
+  image: "/uploads/sarapresentationsbild1.gif"
   job: Project Coordinator
   mail: sara@digidemlab.org
 - name: Jennie Lindell
