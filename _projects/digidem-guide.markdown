@@ -30,7 +30,7 @@ contact:
   job: Project Coordinator
   mail: sara@digidemlab.org
 - name: Jennie Lindell
-  image: "/uploads/openlab-img.png"
+  image: "/uploads/jennie.png"
   job: Project Coordinator
   mail: jennie@digidemlab.org
 partner-text: Digidem Guide utvecklades av ett internationellt team av designers,
