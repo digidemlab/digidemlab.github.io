@@ -2,9 +2,8 @@
 title: Digidem Guide
 date: 2017-02-23 17:21:00 Z
 excerpt: Din guide till digitala verktyg för fördjupad demokrati.
-ingress-text: Digidem Guide arbetar för att föra in demokrati i din vardag. Vi presenterar
-  de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt
-  metod för dina behov.
+ingress-text: Digidem Guide presenterar de bästa tillgängliga digitala verktygen på
+  ett ställe, så att du kan hitta rätt metod för dina behov.
 image: "/uploads/ineedit.gif"
 links:
 - title: digidemguide.org
