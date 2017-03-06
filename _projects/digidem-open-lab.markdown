@@ -5,7 +5,7 @@ excerpt: Ansök med ditt projekt idag och bli en del av vårt team osv..
 ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
   verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra
   att träffas och förena sina skills för bästa resultat. '
-image: "/uploads/openlab-img.png"
+image: "/uploads/oh%20no%20emoji%20plus%20fingers%20crossed.jpeg"
 links:
 - title: Ansök med ditt projekt
   url: 
@@ -14,17 +14,17 @@ links:
   url: 
   style: paperclip
 banners:
-- image: "/uploads/start1.png"
+- image: "/uploads/upgrade.gif"
   format: normal
-- image: "/uploads/start3.png"
+- image: "/uploads/abrepuerts%20illustration.jpeg"
   format: normal
-- image: "/uploads/start2.png"
+- image: "/uploads/upgrade%20still%20text.gif"
   format: tall
 quotes:
 - text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi
     vara fast politiska system som inte kan förnya sig, eller i värsta fall sätter
     miljardärer och fascister till makten.
-  image: "/uploads/quote-image.png"
+  image: "/uploads/phonecover.jpeg"
 contact:
 - name: Anna Sanne Göransson
   image: "/uploads/anna.png"

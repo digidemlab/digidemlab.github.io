@@ -13,11 +13,11 @@ links:
 - title: Designing a guiding app for digital democracy
   url: https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e
 banners:
-- image: "/uploads/start1.png"
+- image: "/uploads/i%20dunno%20emoji.png"
   format: normal
-- image: "/uploads/start3.png"
+- image: "/uploads/so%20fluffy%20cat%20doodle.jpeg"
   format: normal
-- image: "/uploads/start2.png"
+- image: "/uploads/jX8bjIT5dKrlC3sGP-7QXrIpA-CbP5A5I2YyxdGl3-4-36f233.jpg"
   format: tall
 quotes:
 - text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi
