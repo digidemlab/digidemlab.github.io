@@ -1,11 +1,11 @@
 ---
 title: Digidem Guide
 date: 2017-02-23 17:21:00 Z
-excerpt: Din guide till digitala verktyg för fördjupad demokrati.
+excerpt: Praktiska verktyg för att samverka och ta bättre beslut
 ingress-text: Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi
   presenterar de bästa tillgängliga digitala verktygen på ett ställe, så att du kan
   hitta rätt metod för dina behov.
-image: "/uploads/digidemcat.png"
+image: "/uploads/ineedit.gif"
 links:
 - title: digidemguide.org
   url: http://digidemguide.org
@@ -23,7 +23,7 @@ quotes:
 - text: Digidem Guide arbetar för att ta föra in demokrati i din vardag. Vi presenterar
     de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt
     metod för dina behov.
-  image: 
+  image: "/uploads/digidemcat.png"
 contact:
 - name: Sara Woodgate
   image: "/uploads/openlab-img.png"
@@ -41,13 +41,10 @@ partner-links:
   logo: "/uploads/logotyp-medialab.jpg"
 ---
 
-Digidem Guide är en konkret handledning till digitala verktyg för fördjupad demokrati. Den riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser.
+Digidem Guide är en konkret handledning till digitala verktyg för fördjupad demokrati.
 
-## Praktisk introduktion
+Digidem Guide riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser. sadfssd
+
 Det finns en växande fält av ny teknik för att underlätta demokratiska processer på alla nivåer i samhället. Digidem Guide försöker inte vara en komplett guide till alla initativ eller verktyg, utan en praktisk introdukton till fältet och de verktyg vi tror passar bäst för de flesta användare.
 
-## Internationellt team
 Det första urvalet till guiden gjordes baserat på rekommendationer från det internationella community av experter som samlades på Inteligencia Colectiva Para La Democracia 2016 på Medialab Prado i Madrid. Baserat på det urvalet valde Digidem Guides arbetsgrupp ut 6 verktyg som bedömdes tillföra mest till demokratiska processer, och som dessutom är användarvänliga, pålitlita och anpassningsbara.
-
-## Pilotversionen
-Den nuvarande versionen av guiden är en första pilotversion. Vi välkomnar feedback och synpunkter för att utveckla guiden ytterligare i framtiden.
