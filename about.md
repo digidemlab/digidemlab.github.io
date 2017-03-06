@@ -4,7 +4,7 @@ position: 1
 lang: sv
 ingress-text: Digidem Lab är en ideell organisation som verkar för radikal demokrati
   med ny teknik. Det gör vi bland annat genom vårt [öppna lab i Göteborg](/projects/digidem-open-lab)
-  och guiden Digidem Guide.
+  och [Digidem Guide](/projects/digidem-open-lab).
 quotes:
 - text: New online tools for interaction and collaboration have let people come together
     across space and time to build amazing things. As the Internet breaks down the
@@ -13,9 +13,9 @@ quotes:
   person: Aaron Swartz
 ---
 
-Vi samlar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig för att skapa metoder och verktyg för morgondagens deltagande demokrati. Nya former för deltagande måste skapas underifrån och i alla delar av samhället.
+Vi samlar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Nya former för deltagande måste skapas underifrån och i alla delar av samhället.
 
-Vi är en del av en växande demokratirörelse, som använder kollektiv intelligens för att utmana gamla politiska och ekonomiska eliter. Brittiska Jeremy Corbyns digitala manifest, spanska Podemos demokratiska plattform och det växande nätverket för städer som söker nya sätt för deltagande visar på en annan typ av framtid än den som Donald Trump står för.
+Vi är en del av en växande demokratirörelse, som använder kollektiv intelligens för att utmana gamla politiska och ekonomiska eliter. Brittiska [Jeremy Corbyns digitala manifest](http://www.jeremyforlabour.com/digital_democracy_manifesto), spanska [Podemos demokratiska plattform](https://plaza.podemos.info/) och det växande [nätverket för städer](http://democratic-cities.cc/) som söker nya sätt för deltagande visar på en annan typ av framtid än den som Donald Trump står för.
 
 {% include panels/quote.html %}
 
