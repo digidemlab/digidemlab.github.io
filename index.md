@@ -16,20 +16,15 @@ news-flash:
 banners:
 - title: blog
   image: "/uploads/start1.png"
-  link: 
+  link:
   format: normal
-- title: 
+- title:
   image: "/uploads/start3.png"
-  link: 
+  link:
   format: normal
 - title: Projekt
   image: "/uploads/200w-workincat.gif"
-  link: 
+  link:
   format: tall
-contact-title: Få tag på oss!
-contact-text: Digidem Lab är en ideell organisation som arbetar med att främja deltagande
-  demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun eller
-  parti att hitta nya sätt att engagera och skapa processer för deltagande.
 layout: start
 ---
-
