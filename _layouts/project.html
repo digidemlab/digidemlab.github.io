@@ -80,7 +80,7 @@ layout: global
                     <p class="small text-muted">
                       <strong>{{item.name}}</strong><br>
                       {{item.job}}<br>
-                      {{item.phone}}<br>
+                      {% if item.phone %}{{item.phone}}<br>{% endif %}
                       <a href="mailto:{{item.mail}}">{{item.mail}}</a>
                     </p>
                   </div>
