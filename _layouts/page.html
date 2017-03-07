@@ -4,107 +4,29 @@ layout: global
 
 <article>
   <div class="container">
-    <div class="row mt-5 mb-4">
-      <div class="col-md-10 offset-md-1 text-center">
-        <h1>{{page.title}}</h1>
-      </div>
-    </div>
-    <div class="row mb-4">
-      <div class="col-md-6 offset-md-2 push-md-4">
-        <div class="lead text-primary">{{ page.ingress-text | markdownify }}</div>
-      </div>
-      <div class="col-md-4 pull-md-8">
-        <ul class="nav flex-column">
-          {% for link in page.links %}
-            <li class="nav-item pr-2 {% unless forloop.last %}mb-2{% endunless %}">
-              <a class="{% if link.style == 'button' %}btn btn-primary btn-block{% else %}nav-link p-0{% endif %}
-                {% unless link.style %}icon-arrow pl-3{% endunless %}" href="{{link.url}}">
-                {% if link.style and link.style != 'button' %}
-                  <i class="fa fa-{{link.style}} fa-fw" aria-hidden="true"></i>
-                {% endif %}
-                {{link.title}}
-              </a>
-            </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
-    {% if page.image %}
-      <div class="row mb-5">
-        <div class="col-md-5 offset-md-4 text-center">
-          <img src="{{site.baseurl}}{{page.image}}" class="img-fluid">
-        </div>
-      </div>
-    {% endif %}
+    {% include content/page-header.html %}
     <div class="row">
       <div class="col content">
         {% assign paragraphs = content | split:'</p>' %}
         {% for paragraph in paragraphs limit:1 %}
           {{ paragraph | append: '</p>' }}
         {% endfor %}
-
         {% if page.banners.size > 0 %}
-
       </div>
     </div>
   </div>
-
-  <section class="container-fluid px-0 my-4">
+  <section class="container-fluid px-0 mb-3 my-lg-4">
     {% include panels/banners.html %}
   </section>
-
   <div class="container">
-    <div class="row content mb-3">
+    <div class="row content mb-lg-3">
       <div class="col">
-
         {% endif %}
-
         {% for paragraph in paragraphs offset:1 %}
           {{ paragraph | append: '</p>' }}
         {% endfor %}
       </div>
     </div>
-
-    {% if page.contact %}
-      <div class="row mb-4">
-        <div class="col-md-3">
-          <h2 class="text-uppercase">Frågor? Prata med oss!</h2>
-        </div>
-        <div class="col-md-8">
-          <div class="row">
-            {% for item in page.contact %}
-              <div class="col-6">
-                <div class="media">
-                  <img class="d-flex mr-2 hidden-sm-down" src="{{site.baseurl}}{{item.image}}" style="max-width:100%" height="140">
-                  <div class="media-body">
-                    <p class="small text-muted">
-                      <strong>{{item.name}}</strong><br>
-                      {{item.job}}<br>
-                      {{item.phone}}<br>
-                      <a href="mailto:{{item.mail}}">{{item.mail}}</a>
-                    </p>
-                  </div>
-                </div>
-              </div>
-            {% endfor %}
-          </div>
-        </div>
-      </div>
-    {% endif %}
-
-    <div class="row mb-4">
-      <div class="col-md-7 offset-md-3">
-        <div class="media">
-          {% for partner in page.partner-links %}
-            <img class="d-flex mr-2 hidden-sm-down" src="{{site.baseurl}}{{partner.logo}}" alt="{{partner.name}}" height="100">
-          {% endfor %}
-          <div class="media-body mr-4">
-            <p class="small text-muted">{{page.partner-text}}</p>
-          </div>
-        </div>
-      </div>
-    </div>
   </div>
 </article>
-
 {% include panels/contact.html %}

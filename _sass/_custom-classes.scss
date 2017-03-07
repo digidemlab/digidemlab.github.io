@@ -9,15 +9,32 @@
   position: relative;
   top: 5.5rem; // ca 89
   margin-top: -1.6rem; // ca 26
+
+  @include media-breakpoint-down(sm) {
+    top: 4.5rem; // ca 89
+  }
 }
 
 .view-header-box {
   position: absolute;
-  top: -3rem;
+  top: -0;
   left: 3rem;
   width: 18rem;
   height: 10.7rem;
   z-index: -1;
+}
+
+
+// Padding
+@include media-breakpoint-down(sm) {
+
+  .btn {
+    padding: 1.5rem;
+  }
+
+  .card-header {
+      padding: 2rem;
+    }
 }
 
 // Fonts
@@ -25,6 +42,10 @@
 .display-1 {
   line-height: 1.375;
   margin-top: -6rem;
+
+  @include media-breakpoint-down(sm) {
+    margin-top: -5rem;
+  }
 }
 
 .display-2 {
@@ -35,7 +56,6 @@
 .lead {
   font-family: $headings-font-family;
   line-height: 1.4;
-  margin-bottom: 1.5rem;
 
   a {
     text-decoration: underline;
@@ -49,53 +69,28 @@
    font-size: 1.5rem;
 }
 
-@mixin image-label($background, $color) {
-  background-color: $background;
-  color: $color;
-}
-
-.image-label-1 {
-  @include image-label($blue, $teal);
-}
-
-a:hover .image-label-1 {
-  @include image-label($teal, $blue);
-}
-
-.image-label-2 {
-  @include image-label($magenta, $yellow);
-}
-
-a:hover .image-label-2 {
-  @include image-label($yellow, $magenta);
-}
-
-.image-label-3 {
-  @include image-label($teal, $violet);
-}
-
-a:hover .image-label-3 {
-  @include image-label($violet, $teal);
-}
-
 
 // Content
 
 .content h2,
 .content h3 {
   text-transform: uppercase;
-  @include media-breakpoint-up(sm) {
+  margin-bottom: 1.5rem;
+
+  @include media-breakpoint-up(lg) {
     float: left;
     width: 23.3%;
   }
 }
 
 .content p {
-  @include media-breakpoint-up(sm) {
+  @include media-breakpoint-up(lg) {
     @include make-col-offset(3);
     margin-bottom: 4rem;
     padding-left: ($grid-gutter-width-base / 4);
   }
+
+  margin-bottom: 3rem;
 
   a {
     text-decoration: underline;
@@ -109,7 +104,7 @@ blockquote {
 
 .blockquote-img {
   margin-right: -25%;
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(md) {
     margin-right: -50%;
   }
 }
@@ -153,6 +148,11 @@ small a,
   }
 }
 
+.navbar-brand img {
+  @include media-breakpoint-down(sm) {
+    max-width: 80%;
+  }
+}
 
 // Lists
 
@@ -185,6 +185,9 @@ ul.list-random {
 
 .nav-link .fa-fw {
   width: 3rem;
+  @include media-breakpoint-down(sm) {
+    width: 4rem;
+  }
   float: left;
   padding: 0.25rem 0 1rem;
 }
@@ -203,6 +206,9 @@ ul.list-random {
   background: $yellow;
 }
 
+.close {
+  opacity: 1;
+}
 
 /* FULL SCREEN MODAL STYLES
 -------------------------------------------------- */
@@ -230,11 +236,15 @@ ul.list-random {
     font-size: 3rem;
   }
 
+  h3,
+  .btn,
+  .nav .nav-link,
   .blockquote,
   blockquote,
   .card-text,
+  .card-link,
   .lead {
-    font-size: 1.6667rem;
+    font-size: 1.6667rem !important;
   }
 
   .list-random-item {
@@ -243,6 +253,11 @@ ul.list-random {
 
   .small,
   small {
-    font-size: 1.16667rem !important;
+    font-size: 1.16667rem;
+  }
+
+  .icon-arrow,
+  .icon-arrow-blue {
+    background-position: 5px 3px;
   }
 }

@@ -1,25 +1,28 @@
-<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="modal" data-target="#menuModal" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-  <span class="navbar-toggler-icon"></span>
-</button>
+<nav class="navbar navbar-toggleable-md navbar-light pt-2 pt-lg-3 pb-0">
+  <button class="navbar-toggler navbar-toggler-right border-0" type="button" data-toggle="modal" data-target="#menuModal" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <!-- <i class="fa fa-bars fa-3x" aria-hidden="true"></i> -->
+    <span class="navbar-toggler-icon"></span>
+  </button>
 
-<a class="navbar-brand" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/images/logotyp.svg" width="250" height="70"></a>
+  <a class="navbar-brand" href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/images/logotyp.svg" width="250" height="70" class="d-inline-block align-top"></a>
 
-<div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
+  <div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
 
-  <ul class="navbar-nav nav-menu-main">
-    {% for item in site.data.menu %}
-      <li class="nav-item">
-        <a class="nav-link px-2 py-0" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
+    <ul class="navbar-nav nav-menu-main">
+      {% for item in site.data.menu %}
+        <li class="nav-item">
+          <a class="nav-link px-2 py-0" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <ul class="navbar-nav nav-menu-secondary ml-4">
+      <li class="nav-item active">
+        <a class="nav-link py-0" href="{{site.baseurl}}/">SV</a>
       </li>
-    {% endfor %}
-  </ul>
-
-  <ul class="navbar-nav nav-menu-secondary ml-4">
-    <li class="nav-item active">
-      <a class="nav-link py-0" href="{{site.baseurl}}/">SV</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link py-0 pr-0 disabled" href="{{site.baseurl}}/en">EN</a>
-    </li>
-  </ul>
-</div>
+      <li class="nav-item">
+        <a class="nav-link py-0 pr-0 disabled" href="{{site.baseurl}}/en">EN</a>
+      </li>
+    </ul>
+  </div>
+</nav>

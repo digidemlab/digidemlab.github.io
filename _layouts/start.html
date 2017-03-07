@@ -3,11 +3,9 @@ layout: default
 ---
 
 <header class="site-header bg-success" role="banner">
-  <nav class="navbar navbar-toggleable-md navbar-light pt-3 pb-0">
-    <div class="container">
-      {% include panels/navbar.html %}
-    </div>
-  </nav>
+  <div class="container">
+    {% include panels/navbar.html %}
+  </div>
 
   <div class="container header">
     <div class="row">
@@ -19,25 +17,25 @@ layout: default
   </div>
 </header>
 
-<section class="container mt-4 mt-sm-6 pb-3b">
-  <div class="row mb-2 mb-sm-4">
-    <div class="col-md-7 offset-md-5">
-      <p class="lead text-primary pl-md-5">{{site.description}}</p>
+<section class="container mt-4 mt-lg-6 pb-3b">
+  <div class="row mb-2b mb-lg-4">
+    <div class="col-lg-7 offset-lg-5">
+      <p class="lead text-primary pl-lg-5">{{site.description}}</p>
     </div>
   </div>
-  <nav class="nav flex-column flex-sm-row mb-2b">
+  <nav class="nav flex-column flex-lg-row mb-2b">
     {% for item in page.links %}
-      <a class="flex-sm-fill nav-link pl-3 pr-5 py-0 icon-arrow" href="{{site.baseurl}}{{item.link}}">{{item.title}}</a>
+      <a class="flex-lg-fill nav-link pl-4 pl-lg-3 pr-lg-5 pt-0 pb-1 pb-lg-0 icon-arrow" href="{{site.baseurl}}{{item.link}}">{{item.title}}</a>
     {% endfor %}
   </nav>
 
   <div class="row">
     <div class="col p-0">
       <div class="card">
-        <div class="card-block pt-3 pb-2b">
+        <div class="card-block py-2b px-2 px-lg-3">
           <p class="card-text text-primary mb-2b">{{page.news-flash[0].text}}</p>
           <div class=" text-right">
-            <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="card-link text-primary icon-arrow-blue pl-3">{{page.news-flash[0].link-title}}</a>
+            <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="card-link text-primary icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
           </div>
         </div>
       </div>

@@ -137,6 +137,10 @@ $spacers: (
     x: 0,
     y: 0
   ),
+  0b: (
+  x: ($spacer-x * 0.5),
+  y: ($spacer-y * 0.5)
+  ),
   1: (
     x: ($spacer-x * 1),
     y: ($spacer-y * 1)
@@ -250,6 +254,11 @@ $headings-margin-bottom:    ($spacer * 2) !default;
 $font-size-h1: 5rem !default;
 $font-size-h2: 1.625rem !default;
 
+$font-size-h3: 1.625rem !default;
+$font-size-h4: 1rem !default;
+$font-size-h5: 1rem !default;
+$font-size-h6: 1rem !default;
+
 $display1-size: 5rem !default;
 $display2-size: 5rem !default;
 $display3-size: 1.5rem !default;
@@ -285,11 +294,15 @@ $card-img-overlay-padding: 0rem !default;
 
 // Navbar
 
+$navbar-toggler-padding-x:           0 !default;
+$navbar-toggler-padding-y:           0 !default;
+$navbar-toggler-font-size:           2.5rem;
+
 $navbar-light-color:                $blue !default;
 $navbar-light-hover-color:          $blue !default;
 $navbar-light-active-color:         $blue !default;
 $navbar-light-disabled-color:       rgba($black,.3) !default;
-$navbar-light-toggler-bg: str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#{$navbar-light-color}' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"), "#", "%23") !default;
+$navbar-light-toggler-bg: str-replace(url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='#{$navbar-light-color}' stroke-width='3' stroke-linecap='square' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"), "#", "%23") !default;
 $navbar-light-toggler-border:       $blue !default;
 
 // Buttons
@@ -303,3 +316,10 @@ $btn-active-box-shadow:          8px 8px 0 0  $blue !default;
 $btn-primary-color:              $brand-primary !default;
 $btn-primary-bg:                 $white !default;
 $btn-primary-border:             $btn-primary-color !default;
+
+
+// Close
+$close-font-size:             5rem;
+$close-font-weight:           normal !default;
+$close-color:                 $blue !default;
+$close-text-shadow:           0 !default;

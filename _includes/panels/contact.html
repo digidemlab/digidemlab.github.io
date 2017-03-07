@@ -1,10 +1,10 @@
 <section id="contact" class="bg-info">
-  <div class="container pt-3b">
+  <div class="container pt-3b pb-3 pb-lg-0">
 
     <div class="row">
       <div class="col-lg-10 offset-lg-1 text-center px-3">
 
-        <h2 class="display-2 text-white mb-1">{{site.contact-title}}</h2>
+        <h2 class="display-2 text-white mb-lg-1">{{site.contact-title}}</h2>
         <p class="text-white">{{site.contact-text}}</p>
 
       </div>
@@ -14,7 +14,7 @@
       <div class="col">
         <ul class="list-unstyled list-random mt-2">
           {% for item in site.crew %}
-            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}} {% cycle 'mb-sm-6', '' %}">
+            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}} {% cycle 'mb-lg-6', '' %}">
               <div class="media-body pt-2 pb-3">
                 <strong>{{item.title}}</strong>,
                 {{item.job}},
