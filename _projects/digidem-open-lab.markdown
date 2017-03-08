@@ -8,7 +8,7 @@ ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med 
 image: "/uploads/upgrade-c5552c.gif"
 links:
 - title: Ansök med ditt projekt
-  url: http://bit.ly/2mlkV3b
+  url: https://digidemlab.sandcats.io/shared/STJS41aCSw69VY1DXXN7RKPFFvZPrz7aDKDTCyvaMDn
   style: button
 - title: 
   url: 
