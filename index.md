@@ -3,19 +3,19 @@ title: Framtidens demokrati i dina händer
 position: 0
 header-image: "/uploads/upgrade-1b8365.gif"
 links:
-- title: Vadå demokrati?
+- title: Vilka är Digidem Lab?
   link: "/about"
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- text: "Nu är ansökan till Open Lab öppen!\n  Du som är 18-25 kan få anställning
-    på Labbet en dag i månaden för att utveckla ditt projekt inom framtidens verktyg
-    för förändring själv eller med andra. "
+- text: |-
+    Nu är ansökan till Open Lab öppen!
+    Du som är 18-25 år kan ansöka om att arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan under tre månader. Du får 2600 kr före skatt per månad och handledning av våra projektledare.
   link-title: 'Sök till Digidem Open Lab i Göteborg :+1:'
   link: "/projects/digidem-open-lab"
 banners:
 - title: Blogg
-  image: "/uploads/start1.png"
+  image: "/uploads/Learning.jpg"
   link: https://medium.com/digidemlab
   format: normal
 - title: Instagram
