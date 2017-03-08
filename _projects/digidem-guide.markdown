@@ -12,9 +12,9 @@ links:
 - title: Designing a guiding app for digital democracy
   url: https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e
 banners:
-- image: "/uploads/XQSTkjduy6H5Lzxf2H-i0PLdmkFKO6QO0IdO-Yo4NUI.jpg"
+- image: "/uploads/medialab.jpg"
   format: normal
-- image: "/uploads/so%20fluffy%20cat%20doodle.jpeg"
+- image: "/uploads/heatmap.jpg"
   format: normal
 - image: "/uploads/digicat.jpg"
   format: tall
