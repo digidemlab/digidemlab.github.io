@@ -8,8 +8,9 @@ links:
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- text: 'Du behöver vara 18 till 25 år Tro att en annan värld är möjlig Söka med ett
-    projekt om nya former för deltagande för din grupp eller förening eller världen<br> '
+- text: "Nu är ansökan till Open Lab öppen!\n  Du som är 18-25 kan få anställning
+    på Labbet en dag i månaden för att utveckla ditt projekt inom framtidens verktyg
+    för förändring själv eller med andra. "
   link-title: 'Sök till Digidem Open Lab i Göteborg :+1:'
   link: "/projects/digidem-open-lab"
 banners:
