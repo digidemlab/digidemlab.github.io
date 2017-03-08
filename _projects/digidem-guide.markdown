@@ -16,7 +16,7 @@ banners:
   format: normal
 - image: "/uploads/so%20fluffy%20cat%20doodle.jpeg"
   format: normal
-- image: "/uploads/jX8bjIT5dKrlC3sGP-7QXrIpA-CbP5A5I2YyxdGl3-4-36f233.jpg"
+- image: "/uploads/digicat.jpg"
   format: tall
 quotes:
 - text: Digidem Guide arbetar för att föra in demokrati i din vardag. Vi presenterar
