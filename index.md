@@ -8,9 +8,9 @@ links:
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- text: |-
-    Nu är ansökan till Open Lab öppen!
-    Du som är 18-25 år kan ansöka om att arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan under tre månader. Du får 2600 kr före skatt per månad och handledning av våra projektledare.
+- text: "Nu är ansökan till Open Lab öppen!  \nDu som är 18-25 år kan ansöka om att
+    arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan
+    under tre månader. Lön och handledning ingår."
   link-title: 'Sök till Digidem Open Lab i Göteborg :+1:'
   link: "/projects/digidem-open-lab"
 banners:
