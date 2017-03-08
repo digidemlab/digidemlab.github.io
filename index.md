@@ -18,9 +18,9 @@ banners:
   image: "/uploads/Learning.jpg"
   link: https://medium.com/digidemlab
   format: normal
-- title: Instagram
+- title: 
   image: "/uploads/start3.png"
-  link: https://www.instagram.com/digidemlab/
+  link: 
   format: normal
 - title: Projekt
   image: "/uploads/workincat-cropped.gif"
