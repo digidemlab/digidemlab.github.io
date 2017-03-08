@@ -15,7 +15,7 @@ news-flash:
   link: "/projects/digidem-open-lab"
 banners:
 - title: Blogg
-  image: "/uploads/Learning.jpg"
+  image: "/uploads/Learning-cropped.jpg"
   link: https://medium.com/digidemlab
   format: normal
 - title: 
