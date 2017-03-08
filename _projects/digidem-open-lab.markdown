@@ -8,11 +8,11 @@ ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med 
 image: "/uploads/upgrade-c5552c.gif"
 links:
 - title: Ansök med ditt projekt
-  url: 
+  url: http://bit.ly/2mlkV3b
   style: button
-- title: 'Whitepaper: Digidem Open Lab'
+- title: 
   url: 
-  style: paperclip
+  style: 
 banners:
 - image: "/uploads/upgrade-cropped.gif"
   format: normal
