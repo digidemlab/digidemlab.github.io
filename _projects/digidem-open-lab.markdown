@@ -1,7 +1,7 @@
 ---
 title: Digidem Open Lab
 date: 2017-02-23 17:00:00 Z
-excerpt: Ansök med ditt projekt idag och bli en del av vårt team osv..
+excerpt: Du kan jobba med att utveckla och få betalt i labbet tillsammans med andra
 ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
   verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra
   att träffas och förena sina skills för bästa resultat. '
