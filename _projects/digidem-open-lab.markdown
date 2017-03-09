@@ -5,10 +5,10 @@ excerpt: Du kan jobba med att utveckla och få betalt i labbet tillsammans med a
 ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
   verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra
   att träffas och förena sina skills för bästa resultat. '
-image: "/uploads/sherlocksaythatagain.gif"
+image: "/uploads/updragde-front.gif"
 links:
 - title: Ansök med ditt projekt
-  url: http://bit.ly/2mlkV3b
+  url: https://digidemlab.sandcats.io/shared/STJS41aCSw69VY1DXXN7RKPFFvZPrz7aDKDTCyvaMDn
   style: button
 - title: 
   url: 
@@ -16,7 +16,7 @@ links:
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal
-- image: "/uploads/skamha%CC%88ng.gif"
+- image: "/uploads/gatos.jpeg"
   format: normal
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide

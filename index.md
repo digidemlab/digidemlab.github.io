@@ -1,7 +1,7 @@
 ---
 title: Framtidens demokrati i dina händer
 position: 0
-header-image: "/uploads/upgrade-1b8365.gif"
+header-image: "/uploads/medialab_web_th.jpeg"
 links:
 - title: Vilka är Digidem Lab?
   link: "/about"
