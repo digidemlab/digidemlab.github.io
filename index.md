@@ -1,7 +1,7 @@
 ---
 title: Framtidens demokrati i dina händer
 position: 0
-header-image: "/uploads/updragde-front.gif"
+header-image: "/uploads/hackforgood.jpeg"
 links:
 - title: Vilka är Digidem Lab?
   link: "/about"
