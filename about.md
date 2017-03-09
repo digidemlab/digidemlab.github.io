@@ -13,7 +13,7 @@ quotes:
   person: Aaron Swartz
 ---
 
-##Nya former 
+## Nya former
 Vi samlar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Nya former för deltagande måste skapas underifrån och i alla delar av samhället.
 
 ## En växande rörelse 
