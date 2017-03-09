@@ -9,20 +9,11 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-lg-4 offset-lg-1 push-lg-7">
+        <div class="col-lg-5 col-xl-4 offset-xl-1 push-lg-7">
           {% include content/page-links.html links=item.links %}
         </div>
-        <div class="col-lg-7 pull-lg-5  hidden-md-down">
-          <div class="media">
-            {% for partner in item.partner-links %}
-              <a href="{{partner.link}}">
-                <img class="d-flex mr-2" src="{{site.baseurl}}{{partner.logo}}" alt="{{partner.name}}" height="100">
-              </a>
-            {% endfor %}
-            <div class="media-body mr-lg-4">
-              <p class="small text-muted">{{item.partner-text}}</p>
-            </div>
-          </div>
+        <div class="col-lg-7 pull-lg-5  hidden-xs-down">
+          {% include content/partners.html partners=item.partner-links partner-text=item.partner-text %}
         </div>
       </div>
     </div>

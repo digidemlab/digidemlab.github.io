@@ -12,11 +12,13 @@ ingress-text: Vi hjälper gärna er organisation, kommun eller parti att hitta n
 
   <div class="row mb-4">
     <div class="col-lg-10 offset-lg-2">
-
         {% for item in site.crew %}
-            <div class="media flex-wrap">
-              <img class="d-flex mb-2 mr-2 mw-100" src="{{site.baseurl}}{{item.image}}" width="250">
-              <div class="media-body mb-2">
+
+            <div class="row mb-2">
+              <div class="col-8 offset-2 offset-sm-0 col-sm-4 text-center mb-2">
+                <img class="w-100" src="{{site.baseurl}}{{item.image}}">
+              </div>
+              <div class="col-12 col-sm-8">
                   <h2 class="mb-1">{{item.title}}</h2>
                 <p>
                   <strong>{{item.job}}</strong>
@@ -28,8 +30,10 @@ ingress-text: Vi hjälper gärna er organisation, kommun eller parti att hitta n
                   {{item.phone}},
                   <a href="mailto:{{item.mail}}">{{item.mail}}</a>
                 </p>
+                </p>
               </div>
             </div>
+
         {% endfor %}
       </div>
   </div>

@@ -100,12 +100,18 @@
 blockquote {
   font-family: $headings-font-family;
   line-height: 1.83;
+  position: relative;
 }
 
 .blockquote-img {
-  margin-right: -25%;
+//  margin-right: -25%;
+  position: absolute;
+  top: -12.5%;
+  left: 0;
+  height: 125%;
+  z-index: -1;
   @include media-breakpoint-down(md) {
-    margin-right: -50%;
+  //  margin-right: -50%;
   }
 }
 
@@ -190,6 +196,7 @@ ul.list-random {
     width: 4rem;
   }
   float: left;
+  display: inline;
   padding: 0.25rem 0 1rem;
 }
 
