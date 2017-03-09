@@ -48,10 +48,6 @@ partner-links:
   link: http://www.arvsfonden.se/
 ---
 
-## Så här ser det ut
-Möjligheterna för demokratiskt deltagande har aldrig varit större än nu. Det finns verktyg för påverkan, diskussion och beslut färdiga att användas. Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast i politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.  
-Det måste inte se ut så här.
-
 ## Kollektiv intelligens :thermometer: :boom::heart_eyes:
 Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat. Digidem Open Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring. Vi träffas varje vecka i våra lokaler i Göteborg och tar fram framtidens demokratiska verktyg.
 
