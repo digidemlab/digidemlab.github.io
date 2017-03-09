@@ -13,11 +13,16 @@ quotes:
   person: Aaron Swartz
 ---
 
+## Så här ser det ut
+Möjligheterna för demokratiskt deltagande har aldrig varit större än nu. Det finns verktyg för påverkan, diskussion och beslut färdiga att användas. Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast i politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.  
+Det måste inte se ut så här.
+
 ## Nya former
 Vi samlar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Nya former för deltagande måste skapas underifrån och i alla delar av samhället.
 
 ## En växande rörelse 
 Vi är en del av en växande demokratirörelse, som använder kollektiv intelligens för att utmana gamla politiska och ekonomiska eliter. Brittiska [Jeremy Corbyns digitala manifest](http://www.jeremyforlabour.com/digital_democracy_manifesto), spanska [Podemos demokratiska plattform](https://plaza.podemos.info/) och det växande [nätverket för städer](http://democratic-cities.cc/) som söker nya sätt för deltagande visar på en annan typ av framtid än den som Donald Trump står för.
+
 
 {% include panels/quote.html %}
 
