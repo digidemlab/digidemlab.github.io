@@ -8,7 +8,7 @@ layout: global
     <div class="row">
       <div class="col content">
         {% assign paragraphs = content | split:'</p>' %}
-        {% for paragraph in paragraphs limit:1 %}
+        {% for paragraph in paragraphs limit:2 %}
           {{ paragraph | append: '</p>' }}
         {% endfor %}
         {% if page.banners.size > 0 %}
@@ -22,7 +22,7 @@ layout: global
     <div class="row content mb-lg-3">
       <div class="col">
         {% endif %}
-        {% for paragraph in paragraphs offset:1 %}
+        {% for paragraph in paragraphs offset:2 %}
           {{ paragraph | append: '</p>' }}
         {% endfor %}
       </div>
