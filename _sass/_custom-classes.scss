@@ -161,6 +161,12 @@ small a,
   }
 }
 
+.en:lang(en),
+.sv:lang(sv) {
+  text-decoration: underline;
+}
+
+
 // Lists
 
 ul.list-random {

@@ -1,3 +1,4 @@
+sv:
 - title: Vi är
   url: /about
 - title: Vi gör
@@ -5,4 +6,13 @@
 - title: Kontakt
   url: /contact
 - title: Blogg
+  url: 'https://medium.com/digidemlab'
+en:
+- title: About
+  url: /en/about
+- title: Work
+  url: /en/projects
+- title: Contact
+  url: /en/contact
+- title: Blog
   url: 'https://medium.com/digidemlab'

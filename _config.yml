@@ -17,14 +17,21 @@ collections:
 defaults:
 - scope:
     path: ''
-    type: projects
-  values:
-    layout: project
-- scope:
-    path: ''
     type: pages
   values:
     layout: page
+    lang: sv
+- scope:
+    path: 'en'
+    type: pages
+  values:
+    layout: page
+    lang: en
+- scope:
+    path: 'projects'
+    type: projects
+  values:
+    layout: project
 email: petter@p-jo.se
 description: Digidem Lab skapar framtidens processer för demokratiskt deltagande.
   Vi sätter nya verktyg för kollektiv intelligens i dina händer.
@@ -32,8 +39,8 @@ contact-title: Prata med oss!
 contact-text: Digidem Lab är en ideell organisation som arbetar med att främja deltagande
   demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun eller
   parti att hitta nya sätt att engagera och skapa processer för deltagande.
-baseurl: 
-url: 
+baseurl:
+url:
 author: Digidem Lab
 twitter_username: digidemlab
 github_username: p-jo

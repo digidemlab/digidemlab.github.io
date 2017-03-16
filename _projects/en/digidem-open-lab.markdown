@@ -1,5 +1,5 @@
 ---
-title: Digidem Open Lab
+title: Digidem Open Lab en
 date: 2017-02-23 17:00:00 Z
 ref: digidem-open-lab
 excerpt: Förena dina skills med andra för att ta det vi kan göra till nästa nivå

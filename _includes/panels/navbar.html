@@ -9,12 +9,30 @@
   <div class="collapse navbar-collapse justify-content-end mb-auto" id="main-menu">
 
     <ul class="navbar-nav nav-menu-main">
-      {% for item in site.data.menu %}
+      {% for item in site.data.menu[page.lang] %}
         <li class="nav-item">
           <a class="nav-link px-2 py-0" href="{% unless item.url contains 'http' %}{{site.baseurl}}{% endunless %}{{item.url}}">{{item.title}}</a>
         </li>
       {% endfor %}
     </ul>
+
+
+    <ul>
+    {% assign posts=site.projects | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
+      <li>
+        <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+      </li>
+    {% endfor %}
+
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for page in pages %}
+      <li>
+        <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+
 
     <!--
     <ul class="navbar-nav nav-menu-secondary ml-4">
