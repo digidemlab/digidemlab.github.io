@@ -1,5 +1,6 @@
 ---
 title: Anna Sanne Göransson
+lang: en
 date: 2017-02-23 18:10:00 Z
 image: "/uploads/anna2-crop.gif"
 job: Project coordinator & Community manager
@@ -9,4 +10,3 @@ presentation: Community organiser med särskild inriktning på film och digitala
 phone: "+46 76 242 28 24"
 mail: anna@digidemlab.org
 ---
-

@@ -2,6 +2,8 @@
 title: Digidem Open Lab en
 date: 2017-02-23 17:00:00 Z
 ref: digidem-open-lab
+lang: en
+permalink: /en/projects/digidem-open-lab/
 excerpt: Förena dina skills med andra för att ta det vi kan göra till nästa nivå
 ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
   verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra

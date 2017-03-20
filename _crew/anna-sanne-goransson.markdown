@@ -9,4 +9,3 @@ presentation: Community organiser med särskild inriktning på film och digitala
 phone: "+46 76 242 28 24"
 mail: anna@digidemlab.org
 ---
-

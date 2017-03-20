@@ -17,32 +17,9 @@
     </ul>
 
 
-    <ul>
-    {% assign posts=site.projects | where:"ref", page.ref | sort: 'lang' %}
-    {% for post in posts %}
-      <li>
-        <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
-      </li>
-    {% endfor %}
-
-    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-    {% for page in pages %}
-      <li>
-        <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
-      </li>
-    {% endfor %}
-    </ul>
-
-
-    <!--
     <ul class="navbar-nav nav-menu-secondary ml-4">
-      <li class="nav-item active">
-        <a class="nav-link py-0" href="{{site.baseurl}}/">SV</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link py-0 pr-0 disabled" href="{{site.baseurl}}/en">EN</a>
-      </li>
+      {% include panels/menu-lang.html %}
     </ul>
-    -->
+
   </div>
 </nav>

@@ -1,4 +1,6 @@
-{% for item in site.projects %}
+{% assign projects=site.projects | where:"lang", page.lang %}
+
+{% for item in projects %}
   <div class="{% cycle '', 'bg-faded' %}">
     <div class="container py-3b py-lg-3c">
       <div class="row mb-3">
