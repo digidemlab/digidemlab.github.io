@@ -4,7 +4,7 @@ ref: about
 position: 1
 ingress-text: Digidem Lab är en ideell organisation som verkar för radikal demokrati
   med ny teknik. Det gör vi bland annat genom vårt [öppna lab i Göteborg](/projects/digidem-open-lab)
-  och [Digidem Guide](/projects/digidem-open-lab).
+  och [Digidem Guide](/projects/digidem-guide).
 quotes:
 - text: New online tools for interaction and collaboration have let people come together
     across space and time to build amazing things. As the Internet breaks down the

@@ -29,18 +29,20 @@ layout: default
     {% endfor %}
   </nav>
 
-  <div class="row">
-    <div class="col p-0">
-      <div class="card">
-        <div class="card-block py-2b px-2 px-lg-3">
-          <p class="card-text text-primary mb-2b">{{page.news-flash[0].text}}</p>
-          <div class=" text-right">
-            <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="card-link text-primary icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
+  {% if page.news-flash %}
+    <div class="row">
+      <div class="col p-0">
+        <div class="card">
+          <div class="card-block py-2b px-2 px-lg-3">
+            <p class="card-text text-primary mb-2b">{{page.news-flash[0].text}}</p>
+            <div class=" text-right">
+              <a href="{{site.baseurl}}{{page.news-flash[0].link}}" class="card-link text-primary icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
+            </div>
           </div>
         </div>
       </div>
     </div>
-  </div>
+  {% endif %}
 </section>
 
 <section class="container-fluid px-0">

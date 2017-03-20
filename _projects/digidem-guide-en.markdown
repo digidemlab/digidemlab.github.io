@@ -1,10 +1,11 @@
 ---
-title: Digidem Guide en
+title: Digidem Guide
 date: 2017-02-23 17:21:00 Z
 lang: en
-excerpt: Din guide till digitala verktyg för fördjupad demokrati.
-ingress-text: Digidem Guide presenterar de bästa tillgängliga digitala verktygen på
-  ett ställe, så att du kan hitta rätt metod för dina behov.
+ref: digidem-guide
+permalink: /en/projects/digidem-guide/
+excerpt: Practical tools to create communities and make decisions together.
+ingress-text: Digidem Guide brings the best digital tools available into one space, so you can find the right one for your needs.
 image: "/uploads/ineedit.gif"
 links:
 - title: digidemguide.org
@@ -20,9 +21,7 @@ banners:
 - image: "/uploads/digicat.jpg"
   format: tall
 quotes:
-- text: Digidem Guide arbetar för att föra in demokrati i din vardag. Vi presenterar
-    de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt
-    metod för dina behov.
+- text: Digidem Guide’s aim is to bring democracy into everyday life. We bring the best digital tools available into one space, so you can find the right one for your needs.
   image:
 contact:
 - name: Sara Woodgate
@@ -33,9 +32,7 @@ contact:
   image: "/uploads/jennie.png"
   job: Project Coordinator
   mail: jennie@digidemlab.org
-partner-text: Digidem Guide utvecklades av ett internationellt team av designers,
-  forskare och kommunikationsexperter under en två veckors workshop med Participa
-  LAB på Medialab Prado, Madrid.
+partner-text: Digidem Guide was initially developed by an international team of designers, researchers and communication strategists during a two week workshop at Medialab Prado in Madrid.
 partner-links:
 - name: Participa LAB
   logo: "/uploads/logotyp-medialab.jpg"
@@ -44,11 +41,11 @@ partner-links:
 
 Digidem Guide är en konkret handledning till digitala verktyg för fördjupad demokrati. Den riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser.
 
-## Praktisk introduktion
-Det finns en växande fält av ny teknik för att underlätta demokratiska processer på alla nivåer i samhället. Digidem Guide försöker inte vara en komplett guide till alla initativ eller verktyg, utan en praktisk introdukton till fältet och de verktyg vi tror passar bäst för de flesta användare.
+## A practical introduction
+There is a growing field of digital tools to facilitate democratic processes on all levels of society. This guide does not try to be a comprehensive list of all initiatives and user cases, but a practical introduction this field and to the tools that we think best suit the different needs of practitioners.
 
-## Internationellt team
-Det första urvalet till guiden gjordes baserat på rekommendationer från det internationella community av experter som samlades på Inteligencia Colectiva Para La Democracia 2016 på Medialab Prado i Madrid. Baserat på det urvalet valde Digidem Guides arbetsgrupp ut 6 verktyg som bedömdes tillföra mest till demokratiska processer, och som dessutom är användarvänliga, pålitliga och anpassningsbara.
+## International team
+The initial selection of tools was based on recommendations from the international community of ninety experts gathered at the Inteligencia Colectiva Para La Democracia 2016 at Medialab Prado in Madrid. The Digidem Guide working group chose 6 tools from that selection, which adds real value to democratic processes, are userfriendly, reliable and adaptable.
 
-## Pilotversionen
-Den nuvarande versionen av guiden är en första pilotversion. Vi välkomnar feedback och synpunkter för att utveckla guiden ytterligare i framtiden.
+## Pilot version
+The current guide is a pilot version. We welcome feedback and ideas to be able to develop the guide further.

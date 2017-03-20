@@ -1,21 +1,15 @@
 ---
-title: Framtidens demokrati i dina händer
+title: The future of participation in your hands
 ref: start
 position: 0
 header-image: "/uploads/medialab_web_th.jpeg"
 links:
-- title: Vilka är Digidem Lab?
+- title: Who are Digidem Lab?
   link: "/about"
-- title: Vilka verktyg pratar ni om?
+- title: Which tools are you talking about?
   link: "/projects/digidem-guide"
-news-flash:
-- text: "Nu är ansökan till Open Lab öppen!    \nDu som är 18-25 år kan ansöka om
-    att arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan
-    under tre månader. Lön och handledning ingår."
-  link-title: 'Sök till Digidem Open Lab i Göteborg :+1:'
-  link: "/projects/digidem-open-lab"
 banners:
-- title: Blogg
+- title: Blog
   image: "/uploads/Learning-cropped.jpg"
   link: https://medium.com/digidemlab
   format: normal
@@ -23,9 +17,9 @@ banners:
   image: "/uploads/start3.png"
   link:
   format: normal
-- title: Projekt
+- title: Projects
   image: "/uploads/workincat-cropped.gif"
-  link: "/projects/"
+  link: "/en/projects/"
   format: tall
 layout: start
 ---
