@@ -1,16 +1,16 @@
 ---
-title: Digidem Open Lab en
+title: Digidem Open Lab
 date: 2017-02-23 17:00:00 Z
 ref: digidem-open-lab
 lang: en
 permalink: /en/projects/digidem-open-lab/
-excerpt: Förena dina skills med andra för att ta det vi kan göra till nästa nivå
-ingress-text: 'Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
-  verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra
-  att träffas och förena sina skills för bästa resultat. '
+excerpt: A collaborative space where we take participation to the next level.
+ingress-text: 'Digidem Open Lab is a physical space in Gothenburg, Sweden, where we experiment with
+  the tools of change for the future. A place for activists, designers, developers and others to meet and
+  collaborate.'
 image: "/uploads/updragde-front.gif"
 links:
-- title: Ansök med ditt projekt
+- title: Apply with your project
   url: https://digidemlab.sandcats.io/shared/STJS41aCSw69VY1DXXN7RKPFFvZPrz7aDKDTCyvaMDn
   style: button
 - title:
@@ -24,9 +24,7 @@ banners:
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide
 quotes:
-- text: Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi
-    vara fast politiska system som inte kan förnya sig, eller i värsta fall sätter
-    miljardärer och fascister till makten.
+- text: The possibilities for democratic participation are greater than ever. New tools to influence, discuss and decide on issues are available to be used, instantaneously and globally.
   image: "/uploads/phonecover.jpeg"
 contact:
 - name: Anna Sanne Göransson
@@ -39,9 +37,10 @@ contact:
   job: Lab Manager
   phone: "+46 70 867 42 44"
   mail: petter@digidemlab.org
-partner-text: Digidem Open Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF
-  Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna,
-  LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
+partner-text: Digidem Open Lab is co-organised with ABF Göteborg, with the support
+  of Allmänna Arsvfonden and the cooperation of Sweden's Municipalities, The Swedish
+  Green Party, The National Council of Swedish Youth Organisations (LSU), Young Media
+  and Unga Rörelsehindrade Gothenburg.
 partner-links:
 - name: ABF
   logo: "/uploads/logotyp-abf.png"
@@ -51,8 +50,8 @@ partner-links:
   link: http://www.arvsfonden.se/
 ---
 
-## Kollektiv intelligens :thermometer: :boom::heart_eyes:
-Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat. Digidem Open Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring. Vi träffas varje vecka i våra lokaler i Göteborg och tar fram framtidens demokratiska verktyg.
+## Collective Intelligence :thermometer: :boom::heart_eyes:
+We believe in sharing skills and experiences for better results. Digidem Open Lab is a collaborative space where activists, designers, developers and others get together to experiment and create the tools of change for the future. We meet every week in Gothenburg to create the shape of participation to come.
 
-## Labbet:fire::seedling:
-På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers.
+## The Lab :fire::seedling:
+The Lab is a collaborative space for projects exploring participation with digital tools. If you are 18-25 years old and living in Sweden, you can apply to run your own project for three months. You will get paid for four hours a week, have access to the space and mentoring from our Lab Managers, and connect to our national and international network.

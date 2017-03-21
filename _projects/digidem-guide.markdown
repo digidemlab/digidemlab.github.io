@@ -42,9 +42,10 @@ partner-links:
   link: http://medialab-prado.es/participa-lab
 ---
 
+## Praktisk introduktion
 Digidem Guide är en konkret handledning till digitala verktyg för fördjupad demokrati. Den riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser.
 
-## Praktisk introduktion
+## Växande fält
 Det finns en växande fält av ny teknik för att underlätta demokratiska processer på alla nivåer i samhället. Digidem Guide försöker inte vara en komplett guide till alla initativ eller verktyg, utan en praktisk introdukton till fältet och de verktyg vi tror passar bäst för de flesta användare.
 
 ## Internationellt team

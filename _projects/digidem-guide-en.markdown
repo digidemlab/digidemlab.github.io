@@ -5,7 +5,7 @@ lang: en
 ref: digidem-guide
 permalink: /en/projects/digidem-guide/
 excerpt: Practical tools to create communities and make decisions together.
-ingress-text: Digidem Guide brings the best digital tools available into one space, so you can find the right one for your needs.
+ingress-text: Digidem Guide brings the best digital tools available into one space, so you can find the right one for your needs. We do the hard work so you don’t have to!
 image: "/uploads/ineedit.gif"
 links:
 - title: digidemguide.org
@@ -39,10 +39,13 @@ partner-links:
   link: http://medialab-prado.es/participa-lab
 ---
 
-Digidem Guide är en konkret handledning till digitala verktyg för fördjupad demokrati. Den riktar sig till aktiva i föreningslivet eller politiska partier som vill hitta nya verktyg för att underlätta beslutsprocesser.
+## Practical Introduction
+Digidem Guide is a practical introduction to digital tools for participatory democracy.
+The guide helps decision makers in NGO:s, political parties and local municipalities
+find new tools for facilitating democratic processes.
 
-## A practical introduction
-There is a growing field of digital tools to facilitate democratic processes on all levels of society. This guide does not try to be a comprehensive list of all initiatives and user cases, but a practical introduction this field and to the tools that we think best suit the different needs of practitioners.
+## Growing Field
+There is a growing field of digital tools to facilitate democratic processes on all levels of society. This guide does not try to be a comprehensive list of all initiatives and user cases, but a practical introduction to this field and the tools that we think best suit the different needs of practitioners.
 
 ## International team
 The initial selection of tools was based on recommendations from the international community of ninety experts gathered at the Inteligencia Colectiva Para La Democracia 2016 at Medialab Prado in Madrid. The Digidem Guide working group chose 6 tools from that selection, which adds real value to democratic processes, are userfriendly, reliable and adaptable.

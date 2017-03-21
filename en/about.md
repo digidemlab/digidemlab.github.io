@@ -2,7 +2,7 @@
 title: About Digidem Lab
 position: 1
 ref: about
-ingress-text: Digidem Lab is a non-profit organisation promoting radical democracy with new technology. Our current projects are an open lab in [Gothenburg, Sweden](/en/projects/digidem-open-lab), and [Digidem Guide](/projects/digidem-guide).
+ingress-text: Digidem Lab is a non-profit organisation promoting radical democracy with new technology. Our current projects are an [open lab](/en/projects/digidem-open-lab) in Gothenburg, Sweden, and [Digidem Guide](/projects/digidem-guide).
 quotes:
 - text: New online tools for interaction and collaboration have let people come together
     across space and time to build amazing things. As the Internet breaks down the
@@ -11,35 +11,36 @@ quotes:
   person: Aaron Swartz
 ---
 
-## Så här ser det ut
-Möjligheterna för demokratiskt deltagande har aldrig varit större än nu. Det finns verktyg för påverkan, diskussion och beslut färdiga att användas. Allt kan ske i realtid, oberoende av geografisk plats. Samtidigt verkar vi vara fast i politiska system som inte kan förnya sig, eller i värsta fall sätter miljardärer och fascister till makten.  
-Det måste inte se ut så här.
+## Immense possibilities
+The possibilities for democratic participation are greater than ever. New tools to influence, discuss and decide on issues are available to be used, instantaneously and globally. Yet, we seem to be stuck in political systems unable to renew themselves. Systems that in the worst cases put billionaires and fascists to power. It does not have to be like that.
 
-## Nya former
-Vi samlar aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Nya former för deltagande måste skapas underifrån och i alla delar av samhället.
+## New ways
+Digidem Lab brings together activists, researchers, developers, designers and anyone who believes another world is possible. We create new methods and tools for the participatory democracy of the future. We believe new forms of participation need to come from below and spread to all sectors of society.
 
-## En växande rörelse
-Vi är en del av en växande demokratirörelse, som använder kollektiv intelligens för att utmana gamla politiska och ekonomiska eliter. Brittiska [Jeremy Corbyns digitala manifest](http://www.jeremyforlabour.com/digital_democracy_manifesto), spanska [Podemos demokratiska plattform](https://plaza.podemos.info/) och det växande [nätverket för städer](http://democratic-cities.cc/) som söker nya sätt för deltagande visar på en annan typ av framtid än den som Donald Trump står för.
-
+## A New Movement
+We are part of a growing democracy movement, using collective intelligence to
+challenge old political and economical elites.
+[Jeremy Corbyn's digital manifesto](http://www.jeremyforlabour.com/digital_democracy_manifesto) in Britain,  [Podemo's platform for participation](https://plaza.podemos.info/) in Spain and the growing
+[network of cities](http://democratic-cities.cc/) experimenting with new forms of participation is the opposite of the kind of future that Donald Trump stands for.
 
 {% include panels/quote.html %}
 
-<h2 style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">Vi tror på</span></h2>
+<h2 style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">We believe in</span></h2>
 
-### Behoven i centrum
-Processer och verktyg för kollektiv intelligens börjar alltid med deltagarnas behov. Ny teknik i sig kommer inte lösa några problem, inte heller är nya metoder något som kan klistras på exkluderande processer för att dölja deras brister. Verkligt demokratiskt deltagande är en process i flera steg, och alla de stegen ska ha medborgarens behov i centrum.
+### Start with needs
+Initiatives for collective intelligence should start with what the need is. New technology in it self will not solve any problems, neither should digital tools be used to conceal the flaws of excluding processes.
 
-### Experimenterande skapar utveckling
-Vi skapar utrymmen för att utveckla nya idéer. Experimenterande och labbande minskar risken för stora misstag och gör små misstag till erfarenheter. Genom att återanvända andras arbete och bygga vidare på internationella erfarenheter blir vi till en del av en global experimentverkstad för kollektiv intelligens.
+### Experimenting creates progress
+We create collaborative spaces to develop new ideas. An experimental approach makes big failures unlikely and turns small failures into valuable lessons. By building on the work of others and international experiences we are part of an international lab for collective intelligence.
 
-### Din data — din kontroll
-Vi använder och utvecklar tjänster som i största möjliga mån ger dig själv, inte företag eller stater, kontroll över din data. Säkerhet och integritetsskydd ska inte kräva extra arbete av användarna, utan vara inbyggt i bra digitala tjänster. Du ska kunna välja själv vad du delar med dig av för information och till vem.
+### Your data – your control
+We utilise and develop services and tools that to the greatest possible extent gives you, not corporations or states, sovereign control over your data. Being aware of security and privacy should not require specialist knowledge from users, but be built into digital tools. You should be the one deciding what you share and with whom.
 
-### Det här är för alla
-Nya former för deltagande måste skapas underifrån och på alla nivåer av samhället. De som bäst behöver tjänster för deltagande är ofta de som tycker att de är svårast att använda. Det vill vi ändra på. Vi använder tillgängliga möteslokaler och digitala tjänster som är tillgänglighetsanpassade, läsbara, väl designade och användarvänliga.
+### This is for everyone
+New forms of participation need to come from below and spread to all sectors of society. The people who most need tools for participation are often the people who find them hardest to use. We want to change that. By using accessible venues and digital tools complying to standards for accessibility, readability and usability, we ensure that everyone is onboard.
 
-### Öppenhet för allmännytta
-Att utveckla tjänster för allas bästa innebär att göra det öppet. Öppen källkod, öppna standarder, öppen data och öppen innovation är garantier för att ny kunskap kommer alla till del. Vi behöver transparenta och väl testade tjänster som bidrar till vår gemensamma kunskapsbank och som kan utvecklas och anpassas efter specifika behov.
+### Openness for public good
+Developing for the public good means being open. Open source, open standards, open data and open innovation guarantee that new ideas benefits everyone. We need transparent, adaptable and well tested services that contribute to our shared knowledge and digital commons.
 
-### Kollektiv intelligens
-Förändring kräver att vi samlar olika kompetenser och erfarenheter för att arbeta mot ett gemensamt mål. Processer och verktyg för kollektiv intelligens är inte en fråga om teknik, design, forskning eller politik. Det är alla de sakerna på en gång. Vårt jobb är att skapa förutsättningar för så breda och inkluderande samarbeten som möjligt.
+### Collective intelligence
+To create change, a multitude of skills and experiences need to pull in the same direction. Initiatives for collective intelligence is not just a matter of technology, design, research or politics. It is all those things combined. Our task is to create the ideal conditions for inclusive and multidisciplinary collaborations.

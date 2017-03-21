@@ -5,9 +5,9 @@ position: 0
 header-image: "/uploads/medialab_web_th.jpeg"
 links:
 - title: Who are Digidem Lab?
-  link: "/about"
+  link: "/en/about"
 - title: Which tools are you talking about?
-  link: "/projects/digidem-guide"
+  link: "/en/projects/digidem-guide"
 banners:
 - title: Blog
   image: "/uploads/Learning-cropped.jpg"

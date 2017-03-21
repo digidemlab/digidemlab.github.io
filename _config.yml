@@ -42,7 +42,7 @@ defaults:
 email: petter@p-jo.se
 description:
   sv: Digidem Lab skapar framtidens processer för demokratiskt deltagande. Vi sätter nya verktyg för kollektiv intelligens i dina händer.
-  en: Digidem Lab is a place to create new processes for democratic participation. We put new tools for collective intelligence in your hands.
+  en: Digidem Lab is a space to create new processes for democratic participation. We put new tools for collective intelligence in your hands.
 contact:
   sv:
     title: Prata med oss!
@@ -52,6 +52,9 @@ contact:
   en:
     title: Get in touch!
     text: Digidem Lab is a non-profit organisation promoting participatory democracy on all levels of society. Get in touch to see how we can help your movement or organisation to find new processes and tools for participation.
+questions:
+  sv: Frågor? Prata med oss!
+  en: Questions? Get in touch!
 baseurl:
 url:
 author: Digidem Lab
