@@ -11,7 +11,7 @@ collections:
   projects:
     title: Projects
     output: true
-    permalink: /projects/:title/
+    permalink: "/projects/:title/"
   uploads:
     title: Uploads
     output: true
@@ -23,7 +23,7 @@ defaults:
     layout: page
     lang: sv
 - scope:
-    path: 'en'
+    path: en
     type: pages
   values:
     layout: page
@@ -41,22 +41,26 @@ defaults:
     lang: sv
 email: petter@p-jo.se
 description:
-  sv: Digidem Lab skapar framtidens processer för demokratiskt deltagande. Vi sätter nya verktyg för kollektiv intelligens i dina händer.
-  en: Digidem Lab is a space to create new processes for democratic participation. We put new tools for collective intelligence in your hands.
+  sv: Digidem Lab skapar framtidens processer för demokratiskt deltagande. Vi sätter
+    nya verktyg för kollektiv intelligens i dina händer.
+  en: Digidem Lab is a space to create new processes for democratic participation.
+    We put new tools for collective intelligence in your hands.
 contact:
   sv:
     title: Prata med oss!
     text: Digidem Lab är en ideell organisation som arbetar med att främja deltagande
-      demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun eller
-      parti att hitta nya sätt att engagera och skapa processer för deltagande.
+      demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun
+      eller parti att hitta nya sätt att engagera och skapa processer för deltagande.
   en:
     title: Get in touch!
-    text: Digidem Lab is a non-profit organisation promoting participatory democracy on all levels of society. Get in touch to see how we can help your movement or organisation to find new processes and tools for participation.
+    text: Digidem Lab is a non-profit organisation promoting participatory democracy
+      on all levels of society. Get in touch to see how we can help your movement
+      or organisation to find new processes and tools for participation.
 questions:
   sv: Frågor? Prata med oss!
   en: Questions? Get in touch!
-baseurl:
-url:
+baseurl: 
+url: 
 author: Digidem Lab
 twitter_username: digidemlab
 github_username: p-jo

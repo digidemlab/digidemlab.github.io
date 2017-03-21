@@ -1,21 +1,21 @@
 ---
 title: Digidem Open Lab
 date: 2017-02-23 17:00:00 Z
+permalink: "/en/projects/digidem-open-lab/"
 ref: digidem-open-lab
 lang: en
-permalink: /en/projects/digidem-open-lab/
 excerpt: A collaborative space where we take participation to the next level.
-ingress-text: 'Digidem Open Lab is a physical space in Gothenburg, Sweden, where we experiment with
-  the tools of change for the future. A place for activists, designers, developers and others to meet and
-  collaborate.'
+ingress-text: Digidem Open Lab is a physical space in Gothenburg, Sweden, where we
+  experiment with the tools of change for the future. A place for activists, designers,
+  developers and others to meet and collaborate.
 image: "/uploads/updragde-front.gif"
 links:
 - title: Apply with your project
   url: https://digidemlab.sandcats.io/shared/STJS41aCSw69VY1DXXN7RKPFFvZPrz7aDKDTCyvaMDn
   style: button
-- title:
-  url:
-  style:
+- title: 
+  url: 
+  style: 
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal
@@ -24,7 +24,9 @@ banners:
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide
 quotes:
-- text: The possibilities for democratic participation are greater than ever. New tools to influence, discuss and decide on issues are available to be used, instantaneously and globally.
+- text: The possibilities for democratic participation are greater than ever. New
+    tools to influence, discuss and decide on issues are available to be used, instantaneously
+    and globally.
   image: "/uploads/phonecover.jpeg"
 contact:
 - name: Anna Sanne Göransson

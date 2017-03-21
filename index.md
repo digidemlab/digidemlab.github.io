@@ -1,7 +1,7 @@
 ---
 title: Framtidens demokrati i dina händer
-ref: start
 position: 0
+ref: start
 header-image: "/uploads/medialab_web_th.jpeg"
 links:
 - title: Vilka är Digidem Lab?
@@ -19,9 +19,9 @@ banners:
   image: "/uploads/Learning-cropped.jpg"
   link: https://medium.com/digidemlab
   format: normal
-- title:
+- title: 
   image: "/uploads/start3.png"
-  link:
+  link: 
   format: normal
 - title: Projekt
   image: "/uploads/workincat-cropped.gif"
@@ -29,3 +29,4 @@ banners:
   format: tall
 layout: start
 ---
+

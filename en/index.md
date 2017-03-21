@@ -1,7 +1,7 @@
 ---
 title: The future of participation in your hands
-ref: start
 position: 0
+ref: start
 header-image: "/uploads/medialab_web_th.jpeg"
 links:
 - title: Who are Digidem Lab?
@@ -13,9 +13,9 @@ banners:
   image: "/uploads/Learning-cropped.jpg"
   link: https://medium.com/digidemlab
   format: normal
-- title:
+- title: 
   image: "/uploads/start3.png"
-  link:
+  link: 
   format: normal
 - title: Projects
   image: "/uploads/workincat-cropped.gif"
@@ -23,3 +23,4 @@ banners:
   format: tall
 layout: start
 ---
+

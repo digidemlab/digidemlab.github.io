@@ -11,9 +11,9 @@ links:
 - title: Ansök med ditt projekt
   url: https://digidemlab.sandcats.io/shared/STJS41aCSw69VY1DXXN7RKPFFvZPrz7aDKDTCyvaMDn
   style: button
-- title:
-  url:
-  style:
+- title: 
+  url: 
+  style: 
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal

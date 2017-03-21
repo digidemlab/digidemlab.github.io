@@ -1,11 +1,13 @@
 ---
 title: Digidem Guide
 date: 2017-02-23 17:21:00 Z
+permalink: "/en/projects/digidem-guide/"
 lang: en
 ref: digidem-guide
-permalink: /en/projects/digidem-guide/
 excerpt: Practical tools to create communities and make decisions together.
-ingress-text: Digidem Guide brings the best digital tools available into one space, so you can find the right one for your needs. We do the hard work so you don’t have to!
+ingress-text: Digidem Guide brings the best digital tools available into one space,
+  so you can find the right one for your needs. We do the hard work so you don’t have
+  to!
 image: "/uploads/ineedit.gif"
 links:
 - title: digidemguide.org
@@ -21,8 +23,10 @@ banners:
 - image: "/uploads/digicat.jpg"
   format: tall
 quotes:
-- text: Digidem Guide’s aim is to bring democracy into everyday life. We bring the best digital tools available into one space, so you can find the right one for your needs.
-  image:
+- text: Digidem Guide’s aim is to bring democracy into everyday life. We bring the
+    best digital tools available into one space, so you can find the right one for
+    your needs.
+  image: 
 contact:
 - name: Sara Woodgate
   image: "/uploads/sarapresentationsbild1.gif"
@@ -32,7 +36,9 @@ contact:
   image: "/uploads/jennie.png"
   job: Project Coordinator
   mail: jennie@digidemlab.org
-partner-text: Digidem Guide was initially developed by an international team of designers, researchers and communication strategists during a two week workshop at Medialab Prado in Madrid.
+partner-text: Digidem Guide was initially developed by an international team of designers,
+  researchers and communication strategists during a two week workshop at Medialab
+  Prado in Madrid.
 partner-links:
 - name: Participa LAB
   logo: "/uploads/logotyp-medialab.jpg"
