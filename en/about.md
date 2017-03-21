@@ -2,7 +2,7 @@
 title: About Digidem Lab
 position: 1
 ref: about
-ingress-text: Digidem Lab is a non-profit organisation promoting radical democracy with new technology. Our current projects are an [open lab](/en/projects/digidem-open-lab) in Gothenburg, Sweden, and [Digidem Guide](/projects/digidem-guide).
+ingress-text: Digidem Lab is a non-profit organisation promoting radical democracy with new technology. Our current projects are an [open lab](/en/projects/digidem-open-lab) in Gothenburg, Sweden, and [Digidem Guide](/en/projects/digidem-guide).
 quotes:
 - text: New online tools for interaction and collaboration have let people come together
     across space and time to build amazing things. As the Internet breaks down the
