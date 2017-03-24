@@ -2,7 +2,7 @@
 title: Om Digidem Lab
 position: 1
 ref: about
-ingress-text: Digidem Lab är en ideell organisation som verkar för radikal demokrati
+ingress-text: Digidem Lab är en ideell organisation som verkar för deltagande demokrati
   med ny teknik. Det gör vi bland annat genom vårt [öppna lab i Göteborg](/projects/digidem-open-lab)
   och [Digidem Guide](/projects/digidem-guide).
 quotes:
