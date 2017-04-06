@@ -1,7 +1,8 @@
 ---
 title: About Digidem Lab
-description: Digidem Lab is a non-profit organisation promoting participatory democracy with new technology. 
 position: 1
+description: Digidem Lab is a non-profit organisation promoting participatory democracy
+  with new technology.
 ref: about
 ingress-text: Digidem Lab is a non-profit organisation promoting participatory democracy
   with new technology. Our current projects are an [open lab](/en/projects/digidem-open-lab)

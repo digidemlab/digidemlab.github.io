@@ -1,7 +1,8 @@
 ---
 title: The future of participation in your hands
-description: Digidem Lab is a space to create new processes for democratic participation. We put new tools for collective intelligence in your hands.
 position: 0
+description: Digidem Lab is a space to create new processes for democratic participation.
+  We put new tools for collective intelligence in your hands.
 ref: start
 header-image: "/uploads/medialab_web_th.jpeg"
 links:
@@ -14,9 +15,9 @@ banners:
   image: "/uploads/Learning-cropped.jpg"
   link: https://medium.com/digidemlab
   format: normal
-- title:
+- title: 
   image: "/uploads/start3.png"
-  link:
+  link: 
   format: normal
 - title: Projects
   image: "/uploads/workincat-cropped.gif"
@@ -24,3 +25,4 @@ banners:
   format: tall
 layout: start
 ---
+
