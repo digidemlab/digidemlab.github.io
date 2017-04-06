@@ -15,11 +15,11 @@ layout: global
       </div>
     </div>
   </div>
-  <section class="container-fluid px-0 mb-3 my-lg-4">
+  <div class="container-fluid px-0 mb-3 my-lg-4">
     {% include panels/banners.html %}
-  </section>
-  <div class="container">
-    <div class="row content mb-lg-3">
+  </div>
+  <div class="container mb-3">
+    <div class="row content">
       <div class="col">
         {% endif %}
         {% for paragraph in paragraphs offset:2 limit:1 %}
@@ -35,40 +35,50 @@ layout: global
         {% endfor %}
       </div>
     </div>
+  </div>
 
-    {% if page.contact %}
-      <div class="row mb-3 mb-lg-4">
-        <div class="col-lg-3">
-          <h2 class="text-uppercase">{{site.questions[page.lang]}}</h2>
-        </div>
-        <div class="col-lg-8">
-          <div class="row">
-            {% for item in page.contact %}
-              <div class="col-sm-6">
-                <div class="row mb-2">
-                  <div class="col-4 col-sm-5 col-lg-6">
-                    <img class="w-100" src="{{site.baseurl}}{{item.image}}">
-                  </div>
-                  <div class="col-8 col-sm-7 col-lg-6">
-                    <p class="small text-muted">
-                      <strong>{{item.name}}</strong><br>
-                      {{item.job}}<br>
-                      {% if item.phone %}{{item.phone}}<br>{% endif %}
-                      <a href="mailto:{{item.mail}}">{{item.mail}}</a>
-                    </p>
+  {% if page.contact %}
+    <div class="bg-info">
+      <div class="container py-3 py-lg-4">
+        <div class="row">
+          <div class="col-lg-3">
+            <h2 class="text-uppercase text-white">{{site.questions[page.lang]}}</h2>
+          </div>
+          <div class="col-lg-8">
+            <div class="row">
+              {% for item in page.contact %}
+                <div class="col-sm-6">
+                  <div class="row mb-2 mb-lg-0">
+                    <div class="col-4 col-sm-5 col-lg-6">
+                      <img class="w-100" src="{{site.baseurl}}{{item.image}}">
+                    </div>
+                    <div class="col-8 col-sm-7 col-lg-6">
+                      <p class="small text-white">
+                        <strong>{{item.name}}</strong><br>
+                        {{item.job}}<br>
+                        {% if item.phone %}{{item.phone}}<br>{% endif %}
+                        <a href="mailto:{{item.mail}}">{{item.mail}}</a>
+                      </p>
+                    </div>
                   </div>
                 </div>
-              </div>
-            {% endfor %}
+              {% endfor %}
+            </div>
           </div>
         </div>
       </div>
-    {% endif %}
+    </div>
+  {% endif %}
 
-    <div class="row mb-3 mb-lg-4">
-      <div class="col-lg-7 offset-lg-3">
-        {% include content/partners.html partners=page.partner-links partner-text=page.partner-text %}
+  <div class="bg-faded py-3 py-lg-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-7 offset-lg-3">
+          {% include content/partners.html partners=page.partner-links partner-text=page.partner-text %}
+        </div>
       </div>
     </div>
   </div>
+
+</div>
 </article>
