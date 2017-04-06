@@ -54,20 +54,20 @@ contact:
 questions:
   sv: Frågor? Prata med oss!
   en: Questions? Get in touch!
-baseurl:
-url: 'http://digidemlab.org'
+baseurl: 
+url: http://digidemlab.org
 author: Digidem Lab
 twitter:
   username: digidemlab
 facebook:
   publisher: digidemlab
-logo: /assets/logotyp.png
+logo: "/assets/logotyp.png"
 social:
   links:
-    - https://twitter.com/digidemlab
-    - https://www.facebook.com/digidemlab
-    - https://www.instagram.com/digidemlab/
-    - https://github.com/benbalter
+  - https://twitter.com/digidemlab
+  - https://www.facebook.com/digidemlab
+  - https://www.instagram.com/digidemlab/
+  - https://github.com/benbalter
 github_username: p-jo
 markdown: kramdown
 exclude:

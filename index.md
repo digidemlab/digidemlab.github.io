@@ -1,7 +1,8 @@
 ---
 title: Framtidens demokrati i dina händer
-description: Digidem Lab skapar framtidens processer för demokratiskt deltagande. Vi sätter nya verktyg för kollektiv intelligens i dina händer.
 position: 0
+description: Digidem Lab skapar framtidens processer för demokratiskt deltagande.
+  Vi sätter nya verktyg för kollektiv intelligens i dina händer.
 ref: start
 header-image: "/uploads/medialab_web_th.jpeg"
 links:
@@ -20,9 +21,9 @@ banners:
   image: "/uploads/Learning-cropped.jpg"
   link: https://medium.com/digidemlab
   format: normal
-- title:
+- title: 
   image: "/uploads/start3.png"
-  link:
+  link: 
   format: normal
 - title: Projekt
   image: "/uploads/workincat-cropped.gif"
@@ -30,3 +31,4 @@ banners:
   format: tall
 layout: start
 ---
+
