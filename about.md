@@ -1,5 +1,6 @@
 ---
 title: Om Digidem Lab
+description: Digidem Lab är en ideell organisation som verkar för deltagande demokrati med ny teknik.
 position: 1
 ref: about
 ingress-text: Digidem Lab är en ideell organisation som verkar för deltagande demokrati

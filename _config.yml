@@ -40,11 +40,6 @@ defaults:
   values:
     lang: sv
 email: petter@p-jo.se
-description:
-  sv: Digidem Lab skapar framtidens processer för demokratiskt deltagande. Vi sätter
-    nya verktyg för kollektiv intelligens i dina händer.
-  en: Digidem Lab is a space to create new processes for democratic participation.
-    We put new tools for collective intelligence in your hands.
 contact:
   sv:
     title: Prata med oss!
@@ -59,10 +54,20 @@ contact:
 questions:
   sv: Frågor? Prata med oss!
   en: Questions? Get in touch!
-baseurl: 
-url: 
+baseurl:
+url: 'http://digidemlab.org'
 author: Digidem Lab
-twitter_username: digidemlab
+twitter:
+  username: digidemlab
+facebook:
+  publisher: digidemlab
+logo: /assets/logotyp.png
+social:
+  links:
+    - https://twitter.com/digidemlab
+    - https://www.facebook.com/digidemlab
+    - https://www.instagram.com/digidemlab/
+    - https://github.com/benbalter
 github_username: p-jo
 markdown: kramdown
 exclude:
@@ -74,3 +79,4 @@ sass:
   sass_dir: _sass
 gems:
 - jemoji
+- jekyll-seo-tag
