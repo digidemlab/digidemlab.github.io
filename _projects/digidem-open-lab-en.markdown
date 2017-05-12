@@ -2,8 +2,8 @@
 title: Digidem Open Lab
 date: 2017-02-23 17:00:00 Z
 permalink: "/en/projects/digidem-open-lab/"
-ref: digidem-open-lab
 lang: en
+ref: digidem-open-lab
 excerpt: A collaborative space where we take participation to the next level.
 ingress-text: Digidem Open Lab is a physical space in Gothenburg, Sweden, where we
   experiment with the tools of change for the future. A place for activists, designers,
@@ -13,8 +13,8 @@ links:
 - title: Apply with your project
   url: https://digidemlab.sandcats.io/shared/STJS41aCSw69VY1DXXN7RKPFFvZPrz7aDKDTCyvaMDn
   style: button
-- title: 
-  url: 
+- title: Ideas for projects
+  url: http://ideas.digidemlab.org/
   style: 
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
