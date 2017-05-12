@@ -4,7 +4,7 @@ position: 0
 description: Digidem Lab skapar framtidens processer för demokratiskt deltagande.
   Vi sätter nya verktyg för kollektiv intelligens i dina händer.
 ref: start
-header-image: "/uploads/medialab_web_th.jpeg"
+header-image: "/uploads/JBe2745-04ret.jpg"
 links:
 - title: Vilka är Digidem Lab?
   link: "/about"
