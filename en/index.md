@@ -4,7 +4,7 @@ position: 0
 description: Digidem Lab is a space to create new processes for democratic participation.
   We put new tools for collective intelligence in your hands.
 ref: start
-header-image: "/uploads/medialab_web_th.jpeg"
+header-image: "/uploads/JBe2745-04ret.jpg"
 links:
 - title: Who are Digidem Lab?
   link: "/en/about"
