@@ -15,9 +15,6 @@ links:
 - title: Idéer till projekt
   url: http://ideas.digidemlab.org/
   style: 
-- title: 
-  url: 
-  style: 
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal
@@ -57,6 +54,5 @@ partner-links:
 Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat. Digidem Open Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring. Vi träffas varje vecka i våra lokaler i Göteborg och tar fram framtidens demokratiska verktyg.
 
 ## Labbet:fire::seedling:
-På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers.
-
-Mer information om hur labbet fungerar: [Välkommen till Digidem Lab](/uploads/Va%CC%88lkommen%20till%20Digidem%20Lab.pdf)
+På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers.  
+Läs mer om hur labbet fungerar: [Välkommen till Digidem Lab](/uploads/Va%CC%88lkommen%20till%20Digidem%20Lab.pdf)
