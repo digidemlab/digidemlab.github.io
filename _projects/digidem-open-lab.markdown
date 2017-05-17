@@ -5,8 +5,7 @@ ref: digidem-open-lab
 excerpt: Förena dina skills med andra för att ta det vi kan göra till nästa nivå
 ingress-text: Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
   verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra
-  att träffas och förena sina skills för bästa resultat. I [det här dokumentet](/uploads/Va%CC%88lkommen%20till%20Digidem%20Lab.pdf)
-  kan du läsa allt om hur labbet fungerar.
+  att träffas och förena sina skills för bästa resultat.
 image: "/uploads/updragde-front.gif"
 links:
 - title: Ansök med ditt projekt
@@ -55,4 +54,4 @@ Vi tror på att träffas och blanda skills och erfarenheter för bästa resultat
 
 ## Labbet:fire::seedling:
 På labbet samlas olika projekt som utforskar deltagande med digitala verktyg. Vill du driva ett eget projekt på Labbet söker du för att genomföra ditt projekt i 3 månader. Det innebär att du/ni som projektledare har tillgång till lokal, research och testning i samverkan med Digidem Labs nationella och internationella kontaktnät och handledning av våra Lab Managers.  
-Läs mer om hur labbet fungerar: [Välkommen till Digidem Lab](/uploads/Va%CC%88lkommen%20till%20Digidem%20Lab.pdf)
+**I det här dokumentet kan du läsa allt om hur labbet fungerar: [Välkommen till Digidem Lab](/uploads/Va%CC%88lkommen%20till%20Digidem%20Lab.pdf)**
