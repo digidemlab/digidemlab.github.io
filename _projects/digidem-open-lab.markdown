@@ -14,6 +14,9 @@ links:
 - title: Idéer till projekt
   url: http://ideas.digidemlab.org/
   style: 
+- title: Mer information
+  url: "/uploads/Va%CC%88lkommen%20till%20Digidem%20Lab.pdf"
+  style: pdf
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal
