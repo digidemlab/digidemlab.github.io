@@ -28,7 +28,7 @@ Vi är en del av en växande demokratirörelse, som använder kollektiv intellig
 
 {% include panels/quote.html %}
 
-<h2 id="vaules" style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">Vi tror på</span></h2>
+<h2 id="values" style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">Vi tror på</span></h2>
 
 ### Behoven i centrum
 Processer och verktyg för kollektiv intelligens börjar alltid med deltagarnas behov. Ny teknik i sig kommer inte lösa några problem, inte heller är nya metoder något som kan klistras på exkluderande processer för att dölja deras brister. Verkligt demokratiskt deltagande är en process i flera steg, och alla de stegen ska ha medborgarens behov i centrum.
