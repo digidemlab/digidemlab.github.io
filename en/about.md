@@ -29,7 +29,7 @@ challenge old political and economical elites.
 
 {% include panels/quote.html %}
 
-<h2 style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">We believe in</span></h2>
+<h2 id="vaules" style="float:none;width:auto;margin-bottom:3rem;" class=" text-center display-2"><span class="text-success bg-info">We believe in</span></h2>
 
 ### Start with needs
 Initiatives for collective intelligence should start with what the need is. New technology in it self will not solve any problems, neither should digital tools be used to conceal the flaws of excluding processes.
