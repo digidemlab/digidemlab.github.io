@@ -5,8 +5,8 @@ description: Digidem Lab is a non-profit organisation promoting participatory de
   with new technology.
 ref: about
 ingress-text: Digidem Lab is a non-profit organisation promoting participatory democracy
-  with new technology. Our current projects are an [open lab](/en/apply)
-  in Gothenburg, Sweden, and [Digidem Guide](/en/projects/digidem-guide).
+  with new technology. Our current projects are an [open lab](/en/apply) in Gothenburg,
+  Sweden, and [Digidem Guide](/en/projects/digidem-guide).
 quotes:
 - text: New online tools for interaction and collaboration have let people come together
     across space and time to build amazing things. As the Internet breaks down the

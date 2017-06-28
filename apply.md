@@ -2,7 +2,9 @@
 title: Ansök till labbet!
 ref: apply
 excerpt: Förena dina skills med andra för att ta det vi kan göra till nästa nivå
-ingress-text: Digidem Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring.
+ingress-text: Digidem Lab är ett utrymme för aktivister, designers, kodare och andra
+  att träffas och undersöka och utveckla processer för deltagande demokrati för att
+  skapa förändring.
 image: "/uploads/updragde-front.gif"
 links:
 - title: Ansök med ditt projekt
@@ -10,15 +12,13 @@ links:
   style: button
 - title: Idéer till projekt
   url: http://ideas.digidemlab.org/
-  style:
+  style: 
 banners:
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide
-
 redirect_from:
-- /projects/digidem-open-lab/
+- "/projects/digidem-open-lab/"
 ---
-
 
 ## Hur funkar labbet?
 På labbet i Göteborg kan du som är 18-25 år ansöka om att arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan under tre månader. Du får 2600 kr före skatt per månad och handledning av våra projektledare.
