@@ -19,8 +19,8 @@ layout: global
     {% include panels/banners.html %}
   </div>
   <div class="container mb-3">
-    <div class="row content">
-      <div class="col">
+    <div class="row">
+      <div class="col content">
         {% endif %}
         {% for paragraph in paragraphs offset:2 limit:1 %}
           {{ paragraph | append: '</p>' }}

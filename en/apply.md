@@ -1,9 +1,8 @@
 ---
-title: Digidem Open Lab
+title: Apply to the lab!
 date: 2017-02-23 17:00:00 Z
-permalink: "/en/projects/digidem-open-lab/"
 lang: en
-ref: digidem-open-lab
+ref: apply
 excerpt: A collaborative space where we take participation to the next level.
 ingress-text: Digidem Open Lab is a physical space in Gothenburg, Sweden, where we
   experiment with the tools of change for the future. A place for activists, designers,
@@ -15,7 +14,7 @@ links:
   style: button
 - title: Ideas for projects
   url: http://ideas.digidemlab.org/
-  style: 
+  style:
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal
@@ -23,33 +22,10 @@ banners:
   format: normal
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide
-quotes:
-- text: The possibilities for democratic participation are greater than ever. New
-    tools to influence, discuss and decide on issues are available to be used, instantaneously
-    and globally.
-  image: "/uploads/phonecover.jpeg"
-contact:
-- name: Anna Sanne Göransson
-  image: "/uploads/anna.png"
-  job: Lab Manager
-  phone: "+46 76 242 28 24"
-  mail: anna@digidemlab.org
-- name: Petter Joelson
-  image: "/uploads/petter.png"
-  job: Lab Manager
-  phone: "+46 70 867 42 44"
-  mail: petter@digidemlab.org
-partner-text: Digidem Open Lab is co-organised with ABF Göteborg, with the support
-  of Allmänna Arsvfonden and the cooperation of Sweden's Municipalities, The Swedish
-  Green Party, The National Council of Swedish Youth Organisations (LSU), Young Media
-  and Unga Rörelsehindrade Gothenburg.
-partner-links:
-- name: ABF
-  logo: "/uploads/logotyp-abf.png"
-  link: http://www.abf.se/goteborg
-- name: Allmänna Arvsfonden
-  logo: "/uploads/logotyp-arvsfonden.png"
-  link: http://www.arvsfonden.se/
+
+redirect_from:
+- /en/projects/digidem-open-lab/
+
 ---
 
 ## Collective Intelligence :thermometer: :boom::heart_eyes:

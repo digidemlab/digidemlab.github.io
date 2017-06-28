@@ -1,18 +1,18 @@
 sv:
-- title: Vi är
+- title: Om
   url: /about
-- title: Vi gör
+- title: Projekt
   url: /projects
+- title: Ansök
+  url: /apply
 - title: Kontakt
   url: /contact
-- title: Blogg
-  url: 'https://medium.com/digidemlab'
 en:
 - title: About
   url: /en/about
-- title: Work
+- title: Projects
   url: /en/projects
+- title: Apply
+  url: /en/apply
 - title: Contact
   url: /en/contact
-- title: Blog
-  url: 'https://medium.com/digidemlab'

@@ -54,7 +54,7 @@ contact:
 questions:
   sv: Frågor? Prata med oss!
   en: Questions? Get in touch!
-baseurl: 
+baseurl:
 url: http://digidemlab.org
 author: Digidem Lab
 twitter:
@@ -80,3 +80,4 @@ sass:
 gems:
 - jemoji
 - jekyll-seo-tag
+- jekyll-redirect-from

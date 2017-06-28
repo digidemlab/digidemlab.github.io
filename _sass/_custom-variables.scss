@@ -254,7 +254,7 @@ $headings-margin-bottom:    ($spacer * 2) !default;
 $font-size-h1: 5rem !default;
 $font-size-h2: 1.625rem !default;
 
-$font-size-h3: 1.625rem !default;
+$font-size-h3: 1.5rem !default;
 $font-size-h4: 1rem !default;
 $font-size-h5: 1rem !default;
 $font-size-h6: 1rem !default;
@@ -280,6 +280,9 @@ $small-font-size: 0.875rem !default;
 $blockquote-small-color:  $black !default;
 $blockquote-font-size:    ($font-size-base * 1.5) !default;
 $blockquote-border-width: 0 !default;
+
+$list-inline-padding: 0 !default;
+
 
 // Cards
 

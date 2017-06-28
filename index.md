@@ -11,24 +11,15 @@ links:
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- text: "Nu är ansökan till Open Lab öppen!    \nDu som är 18-25 år kan ansöka om
-    att arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan
+- text: "Nu är ansökan till labbet öppen!  
+    Du som är 18-25 år kan ansöka om att arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan
     under tre månader. Lön och handledning ingår."
-  link-title: 'Sök till Digidem Open Lab i Göteborg :+1:'
-  link: "/projects/digidem-open-lab"
+  link-title: 'Sök till Digidem Lab i Göteborg :+1:'
+  link: "/apply"
 banners:
 - title: Blogg
-  image: "/uploads/Learning-cropped.jpg"
+  image: "/uploads/blogg.jpg"
   link: https://medium.com/digidemlab
-  format: normal
-- title: 
-  image: "/uploads/start3.png"
-  link: 
-  format: normal
-- title: Projekt
-  image: "/uploads/workincat-cropped.gif"
-  link: "/projects/"
-  format: tall
+  format: wide
 layout: start
 ---
-

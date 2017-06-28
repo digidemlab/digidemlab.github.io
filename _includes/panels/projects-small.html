@@ -1,0 +1,15 @@
+{% assign projects=site.projects | where:"lang", page.lang %}
+<div class="container py-3b py-lg-3c">
+
+{% for item in projects %}
+
+  <div class="card" style="width: 20rem;">
+    <img class="card-img-top" data-src="holder.js/300x200" alt="Card image cap">
+    <div class="card-block">
+      <h4 class="card-title"><a href="{{site.baseurl}}{{item.url}}" class="{% cycle '', 'text-info' %}">{{item.title}}</a></h4>
+      <p class="card-text">{{ item.excerpt }}</p>
+    </div>
+  </div>
+{% endfor %}
+
+</div>

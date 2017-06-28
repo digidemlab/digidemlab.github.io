@@ -12,17 +12,8 @@ links:
   link: "/en/projects/digidem-guide"
 banners:
 - title: Blog
-  image: "/uploads/Learning-cropped.jpg"
+  image: "/uploads/blogg.jpg"
   link: https://medium.com/digidemlab
-  format: normal
-- title: 
-  image: "/uploads/start3.png"
-  link: 
-  format: normal
-- title: Projects
-  image: "/uploads/workincat-cropped.gif"
-  link: "/en/projects/"
-  format: tall
+  format: wide
 layout: start
 ---
-
