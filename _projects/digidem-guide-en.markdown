@@ -26,16 +26,11 @@ quotes:
 - text: Digidem Guide’s aim is to bring democracy into everyday life. We bring the
     best digital tools available into one space, so you can find the right one for
     your needs.
-  image: 
+  image:
 contact:
-- name: Sara Woodgate
-  image: "/uploads/sarapresentationsbild1.gif"
-  job: Project Coordinator
-  mail: sara@digidemlab.org
-- name: Jennie Lindell
-  image: "/uploads/jennie.png"
-  job: Project Coordinator
-  mail: jennie@digidemlab.org
+- name: Petter Joelson
+  image: "/uploads/petter2-crop.gif"
+  mail: petter@digidemlab.org
 partner-text: Digidem Guide was initially developed by an international team of designers,
   researchers and communication strategists during a two week workshop at Medialab
   Prado in Madrid.

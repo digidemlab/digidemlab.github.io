@@ -1,11 +1,15 @@
 {% assign projects=site.projects | where:"lang", page.lang %}
 
 {% for item in projects %}
-  <div class="{% cycle '', 'bg-faded' %}">
+  <div class="{% cycle 'bg-faded', '' %}">
     <div class="container py-3b py-lg-3c">
+      <div class="row">
+        <div class="col">
+          <h2 class="display-2 mb-0b mb-lg-2b"><a href="{{site.baseurl}}{{item.url}}" class="{% cycle 'text-info', '' %}">{{item.title}}</a></h2>
+        </div>
+      </div>
       <div class="row mb-3">
         <div class="col-lg-9">
-          <h2 class="display-2 mb-0b mb-lg-2b"><a href="{{site.baseurl}}{{item.url}}" class="{% cycle '', 'text-info' %}">{{item.title}}</a></h2>
           <p class="lead">{{item.excerpt}}</p>
           <p>{{ item.ingress-text | strip_html }}</p>
         </div>

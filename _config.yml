@@ -51,10 +51,25 @@ contact:
     text: Digidem Lab is a non-profit organisation promoting participatory democracy
       on all levels of society. Get in touch to see how we can help your movement
       or organisation to find new processes and tools for participation.
+partner-text:
+  sv: Digidem Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF
+     Göteborg i samarbete med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna,
+     LSU - Sveriges ungdomsorganisationer, Ung Media och Unga Rörelsehindrade Göteborgsklubben.
+  en: Digidem Open Lab is co-organised with ABF Göteborg, with the support
+    of Allmänna Arsvfonden and the cooperation of Sweden's Municipalities, The Swedish
+    Green Party, The National Council of Swedish Youth Organisations (LSU), Young Media
+    and Unga Rörelsehindrade Gothenburg.
+partner-links:
+  - name: ABF
+    logo: "/uploads/logotyp-abf.png"
+    link: http://www.abf.se/goteborg
+  - name: Allmänna Arvsfonden
+    logo: "/uploads/logotyp-arvsfonden.png"
+    link: http://www.arvsfonden.se/
 questions:
-  sv: Frågor? Prata med oss!
-  en: Questions? Get in touch!
-baseurl: 
+  sv: Projektledare
+  en: Project manager
+baseurl:
 url: http://digidemlab.org
 author: Digidem Lab
 twitter:

@@ -45,25 +45,21 @@ layout: global
             <h2 class="text-uppercase text-white">{{site.questions[page.lang]}}</h2>
           </div>
           <div class="col-lg-8">
-            <div class="row">
-              {% for item in page.contact %}
-                <div class="col-sm-6">
-                  <div class="row mb-2 mb-lg-0">
-                    <div class="col-4 col-sm-5 col-lg-6">
-                      <img class="w-100" src="{{site.baseurl}}{{item.image}}">
-                    </div>
-                    <div class="col-8 col-sm-7 col-lg-6">
-                      <p class="small text-white">
-                        <strong>{{item.name}}</strong><br>
-                        {{item.job}}<br>
-                        {% if item.phone %}{{item.phone}}<br>{% endif %}
-                        <a href="mailto:{{item.mail}}">{{item.mail}}</a>
-                      </p>
-                    </div>
-                  </div>
+            {% for item in page.contact %}
+              <div class="row mb-2 mb-lg-0 {% if forloop.index > 1 %}mt-lg-3{% endif %}">
+                <div class="col-3">
+                  <img class="w-100" src="{{site.baseurl}}{{item.image}}">
                 </div>
-              {% endfor %}
-            </div>
+                <div class="col-9 col-md-6">
+                  <p class="small text-white">
+                    <strong>{{item.name}}</strong><br>
+                    {{item.text}}<br>
+                    {% if item.phone %}{{item.phone}}<br>{% endif %}
+                    <a href="mailto:{{item.mail}}">{{item.mail}}</a>
+                  </p>
+                </div>
+              </div>
+            {% endfor %}
           </div>
         </div>
       </div>

@@ -1,7 +1,7 @@
 ---
-title: Digidem Guide
+title: Democat
 date: 2017-02-23 17:21:00 Z
-ref: digidem-guide
+ref: democat
 excerpt: Din guide till digitala verktyg för fördjupad demokrati.
 ingress-text: Digidem Guide presenterar de bästa tillgängliga digitala verktygen på
   ett ställe, så att du kan hitta rätt metod för dina behov.
@@ -13,28 +13,20 @@ links:
 - title: Designing a guiding app for digital democracy
   url: https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e
 banners:
-- image: "/uploads/medialab.jpg"
+- image: "/uploads/democat-sketch1.jpg"
   format: normal
-- image: "/uploads/heatmap.jpg"
+- image: "/uploads/democat-sketch2.png"
   format: normal
-- image: "/uploads/digicat.jpg"
-  format: tall
-quotes:
-- text: Digidem Guide arbetar för att föra in demokrati i din vardag. Vi presenterar
-    de bästa tillgängliga digitala verktygen på ett ställe, så att du kan hitta rätt
-    metod för dina behov.
-  image:
 contact:
-- name: Petter Joelson
-  image: "/uploads/petter2-crop.gif"
-  mail: petter@digidemlab.org
-partner-text: Digidem Guide utvecklades av ett internationellt team av designers,
-  forskare och kommunikationsexperter under en två veckors workshop med Participa
-  LAB på Medialab Prado, Madrid.
-partner-links:
-- name: Participa LAB
-  logo: "/uploads/logotyp-medialab.jpg"
-  link: http://medialab-prado.es/participa-lab
+- name: Sara Woodgate
+  image: "/uploads/sarapresentationsbild1.gif"
+  mail: sara@digidemlab.org
+  text: Sara is an experienced project manager, having worked in the charity sector for the last 7 years. Her expertise is within fundraising, marketing and communications.
+- name: Jennie Lindell
+  image: "/uploads/jennie.png"
+  mail: jennie@digidemlab.org
+  text: Jennie is a graphic designer and front-end developer. She has a master degree in design and 6 years of experience from design practice. Her expertise is visual communication and digital design.
+
 ---
 
 ## Praktisk introduktion
