@@ -14,7 +14,7 @@ links:
   style: button
 - title: Ideas for projects
   url: http://ideas.digidemlab.org/
-  style:
+  style: 
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal
@@ -22,10 +22,8 @@ banners:
   format: normal
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide
-
 redirect_from:
-- /en/projects/digidem-open-lab/
-
+- "/en/projects/digidem-open-lab/"
 ---
 
 ## Collective Intelligence :thermometer: :boom::heart_eyes:

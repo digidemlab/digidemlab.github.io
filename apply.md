@@ -14,11 +14,9 @@ links:
 banners:
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide
-
 redirect_from:
-- /projects/digidem-open-lab/
+- "/projects/digidem-open-lab/"
 ---
-
 
 ## Hur funkar labbet?
 På labbet i Göteborg kan du som är 18-25 år ansöka om att arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan under tre månader. Du får 2600 kr före skatt per månad och handledning av våra projektledare.

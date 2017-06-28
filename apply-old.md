@@ -11,7 +11,7 @@ links:
   style: button
 - title: Idéer till projekt
   url: http://ideas.digidemlab.org/
-  style:
+  style: 
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal
@@ -45,9 +45,8 @@ partner-links:
 - name: Allmänna Arvsfonden
   logo: "/uploads/logotyp-arvsfonden.png"
   link: http://www.arvsfonden.se/
-
 redirect_from:
-- /projects/digidem-open-lab/
+- "/projects/digidem-open-lab/"
 ---
 
 ## Kollektiv intelligens :thermometer: :boom::heart_eyes:
