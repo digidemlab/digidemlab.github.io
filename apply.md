@@ -1,7 +1,7 @@
 ---
 title: Ansök till labbet!
 ref: apply
-excerpt: Förena dina skills med andra för att ta det vi kan göra till nästa nivå
+excerpt:  Ansök till Digidem Lab för att få arbeta med projekt som handlar om delaktighet och ny teknik en kväll i veckan under tre månader.
 ingress-text: Digidem Lab är ett utrymme för aktivister, designers, kodare och andra att träffas och undersöka och utveckla processer för deltagande demokrati för att skapa förändring.
 image: "/uploads/updragde-front.gif"
 links:
