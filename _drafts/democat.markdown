@@ -21,12 +21,14 @@ contact:
 - name: Sara Woodgate
   image: "/uploads/sarapresentationsbild1.gif"
   mail: sara@digidemlab.org
-  text: Sara is an experienced project manager, having worked in the charity sector for the last 7 years. Her expertise is within fundraising, marketing and communications.
+  text: Sara is an experienced project manager, having worked in the charity sector
+    for the last 7 years. Her expertise is within fundraising, marketing and communications.
 - name: Jennie Lindell
   image: "/uploads/jennie.png"
   mail: jennie@digidemlab.org
-  text: Jennie is a graphic designer and front-end developer. She has a master degree in design and 6 years of experience from design practice. Her expertise is visual communication and digital design.
-
+  text: Jennie is a graphic designer and front-end developer. She has a master degree
+    in design and 6 years of experience from design practice. Her expertise is visual
+    communication and digital design.
 ---
 
 ## Praktisk introduktion
