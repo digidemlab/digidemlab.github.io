@@ -26,7 +26,7 @@ quotes:
 - text: Digidem Guide’s aim is to bring democracy into everyday life. We bring the
     best digital tools available into one space, so you can find the right one for
     your needs.
-  image:
+  image: 
 contact:
 - name: Petter Joelson
   image: "/uploads/petter2-crop.gif"

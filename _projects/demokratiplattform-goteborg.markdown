@@ -2,12 +2,11 @@
 title: Demokratiplattform för Göteborg
 ref: demokratiplattform-goteborg
 excerpt: Förstudie för en demokratiplattform för Göteborg.
-ingress-text: Sanna Ghotbi, kommunpolitiker i Göteborg, gör research om möjligheten att skapa ett digitalt verktyg för direktdemokrati i Göteborg.
+ingress-text: Sanna Ghotbi, kommunpolitiker i Göteborg, gör research om möjligheten
+  att skapa ett digitalt verktyg för direktdemokrati i Göteborg.
 links:
 - title: Municipalismen är ett hopp för framtiden
   url: https://medium.com/digidemlab/konferensen-fearless-cities-municipalismen-%C3%A4r-ett-hopp-f%C3%B6r-framtiden-689e326a5fe
-# - title: Den digitala revolutionen måste nå de politiska rummen i Sverige
-#  url: https://medium.com/digidemlab/den-digitala-revolutionen-m%C3%A5ste-n%C3%A5-de-politiska-rummen-i-sverige-e4437e7cd0c
 banners:
 - image: "/uploads/barcelona-normal-intervju.jpg"
   format: normal
@@ -17,8 +16,8 @@ contact:
 - name: Sanna Ghotbi
   image: "/uploads/sanna.jpg"
   mail: sannaghotbi05@gmail.com
-  text: Är aktiv i flera organisationer, exempelvis Ingen Människa är Illegal och Jordens Vänner, och kommunpolitiker för Feministisk Initiativ.
-
+  text: Är aktiv i flera organisationer, exempelvis Ingen Människa är Illegal och
+    Jordens Vänner, och kommunpolitiker för Feministisk Initiativ.
 ---
 
 ## Vad handlar projektet om?
