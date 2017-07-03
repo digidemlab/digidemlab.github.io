@@ -3,7 +3,7 @@ title: Loomio för sociala rörelser
 date: 2017-06-29 09:02:27.337000000 Z
 ref: loomio-sociala-rorelser
 excerpt: Kampanjkoordinering med digitala verktyg.
-ingress-text: Kampanjen Fossilgasfällan använder verktyget Loomio för att beslutsfattande.
+ingress-text: Klimatkampanjen Fossilgasfällan testar och utvärderar det digitala verktyget Loomio för att förenkla beslutsfattande.
 links:
 - title: Fossilgasfällan
   url: http://www.fossilgasfallan.se/
@@ -12,7 +12,7 @@ links:
 contact:
 - name: Olivia Linander
   image: "/uploads/olivia-profilbild.jpg"
-  mail: olivia.linander@gmail.com
+#  mail: olivia.linander@gmail.com
   text: Olivia Linander är aktiv i kampanjen fossilgasfällan. Hon har tidigare jobbat
     som samordnare för den internationella kampanjen 350.org.
 ---
