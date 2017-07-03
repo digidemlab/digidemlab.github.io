@@ -5,6 +5,7 @@ ref: loomio-sociala-rorelser
 excerpt: Kampanjkoordinering med digitala verktyg.
 ingress-text: Klimatkampanjen Fossilgasfällan testar och utvärderar det digitala verktyget
   Loomio för att förenkla beslutsfattande.
+image: "/uploads/loomio-share.png"
 links:
 - title: Fossilgasfällan
   url: http://www.fossilgasfallan.se/

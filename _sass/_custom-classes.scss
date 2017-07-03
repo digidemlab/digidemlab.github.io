@@ -20,7 +20,6 @@
   z-index: -1;
 }
 
-
 // Padding
 @include media-breakpoint-down(sm) {
 
@@ -51,6 +50,10 @@
    font-size: 1.5rem;
 }
 
+.figure-caption {
+  font-size: 1.25rem;
+}
+
 .display-2 {
   color: $black;
 }
@@ -58,8 +61,10 @@
 
 // Links
 
+.figure-caption,
 .card-text,
-.lead {
+.lead,
+.card-title {
   font-family: $headings-font-family;
   line-height: 1.4;
 
@@ -310,7 +315,8 @@ ul.list-random {
   .nav .nav-link,
   .blockquote,
   blockquote,
-  .lead {
+  .lead,
+  .figure-caption {
     font-size: 1.6667rem !important;
   }
 

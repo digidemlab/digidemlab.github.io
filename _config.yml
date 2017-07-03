@@ -69,7 +69,10 @@ partner-links:
 questions:
   sv: Projektledare
   en: Project manager
-baseurl: 
+project-title:
+  sv: Projekt
+  en: Projects
+baseurl:
 url: http://digidemlab.org
 author: Digidem Lab
 twitter:

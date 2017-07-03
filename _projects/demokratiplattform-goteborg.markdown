@@ -4,6 +4,7 @@ ref: demokratiplattform-goteborg
 excerpt: Förstudie för en demokratiplattform för Göteborg.
 ingress-text: Sanna Ghotbi, kommunpolitiker i Göteborg, gör research om möjligheten
   att skapa ett digitalt verktyg för direktdemokrati i Göteborg.
+image: "/uploads/plattform-share.jpg"
 links:
 - title: Municipalismen är ett hopp för framtiden
   url: https://medium.com/digidemlab/konferensen-fearless-cities-municipalismen-%C3%A4r-ett-hopp-f%C3%B6r-framtiden-689e326a5fe
