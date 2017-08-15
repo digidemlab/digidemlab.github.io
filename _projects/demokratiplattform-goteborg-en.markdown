@@ -1,8 +1,8 @@
 ---
 title: Citizen platform for Gothenburg
 date: 2017-06-29 09:02:27.296000000 Z
-ref: demokratiplattform-goteborg
 permalink: "/en/projects/citizen-platform-gothenburg/"
+ref: demokratiplattform-goteborg
 lang: en
 excerpt: Pilot study for a new citizen platform for Gothenburg. Göteborg.
 ingress-text: Sanna Ghotbi, local politician, researches the possibilities for a tool for direct democracy in Gothenburg.
@@ -19,7 +19,8 @@ contact:
 - name: Sanna Ghotbi
   image: "/uploads/sanna.jpg"
   mail: sannaghotbi05@gmail.com
-  text: Active in many campaigns, among others No One Is Illegal, Friends of the Earth and representing the feminist party in the local council.
+  text: Active in many campaigns, among others No One Is Illegal, Friends of the Earth
+    and representing the feminist party in the local council.
 ---
 
 ## What is the aim of the project?

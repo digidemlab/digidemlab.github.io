@@ -1,11 +1,12 @@
 ---
 title: Loomio for social movements
 date: 2017-06-29 09:02:27.337000000 Z
-ref: loomio-sociala-rorelser
 permalink: "/en/projects/loomio-social-movements/"
+ref: loomio-sociala-rorelser
 lang: en
 excerpt: Campaign coordinating with digital tools.
-ingress-text: The climate campaign "Fossilgasfällan" evaluates Loomio for easier decision making.
+ingress-text: The climate campaign "Fossilgasfällan" evaluates Loomio for easier decision
+  making.
 image: "/uploads/loomio-share.png"
 links:
 - title: Fossilgasfällan
@@ -16,7 +17,8 @@ contact:
 - name: Olivia Linander
   image: "/uploads/olivia-profilbild.jpg"
   mail: olivia.linander@gmail.com
-  text: Olivia Linander is active in the Fossilgasfällan campaign. She previously worked as a Swedish coordinator for the 350.org campaign.
+  text: Olivia Linander is active in the Fossilgasfällan campaign. She previously
+    worked as a Swedish coordinator for the 350.org campaign.
 ---
 
 ## What is Loomio?
