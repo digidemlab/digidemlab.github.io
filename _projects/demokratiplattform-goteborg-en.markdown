@@ -6,6 +6,7 @@ permalink: "/en/projects/citizen-platform-gothenburg/"
 lang: en
 excerpt: Pilot study for a new citizen platform for Gothenburg. Göteborg.
 ingress-text: Sanna Ghotbi, local politician, researches the possibilities for a tool for direct democracy in Gothenburg.
+image: "/uploads/plattform-share.jpg"
 links:
 - title: Municipalism is a hope for the future
   url: https://medium.com/digidemlab/konferensen-fearless-cities-municipalismen-%C3%A4r-ett-hopp-f%C3%B6r-framtiden-689e326a5fe
