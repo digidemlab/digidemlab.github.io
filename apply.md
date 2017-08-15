@@ -9,7 +9,7 @@ ingress-text: Digidem Lab är ett utrymme för aktivister, designers, kodare och
 image: "/uploads/updragde-front.gif"
 links:
 - title: Ansök med ditt projekt
-  url: https://digidemlab.sandcats.io/shared/STJS41aCSw69VY1DXXN7RKPFFvZPrz7aDKDTCyvaMDn
+  url: https://digidemlab1.typeform.com/to/PnjBgq
   style: button
 - title: Idéer till projekt
   url: http://ideas.digidemlab.org/
