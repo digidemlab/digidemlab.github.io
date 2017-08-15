@@ -10,7 +10,7 @@ ingress-text: Digidem Open Lab is a physical space in Gothenburg, Sweden, where 
 image: "/uploads/updragde-front.gif"
 links:
 - title: Apply with your project
-  url: https://digidemlab.sandcats.io/shared/STJS41aCSw69VY1DXXN7RKPFFvZPrz7aDKDTCyvaMDn
+  url: https://digidemlab1.typeform.com/to/PnjBgq
   style: button
 - title: Ideas for projects
   url: http://ideas.digidemlab.org/
