@@ -5,7 +5,8 @@ permalink: "/en/projects/citizen-platform-gothenburg/"
 ref: demokratiplattform-goteborg
 lang: en
 excerpt: Pilot study for a new citizen platform for Gothenburg. Göteborg.
-ingress-text: Sanna Ghotbi, local politician, researches the possibilities for a tool for direct democracy in Gothenburg.
+ingress-text: Sanna Ghotbi, local politician, researches the possibilities for a tool
+  for direct democracy in Gothenburg.
 image: "/uploads/plattform-share.jpg"
 links:
 - title: Municipalism is a hope for the future
