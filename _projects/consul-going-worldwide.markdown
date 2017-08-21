@@ -3,7 +3,8 @@ title: Consul Going Worldwide
 date: 2017-02-23 17:21:00 Z
 ref: consul
 excerpt: Madrids medborgarplattform erövrar världen!
-ingress-text: Ett projekt för att göra Madrid's medborgarplattform Consul tillgänglig för en större publik.
+ingress-text: Ett projekt för att göra Madrid's medborgarplattform Consul tillgänglig
+  för en större publik.
 image: "/uploads/consul-share.png"
 links:
 - title: Ansök till Collective Intelligence for Democracy 2017
@@ -15,13 +16,12 @@ contact:
   image: "/uploads/vanessa.jpg"
   twitter: vanessametonini
   text: Agile Coach och full stack developer från Brazil.
-partner-text: Det här är ett kommande projekt inom Collective Intelligence 2017 på Medialab
-  Prado i Madrid.
+partner-text: Det här är ett kommande projekt inom Collective Intelligence 2017 på
+  Medialab Prado i Madrid.
 partner-links:
 - name: Participa LAB
   logo: "/uploads/logotyp-medialab.jpg"
   link: http://medialab-prado.es/participa-lab
-
 ---
 
 ## En flexibel plattform

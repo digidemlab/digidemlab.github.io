@@ -1,11 +1,12 @@
 ---
 title: Consul Going Worldwide
 date: 2017-02-23 17:21:00 Z
-ref: consul
 permalink: "/en/projects/consul-going-worldwide/"
+ref: consul
 lang: en
 excerpt: Making the citizen platform go worldwide!
-ingress-text: A project to make Madrid's citizen platform accessible and easy to use for a wider audience.
+ingress-text: A project to make Madrid's citizen platform accessible and easy to use
+  for a wider audience.
 image: "/uploads/consul-share.png"
 links:
 - title: Apply to Collective Intelligence for Democracy 2017
@@ -23,7 +24,6 @@ partner-links:
 - name: Participa LAB
   logo: "/uploads/logotyp-medialab.jpg"
   link: http://medialab-prado.es/participa-lab
-
 ---
 
 ## A versatile platform

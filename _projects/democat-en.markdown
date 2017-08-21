@@ -1,8 +1,8 @@
 ---
 title: DemocatBot
 date: 2017-02-23 17:21:00 Z
-ref: democatbot
 permalink: "/en/projects/democatbot/"
+ref: democatbot
 lang: en
 excerpt: A bot to guide you to digital democracy.
 ingress-text: A chat bot to guide people to a tool, answer questions and to make the

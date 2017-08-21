@@ -14,11 +14,14 @@ contact:
 - name: Sara Woodgate
   image: "/uploads/sarapresentationsbild1.gif"
   mail: sara@digidemlab.org
-  text: Sara är en erfaren projektledare som har arbetat för NGO:s de senaste sju åren. Hon är expert på insamling, marknadsföring och kommunikation.
+  text: Sara är en erfaren projektledare som har arbetat för NGO:s de senaste sju
+    åren. Hon är expert på insamling, marknadsföring och kommunikation.
 - name: Jennie Lindell
   image: "/uploads/jennie.png"
   mail: jennie@digidemlab.org
-  text: Jennie är grafisk designer och front end-utvecklare. Hon är utbildad designer och har 6 års erfarenhet inom branschen. Hennes expertis är inom visuell kommunikation och digital design.
+  text: Jennie är grafisk designer och front end-utvecklare. Hon är utbildad designer
+    och har 6 års erfarenhet inom branschen. Hennes expertis är inom visuell kommunikation
+    och digital design.
 ---
 
 ## Vem är Democat?
