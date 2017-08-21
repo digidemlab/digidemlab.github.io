@@ -31,4 +31,4 @@ Medborgarplattformen Consul har visat sig vara ett flexibelt verktyg, inte bara 
 Med de nya målgrupperna för Consul (städer i andra länder, organisationer, olika typer av deltagarbudgetar), behöver vi titta på hur det kan anpassas till olika användare och hur det bäst kan möta deras förväntningar.
 
 ## Ökad tillgänglighet
-Det här projektet handlar om att sänka tröskeln för installation och inställningar av Consul, genom en kombination av programmering, design och kommunikation. Det övergripande målet är att göra installationsprocessen enklare, så att Consul kan spridas över världen! Ansök till Medialab Prado för att bli en del i vårt team!
+Det här projektet handlar om att sänka tröskeln för installation och inställningar av Consul, genom en kombination av programmering, design och kommunikation. Det övergripande målet är att göra installationsprocessen enklare, så att Consul kan spridas över världen! [Ansök till Medialab Prado för att bli en del i vårt team!](http://medialab-prado.es/article/collective-intelligence-for-democracy-2017-call-for-collaborators)
