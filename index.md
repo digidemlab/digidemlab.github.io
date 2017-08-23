@@ -11,10 +11,8 @@ links:
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- text: Nu är ansökan till labbet öppen! Du som är 18-25 år kan ansöka om att arbeta
-    med projekt som handlar om delaktighet och ny teknik en kväll i veckan under tre
-    månader. Lön och handledning ingår.
-  link-title: 'Sök till Digidem Lab i Göteborg :+1:'
+- text: Digidem Lab backar din idé! Du som är 18-25 år kan få finansiering för projekt som handlar om delaktighet och ny teknik i tre månader. Du får upp till 16 000 kr, handledning och material.
+  link-title: 'Sök projektstöd :+1:'
   link: "/apply"
 banners:
 - title: Blogg
@@ -23,4 +21,3 @@ banners:
   format: wide
 layout: start
 ---
-
