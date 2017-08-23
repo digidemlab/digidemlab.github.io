@@ -5,8 +5,7 @@ description: Digidem Lab är en ideell organisation som verkar för deltagande d
   med ny teknik.
 ref: about
 ingress-text: Digidem Lab är en ideell organisation som verkar för deltagande demokrati
-  med ny teknik. Det gör vi bland annat genom vårt [öppna lab i Göteborg](/apply)
-  och [Digidem Guide](/projects/digidem-guide).
+  med ny teknik. Det gör vi bland annat genom att [backa](/apply) bra [projekt](/projects), ordna föreläsningar, workshops och hackathons.
 quotes:
 - text: New online tools for interaction and collaboration have let people come together
     across space and time to build amazing things. As the Internet breaks down the
