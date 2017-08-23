@@ -12,7 +12,7 @@ links:
   style: button
 - title: Tidigare projekt
   url: "/projects/"
-  style: 
+  style:
 banners:
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide
@@ -25,7 +25,7 @@ Du som är 18-25 år kan ansöka om att arbeta med projekt som handlar om delakt
 
 Projektstödet är en möjlighet att experimentera, lära sig och testa nya idéer. Du kan använda det som en finansiering för ett projekt som du redan håller på med eller vet att du vill göra, eller som en chans att få handledning och lära dig nya saker. Du kan till exempel [testa ett nytt verktyg i din förening](/projects/loomio-sociala-rorelser/), [bygga en katt-bot](/projects/democat/), [förbättra en medborgarplattform](/projects/consul-going-worldwide/) eller [göra en förstudie om direktdemokrati](/projects/demokratiplattform-goteborg/).
 
-### Blir du antagen till labbet får du:
+### Blir du antagen får du:
 * 8000 - 16 000 kronor före skatt per person.
 * Tre månader långa projekt.
 * Handledning i att planera och genomföra projektet av erfarna projektledare.
