@@ -39,13 +39,12 @@ defaults:
     type: crew
   values:
     lang: sv
-email: petter@p-jo.se
+email: admin@digidemlab.org
 contact:
   sv:
     title: Prata med oss!
     text: Digidem Lab är en ideell organisation som arbetar med att främja deltagande
-      demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation, kommun
-      eller parti att hitta nya sätt att engagera och skapa processer för deltagande.
+      demokrati på alla nivåer i samhället. Vi hjälper gärna er organisation att hitta nya sätt att engagera och skapa processer för deltagande.
   en:
     title: Get in touch!
     text: Digidem Lab is a non-profit organisation promoting participatory democracy
@@ -72,7 +71,7 @@ questions:
 project-title:
   sv: Projekt
   en: Projects
-baseurl: 
+baseurl:
 url: http://digidemlab.org
 author: Digidem Lab
 twitter:
@@ -85,7 +84,7 @@ social:
   - https://twitter.com/digidemlab
   - https://www.facebook.com/digidemlab
   - https://www.instagram.com/digidemlab/
-  - https://github.com/benbalter
+  - https://github.com/digidemlab
 github_username: p-jo
 markdown: kramdown
 exclude:

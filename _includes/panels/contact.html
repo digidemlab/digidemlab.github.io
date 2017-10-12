@@ -17,7 +17,7 @@
           {% assign crew=site.crew | where:"lang", page.lang %}
 
           {% for item in crew %}
-            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}} {% cycle 'mb-lg-6', '' %}">
+            <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}} {% cycle 'mb-lg-5', 'mb-lg-3', '' %}">
               <div class="media-body pt-2 pb-3">
                 <strong>{{item.title}}</strong>,
                 {{item.job}},
