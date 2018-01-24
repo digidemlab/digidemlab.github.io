@@ -8,7 +8,7 @@ ingress-text: Digidem Labs projektstöd är en möjlighet för kodare, aktiviste
 image: "/uploads/updragde-front.gif"
 links:
 - title: Sök projektstöd
-  url: https://digidemlab1.typeform.com/to/PnjBgq
+  url: https://digidemlab.typeform.com/to/PnjBgq
   style: button
 - title: Tidigare projekt
   url: "/projects/"
