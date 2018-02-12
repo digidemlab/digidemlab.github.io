@@ -3,18 +3,12 @@ title: Årsmötesmetoder för RKUF
 date: 2018-01-23 17:21:00 Z
 ref: arsmotesmetoder-rkuf
 excerpt: Nya former för årsmötesdemokrati.
-ingress-text: Digitala hjälpmedel och verktyg för att tillgängligöra Röda Korsets Ungdomsförbunds årsmöte.
-# image: "/uploads/democat-share.png"
-# banners:
-# - image: "/uploads/democatbot-persona.png"
-#   format: normal
-# - image: "/uploads/democatbot-conversation.png"
-#  format: normal
+ingress-text: Digitala hjälpmedel och verktyg för att tillgängligöra Röda Korsets
+  Ungdomsförbunds årsmöte.
 contact:
 - name: Frida Ågren
-#  image: "/uploads/sarapresentationsbild1.gif"
-#  mail: sara@digidemlab.org
-  text: Frida är anställd av Röda Korsets Ungdomsförbund och ansvarig för att arrangera deras årsmöte.
+  text: Frida är anställd av Röda Korsets Ungdomsförbund och ansvarig för att arrangera
+    deras årsmöte.
 ---
 
 ## Vad handlar projektet om?

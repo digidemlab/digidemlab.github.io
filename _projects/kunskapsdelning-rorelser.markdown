@@ -3,20 +3,13 @@ title: Kunskapsdelning för sociala rörelser
 date: 2018-01-23 17:21:00 Z
 ref: kunskapsdelning-rorelser
 excerpt: Inlärningsplattform för sociala rörelser.
-ingress-text: En plattform där sociala rörelser kan lära sig av varandra och sprida kunskap.
+ingress-text: En plattform där sociala rörelser kan lära sig av varandra och sprida
+  kunskap.
 links:
-  - title: Sökandet efter en plattform för interaktiv kunskapsdelande
-    url: https://medium.com/digidemlab/s%C3%B6kandet-efter-en-plattform-f%C3%B6r-interaktiv-kunskapsdelande-inom-och-mellan-progressiva-r%C3%B6relser-28bd4d19bd34
-# image: "/uploads/democat-share.png"
-# banners:
-# - image: "/uploads/democatbot-persona.png"
-#   format: normal
-# - image: "/uploads/democatbot-conversation.png"
-#  format: normal
+- title: Sökandet efter en plattform för interaktiv kunskapsdelande
+  url: https://medium.com/digidemlab/s%C3%B6kandet-efter-en-plattform-f%C3%B6r-interaktiv-kunskapsdelande-inom-och-mellan-progressiva-r%C3%B6relser-28bd4d19bd34
 contact:
 - name: Andreas Jonsson
-#  image: "/uploads/sarapresentationsbild1.gif"
-#  mail: sara@digidemlab.org
   text: Andreas Jonsson är miljöaktivist, aktiv i bland annat Fossilgasfällan.
 ---
 
