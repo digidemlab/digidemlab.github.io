@@ -5,6 +5,9 @@ collections:
   crew:
     title: Crew
     output: false
+  posts:
+    title: Posts
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -66,7 +69,7 @@ questions:
 project-title:
   sv: Projekt
   en: Projects
-baseurl:
+baseurl: 
 url: http://digidemlab.org
 author: Digidem Lab
 twitter:
