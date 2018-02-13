@@ -5,16 +5,10 @@ ref: arsmotesmetoder-rkuf
 excerpt: Nya former för årsmötesdemokrati.
 ingress-text: Digitala hjälpmedel och verktyg för att tillgängligöra Röda Korsets Ungdomsförbunds årsmöte.
 image: "/uploads/meeting.jpg"
-# banners:
-# - image: "/uploads/democatbot-persona.png"
-#   format: normal
-# - image: "/uploads/democatbot-conversation.png"
-#  format: normal
 contact:
 - name: Frida Ågren
-#  image: "/uploads/sarapresentationsbild1.gif"
-#  mail: sara@digidemlab.org
-  text: Frida är anställd av Röda Korsets Ungdomsförbund och ansvarig för att arrangera deras årsmöte.
+  text: Frida är anställd av Röda Korsets Ungdomsförbund och ansvarig för att arrangera
+    deras årsmöte.
 ---
 
 ## Vad handlar projektet om?
