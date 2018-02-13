@@ -3,7 +3,8 @@ title: Årsmötesmetoder för RKUF
 date: 2018-01-23 17:21:00 Z
 ref: arsmotesmetoder-rkuf
 excerpt: Nya former för årsmötesdemokrati.
-ingress-text: Digitala hjälpmedel och verktyg för att tillgängligöra Röda Korsets Ungdomsförbunds årsmöte.
+ingress-text: Digitala hjälpmedel och verktyg för att tillgängligöra Röda Korsets
+  Ungdomsförbunds årsmöte.
 image: "/uploads/meeting.jpg"
 contact:
 - name: Frida Ågren
