@@ -5,13 +5,6 @@ collections:
   crew:
     title: Crew
     output: false
-  posts:
-    title: Posts
-    output: true
-  projects:
-    title: Projects
-    output: true
-    permalink: "/projects/:title/"
   uploads:
     title: Uploads
     output: true
@@ -30,7 +23,7 @@ defaults:
     lang: en
 - scope:
     path: ''
-    type: projects
+    type: posts
   values:
     layout: project
     lang: sv
@@ -39,6 +32,7 @@ defaults:
     type: crew
   values:
     lang: sv
+permalink: "/projects/:title/"
 email: admin@digidemlab.org
 contact:
   sv:
@@ -72,7 +66,7 @@ questions:
 project-title:
   sv: Projekt
   en: Projects
-baseurl: 
+baseurl:
 url: http://digidemlab.org
 author: Digidem Lab
 twitter:

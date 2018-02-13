@@ -1,4 +1,4 @@
-{% assign projects=site.projects | where:"lang", page.lang %}
+{% assign projects=site.posts | where:"lang", page.lang %}
 {% for item in projects %}
   <div class="col-sm-6 col-lg-4 mb-3">
     <div class="card h-100 bg-{% cycle 'primary', 'danger', 'warning', 'success' %}">

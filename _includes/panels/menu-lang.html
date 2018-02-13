@@ -1,4 +1,4 @@
-{% assign posts=site.projects | where:"ref", page.ref | sort: 'lang' %}
+{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   <li class="nav-item {% if post.lang == page.lang %}active{% endif %}">
     <a class="nav-link py-0 text-uppercase {{ post.lang }}" href="{{ site.baseurl }}{{ post.url }}">{{ post.lang }}</a>

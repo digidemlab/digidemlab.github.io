@@ -1,4 +1,4 @@
-{% assign projects=site.projects | where:"lang", page.lang %}
+{% assign projects=site.posts | where:"lang", page.lang %}
 
 {% for item in projects %}
   <div class="{% cycle 'bg-faded', '' %}">

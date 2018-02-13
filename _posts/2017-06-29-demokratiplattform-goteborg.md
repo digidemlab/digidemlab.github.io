@@ -1,5 +1,6 @@
 ---
 title: Demokratiplattform för Göteborg
+date: 2017-06-29 09:02:00 Z
 ref: demokratiplattform-goteborg
 excerpt: Förstudie för en demokratiplattform för Göteborg.
 ingress-text: Sanna Ghotbi, kommunpolitiker i Göteborg, gör research om möjligheten
