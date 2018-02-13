@@ -3,14 +3,19 @@ title: Film om Democratic Cities
 date: 2018-01-23 17:21:00 Z
 ref: democratic-cities
 excerpt: Dokumentär om demokratikonferens i Madrid.
-ingress-text: En dokumentär om den internationella demokratikonferensen Democratic Cities i Madrid i november 2017.
+ingress-text: En dokumentär om den internationella demokratikonferensen Democratic
+  Cities i Madrid i november 2017.
 image: "/uploads/democratic-cities.png"
 links:
 - title: Democratic Cities
   url: http://democratic-cities.cc/
 contact:
 - name: Molly Migchelsen Chinita
-  text: Jag är sedan flera år aktiv medlem i den socialistiska bokhandeln Bokkafeet, Jönköping. Där har jag hållit i studiecirklar, föreläsningar och lagt mycket fokus på folkbildning.  Driver genom detta även digital försäljning av politisk litteratur. Har även deltagit vid demonstrationer, organiserat och samordnat manifestationer och jobbat på diverse olika sätt för en friare plattform för unga politiskt intresserade/engagerade.
+  text: Jag är sedan flera år aktiv medlem i den socialistiska bokhandeln Bokkafeet,
+    Jönköping. Där har jag hållit i studiecirklar, föreläsningar och lagt mycket fokus
+    på folkbildning.  Driver genom detta även digital försäljning av politisk litteratur.
+    Har även deltagit vid demonstrationer, organiserat och samordnat manifestationer
+    och jobbat på diverse olika sätt för en friare plattform för unga politiskt intresserade/engagerade.
 ---
 
 ## Vad handlar projektet om?
