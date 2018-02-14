@@ -10,9 +10,8 @@ links:
   url: https://www.facebook.com/G1000goteborg
 contact:
 - name: G1000 Göteborg
-  text: Kulturverkstan osv
-  mail: g1000goteborg@gmail.com
   text: Marcia Munoz sitter i PeaceWorks styrelse, har studerat en statsvetenskaplig
+  mail: g1000goteborg@gmail.com
 ---
 
 Finns det något med Göteborg som du vill påverka eller förändra? Det behöver man inte vara politiker för att göra. Som medborgare ska du också ha makt över din stad. G1000 är medborgarnas egna toppmöte, ett sätt att få fram vad vi i Göteborg verkligen vill och göra det till verklighet genom deltagande demokrati.
