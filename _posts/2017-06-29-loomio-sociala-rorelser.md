@@ -10,7 +10,7 @@ links:
 - title: Fossilgasfällan
   url: http://www.fossilgasfallan.se/
 - title: Om Loomio i Digidem Guide
-  url: http://digidemguide.org/loomio/
+  url: http://democat.me/loomio/
 contact:
 - name: Olivia Linander
   image: "/uploads/olivia-profilbild.jpg"

@@ -11,8 +11,8 @@ ingress-text: Digidem Guide brings the best digital tools available into one spa
 image-top: "/uploads/ineedit.gif"
 image: "/uploads/digidemguide-share.jpg"
 links:
-- title: digidemguide.org
-  url: http://digidemguide.org
+- title: Democat - formerly Digidem Guide
+  url: http://democat.me
   style: external-link
 - title: Designing a guiding app for digital democracy
   url: https://medium.com/@p_jo/designing-a-guiding-app-for-digital-democracy-1ba223b7968e
@@ -27,7 +27,7 @@ quotes:
 - text: Digidem Guide’s aim is to bring democracy into everyday life. We bring the
     best digital tools available into one space, so you can find the right one for
     your needs.
-  image: 
+  image:
 contact:
 - name: Petter Joelson
   image: "/uploads/petter2-crop.gif"
