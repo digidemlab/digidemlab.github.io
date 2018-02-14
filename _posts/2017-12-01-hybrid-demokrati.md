@@ -3,10 +3,12 @@ title: Hybrid demokrati
 date: 2017-12-01 17:21:00 Z
 ref: hybrid-demokrati
 excerpt: En modell för att använda medborgarjurys i kommuner.
-ingress-text: "Under den internationella workshopen ”Collective intelligence 2017” i Madrid deltog jag i ett projekt som heter \"Hybrid demokrati\" där vi arbetade med att utveckla en modell för kommuner att börja använda medborgarjury."
+ingress-text: Under den internationella workshopen ”Collective intelligence 2017”
+  i Madrid deltog jag i ett projekt som heter "Hybrid demokrati" där vi arbetade med
+  att utveckla en modell för kommuner att börja använda medborgarjury.
 links:
-- title: "Blogginlägg: Projektet Hybrid demokrati"
-  url:  https://medium.com/digidemlab/projektet-hybrid-demokrati-att-anv%C3%A4nda-sig-av-medborgarjurys-38f27e069022
+- title: 'Blogginlägg: Projektet Hybrid demokrati'
+  url: https://medium.com/digidemlab/projektet-hybrid-demokrati-att-anv%C3%A4nda-sig-av-medborgarjurys-38f27e069022
 image: "/uploads/medborgarjury-share.png"
 banners:
 - image: "/uploads/medborgarjury-wide.png"
@@ -16,7 +18,8 @@ contact:
   image: "/uploads/sanna.jpg"
   mail: sanna@digidemlab.org
   text: Projektkoordinator för Digidem Lab, kommunpolitiker och jämställdhetsföreläsare.
-partner-text: Hybrid demokrati gjordes som en del av Collective Intelligence 2017 på Medialab Prado i Madrid.
+partner-text: Hybrid demokrati gjordes som en del av Collective Intelligence 2017
+  på Medialab Prado i Madrid.
 partner-links:
 - name: Participa LAB
   logo: "/uploads/logotyp-medialab.jpg"
