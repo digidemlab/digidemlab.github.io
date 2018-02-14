@@ -16,7 +16,6 @@ links:
 contact:
 - name: Olivia Linander
   image: "/uploads/olivia-profilbild.jpg"
-  mail: olivia.linander@gmail.com
   text: Olivia Linander is active in the Fossilgasfällan campaign. She previously
     worked as a Swedish coordinator for the 350.org campaign.
 ---

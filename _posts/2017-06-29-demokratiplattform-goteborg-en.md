@@ -16,7 +16,7 @@ banners:
 contact:
 - name: Sanna Ghotbi
   image: "/uploads/sanna.jpg"
-  mail: sannaghotbi05@gmail.com
+  mail: sanna@digidemlab.org
   text: Active in many campaigns, among others No One Is Illegal, Friends of the Earth
     and representing the feminist party in the local council.
 ---

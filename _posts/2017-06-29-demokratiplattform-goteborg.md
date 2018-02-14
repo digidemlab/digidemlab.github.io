@@ -17,7 +17,7 @@ banners:
 contact:
 - name: Sanna Ghotbi
   image: "/uploads/sanna.jpg"
-  mail: sannaghotbi05@gmail.com
+  mail: sanna@digidemlab.org
   text: Är aktiv i flera organisationer, exempelvis Ingen Människa är Illegal och
     Jordens Vänner, och kommunpolitiker för Feministisk Initiativ.
 ---

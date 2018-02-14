@@ -14,7 +14,6 @@ links:
 contact:
 - name: Olivia Linander
   image: "/uploads/olivia-profilbild.jpg"
-  mail: olivia.linander@gmail.com
   text: Olivia Linander är aktiv i kampanjen Fossilgasfällan. Hon har tidigare jobbat
     som samordnare för den internationella kampanjen 350.org.
 ---
