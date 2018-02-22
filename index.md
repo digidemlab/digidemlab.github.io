@@ -11,8 +11,8 @@ links:
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- text: Missa inte Digidem Labs hackathon för civic tech 10 mars i Göteborg -
-    designers, utvecklare, politiskt intresserade och andra nyfikna är välkomna!
+- text: Missa inte Digidem Labs hackathon för civic tech 10 mars i Göteborg - designers,
+    utvecklare, politiskt intresserade och andra nyfikna är välkomna!
   link-title: 'CivicTechGbg :rainbow:'
   link: http://civictechgbg.se
 banners:
