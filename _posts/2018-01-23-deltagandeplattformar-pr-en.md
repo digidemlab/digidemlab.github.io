@@ -1,9 +1,9 @@
 ---
 title: Participatory platforms and PR
 date: 2018-01-23 17:21:00 Z
+permalink: "/en/projects/deltagandeplattformar-pr/"
 ref: deltagandeplattformar-pr
 lang: en
-permalink: "/en/projects/deltagandeplattformar-pr/"
 excerpt: Participatory platforms and public relations management.
 ingress-text: Internship to develop participatory platforms and public relations management.
 image: "/uploads/hannah-thein.jpg"
