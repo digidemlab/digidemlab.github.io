@@ -11,10 +11,11 @@ links:
 - title: Vilka verktyg pratar ni om?
   link: "/projects/digidem-guide"
 news-flash:
-- text: Missa inte Digidem Labs hackathon för civic tech 10 mars i Göteborg - designers,
-    utvecklare, politiskt intresserade och andra nyfikna är välkomna!
-  link-title: 'CivicTechGbg :rainbow:'
-  link: http://civictechgbg.se
+- text: Digidem Lab backar din idé! Du som är 18-25 år kan få finansiering för projekt
+    som handlar om delaktighet och ny teknik i tre månader. Du får upp till 16 000
+    kr, handledning och material.
+  link-title: 'Sök projektstöd :+1:'
+  link: "/apply"
 banners:
 - title: Blogg
   image: "/uploads/blogg.jpg"
@@ -22,4 +23,3 @@ banners:
   format: wide
 layout: start
 ---
-
