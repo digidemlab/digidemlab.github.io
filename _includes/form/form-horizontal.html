@@ -55,7 +55,7 @@
       {% when 'textarea' %}
         <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
         <div class="{{col2}}">
-          <textarea class="form-control" id="{{ item.id }}" rows="2"></textarea>
+          <textarea class="form-control" name="{{ item.id }}" id="{{ item.id }}" rows="2"></textarea>
         </div>
       {% when 'submit' %}
         <div class="{{col1}}">
@@ -66,7 +66,7 @@
       {% else %}
         <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
         <div class="{{col2}}">
-          <input type="{{ item.type }}" class="form-control" id="{{ item.id }}" placeholder="">
+          <input type="{{ item.type }}" name="{{ item.id }}" class="form-control" id="{{ item.id }}" placeholder="">
         </div>
       {% endcase %}
       {% if item.description %}
