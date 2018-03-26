@@ -327,3 +327,12 @@ $close-font-size:             5rem;
 $close-font-weight:           normal !default;
 $close-color:                 $blue !default;
 $close-text-shadow:           0 !default;
+
+
+// Forms
+
+$input-color:                    $black !default;
+$input-border-color:             $brand-primary !default;
+$input-btn-border-width:         $border-width !default; // For form controls and buttons
+$input-box-shadow:               0 !default;
+$input-border-focus:             $black !default;
