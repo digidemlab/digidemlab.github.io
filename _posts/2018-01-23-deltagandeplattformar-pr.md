@@ -3,11 +3,13 @@ title: Deltagandeplattformar och marknadsföring
 date: 2018-01-23 17:21:00 Z
 ref: deltagandeplattformar-pr
 excerpt: Deltagandeplattformar och PR
-ingress-text: Praktik för att utforska deltagandeplattformar och utveckla Digidem Labs PR-arbete.
+ingress-text: Praktik för att utforska deltagandeplattformar och utveckla Digidem
+  Labs PR-arbete.
 image: "/uploads/hannah-thein.jpg"
 contact:
 - name: Hannah Thein
-  text: Hannah studerar till en Master på Open eGovernment-programmet på Stockholms Universitet.
+  text: Hannah studerar till en Master på Open eGovernment-programmet på Stockholms
+    Universitet.
 ---
 
 ## Kommunikation och event
