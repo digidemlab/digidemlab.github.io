@@ -63,6 +63,8 @@
         <div class="{{col2}}">
           <button type="{{ item.type }}" class="btn btn-primary">{{ item.title }}</button>
         </div>
+      {% when 'hidden' %}
+        <input type="{{ item.type }}" name="{{ item.id }}" value="{{ item.value }}">
       {% else %}
         <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
         <div class="{{col2}}">
