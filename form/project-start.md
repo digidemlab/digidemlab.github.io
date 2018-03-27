@@ -12,7 +12,7 @@ form:
 - id: meddelande
   title: Meddelande
   type: textarea
-- id: bilaga
+- id: file
   title: Bilaga
   type: file
 - id: _subject
