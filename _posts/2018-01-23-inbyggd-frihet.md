@@ -7,8 +7,8 @@ ingress-text: Idag ser vi hur allt fler friheter tas ifrån individen med "moln 
   nedlåsta enheter och DRM. Dessa är friheter som jag inte kommer överge.
 image: "/uploads/inbyggd-frihet.jpg"
 links:
-  - title: inbyggd-frihet.org
-    url: https://inbyggd-frihet.org/
+- title: inbyggd-frihet.org
+  url: https://inbyggd-frihet.org/
 contact:
 - name: Eliot Roxbergh
   text: "Jag har läst (hittills) 3 år på Datateknik Chalmers och i höstas var jag
