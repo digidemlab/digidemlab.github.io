@@ -1,12 +1,13 @@
 ---
 title: Digitala verktyg för effektiv kommunikation
+date: 2018-03-26 00:00:00 Z
 ref: digitala-verktyg-inkludering
 excerpt: Workshops och videotutorials för bättre kommunikation.
 ingress-text: Workshoppar och utbildningar för inkludering och effektiv kommunikation.
 image: "/uploads/jaijagat.jpg"
 contact:
 - name: Samuel Grönvik
-  text: 'Sedan två år engagerad i den internationella fredskampanjen Jai Jagat 2020.'
+  text: Sedan två år engagerad i den internationella fredskampanjen Jai Jagat 2020.
 ---
 
 ## Mål med projektet
