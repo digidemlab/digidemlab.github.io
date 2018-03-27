@@ -1,5 +1,5 @@
 ---
-title: Digitala verktyg för effektiv kommunikation
+title: Digitala verktyg för effektiv kommunikation
 ref: digitala-verktyg-inkludering
 excerpt: Workshops och videotutorials för bättre kommunikation.
 ingress-text: Workshoppar och utbildningar för inkludering och effektiv kommunikation.
@@ -10,7 +10,7 @@ contact:
 ---
 
 ## Mål med projektet
-Projektet syftar till att genom workshoppar online och fysiska utbilda aktivister inom nätverket kring vandringen Hopp i rörelse i att använda den digitala kommunikationsplattformen Slack. Målet är att vid projektets slut ska alla aktiva nätverksmedlemmar ha fått tillräckligt med kunskaper i användandet av Slack så att nätverket kan byta till Slack från Facebook.
+Projektet syftar till att genom workshoppar online och fysiska utbilda aktivister inom nätverket kring vandringen Hopp i rörelse i att använda den digitala kommunikationsplattformen Slack. Målet är att vid projektets slut ska alla aktiva nätverksmedlemmar ha fått tillräckligt med kunskaper i användandet av Slack så att nätverket kan byta till Slack från Facebook.
 
 ## Tänkt resultat
 * 11 online-workshoppar
