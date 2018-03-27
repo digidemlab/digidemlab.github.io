@@ -1,6 +1,6 @@
 ---
-title: Presentation till hemsidan
-excerpt: Presentationsformulär för projekt.
+title: Projektstart - presentation till hemsidan
+excerpt: Presentationsformulär för nya projekt.
 ref: project-start
 layout: form
 ingress-text: Nu kör vi igång! Svara kortfattat på de här frågorna för att presentera

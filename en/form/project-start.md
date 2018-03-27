@@ -1,6 +1,6 @@
 ---
-title: Presentation for the website
-excerpt: Presentation form for projects.
+title: New project - presentation for the website
+excerpt: Presentation form for new projects.
 ref: project-start
 layout: form
 ingress-text: Let's get started! These short questions are to showcase your project
