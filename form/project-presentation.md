@@ -1,8 +1,8 @@
 ---
 title: Presentation till hemsidan
-ref: project-start
+ref: project-presentation
 layout: form
-ingress-text: Nu kör vi igång! Svara kortfattat på de här frågorna för att presentera ditt projekt på digidemlab.org, skriv två till tre meningar på varje fråga. Under projektets gång kan du bygga på presentationen genom att skicka bilder, videor och annat till <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a>.
+ingress-text: Här följer några frågor för att presentera ditt projekt på hemsidan. Om du har bilder, länkar, texter eller annan dokumentation av det som du gjort, skicka gärna det till <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a>!
 form:
 - id: namn
   title: Ditt namn
@@ -12,20 +12,20 @@ form:
   title: Din mailadress
   required: required
   type: email
-- id: projectName
-  title: Vad vill du kalla ditt projekt?
-  description: Något kort och kärnfullt!
-- id: projectDate
-  title: Vilket datum vill du börja?
-  description: Projektet kommer att hålla på i tre månader från det datumet.
+
 - id: projectDesc
-  title: Vad kommer du göra under projektperioden?
+  title: Vad var syftet med projektet?
   description: Berätta kortfattat i två till tre meningar.
   type: textarea
 - id: projectResult
-  title: Vad hoppas du det ger för resultat?
+  title: Vad har du kommit fram till?
   type: textarea
   description: Berätta kortfattat i två till tre meningar.
+- id: projectFollowup
+  title: Hur kommer du att följa upp det du har gjort i projektet?
+  type: textarea
+  description: Berätta kortfattat i två till tre meningar.
+
 - id: projectLeader
   title: Berätta om dig själv...
   type: textarea
@@ -34,7 +34,7 @@ form:
   title: ... och skicka med en bild på dig själv!
   type: file
 - id: _subject
-  value: Start på projekt
+  value: Dokumentation av projekt
   type: hidden
 - id: _after
   value: http://digidemlab.org
