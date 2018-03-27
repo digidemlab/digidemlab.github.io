@@ -2,7 +2,8 @@
 title: Presentation for the website
 ref: project-presentation
 layout: form
-ingress-text: Here are a few questions to showcase your project at the website. Please send additional images, links and texts (if you have any) to <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a>!
+ingress-text: Here are a few questions to showcase your project at the website. Please
+  send additional images, links and texts (if you have any) to <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a>!
 form:
 - id: namn
   title: Your name
@@ -12,7 +13,6 @@ form:
   title: Your email address
   required: required
   type: email
-
 - id: projectDesc
   title: What did you do during the project?
   description: Two to three sentences.
@@ -25,13 +25,12 @@ form:
   title: How do you want to use that knowledge in the future?
   type: textarea
   description: Two to three sentences.
-
 - id: projectLeader
   title: Tell us a little bit about yourself...
   type: textarea
   description: Two to three sentences.
 - id: file
-  title: ... and send a picture of yourself!
+  title: "... and send a picture of yourself!"
   type: file
 - id: _subject
   value: Dokumentation av projekt
@@ -46,3 +45,4 @@ form:
   type: submit
   title: Send
 ---
+

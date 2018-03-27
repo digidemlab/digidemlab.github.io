@@ -2,7 +2,11 @@
 title: Presentation for the website
 ref: project-start
 layout: form
-ingress-text: Let's get started! These short questions are to showcase your project at digidemlab.org. Please write a couple of sentences for each question. During the project you can build on this presentation by sending images, videos and other material <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a> to be posted on the website.
+ingress-text: Let's get started! These short questions are to showcase your project
+  at digidemlab.org. Please write a couple of sentences for each question. During
+  the project you can build on this presentation by sending images, videos and other
+  material <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a> to be
+  posted on the website.
 form:
 - id: namn
   title: Your name
@@ -12,7 +16,6 @@ form:
   title: Your email address
   required: required
   type: email
-
 - id: projectName
   title: What do you want to call your project?
   description: Something short and catchy!
@@ -27,13 +30,12 @@ form:
   title: What kind of results do you hope for?
   type: textarea
   description: Two to three sentences.
-
 - id: projectLeader
   title: Tell us a little bit about yourself...
   type: textarea
   description: Two to three sentences.
 - id: file
-  title: ... and send a picture of yourself!
+  title: "... and send a picture of yourself!"
   type: file
 - id: _subject
   value: Start på projekt
@@ -48,3 +50,4 @@ form:
   type: submit
   title: Send
 ---
+

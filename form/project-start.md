@@ -2,7 +2,10 @@
 title: Presentation till hemsidan
 ref: project-start
 layout: form
-ingress-text: Nu kör vi igång! Svara kortfattat på de här frågorna för att presentera ditt projekt på digidemlab.org, skriv två till tre meningar på varje fråga. Under projektets gång kan du bygga på presentationen genom att skicka bilder, videor och annat till <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a>.
+ingress-text: Nu kör vi igång! Svara kortfattat på de här frågorna för att presentera
+  ditt projekt på digidemlab.org, skriv två till tre meningar på varje fråga. Under
+  projektets gång kan du bygga på presentationen genom att skicka bilder, videor och
+  annat till <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a>.
 form:
 - id: namn
   title: Ditt namn
@@ -31,7 +34,7 @@ form:
   type: textarea
   description: Berätta kortfattat i två till tre meningar.
 - id: file
-  title: ... och skicka med en bild på dig själv!
+  title: "... och skicka med en bild på dig själv!"
   type: file
 - id: _subject
   value: Start på projekt
@@ -46,3 +49,4 @@ form:
   type: submit
   title: Skicka
 ---
+

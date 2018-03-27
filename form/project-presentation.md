@@ -2,7 +2,9 @@
 title: Presentation till hemsidan
 ref: project-presentation
 layout: form
-ingress-text: Här följer några frågor för att presentera ditt projekt på hemsidan. Om du har bilder, länkar, texter eller annan dokumentation av det som du gjort, skicka gärna det till <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a>!
+ingress-text: Här följer några frågor för att presentera ditt projekt på hemsidan.
+  Om du har bilder, länkar, texter eller annan dokumentation av det som du gjort,
+  skicka gärna det till <a href="mailto:petter@digidemlab.org">petter@digidemlab.org</a>!
 form:
 - id: namn
   title: Ditt namn
@@ -12,7 +14,6 @@ form:
   title: Din mailadress
   required: required
   type: email
-
 - id: projectDesc
   title: Vad var syftet med projektet?
   description: Berätta kortfattat i två till tre meningar.
@@ -25,13 +26,12 @@ form:
   title: Hur kommer du att följa upp det du har gjort i projektet?
   type: textarea
   description: Berätta kortfattat i två till tre meningar.
-
 - id: projectLeader
   title: Berätta om dig själv...
   type: textarea
   description: Berätta kortfattat i två till tre meningar.
 - id: file
-  title: ... och skicka med en bild på dig själv!
+  title: "... och skicka med en bild på dig själv!"
   type: file
 - id: _subject
   value: Dokumentation av projekt
@@ -46,3 +46,4 @@ form:
   type: submit
   title: Skicka
 ---
+
