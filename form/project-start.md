@@ -1,6 +1,7 @@
 ---
 title: Projektstart
 layout: form
+ingress-text: Digidem Labs projektstöd är en möjlighet för kodare, aktivister, designers.
 form:
 - id: namn
   title: Ditt namn
