@@ -65,6 +65,11 @@
         </div>
       {% when 'hidden' %}
         <input type="{{ item.type }}" name="{{ item.id }}" value="{{ item.value }}">
+      {% when 'file' %}
+        <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
+        <div class="{{col2}}">
+          <input type="{{ item.type }}" name="{{ item.id }}" class="form-control-file" id="{{ item.id }}" placeholder="">
+        </div>
       {% else %}
         <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
         <div class="{{col2}}">
