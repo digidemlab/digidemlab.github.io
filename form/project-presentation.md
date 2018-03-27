@@ -1,5 +1,6 @@
 ---
 title: Presentation till hemsidan
+excerpt: Presentationsformulär för projekt.
 ref: project-presentation
 layout: form
 ingress-text: Här följer några frågor för att presentera ditt projekt på hemsidan.
@@ -46,4 +47,3 @@ form:
   type: submit
   title: Skicka
 ---
-

@@ -1,5 +1,6 @@
 ---
 title: Presentation for the website
+excerpt: Presentation form for projects.
 ref: project-presentation
 layout: form
 ingress-text: Here are a few questions to showcase your project at the website. Please
@@ -45,4 +46,3 @@ form:
   type: submit
   title: Send
 ---
-
