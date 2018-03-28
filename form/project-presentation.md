@@ -17,20 +17,20 @@ form:
   type: email
 - id: projectDesc
   title: Vad var syftet med projektet?
-  description: Berätta kortfattat i två till tre meningar.
+  description: Två till tre meningar.
   type: textarea
 - id: projectResult
   title: Vad har du kommit fram till?
   type: textarea
-  description: Berätta kortfattat i två till tre meningar.
+  description: Två till tre meningar.
 - id: projectFollowup
   title: Hur kommer du att följa upp det du har gjort i projektet?
   type: textarea
-  description: Berätta kortfattat i två till tre meningar.
+  description: Två till tre meningar.
 - id: projectLeader
   title: Berätta om dig själv...
   type: textarea
-  description: Berätta kortfattat i två till tre meningar.
+  description: Två till tre meningar.
 - id: file
   title: "... och skicka med en bild på dig själv!"
   type: file
@@ -47,4 +47,3 @@ form:
   type: submit
   title: Skicka
 ---
-

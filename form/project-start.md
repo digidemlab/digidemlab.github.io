@@ -24,16 +24,16 @@ form:
   description: Projektet kommer att hålla på i tre månader från det datumet.
 - id: projectDesc
   title: Vad kommer du göra under projektperioden?
-  description: Berätta kortfattat i två till tre meningar.
+  description: Två till tre meningar.
   type: textarea
 - id: projectResult
   title: Vad hoppas du det ger för resultat?
   type: textarea
-  description: Berätta kortfattat i två till tre meningar.
+  description: Två till tre meningar.
 - id: projectLeader
   title: Berätta om dig själv...
   type: textarea
-  description: Berätta kortfattat i två till tre meningar.
+  description: Två till tre meningar.
 - id: file
   title: "... och skicka med en bild på dig själv!"
   type: file
@@ -50,4 +50,3 @@ form:
   type: submit
   title: Skicka
 ---
-
