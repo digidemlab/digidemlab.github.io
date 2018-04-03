@@ -1,5 +1,6 @@
 ---
 title: En reva i verkligheten
+date: 2018-03-25 00:00:00 Z
 ref: programmering-aktivister
 excerpt: Kurs i programmering för föreningsaktiva.
 ingress-text: Hur kan vi bygga digitala kampanjverktyg, använda oss av gratis och

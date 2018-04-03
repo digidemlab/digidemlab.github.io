@@ -11,8 +11,8 @@ links:
   url: https://inbyggd-frihet.org/
 contact:
 - name: Eliot Roxbergh
-  text: "Jag har läst (hittills) 3 år på Datateknik Chalmers och i höstas var jag
-    med och skapade gruppen inbyggd-frihet.org. Börjar även bli involverad i fripost.org"
+  text: Jag har läst (hittills) 3 år på Datateknik Chalmers och i höstas var jag med
+    och skapade gruppen inbyggd-frihet.org. Börjar även bli involverad i fripost.org
 ---
 
 ## Vad är målet med projektet?

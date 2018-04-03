@@ -11,7 +11,6 @@ contact:
   image: "/uploads/kareem.jpg"
 ---
 
-
 namn: Kareem Seek
 
 projectDesc: Translating the Digidemlab website into Arabic.
