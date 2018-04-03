@@ -2,7 +2,7 @@
 title: Ny digital mötesplats för sociala rörelser
 ref: digital-motesplats-rorelser
 excerpt: Mötesplats för att hitta andra att engagera sig med och dela kunskaper och erfarenheter.
-ingress-text: En ny digital mötesplats där aktiva i gräsrotsgrupper kan hitta andra att engagera sig med och dela kunskaper och erfarenheter med andra.
+ingress-text: En ny digital mötesplats där aktiva i gräsrotsgrupper kan hitta andra att engagera sig med och dela kunskaper och erfarenheter med andra. Projektet är en fortsättning på [Kunskapsdelning för sociala rörelser](/projects/kunskapsdelning-rorelser).
 image: "/uploads/kunskapsdelning-share.jpg"
 contact:
 - name: Andreas Jonsson
