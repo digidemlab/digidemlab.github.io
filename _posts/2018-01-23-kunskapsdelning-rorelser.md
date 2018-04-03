@@ -11,9 +11,12 @@ links:
 image: "/uploads/kunskapsdelning-share.jpg"
 contact:
 - name: Andreas Jonsson
-  text: "Jag har en bakgrund i klimaträttviserörelsen och är just nu aktiv i en kampanj som heter Fossilgasfällan. Ur mitt engagemang och att vara med och starta upp kampanjer har en idé fötts om hur det ska vara enklare att starta projekt för att uppnå en rättvis och hållbar värld, men också dela kunskap och erfarenheter så att vi snabbare kommer till den värld! Foto &#169; Cristian Jonsson"
+  text: Jag har en bakgrund i klimaträttviserörelsen och är just nu aktiv i en kampanj
+    som heter Fossilgasfällan. Ur mitt engagemang och att vara med och starta upp
+    kampanjer har en idé fötts om hur det ska vara enklare att starta projekt för
+    att uppnå en rättvis och hållbar värld, men också dela kunskap och erfarenheter
+    så att vi snabbare kommer till den värld! Foto &#169; Cristian Jonsson
   image: "/uploads/andreas.jpg"
-
 ---
 
 ## Syfte
