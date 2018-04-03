@@ -1,12 +1,17 @@
 ---
 title: Ny digital mötesplats för sociala rörelser
+date: 2018-03-01 00:00:00 Z
 ref: digital-motesplats-rorelser
 excerpt: Mötesplats för att hitta andra att engagera sig med och dela kunskaper och erfarenheter.
 ingress-text: En ny digital mötesplats där aktiva i gräsrotsgrupper kan hitta andra att engagera sig med och dela kunskaper och erfarenheter med andra. Projektet är en fortsättning på [Kunskapsdelning för sociala rörelser](/projects/kunskapsdelning-rorelser).
 image: "/uploads/kunskapsdelning-share.jpg"
 contact:
 - name: Andreas Jonsson
-  text: "Jag har en bakgrund i klimaträttviserörelsen och är just nu aktiv i en kampanj som heter Fossilgasfällan. Ur mitt engagemang och att vara med och starta upp kampanjer har en idé fötts om hur det ska vara enklare att starta projekt för att uppnå en rättvis och hållbar värld, men också dela kunskap och erfarenheter så att vi snabbare kommer till den värld! Foto &#169; Cristian Jonsson"
+  text: Jag har en bakgrund i klimaträttviserörelsen och är just nu aktiv i en kampanj
+    som heter Fossilgasfällan. Ur mitt engagemang och att vara med och starta upp
+    kampanjer har en idé fötts om hur det ska vara enklare att starta projekt för
+    att uppnå en rättvis och hållbar värld, men också dela kunskap och erfarenheter
+    så att vi snabbare kommer till den värld! Foto &#169; Cristian Jonsson
   image: "/uploads/andreas.jpg"
 ---
 
