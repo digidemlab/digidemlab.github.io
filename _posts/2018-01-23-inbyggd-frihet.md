@@ -12,12 +12,14 @@ links:
 contact:
 - name: Eliot Roxbergh
   text: "Jag har läst (hittills) 3 år på Datateknik Chalmers och i höstas var jag
-    med och skapade gruppen inbyggd-frihet.org. Börjar även bli involverad i fripost.org\t\"Primärt
-    stödja inbyggd-frihet men även andra nationella projekt för digital frihet."
+    med och skapade gruppen inbyggd-frihet.org. Börjar även bli involverad i fripost.org"
 ---
 
-## Vad handlar projektet om?
-Vår grupp inbyggd-frihet verkar för frigörelse av digitala enheter på lågnivå. Jag jobbar på en wiki och vi brukar ha träffar för att hjälpa folk bli mer fria och säkra digitalt. Andra ämnen är också viktiga, men dock mer relevanta under organisationen Fripost (som jag också är aktiv i): att varje individ har rätt att bli fri från vinstdrivande företag i sin digitala kommunikation.
+## Vad är målet med projektet?
+Syftet med projektet var att synliggöra de problem som uppkommer på grund av nedstängd hårdvara samt erbjuda öppna alternativ.
 
-## Varför är det här projektet viktigt?
-Varje individ har rätt till digital frihet, där hen äger sin enhet totalt. Utan att bli kränkt av företag eller stat. Inbyggd-frihet skapades för att upplysa och möjliggöra för gemeneman att bli mer fri på en låg nivå, även om detta i dagsläget kräver vissa uppoffringar.  
+## Vad gör ni?
+Vi har haft regelbundna träffar och skapat en [wiki](https://wiki.inbyggd-frihet.org/), för att stödja en frigörelse från stängda system. Men ordet behövs spridas vidare.
+
+## Vad hoppas du det ger för resultat?
+Vi behöver fortsätta fylla wikin med information och bibehålla en diskussion gällandes inbyggd frihet.
