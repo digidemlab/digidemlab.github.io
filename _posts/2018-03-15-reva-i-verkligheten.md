@@ -1,5 +1,6 @@
 ---
 title: En reva i verkligheten
+date: 2018-03-15 00:00:00 Z
 ref: reva-i-verkligheten
 excerpt: Animerade videor som visar vad Digidem Lab står för.
 ingress-text: Animerade videor som visar vad Digidem Lab står för.
@@ -8,7 +9,7 @@ contact:
 - name: Simon Wilms
   text: Motion Graphic Designer. Gillar lakrits.
   image: "/uploads/simon.jpg"
-  url: "https://www.simonwilms.com"
+  url: https://www.simonwilms.com
 ---
 
 Jag kommer att skapa tre animerade videos som visar vad Digidem Lab erbjuder och står för.
