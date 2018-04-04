@@ -10,7 +10,7 @@ links:
 - title: Democratic Cities
   url: http://democratic-cities.cc/
 contact:
-- name: Molly Migchelsen Chinita
+- name: Molly Michelsen Chinita
   text: Jag är sedan flera år aktiv medlem i den socialistiska bokhandeln Bokkafeet,
     Jönköping. Där har jag hållit i studiecirklar, föreläsningar och lagt mycket fokus
     på folkbildning.  Driver genom detta även digital försäljning av politisk litteratur.

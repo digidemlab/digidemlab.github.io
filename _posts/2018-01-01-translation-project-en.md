@@ -5,6 +5,7 @@ permalink: "/en/projects/translation-project/"
 ref: translation-project
 excerpt: Translation of Democat to Arabic
 ingress-text: Translation of the Digidem Lab and Democat websites to Arabic.
+image: "/uploads/democat-share.png"
 contact:
 - name: Kareem Seek
   text: A pacifist and a strong defender of the freedom of speech, had to flee my homeland so I won't get dragged into the war back home, my goal for the moment is to get into college by the end of the year!
