@@ -55,7 +55,8 @@ layout: global
                     <strong>{{item.name}}</strong><br>
                     {{item.text}}<br>
                     {% if item.phone %}{{item.phone}}<br>{% endif %}
-                    <a href="mailto:{{item.mail}}">{{item.mail}}</a>
+                    {% if item.mail %}<a href="mailto:{{item.mail}}">{{item.mail}}</a><br>{% endif %}
+                    {% if item.url %}<a href="{{item.url}}">{{item.url}}</a>{% endif %}
                   </p>
                 </div>
               </div>
