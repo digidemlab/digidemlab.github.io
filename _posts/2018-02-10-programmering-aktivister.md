@@ -14,6 +14,7 @@ contact:
   text: 'Jag går sista året på ett civilingenjörs- och ämneslärarprogram på Chalmers
     och har tidigare hållit i programmeringskurser på Omställningsverkstan, i samband
     med Gothenburg Hackerspace och Studiefrämjandet. '
+  image: "/uploads/seb.jpg"
 ---
 
 En kurs för dig som vill testa programmering för att använda det i sociala rörelser! Vi lär oss från grunden i en välkomnande nivå där det är lätt att ställa frågor. Misstag är en viktig del i programmering, så vi uppmuntrar nyfikenhet.
