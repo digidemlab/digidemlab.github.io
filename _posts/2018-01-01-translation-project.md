@@ -1,12 +1,15 @@
 ---
 title: The Translation Project
+date: 2018-01-01 00:00:00 Z
 ref: translation-project
 excerpt: Översättning av Democat till arabiska
 ingress-text: Översättning av Digidem Labs och Democats hemsidor till arabiska.
 image: "/uploads/democat-share.png"
 contact:
 - name: Kareem Seek
-  text: Som pacifist och försvarare av yttrandefriheten, blev jag tvungen att fly mitt hemland för att inte dras in i kriget. Mitt mål just nu är att komma in på högskolan innan året är slut!
+  text: Som pacifist och försvarare av yttrandefriheten, blev jag tvungen att fly
+    mitt hemland för att inte dras in i kriget. Mitt mål just nu är att komma in på
+    högskolan innan året är slut!
   image: "/uploads/kareem.jpg"
 ---
 
