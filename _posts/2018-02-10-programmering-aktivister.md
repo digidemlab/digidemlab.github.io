@@ -3,12 +3,12 @@ title: Code Moth - Programmering för aktivister
 date: 2018-02-10 17:21:00 Z
 ref: programmering-aktivister
 excerpt: Kurs i programmering för föreningsaktiva.
-ingress-text: "Code Moth är en studiecirkel i programmering och ett projekt hos Digidem Lab.
-Vi lär oss programmering för att göra skillnad."
+ingress-text: Code Moth är en studiecirkel i programmering och ett projekt hos Digidem
+  Lab. Vi lär oss programmering för att göra skillnad.
 image: "/uploads/workshop-loomio-share.jpg"
 links:
-  - title: Code Moth på GitHub
-    url: https://github.com/digidemlab/codemoth
+- title: Code Moth på GitHub
+  url: https://github.com/digidemlab/codemoth
 banners:
 - image: "/uploads/banner_codemoth_2.jpg"
   format: normal
