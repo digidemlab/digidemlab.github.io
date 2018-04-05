@@ -1,8 +1,10 @@
 ---
 title: Multiversitetet
+date: 2018-04-01 00:00:00 Z
 ref: multiversitetet
 excerpt: Planering och schema för att lära av varandra
-ingress-text: Gemensam planering och schema för att lära av varandra, med verktyget [Openki](http://openki.net/).
+ingress-text: Gemensam planering och schema för att lära av varandra, med verktyget
+  [Openki](http://openki.net/).
 image: "/uploads/school.jpg"
 contact:
 - name: Fanny Isfeldt
