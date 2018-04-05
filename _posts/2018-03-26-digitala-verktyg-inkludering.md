@@ -13,7 +13,7 @@ contact:
 ## Mål med projektet
 Projektet syftar till att genom workshoppar online och fysiska utbilda aktivister inom nätverket kring vandringen Hopp i rörelse i att använda den digitala kommunikationsplattformen Slack. Målet är att vid projektets slut ska alla aktiva nätverksmedlemmar ha fått tillräckligt med kunskaper i användandet av Slack så att nätverket kan byta till Slack från Facebook.
 
-## Tänkt resultat
+## Tänkt resultat
 * 11 online-workshoppar
 * 4 fysiska workshoppar
 * 2 videotutorials
