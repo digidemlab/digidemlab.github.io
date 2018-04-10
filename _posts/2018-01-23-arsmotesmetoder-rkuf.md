@@ -6,6 +6,14 @@ excerpt: Nya former för årsmötesdemokrati.
 ingress-text: Digitala hjälpmedel och verktyg för att tillgängligöra Röda Korsets
   Ungdomsförbunds årsmöte.
 image: "/uploads/meeting.jpg"
+links:
+  - title: Röda Korsets Ungdomsförbund testar nya verktyg för sitt årsmöte
+    url: https://medium.com/digidemlab/r%C3%B6da-korsets-ungdomsf%C3%B6rbund-testar-nya-verktyg-f%C3%B6r-sitt-%C3%A5rsm%C3%B6te-7a4b655846d3
+  - title: Digitala verktyg för bättre årsmöten
+    url: https://medium.com/digidemlab/digitala-verktyg-f%C3%B6r-b%C3%A4ttre-%C3%A5rsm%C3%B6ten-9d80b9cd8c5c
+banners:
+  - image: "/uploads/rkuf_wide.jpg"
+    format: wide
 contact:
 - name: Frida Ågren
   text: Frida är anställd av Röda Korsets Ungdomsförbund och ansvarig för att arrangera
