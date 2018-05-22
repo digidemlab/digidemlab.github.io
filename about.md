@@ -1,11 +1,14 @@
 ---
 title: Om Digidem Lab
 position: 1
-description: Digidem Lab är ett oberoende och icke vinstdrivande labb för deltagande demokrati.
+description: Digidem Lab är ett oberoende och icke vinstdrivande labb för deltagande
+  demokrati.
 ref: about
-ingress-text: Digidem Lab är ett oberoende och icke vinstdrivande labb som verkar för deltagande demokrati med ny teknik. Det gör vi genom att backa bra projekt, utveckla medborgarplattformar, ordna föreläsningar, workshops och hackathons.
-
+ingress-text: Digidem Lab är ett oberoende och icke vinstdrivande labb som verkar
+  för deltagande demokrati med ny teknik. Det gör vi genom att backa bra projekt,
+  utveckla medborgarplattformar, ordna föreläsningar, workshops och hackathons.
 ---
+
 ## Demokratilabb
 I labbet samlar vi aktivister, forskare, programmerare, designers och alla som  tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Vi tror att nya former för deltagande måste skapas underifrån och i alla delar av samhället. Alla som är under 26 år kan ansöka om ett stipendium på tre månader för sitt projekt i labbet.
 
