@@ -40,8 +40,9 @@ email: admin@digidemlab.org
 contact:
   sv:
     title: Prata med oss!
-    text: Digidem Lab är ett oberoende och icke vinstdrivande labb för deltagande demokrati. Vi hjälper gärna er organisation att hitta
-      nya sätt att engagera och skapa processer för deltagande.
+    text: Digidem Lab är ett oberoende och icke vinstdrivande labb för deltagande
+      demokrati. Vi hjälper gärna er organisation att hitta nya sätt att engagera
+      och skapa processer för deltagande.
   en:
     title: Get in touch!
     text: Digidem Lab is a non-profit organisation promoting participatory democracy
@@ -68,7 +69,7 @@ questions:
 project-title:
   sv: Projekt
   en: Projects
-baseurl:
+baseurl: 
 url: http://digidemlab.org
 author: Digidem Lab
 twitter:
