@@ -6,7 +6,7 @@
         <a href="{{site.baseurl}}{{item.url}}">
           {% if item.image %}
           <figure class="figure" style="position:relative">
-            <img src="{{site.baseurl}}{{item.image}}" class="figure-img img-fluid img-responsive w-100 px-3" alt="">
+            <img src="{{site.baseurl}}{{item.image}}" class="figure-img img-fluid img-fluid w-100 px-3" alt="">
             <figcaption class="figure-caption" style="position:absolute;top:50%;width:100%;">
               <span class="{% cycle 'text-primary', 'text-danger', 'text-warning', 'text-white' %} bg-{% cycle 'success', 'warning', 'danger', 'info' %} ">{{ item.excerpt }}</span>
             </figcaption>
