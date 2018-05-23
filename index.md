@@ -8,6 +8,8 @@ header-image: "/uploads/JBe2745-04ret.jpg"
 links:
 - title: Vilka är Digidem Lab?
   link: "/about"
+- title: Följ Digidem Lab-bloggen
+  link: "https://medium.com/digidemlab"
 news-flash:
 - text: Digidem Lab backar din idé! Du som är 18-25 år kan få finansiering för projekt
     som handlar om delaktighet och ny teknik i tre månader. Du får upp till 16 000
