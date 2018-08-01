@@ -1,11 +1,13 @@
 ---
 title: Hybrid democracy
-lang: en
-permalink: "/en/projects/hybrid-democracy/"
 date: 2017-12-01 17:21:00 Z
+permalink: "/en/projects/hybrid-democracy/"
+lang: en
 ref: hybrid-demokrati
-excerpt: "A method for using citizens' juries for cities."
-ingress-text: During the international workshop "Collective Intelligence 2017" in Madrid, I participated in a project called "Hybrid democracy" where we worked on a model for using citizens' juries.
+excerpt: A method for using citizens' juries for cities.
+ingress-text: During the international workshop "Collective Intelligence 2017" in
+  Madrid, I participated in a project called "Hybrid democracy" where we worked on
+  a model for using citizens' juries.
 links:
 - title: 'Blog post: Projektet Hybrid demokrati'
   url: https://medium.com/digidemlab/projektet-hybrid-demokrati-att-anv%C3%A4nda-sig-av-medborgarjurys-38f27e069022
@@ -17,9 +19,10 @@ contact:
 - name: Sanna Ghotbi
   image: "/uploads/sanna.jpg"
   mail: sanna@digidemlab.org
-  text: Project coordinator for Digidem Lab, politician in the local council and equality trainer.
-partner-text: Hybrid democracy was a project during Collective Intelligence 2017
-  at Medialab Prado in Madrid.
+  text: Project coordinator for Digidem Lab, politician in the local council and equality
+    trainer.
+partner-text: Hybrid democracy was a project during Collective Intelligence 2017 at
+  Medialab Prado in Madrid.
 partner-links:
 - name: Participa LAB
   logo: "/uploads/logotyp-medialab.jpg"
