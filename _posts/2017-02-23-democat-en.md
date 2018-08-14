@@ -26,7 +26,7 @@ contact:
 ---
 
 ## Who is Democat?
-Democat is a rebranding and development of [Digidem Guide](http://digidemlab.org/en/projects/digidem-guide/), a practical introduction to digital tools for participatory democracy. The biggest challenge is to get people interested in the first place and this is where Democat the cat/chat bot is even more effective than simply explaining how to use the various tools. Democat will chat with users on Messenger, Kik, Slack etc in addition to the Democat site. The bot is a means of acquisition but also can stand alone as a fun, gamification of collective intelligence.
+Democat is a rebranding and development of [Digidem Guide](https://digidemlab.org/en/projects/digidem-guide/), a practical introduction to digital tools for participatory democracy. The biggest challenge is to get people interested in the first place and this is where Democat the cat/chat bot is even more effective than simply explaining how to use the various tools. Democat will chat with users on Messenger, Kik, Slack etc in addition to the Democat site. The bot is a means of acquisition but also can stand alone as a fun, gamification of collective intelligence.
 
 ## What is the aim of the project?
 Make the Democat site more interactive and give people the skills to use the featured tools. Create a chat bot to guide people to a tool, answer questions and to make the site fun. Long-term the bot will exist outside the site on multiple platforms.

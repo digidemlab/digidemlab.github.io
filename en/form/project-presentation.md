@@ -37,7 +37,7 @@ form:
   value: Dokumentation av projekt
   type: hidden
 - id: _after
-  value: http://digidemlab.org
+  value: https://digidemlab.org
   type: hidden
 - id: _honeypot
   value: ''

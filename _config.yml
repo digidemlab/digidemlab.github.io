@@ -69,8 +69,8 @@ questions:
 project-title:
   sv: Projekt
   en: Projects
-baseurl: 
-url: http://digidemlab.org
+baseurl:
+url: https://digidemlab.org
 author: Digidem Lab
 twitter:
   username: digidemlab
