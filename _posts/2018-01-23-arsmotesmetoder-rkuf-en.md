@@ -1,11 +1,12 @@
 ---
 title: Methods for annual meetings
 date: 2018-01-23 17:21:00 Z
+permalink: "/en/projects/methods-annual-meetings/"
 lang: en
-permalink: /en/projects/methods-annual-meetings/
 ref: arsmotesmetoder-rkuf
 excerpt: New methods for the Red Cross youth organisation
-ingress-text: Digital tools and methods to make the annual meeting of the Red Cross youth organisation accessible to more people.
+ingress-text: Digital tools and methods to make the annual meeting of the Red Cross
+  youth organisation accessible to more people.
 image: "/uploads/meeting.jpg"
 links:
 - title: Röda Korsets Ungdomsförbund testar nya verktyg för sitt årsmöte

@@ -1,18 +1,21 @@
 ---
 title: Film about Democratic Cities
 date: 2018-01-23 17:21:00 Z
+permalink: "/en/projects/democratic-cities/"
 lang: en
-permalink: /en/projects/democratic-cities/
 ref: democratic-cities
 excerpt: Film from a democracy conference in Madrid.
-ingress-text: Short films from the international democracy conference Democratic Cities in Madrid, November 2017.
+ingress-text: Short films from the international democracy conference Democratic Cities
+  in Madrid, November 2017.
 image: "/uploads/democratic-cities.png"
 links:
 - title: Democratic Cities
   url: http://democratic-cities.cc/
 contact:
 - name: Molly Michelsen Chinita
-  text: I am active since many years in the socialist bookshop Bokkafeet in Jönköping. I have also organised demonstrations and worked for a free platform for young people who are politically active.
+  text: I am active since many years in the socialist bookshop Bokkafeet in Jönköping.
+    I have also organised demonstrations and worked for a free platform for young
+    people who are politically active.
 ---
 
 ## What is the project about?
