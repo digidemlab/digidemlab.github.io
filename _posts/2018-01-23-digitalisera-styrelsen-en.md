@@ -3,7 +3,7 @@ title: Digitalise the board
 lang: en
 permalink: /en/projects/digitalise-board/
 date: 2018-01-23 17:21:00 Z
-ref: kunskapsdelning-rorelser
+ref: digitalisera-styrelsen
 excerpt: Digitalise the work of the board of directors in PeaceWorks.
 ingress-text: Digitalise the work of the board of directors in PeaceWorks.
 image: "/uploads/digital-meeting.jpg"

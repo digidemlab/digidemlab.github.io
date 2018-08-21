@@ -1,7 +1,7 @@
 ---
 title: Digitalisera styrelsen
 date: 2018-01-23 17:21:00 Z
-ref: kunskapsdelning-rorelser
+ref: digitalisera-styrelsen
 excerpt: Digitalisera styrelsearbetet i PeaceWorks.
 ingress-text: Nya digitala verktyg för styrelsearbetet i ungdomsorganisationen PeaceWorks.
 image: "/uploads/digital-meeting.jpg"
