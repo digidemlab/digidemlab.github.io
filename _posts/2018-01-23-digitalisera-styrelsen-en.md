@@ -1,8 +1,8 @@
 ---
 title: Digitalise the board
-lang: en
-permalink: /en/projects/digitalise-board/
 date: 2018-01-23 17:21:00 Z
+permalink: "/en/projects/digitalise-board/"
+lang: en
 ref: kunskapsdelning-rorelser
 excerpt: Digitalise the work of the board of directors in PeaceWorks.
 ingress-text: Digitalise the work of the board of directors in PeaceWorks.
