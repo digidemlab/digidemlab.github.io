@@ -1,18 +1,20 @@
 ---
 title: Platform for social movements
 date: 2018-03-01 00:00:00 Z
+permalink: "/en/projects/digital-social-movements/"
 ref: digital-motesplats-rorelser
 lang: en
-permalink: /en/projects/digital-social-movements/
 excerpt: Knowledge sharing for social movements.
-ingress-text: A platform where social movements can learn from each other and share knowledge.
+ingress-text: A platform where social movements can learn from each other and share
+  knowledge.
 image: "/uploads/kunskapsdelning-share.jpg"
 links:
 - title: verkstan.org
   url: https://verkstan.org
 contact:
 - name: Andreas Jonsson
-  text: My background is in the climate justice movement, and right now I am active in the Fossilgasfällan (Fossil gas trap) campaign.  Foto &#169; Cristian Jonsson
+  text: My background is in the climate justice movement, and right now I am active
+    in the Fossilgasfällan (Fossil gas trap) campaign.  Foto &#169; Cristian Jonsson
   image: "/uploads/andreas.jpg"
 ---
 

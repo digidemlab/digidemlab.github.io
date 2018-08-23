@@ -1,18 +1,20 @@
 ---
 title: Built in freedom
 date: 2018-01-23 17:21:00 Z
+permalink: "/en/projects/inbyggd-frihet/"
 ref: inbyggd-frihet
 lang: en
-permalink: /en/projects/inbyggd-frihet/
 excerpt: Liberate your digital devices.
-ingress-text: More and more freedom is taken from us with "cloud services", locked down devices and DRM. These are freedoms I will not surrender.
+ingress-text: More and more freedom is taken from us with "cloud services", locked
+  down devices and DRM. These are freedoms I will not surrender.
 image: "/uploads/inbyggd-frihet.jpg"
 links:
 - title: inbyggd-frihet.org
   url: https://inbyggd-frihet.org/
 contact:
 - name: Eliot Roxbergh
-  text: I have studied computer science for three years at Chalmers and has founded the group inbyggd-frihet.org (built in freedom).
+  text: I have studied computer science for three years at Chalmers and has founded
+    the group inbyggd-frihet.org (built in freedom).
 ---
 
 ## What is the aim of the project?
