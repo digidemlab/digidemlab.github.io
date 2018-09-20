@@ -1,5 +1,5 @@
 {% assign projects=site.posts | where:"lang", page.lang %}
-{% for item in projects %}
+{% for item in projects limit:include.limit sort:featured %}
   <div class="col-sm-6 col-lg-4 mb-3">
     <div class="card h-100 bg-{% cycle 'primary', 'danger', 'warning', 'success' %}">
       <div class="card-block px-1 py-2b text-center">

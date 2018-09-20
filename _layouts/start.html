@@ -2,23 +2,33 @@
 layout: default
 ---
 
-<header class="site-header bg-success" role="banner">
-  <div class="container">
-    {% include panels/navbar.html %}
+<header class="site-header" role="banner">
+
+  <div class="navbar-wrapper">
+    <div class="container">
+      {% include panels/navbar.html %}
+    </div>
   </div>
 
-  <div class="container header">
-    <div class="row">
-      <div class="col-lg-10 offset-lg-1 text-center">
-        <img src="{{site.baseurl}}{{page.header-image}}" class="img-fluid" height="" alt="" style="max-height:445px; max-width:72%;">
-        <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{page.title}}</span></h1>
-      </div>
-    </div>
+  <div class="embed-responsive embed-adapting">
+    <video autoplay muted loop poster="/uploads/cloudthoughts_poster.png" id="header-video" class="embed-responsive-item embed-center">
+      <source src="/uploads/cloudthoughts-online.mp4" type="video/mp4">
+    </video>
   </div>
 </header>
 
-<section class="container mt-4 mt-lg-5 pb-3b">
-  <div class="row mb-2b mb-lg-4">
+<section class="container header-start pb-3b">
+
+  <div class="row">
+    <div class="col text-center">
+      <!--
+      <img src="{{site.baseurl}}{{page.header-image}}" class="img-fluid" height="" alt="" style="max-height:445px; max-width:72%;">
+      -->
+      <h1 class="display-1"><span class="bg-primary text-white text-uppercase">{{page.title}}</span></h1>
+    </div>
+  </div>
+
+  <div class="row mb-2b mt-lg-2b mb-lg-4">
     <div class="col-lg-7 offset-lg-5">
       <p class="lead text-primary pl-lg-5">{{page.description}}</p>
     </div>
@@ -51,7 +61,14 @@ layout: default
       </div>
     </div>
     <div class="row">
-      {% include panels/projects-small.html %}
+      {% include panels/projects-small.html limit=6 %}
+    </div>
+    <div class="row">
+      <div class="col">
+        <div class="text-right lead">
+          <a href="projects" class="icon-arrow pl-4 pl-lg-3">Alla projekt</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
