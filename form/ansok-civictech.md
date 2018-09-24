@@ -24,7 +24,7 @@ form:
   title: 'Föreställ dig att du ska anordna ett hackathon för kvinnor och transpersoner.
     Eventet ska vara en heldag i Digidem Labs lokal, du har två månader på dig och
     du har totalt 5000 kr i budget för mat, fika och marknadsföringsmaterial. Besvara
-    följande frågor med max 1000 tecken per fråga:'
+    följande frågor med max 500 tecken per fråga:'
 - id: hur
   title: Hur planerar du eventet och dess innehåll?
   type: textarea
