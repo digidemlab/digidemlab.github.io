@@ -16,7 +16,7 @@ form:
   title: Berätta om dig själv
   type: textarea
   required: required
-  description: Berätta om dig själv och vad du har för relevanta erfarenheter listade i annonsen.
+  description: Berätta om dig själv och vad du har för relevanta erfarenheter listade i annonsen. Max 1000 tecken.
 - id: social
   title: Sociala medier-konto
   type: text
