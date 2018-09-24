@@ -2,7 +2,8 @@
 title: Ansökan eventansvarig
 excerpt: Ansökan eventansvarig
 layout: form
-ingress-text: Digidem Lab söker en eventansvarig för att arrangera ett hackathon för kvinnor och andra icke-män.
+ingress-text: Digidem Lab söker en eventansvarig för att arrangera ett hackathon för
+  kvinnor och andra icke-män.
 form:
 - id: namn
   title: Ditt namn
@@ -16,10 +17,14 @@ form:
   title: Berätta om dig själv
   type: textarea
   required: required
-  description: Berätta om dig själv och vad du har för relevanta erfarenheter listade i annonsen. Max 1000 tecken.
+  description: Berätta om dig själv och vad du har för relevanta erfarenheter listade
+    i annonsen. Max 1000 tecken.
 - id: description
   type: markup
-  title: "Föreställ dig att du ska anordna ett hackathon för kvinnor och transpersoner. Eventet ska vara en heldag i Digidem Labs lokal, du har två månader på dig och du har totalt 5000 kr i budget för mat, fika och marknadsföringsmaterial. Besvara följande frågor med max 1000 tecken per fråga:"
+  title: 'Föreställ dig att du ska anordna ett hackathon för kvinnor och transpersoner.
+    Eventet ska vara en heldag i Digidem Labs lokal, du har två månader på dig och
+    du har totalt 5000 kr i budget för mat, fika och marknadsföringsmaterial. Besvara
+    följande frågor med max 1000 tecken per fråga:'
 - id: hur
   title: Hur planerar du eventet och dess innehåll?
   type: textarea
