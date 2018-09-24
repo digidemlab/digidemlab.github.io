@@ -2,7 +2,8 @@
 title: Ansökan kommunikatörstjänst
 excerpt: Ansökan kommunikatörstjänst
 layout: form
-ingress-text: Digidem Lab söker en kommunikatör för att sprida information om våra aktiviteter och projekt och nå ut till fler i sociala medier och traditionell media.
+ingress-text: Digidem Lab söker en kommunikatör för att sprida information om våra
+  aktiviteter och projekt och nå ut till fler i sociala medier och traditionell media.
 form:
 - id: namn
   title: Ditt namn
@@ -16,16 +17,23 @@ form:
   title: Berätta om dig själv
   type: textarea
   required: required
-  description: Berätta om dig själv och vad du har för relevanta erfarenheter listade i annonsen. Max 1000 tecken.
+  description: Berätta om dig själv och vad du har för relevanta erfarenheter listade
+    i annonsen. Max 1000 tecken.
 - id: social
   title: Sociala medier-konto
   type: text
-  description: Visa någon typ av sociala medier-konto som du hanterat, antingen en verksamhet du jobbat för tidigare eller ditt egna konto. Länka till kontot.
+  description: Visa någon typ av sociala medier-konto som du hanterat, antingen en
+    verksamhet du jobbat för tidigare eller ditt egna konto. Länka till kontot.
   required: required
 - id: file
   title: Exempel på inlägg
   type: file
-  description: Gå in på Digidem Labs olika medier som Facebook, Instagram, Twitter och hemsidan för att få en bild över vår stil bild- och innehållsmässigt. Gör sedan exempel över olika inlägg som du skulle skrivit om du hanterat våra sociala medier under en dag. Gör ett inlägg för vardera medium (alltså ett för Instagram, ett för Facebook, ett för Twitter) med text och bild. Bifoga som Word-dokument eller liknande.
+  description: Gå in på Digidem Labs olika medier som Facebook, Instagram, Twitter
+    och hemsidan för att få en bild över vår stil bild- och innehållsmässigt. Gör
+    sedan exempel över olika inlägg som du skulle skrivit om du hanterat våra sociala
+    medier under en dag. Gör ett inlägg för vardera medium (alltså ett för Instagram,
+    ett för Facebook, ett för Twitter) med text och bild. Bifoga som Word-dokument
+    eller liknande.
   required: required
 - id: _subject
   value: Ansökan Kommunikatör
@@ -40,7 +48,6 @@ form:
   type: submit
   title: Skicka
 ---
-
 
 Digidem Lab är ett digitalt demokratilabb som driver flera spännande projekt från vår lokal i Göteborg: vi har ett öppet labb för demokratiprojekt, nätverket CiviTechSweden för samhällsnyttig teknik och projektet Demokratiska Städer för att utveckla nya metoder och plattformar för medborgardeltagande.
 
