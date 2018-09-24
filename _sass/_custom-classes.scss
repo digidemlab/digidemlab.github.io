@@ -5,12 +5,13 @@
 
 // Positioning
 
+/**
 .header {
   position: relative;
   top: 5.5rem; // ca 89
   margin-top: -3rem;
 }
-
+*/
 .view-header-box {
   position: absolute;
   top: -0;
@@ -18,6 +19,58 @@
   width: 18rem;
   height: 10.7rem;
   z-index: -1;
+}
+
+/**
+  Start page
+  */
+
+.header-start {
+  margin-top: -2rem;
+}
+
+.site-header {
+  position: relative;
+}
+.navbar-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 99;
+}
+
+// Embedded video
+
+.embed-center {
+  top: 50% !important;
+  bottom: 50% !important;
+  left: 50% !important;
+  height: auto !important;
+  transform: translate(-50%, -50%);
+
+  @include media-breakpoint-down(sm) {
+    height: 100% !important;
+    width: auto !important;
+  }
+}
+
+.embed-adapting {
+  &::before {
+    padding-top: percentage(10 / 9);
+  }
+
+  @include media-breakpoint-up(sm) {
+    &::before {
+      padding-top: percentage(9 / 16);
+    }
+  }
+
+  @include media-breakpoint-up(xl) {
+    &::before {
+      padding-top: percentage(9 / 21);
+    }
+  }
 }
 
 // Padding
@@ -36,10 +89,10 @@
 
 .display-1 {
   line-height: 1.375;
-  margin-top: -6rem;
+//  margin-top: 27rem; //-6rem;
 
   @include media-breakpoint-down(sm) {
-    margin-top: -5rem;
+  //  margin-top: -5rem;
   }
 }
 
@@ -86,6 +139,15 @@ a.nav-link {
 
 a:hover .card-header span {
   text-decoration: underline;
+}
+
+a .card-img-overlay {
+  transition: all 0.4s ease-in-out;
+
+}
+
+a:hover .card-img-overlay {
+  background: rgba(154, 36, 244, 0.2);
 }
 
 // Content

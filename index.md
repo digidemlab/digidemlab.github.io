@@ -1,10 +1,9 @@
 ---
-title: Framtidens demokrati i dina händer
+title: Ditt digitala demokratilabb
 position: 0
-description: Digidem Lab skapar framtidens processer för demokratiskt deltagande.
-  Vi sätter nya verktyg för kollektiv intelligens i dina händer.
+description: Digidem Lab är ett oberoende labb för deltagande demokrati med ny teknik. Vi backar projekt, utvecklar medborgarplattformar, ordnar föreläsningar, workshops och hackathons.
 ref: start
-header-image: "/uploads/JBe2745-04ret.jpg"
+header-image: "/uploads/cloudthoughts_poster.png"
 links:
 - title: Vilka är Digidem Lab?
   link: "/about"
@@ -17,10 +16,15 @@ news-flash:
   link-title: 'Sök projektstöd :+1:'
   link: "/apply"
 banners:
-- title: Blogg
-  image: "/uploads/blogg.jpg"
-  link: https://medium.com/digidemlab
+- title:
+  image: "/uploads/banner-wide-demokratiskastader.jpg"
+  link: https://demokratiskastader.se
   format: wide
+- title:
+  image: "/uploads/banner-civictech.jpg"
+  link: http://civictech.se
+- title:
+  image: "/uploads/banner-normal-democat.png"
+  link: https://democat.me
 layout: start
 ---
-

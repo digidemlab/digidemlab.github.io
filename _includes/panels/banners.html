@@ -15,7 +15,7 @@
     {% elsif forloop.index == 2 and page.banners[2].format == 'tall' %}
     <!-- second image -->
     {% else %}
-      <div class="col-6"> <!-- start col 50%-->
+      <div class="col-md-6"> <!-- start col 50%-->
     {% endif %}
 
       <div style="position:relative;">
@@ -23,11 +23,13 @@
         {% if item.link %}
           <a href="{{item.link}}">
             <div class="card-img-overlay">
-              <h3 class="card-header border-0">
-                <span class="bg-{% cycle 'danger', 'primary', 'success' %} text-{% cycle 'warning', 'success', 'info' %} text-uppercase px-2 py-1">
-                  {{item.title}}
-                </span>
-              </h3>
+              {% if item.title %}
+                <h3 class="card-header border-0">
+                  <span class="bg-{% cycle 'danger', 'primary', 'success' %} text-{% cycle 'warning', 'success', 'info' %} text-uppercase px-2 py-1">
+                    {{item.title}}
+                  </span>
+                </h3>
+              {% endif %}
             </div>
           </a>
         {% endif %}
@@ -39,6 +41,10 @@
 
   {% if forloop.last or item.format == "wide" %}
     </div> <!-- end row -->
+  {% endif %}
+
+  {% if forloop.first and item.format == "wide" %}
+    <div class="row no-gutters"> <!-- start row -->
   {% endif %}
 
 {% endfor %}
