@@ -9,7 +9,9 @@
     <div class="form-group row">
     {% case item.type %}
       {% when 'markup' %}
-        <h3>{{item.title}}</h3>
+        <div class="col">
+          <h3>{{item.title}}</h3>
+        </div>
       {% when 'label' %}
         <label for="{{ item.id }}" class="{{col1}} control-label">{{ item.title }}</label>
         <div class="{{col2}}">
