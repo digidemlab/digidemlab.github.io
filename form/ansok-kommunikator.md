@@ -26,7 +26,7 @@ form:
     verksamhet du jobbat för tidigare eller ditt egna konto. Länka till kontot.
   required: required
 - id: file
-  title: Exempel på inlägg
+  title: Arbetsprov
   type: file
   description: Gå in på Digidem Labs olika medier som Facebook, Instagram, Twitter
     och hemsidan för att få en bild över vår stil bild- och innehållsmässigt. Gör
@@ -49,7 +49,7 @@ form:
   title: Skicka
 ---
 
-Digidem Lab är ett digitalt demokratilabb som driver flera spännande projekt från vår lokal i Göteborg: vi har ett öppet labb för demokratiprojekt, nätverket CiviTechSweden för samhällsnyttig teknik och projektet Demokratiska Städer för att utveckla nya metoder och plattformar för medborgardeltagande.
+Digidem Lab är ett digitalt demokratilabb som driver flera spännande projekt från vår lokal i Göteborg: vi har ett öppet labb för demokratiprojekt, nätverket CivicTechSweden för samhällsnyttig teknik och projektet Demokratiska Städer för att utveckla nya metoder och plattformar för medborgardeltagande.
 
 I labbet samlar vi aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Vi tror att nya former för deltagande måste skapas underifrån och i alla delar av samhället.
 
