@@ -7,6 +7,7 @@ job: Project coordinator & Community manager
 phone: "+46 76 242 28 24"
 mail: anna@digidemlab.org
 ---
+
 Community organiser specialised in film and digital media for participation
  and empowerment. Has previously worked for a film studio in Ouagadougou, as a youth
  worker in Cali and as a peace observer in Chiapas.

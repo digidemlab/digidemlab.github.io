@@ -7,6 +7,7 @@ job: Project coordinator & Event manager
 phone: "+46 73 844 04 41"
 mail: sanna@digidemlab.org
 ---
+
 Sanna Ghotbi is a campaigner for refugee's rights, environmental issues
   and an elected representative for the feminist party in the local council of Gothenburg.
   She is active in the municipalist movement, and is working for Digidem Lab to advance
