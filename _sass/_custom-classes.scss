@@ -167,6 +167,14 @@ a:hover .card-img-overlay {
   color: $magenta;
 }
 
+.text-white a {
+  text-decoration: underline;
+
+  &:hover {
+    color: $white;
+  }
+}
+
 .content h3 {
   color: $black;
   margin-bottom: $font-size-base;
