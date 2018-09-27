@@ -3,6 +3,7 @@ title: About Digidem Lab
 position: 1
 description: Digidem Lab is a non-profit lab for participatory democracy.
 ref: about
+image-top: "/uploads/brainpuzzle.gif"
 ingress-text: Digidem Lab is a non-profit lab for participatory democracy based in
   Sweden. We are backing [projects](/en/projects/), developing citizen platforms,
   organising lectures, workshops and [hackathons](http://civictechgbg.se/en/).
@@ -18,4 +19,4 @@ Digidem Lab cooperates with the City of Madrid and regions in Gothenburg and Sto
 We provide workshops and lectures for social movements about new tools for organising, decision making and coordination of campaigns.
 
 ## Hackathons
-In [CivicTechGbg](http://civictechgbg.se/en/) developers, designers, activists and open data enthusiasts come together to build applications, visualisations and tools for citizens.
+In [CivicTechSweden](http://civictech.se/en/) developers, designers, activists and open data enthusiasts come together to build applications, visualisations and tools for citizens.

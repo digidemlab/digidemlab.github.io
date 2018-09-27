@@ -7,14 +7,11 @@ excerpt: A collaborative space where we take participation to the next level.
 ingress-text: Digidem Open Lab is a physical space in Gothenburg, Sweden, where we
   experiment with the tools of change for the future. A place for activists, designers,
   developers and others to meet and collaborate.
-image: "/uploads/updragde-front.gif"
+image-top: "/uploads/surprise.gif"
 links:
 - title: Apply with your project
   url: https://digidemlab1.typeform.com/to/PnjBgq
   style: button
-- title: Ideas for projects
-  url: http://ideas.digidemlab.org/
-  style: 
 banners:
 - image: "/uploads/6229448777_0abbb69829.jpg"
   format: normal
