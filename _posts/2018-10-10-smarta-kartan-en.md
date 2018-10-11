@@ -1,20 +1,25 @@
 ---
-title: "Smarta Kartan 2.0"
+title: Smarta Kartan 2.0
 date: 2018-10-10 00:00:00 Z
-lang: en
 permalink: "/en/projects/smarta-kartan/"
+lang: en
 ref: smarta-kartan
 excerpt: Map to a sustainable Gothenburg
-ingress-text: A roadmap to open sourcing the Smartakartan website in the future for other cities to adopt.
+ingress-text: A roadmap to open sourcing the Smartakartan website in the future for
+  other cities to adopt.
 image: "/uploads/smarta-kartan-logo.png"
 links:
-  - title: Smarta Kartan
-    url: http://smartakartan.se/
+- title: Smarta Kartan
+  url: http://smartakartan.se/
 contact:
-  - name: Connie Nguyen & Aksel Biørn-Hansen
-    image: "/uploads/conny-aksel.jpg"
-    text: Connie is currently studying her final year of the Interaction Design and Technologies program at Chalmers University of Technology. She is interested in ways to make design more accessible through open sourcing. Aksel is studying his final year of the Interaction Design and Technologies program at Chalmers as well. He is passionate about sustainability, and interested in what role digital technologies play in creating a more sustainable future.
-
+- name: Connie Nguyen & Aksel Biørn-Hansen
+  image: "/uploads/conny-aksel.jpg"
+  text: Connie is currently studying her final year of the Interaction Design and
+    Technologies program at Chalmers University of Technology. She is interested in
+    ways to make design more accessible through open sourcing. Aksel is studying his
+    final year of the Interaction Design and Technologies program at Chalmers as well.
+    He is passionate about sustainability, and interested in what role digital technologies
+    play in creating a more sustainable future.
 ---
 
 ## What will you?

@@ -3,15 +3,18 @@ title: Demokratiskt kulturarv i Göteborg
 date: 2018-09-18 00:00:00 Z
 ref: kulturarv
 excerpt: Medborgardeltagande för kulturarvet
-ingress-text: Förstudie till hur medborgardeltagande kan bidra till att samla in data om vårt gemensamma kulturarv.
+ingress-text: Förstudie till hur medborgardeltagande kan bidra till att samla in data
+  om vårt gemensamma kulturarv.
 image: "/uploads/kulturarv.jpg"
 links:
-  - title: CITiZAN
-    url: https://citizan.org.uk/
+- title: CITiZAN
+  url: https://citizan.org.uk/
 contact:
 - name: Anton Larsson
   image: "/uploads/anton-hires.png"
-  text: Jag är till yrket arkeolog (kandidatexamen i kulturarvsstudier, masterexamen i arkeologi). Arbetar deltid som lärarvikarie i grundskolan och som fältarkeolog på det direktdemokratiska kooperativet Kulturlandskapet.
+  text: Jag är till yrket arkeolog (kandidatexamen i kulturarvsstudier, masterexamen
+    i arkeologi). Arbetar deltid som lärarvikarie i grundskolan och som fältarkeolog
+    på det direktdemokratiska kooperativet Kulturlandskapet.
 ---
 
 ## Vad kommer du göra?
