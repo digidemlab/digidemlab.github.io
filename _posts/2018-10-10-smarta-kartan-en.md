@@ -22,7 +22,7 @@ contact:
     play in creating a more sustainable future.
 ---
 
-## What will you?
+## What will you do?
 During this project, we will be working with Kollaborative Ekonomi Göteborg (KEG) and a team of developers to create a new and improved version of Smartakartan. We will be working as designers to redesign the interface to be mobile first, more user friendly, and more inspiring.
 
 ## What will the result be?
