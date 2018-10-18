@@ -8,7 +8,6 @@ image: "/uploads/mark.jpg"
 contact:
 - name: Deeqo Hussein
   text: Deeqo Hussein är aktivist och jobbar för en värld utan förtryck.
-
 ---
 
 ## Vad kommer du göra?
