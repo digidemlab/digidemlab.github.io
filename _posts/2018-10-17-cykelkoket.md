@@ -8,9 +8,9 @@ links:
   url: http://karrot.world/
 - title: Kod på Github
   url: https://github.com/brnsolikyl/karrot-to-bike-kitchen
-ingress-text: Plattformen för kommunikation, samordning och samverkan mellan de olika Cykelköken.
+ingress-text: Plattformen för kommunikation, samordning och samverkan mellan de olika
+  Cykelköken.
 image: "/uploads/cykelkok.jpg"
-
 ---
 
 Plattformen ska underlätta kommunikation, samordning av Cykelköksverksamheten och samverkan mellan de olika Cykelköken och andra relevanta samverkanspartners vad det gäller fördelning av resurser (cyklar, verktyg osv) och volontärer. Hemsidan ska innehålla allmän information om Cykelkök, en kunskapsbank och ett diskussionsforum.
