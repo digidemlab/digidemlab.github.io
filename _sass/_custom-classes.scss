@@ -238,6 +238,10 @@ blockquote {
   }
 }
 
+.content img {
+  max-width: 100%;
+}
+
 small a,
 .small a {
   text-decoration: underline;
