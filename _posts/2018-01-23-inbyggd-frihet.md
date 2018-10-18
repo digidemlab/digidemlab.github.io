@@ -13,8 +13,10 @@ links:
   url: https://wiki.inbyggd-frihet.org/
 contact:
 - name: Eliot Roxbergh
-  text: Hej! Jag läser mastern Datorsystem Och Nätverk på Chalmers och är intresserad av digital frigörelse. Företag som Google, Facebook och Intel försöker jag undvika. Och istället kikar jag på lösningar så som Fripost, Nextcloud, Libreoffice, GNU Social och Coreboot.
-
+  text: Hej! Jag läser mastern Datorsystem Och Nätverk på Chalmers och är intresserad
+    av digital frigörelse. Företag som Google, Facebook och Intel försöker jag undvika.
+    Och istället kikar jag på lösningar så som Fripost, Nextcloud, Libreoffice, GNU
+    Social och Coreboot.
 ---
 
 ## Vad var syftet med projektet?
