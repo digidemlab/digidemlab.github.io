@@ -1,7 +1,7 @@
 ---
 title: Översättning av medborgarplattformar
 date: 2018-07-01 00:00:00 Z
-ref: kulturarv
+ref: oversattning-medborgarplattformar
 excerpt: Plattformar för demokratiska städer
 ingress-text: Översättning av medborgarplattformarna CONSUL och Decidim.
 image: "/uploads/consul.png"
