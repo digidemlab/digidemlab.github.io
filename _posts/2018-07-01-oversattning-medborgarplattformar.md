@@ -12,8 +12,10 @@ links:
   url: https://decidim.org/
 contact:
 - name: Maria Hammer
-  text: Jag brinner för rättvisefrågor med fokus på klimat, miljö och genusfrågor. Jag gillar lära mig nya språk och jobbar en del med översättning i olika sammanhang. Utöver detta projekt, så pluggar jag globala studier och är aktiv i gräsrotskampanjen Fossilgasfällan som är baserad i Göteborg.
-
+  text: Jag brinner för rättvisefrågor med fokus på klimat, miljö och genusfrågor.
+    Jag gillar lära mig nya språk och jobbar en del med översättning i olika sammanhang.
+    Utöver detta projekt, så pluggar jag globala studier och är aktiv i gräsrotskampanjen
+    Fossilgasfällan som är baserad i Göteborg.
 ---
 
 ## Vad kommer du göra?
