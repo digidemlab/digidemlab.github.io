@@ -12,22 +12,19 @@ links:
 - title: Följ Digidem Lab-bloggen
   link: https://medium.com/digidemlab
 news-flash:
-- text: Digidem Lab backar din idé! Du som är 18-25 år kan få finansiering för projekt
-    som handlar om delaktighet och ny teknik i tre månader. Du får upp till 16 000
-    kr, handledning och material.
-  link-title: 'Sök projektstöd :+1:'
-  link: "/apply"
+- text: Kom med i CivicTechSweden för att skapa tekniska lösningar för samhällsnytta! Här samlas utvecklare, designers, aktivister och öppen data-entusiaster för hackathons och meetups.
+  link-title: 'Läs mer :+1:'
+  link: "https://civictech.se"
 banners:
-- title: 
+- title:
   image: "/uploads/banner-wide-demokratiskastader.jpg"
   link: https://demokratiskastader.se
   format: wide
-- title: 
+- title:
   image: "/uploads/banner-civictech.jpg"
   link: http://civictech.se
-- title: 
+- title:
   image: "/uploads/banner-normal-democat.png"
   link: https://democat.me
 layout: start
 ---
-

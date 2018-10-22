@@ -11,7 +11,7 @@ ingress-text: Digidem Lab är ett oberoende och icke vinstdrivande labb som verk
 ---
 
 ## Demokratilabb
-I labbet samlar vi aktivister, forskare, programmerare, designers och alla som  tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Vi tror att nya former för deltagande måste skapas underifrån och i alla delar av samhället. Alla som är under 26 år kan ansöka om ett stipendium på tre månader för sitt projekt i labbet.
+I labbet samlar vi aktivister, forskare, programmerare, designers och alla som  tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Vi tror att nya former för deltagande måste skapas underifrån och i alla delar av samhället.
 
 ## För städer
 Vi samarbetar med Madrid stad och stadsdelar i Göteborg och Stockholm för att utveckla världens största medborgarplattform Consul. På webbplatsen [Demokratiska Städer](http://demokratiskastader.se) samlar vi metoder, verktyg och plattformar för kommuner och stadsdelar som vill ta sin medborgardialog till nästa nivå.

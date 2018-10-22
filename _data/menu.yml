@@ -3,16 +3,20 @@ sv:
   url: /about
 - title: Projekt
   url: /projects
-- title: Ansök
-  url: /apply
+#- title: Ansök
+#  url: /apply
 - title: Kontakt
   url: /contact
+- title: Blogg
+  url: http://medium.com/digidemlab
 en:
 - title: About
   url: /en/about
 - title: Projects
   url: /en/projects
-- title: Apply
-  url: /en/apply
+#- title: Apply
+#  url: /en/apply
 - title: Contact
   url: /en/contact
+- title: Blog
+  url: http://medium.com/digidemlab

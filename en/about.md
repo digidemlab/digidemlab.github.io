@@ -10,7 +10,7 @@ ingress-text: Digidem Lab is a non-profit lab for participatory democracy based 
 ---
 
 ## Democracy lab
-Digidem Lab brings together activists, researchers, programmers, designers and everyone who believes that another world is possible, to create the methods and tools for the participatory democracy of the future. People under 26 years old, living in Sweden, can [apply for funding](/en/apply) for their project.
+Digidem Lab brings together activists, researchers, programmers, designers and everyone who believes that another world is possible, to create the methods and tools for the participatory democracy of the future.
 
 ## Citizen platforms
 Digidem Lab cooperates with the City of Madrid and regions in Gothenburg and Stockholm to develop Consul, the world's most used citizen platform. The "[Demokratiska Städer](http://demokratiskastader.se)" website is a collection of methods and tools for Swedish cities that want to take their citizen participation to the next level.
