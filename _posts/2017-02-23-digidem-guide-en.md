@@ -8,7 +8,7 @@ excerpt: Practical tools to create communities and make decisions together.
 ingress-text: Digidem Guide brings the best digital tools available into one space,
   so you can find the right one for your needs. We do the hard work so you don’t have
   to!
-image-top: "/uploads/ineedit.gif"
+# image: "/uploads/ineedit.gif"
 image: "/uploads/digidemguide-share.jpg"
 links:
 - title: Democat - formerly Digidem Guide
@@ -27,7 +27,7 @@ quotes:
 - text: Digidem Guide’s aim is to bring democracy into everyday life. We bring the
     best digital tools available into one space, so you can find the right one for
     your needs.
-  image: 
+  image:
 contact:
 - name: Petter Joelson
   image: "/uploads/petter2-crop.gif"

@@ -4,7 +4,7 @@ position: 1
 description: Digidem Lab är ett oberoende och icke vinstdrivande labb för deltagande
   demokrati.
 ref: about
-image-top: "/uploads/brainpuzzle.gif"
+image: "/uploads/brainpuzzle.gif"
 ingress-text: Digidem Lab är ett oberoende och icke vinstdrivande labb som verkar
   för deltagande demokrati med ny teknik. Det gör vi genom att backa bra projekt,
   utveckla medborgarplattformar, ordna föreläsningar, workshops och hackathons.

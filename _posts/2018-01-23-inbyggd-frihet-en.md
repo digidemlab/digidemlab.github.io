@@ -7,7 +7,14 @@ lang: en
 excerpt: Liberate your digital devices.
 ingress-text: More and more freedom is taken from us with "cloud services", locked
   down devices and DRM. These are freedoms I will not surrender.
-image: "/uploads/inbyggd-frihet.jpg"
+image: "/uploads/inbyggdfrihet.jpg"
+banners:
+- image: "/uploads/inbyggdfrihet-banner-wide.jpg"
+  format: wide
+- image: "/uploads/inbyggdfrihet-banner1.jpg"
+  format: normal
+- image: "/uploads/inbyggdfrihet-banner2.jpg"
+  format: normal
 links:
 - title: inbyggd-frihet.org
   url: https://inbyggd-frihet.org/

@@ -5,7 +5,14 @@ ref: inbyggd-frihet
 excerpt: Frigörelse av digitala enheter.
 ingress-text: Idag ser vi hur allt fler friheter tas ifrån individen med "moln tjänster",
   nedlåsta enheter och DRM. Dessa är friheter som jag inte kommer överge.
-image: "/uploads/inbyggd-frihet.jpg"
+image: "/uploads/inbyggdfrihet.jpg"
+banners:
+- image: "/uploads/inbyggdfrihet-banner-wide.jpg"
+  format: wide
+- image: "/uploads/inbyggdfrihet-banner1.jpg"
+  format: normal
+- image: "/uploads/inbyggdfrihet-banner2.jpg"
+  format: normal
 links:
 - title: inbyggd-frihet.org
   url: https://inbyggd-frihet.org/

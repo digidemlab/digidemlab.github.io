@@ -6,14 +6,14 @@ excerpt: Sök projektstöd från Digidem Lab för projekt som handlar om delakti
   ny teknik.
 ingress-text: Digidem Labs projektstöd är en möjlighet för kodare, aktivister, designers
   och andra att undersöka och utveckla processer för deltagande demokrati.
-image-top: "/uploads/surprise.gif"
+image: "/uploads/surprise.gif"
 links:
 - title: Sök projektstöd
   url: https://digidemlab.typeform.com/to/PnjBgq
   style: button
 - title: Tidigare projekt
   url: "/projects/"
-  style: 
+  style:
 banners:
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide
