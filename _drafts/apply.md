@@ -1,5 +1,6 @@
 ---
 title: Digidem Lab backar din idé!
+date: 2018-11-08 08:40:03.988000000 Z
 ref: apply
 excerpt: Sök projektstöd från Digidem Lab för projekt som handlar om delaktighet och
   ny teknik.

@@ -8,7 +8,7 @@ ingress-text: Projektets syfte är att utforska direktdemokrati och hur det påv
   och miljöfrågor.
 image: "/uploads/madrid-sustainable.jpg"
 links:
-- title: "Blogginlägg: Så funkar medborgarbudgeten i Madrid"
+- title: 'Blogginlägg: Så funkar medborgarbudgeten i Madrid'
   url: https://medium.com/digidemlab/projektet-medborgare-f%C3%B6r-klimatet-s%C3%A5-funkar-medborgarbudgeten-i-madrid-6cec5798756e
 - title: Medborgarförslaget för Madrid
   url: https://decide.madrid.es/proposals/199-madrid-100-sostenible

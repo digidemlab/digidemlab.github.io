@@ -1,5 +1,6 @@
 ---
 title: Digidem Open Lab
+date: 2018-11-08 08:40:03.942000000 Z
 excerpt: Förena dina skills med andra för att ta det vi kan göra till nästa nivå
 ingress-text: Digidem Open Lab är ett öppet labb. Här experimenterar vi med framtidens
   verktyg för förändring. Ett utrymme för aktivister, designers, kodare och andra

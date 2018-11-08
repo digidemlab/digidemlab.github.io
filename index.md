@@ -12,19 +12,22 @@ links:
 - title: Följ Digidem Lab-bloggen
   link: https://medium.com/digidemlab
 news-flash:
-- text: Kom med i CivicTechSweden för att skapa tekniska lösningar för samhällsnytta! Här samlas utvecklare, designers, aktivister och öppen data-entusiaster för hackathons och meetups.
+- text: Kom med i CivicTechSweden för att skapa tekniska lösningar för samhällsnytta!
+    Här samlas utvecklare, designers, aktivister och öppen data-entusiaster för hackathons
+    och meetups.
   link-title: 'Läs mer :+1:'
-  link: "https://civictech.se"
+  link: https://civictech.se
 banners:
-- title:
+- title: 
   image: "/uploads/banner-wide-demokratiskastader.jpg"
   link: https://demokratiskastader.se
   format: wide
-- title:
+- title: 
   image: "/uploads/banner-civictech.jpg"
   link: http://civictech.se
-- title:
+- title: 
   image: "/uploads/banner-normal-democat.png"
   link: https://democat.me
 layout: start
 ---
+
