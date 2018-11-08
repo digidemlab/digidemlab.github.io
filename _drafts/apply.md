@@ -13,7 +13,7 @@ links:
   style: button
 - title: Tidigare projekt
   url: "/projects/"
-  style:
+  style: 
 banners:
 - image: "/uploads/lab-with-audrey-wide.jpg"
   format: wide

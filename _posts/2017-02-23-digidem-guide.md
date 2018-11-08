@@ -5,7 +5,6 @@ ref: digidem-guide
 excerpt: Din guide till digitala verktyg för fördjupad demokrati.
 ingress-text: Digidem Guide presenterar de bästa tillgängliga digitala verktygen på
   ett ställe, så att du kan hitta rätt metod för dina behov.
-image: "/uploads/ineedit.gif"
 image: "/uploads/digidemguide-share.jpg"
 links:
 - title: Democat - formerly Digidem Guide
