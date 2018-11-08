@@ -3,14 +3,16 @@ title: Sittstrejkens tidning
 date: 2018-07-19 00:00:00 Z
 ref: sittstrejken
 excerpt: Digital tidning förändrar politiken
-ingress-text: Sittstrejken Göteborg, en organisation för ensamkommande flyktingar från Afghanistan, skapar en digital tidning för att påverka politiken.
+ingress-text: Sittstrejken Göteborg, en organisation för ensamkommande flyktingar
+  från Afghanistan, skapar en digital tidning för att påverka politiken.
 image: "/uploads/sittstrejken.jpg"
 links:
 - title: Sittstrejkens tidning
   url: https://sittstrejkengoteborg.se/
 contact:
 - name: Hamid, Zara och Abdullah
-  text: Medgrundare och aktiva i Sittstrejken Göteborg och brinner för att förbättra situationen för de ensamkommande i Sverige.
+  text: Medgrundare och aktiva i Sittstrejken Göteborg och brinner för att förbättra
+    situationen för de ensamkommande i Sverige.
 ---
 
 Projektets syfte är att sprida information om säkerhetsläget i Afghanistan för att förändra den politiska debatten och de beslut som tas av myndigheter och politiker.
