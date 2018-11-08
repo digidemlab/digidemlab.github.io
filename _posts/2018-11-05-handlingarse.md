@@ -1,13 +1,20 @@
 ---
-title: "Handlingar.se"
+title: Handlingar.se
 date: 2018-11-05 00:00:00 Z
 ref: handlingarse
 excerpt: Offentlighetsprincipen in action
-ingress-text: En plattform som gör det enklare att begära ut allmänna handlingar och workshops om ämnet.
+ingress-text: En plattform som gör det enklare att begära ut allmänna handlingar och
+  workshops om ämnet.
 image: "/uploads/handlingar.jpg"
 contact:
 - name: Elle Lingh
-  text: Jag har jobbat på “Entreprenör och teknikskolan KomTek” i Järfälla, vilket tände en gnista av att jobba med projekt samt utbildning och facilitering. Just nu studerar jag på Hyper Island skolan i Karlskrona för att lära mig mer om animation och grafisk design. Jag är intresserad av att använda min lediga tid till att binda ihop mina erfarenheter av utbildning och teknik för att skapa värde för fler. Något jag alltid kan falla tillbaka på är viljan att lära mig något nytt och att inspirera andra med det.
+  text: Jag har jobbat på “Entreprenör och teknikskolan KomTek” i Järfälla, vilket
+    tände en gnista av att jobba med projekt samt utbildning och facilitering. Just
+    nu studerar jag på Hyper Island skolan i Karlskrona för att lära mig mer om animation
+    och grafisk design. Jag är intresserad av att använda min lediga tid till att
+    binda ihop mina erfarenheter av utbildning och teknik för att skapa värde för
+    fler. Något jag alltid kan falla tillbaka på är viljan att lära mig något nytt
+    och att inspirera andra med det.
   image: "/uploads/elle.jpg"
 ---
 
