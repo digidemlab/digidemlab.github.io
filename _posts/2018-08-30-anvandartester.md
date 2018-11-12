@@ -3,7 +3,8 @@ title: Användartester av CONSUL
 date: 2018-08-30 00:00:00 Z
 ref: anvandartester
 excerpt: Digital medborgarbudget i praktiken
-ingress-text: "Under augusti genomförde Digidem Lab två användartester av medborgarplattformen CONSUL för projekt Demokratiska Städers målgrupper: utrikesfödda, kvinnor och unga."
+ingress-text: 'Under augusti genomförde Digidem Lab två användartester av medborgarplattformen
+  CONSUL för projekt Demokratiska Städers målgrupper: utrikesfödda, kvinnor och unga.'
 image: "/uploads/anvandartest.jpg"
 banners:
 - image: "/uploads/anvandartest-banner1.jpg"
@@ -13,7 +14,8 @@ banners:
 - image: "/uploads/anvandartest-banner-wide.jpg"
   format: wide
 links:
-- title: 'Blogginlägg: Lärdomar från att introducera medborgarplattformar till underrepresenterade grupper'
+- title: 'Blogginlägg: Lärdomar från att introducera medborgarplattformar till underrepresenterade
+    grupper'
   url: https://medium.com/digidemlab/l%C3%A4rdomar-fr%C3%A5n-att-introducera-medborgarplattformar-till-underrepresenterade-grupper-f57af4620331
 - title: Demokratiska Städer
   url: https://demokratiskastader.se
