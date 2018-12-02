@@ -12,7 +12,7 @@ links:
 - title: Följ Digidem Lab-bloggen
   link: https://medium.com/digidemlab
 news-flash:
-- text: Digidem Lab samarbetar med Madrid stad och stadsdelar i Göteborg och Stockholm för att utveckla världens största medborgarplattform Consul. På webbplatsen Demokratiska Städer samlar vi metoder, verktyg och plattformar för kommuner och stadsdelar som vill ta sin medborgardialog till nästa nivå.
+- text: Digidem Lab samarbetar med Madrid stad och stadsdelar i Göteborg och Stockholm för att utveckla världens största medborgarplattform <a href="http://consulproject.org">Consul</a>. På webbplatsen <a href="https://demokratiskastader.se">Demokratiska Städer</a> samlar vi metoder, verktyg och plattformar för kommuner och stadsdelar som vill ta sin medborgardialog till nästa nivå.
   link-title: 'demokratiskastäder.se'
   link: https://demokratiskastader.se
 banners:
