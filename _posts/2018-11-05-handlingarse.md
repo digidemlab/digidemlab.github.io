@@ -7,7 +7,7 @@ ingress-text: En plattform som gör det enklare att begära ut allmänna handlin
   workshops om ämnet.
 image: "/uploads/handlingar.jpg"
 contact:
-- name: Elle Lingh
+- name: Elle Weijmar
   text: Jag har jobbat på “Entreprenör och teknikskolan KomTek” i Järfälla, vilket
     tände en gnista av att jobba med projekt samt utbildning och facilitering. Just
     nu studerar jag på Hyper Island skolan i Karlskrona för att lära mig mer om animation
