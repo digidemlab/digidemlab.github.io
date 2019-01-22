@@ -7,7 +7,9 @@ ingress-text: En AR-applikation som kombinerar kunskapsutveckling och storytelli
 image: "/uploads/augmented-reality.jpg"
 contact:
 - name: Ismaila Jallow
-  text: Jag är regissör och producent med ett stort intresse för transmediala projekt som kombinerar det konstnärliga med demokratiska motståndsstrategier inom det digitala.
+  text: Jag är regissör och producent med ett stort intresse för transmediala projekt
+    som kombinerar det konstnärliga med demokratiska motståndsstrategier inom det
+    digitala.
   image: "/uploads/ismaila.jpg"
 ---
 
