@@ -2,7 +2,7 @@
 title: Curious XR
 date: 2018-12-01 00:00:00 Z
 ref: curiousxr
-excerpt: Augumented Reality för kunskapsutveckling
+excerpt: Augmented Reality för kunskapsutveckling
 ingress-text: En AR-applikation som kombinerar kunskapsutveckling och storytelling.
 image: "/uploads/augmented-reality.jpg"
 contact:
