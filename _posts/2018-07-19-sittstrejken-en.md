@@ -1,19 +1,20 @@
 ---
 title: Sittstrejkens magazine
 date: 2018-07-19 00:00:00 Z
+permalink: "/en/projects/sittstrejken/"
 ref: sittstrejken
 lang: en
-permalink: "/en/projects/sittstrejken/"
 excerpt: Digital magazine to make a difference
-ingress-text: Sittstrejken Gothenburg, an organisation for unaccompanied refugees from Afghanistan, creates a digital newspaper to affect politics.
+ingress-text: Sittstrejken Gothenburg, an organisation for unaccompanied refugees
+  from Afghanistan, creates a digital newspaper to affect politics.
 image: "/uploads/sittstrejken.jpg"
 links:
 - title: Sittstrejkens tidning
   url: https://sittstrejkengoteborg.se/
 contact:
 - name: Hamid, Zara and Abdullah
-  text: Co-founder and active in Sittstrejken Gothenburg with a passion to improve the situation for unaccompanied refugees in Sweden.
-
+  text: Co-founder and active in Sittstrejken Gothenburg with a passion to improve
+    the situation for unaccompanied refugees in Sweden.
 ---
 
 The purpose of the project is to spread information about the current security situation in Afghanistan and change the political debate and the decisions taken by authorities and politicians.

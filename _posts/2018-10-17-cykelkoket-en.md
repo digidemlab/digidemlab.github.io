@@ -1,8 +1,8 @@
 ---
 title: Digital platform for the bike kitchen
 date: 2018-10-17 17:21:00 Z
-lang: en
 permalink: "/en/projects/bike-kitchen/"
+lang: en
 ref: cykelkoket
 excerpt: New platform for Bike Kitchens
 links:
@@ -10,11 +10,10 @@ links:
   url: http://karrot.world/
 - title: Github
   url: https://github.com/brnsolikyl/karrot-to-bike-kitchen
-ingress-text: The platform for communication, coordination and cooperation between the different bike kitchens.
+ingress-text: The platform for communication, coordination and cooperation between
+  the different bike kitchens.
 image: "/uploads/cykelkok.jpg"
 ---
-
-
 
 The platform will make it easier to communicate, coordinate and collaborate between the different bike kitchens and other relevant partners when it comes to distributing resources (bikes, tools etc.) and volunteers. The website will contain general information about bike kitchens, a resource bank and a discussion forum.
 

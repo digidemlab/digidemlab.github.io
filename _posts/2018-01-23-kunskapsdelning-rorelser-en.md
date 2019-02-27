@@ -1,18 +1,23 @@
 ---
 title: Knowledge sharing for social movements
 date: 2018-01-23 17:21:00 Z
-lang: en
 permalink: "/en/projects/knowledge-sharing/"
+lang: en
 ref: kunskapsdelning-rorelser
 excerpt: Knowledge sharing platform for movements.
-ingress-text: A platform where social movements can learn from each other and spread knowledge.
+ingress-text: A platform where social movements can learn from each other and spread
+  knowledge.
 links:
 - title: The search for a platform for interactive knowledge sharing(sv)
   url: https://medium.com/digidemlab/s%C3%B6kandet-efter-en-plattform-f%C3%B6r-interaktiv-kunskapsdelande-inom-och-mellan-progressiva-r%C3%B6relser-28bd4d19bd34
 image: "/uploads/kunskapsdelning-share.jpg"
 contact:
 - name: Andreas Jonsson
-  text: I have a background in the climate movement and I am currently active in a campaign called Fossilgasfällan.  From my activism and starting campaigns an idea was born of how it could be easier to start projects to achieve a just and sustainable world, but also share knowledge and experiences so that we faster can reach this world! Photo © Cristian Jonsson
+  text: I have a background in the climate movement and I am currently active in a
+    campaign called Fossilgasfällan.  From my activism and starting campaigns an idea
+    was born of how it could be easier to start projects to achieve a just and sustainable
+    world, but also share knowledge and experiences so that we faster can reach this
+    world! Photo © Cristian Jonsson
   image: "/uploads/andreas.jpg"
 ---
 

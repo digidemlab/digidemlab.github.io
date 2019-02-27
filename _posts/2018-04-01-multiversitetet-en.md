@@ -1,11 +1,12 @@
 ---
 title: Multiversitetet
 date: 2018-04-01 00:00:00 Z
-lang: en
 permalink: "/en/projects/multiversitetet/"
+lang: en
 ref: multiversitetet
 excerpt: Cooperative planning and knowledge sharing
-ingress-text: Mutual planning and schedule to learn from each other, with the tool [Openki](http://openki.net/).
+ingress-text: Mutual planning and schedule to learn from each other, with the tool
+  [Openki](http://openki.net/).
 image: "/uploads/school.jpg"
 contact:
 - name: Fanny Isfeldt

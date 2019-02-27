@@ -1,15 +1,16 @@
 ---
 title: Curious XR
 date: 2018-12-01 00:00:00 Z
+permalink: "/en/projects/curiousxr/"
 ref: curiousxr
 lang: en
-permalink: "/en/projects/curiousxr/"
 excerpt: Augmented Reality for storytelling
-ingress-text:  An AR-application that combines development of knowledge and storytelling.
+ingress-text: An AR-application that combines development of knowledge and storytelling.
 image: "/uploads/augmented-reality.jpg"
 contact:
 - name: Ismaila Jallow
-  text:  I'm a director and producer with a great interest for trans medial projects that combine artistic and democratic ressistance strategies within the digital.
+  text: I'm a director and producer with a great interest for trans medial projects
+    that combine artistic and democratic ressistance strategies within the digital.
   image: "/uploads/ismaila.jpg"
 ---
 

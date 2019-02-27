@@ -1,16 +1,16 @@
 ---
 title: Digital tools for effective communication
 date: 2018-03-26 00:00:00 Z
-lang: en
 permalink: "/en/projects/digital-tools-communication/"
+lang: en
 ref: digitala-verktyg-inkludering
 excerpt: Workshops and education for inclusion communication.
 ingress-text: Workshops and education for inclusion and effective communication.
 image: "/uploads/jaijagat.jpg"
 contact:
 - name: Samuel Grönvik
-  text: Active in the international peace campaign Jaj Jagat 2020 since two years back.
-
+  text: Active in the international peace campaign Jaj Jagat 2020 since two years
+    back.
 ---
 
 ## Purpose of the project

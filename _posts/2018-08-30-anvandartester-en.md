@@ -1,11 +1,13 @@
 ---
 title: User testing of CONSUL
 date: 2018-08-30 00:00:00 Z
-lang: en
 permalink: "/en/projects/user-testing-consul/"
+lang: en
 ref: anvandartester
 excerpt: Digital participation in practice
-ingress-text: 'In August 2018 Digidem Lab did user testing of the citizen platform CONSUL for the project Democratic Cities target groups: people born outside of Sweden, women and young people.'
+ingress-text: 'In August 2018 Digidem Lab did user testing of the citizen platform
+  CONSUL for the project Democratic Cities target groups: people born outside of Sweden,
+  women and young people.'
 image: "/uploads/anvandartest.jpg"
 banners:
 - image: "/uploads/anvandartest-banner1.jpg"
@@ -15,12 +17,12 @@ banners:
 - image: "/uploads/anvandartest-banner-wide.jpg"
   format: wide
 links:
-- title: 'Blog post: Lessons from introducing citizen platforms to underrepresented groups (sv)'
+- title: 'Blog post: Lessons from introducing citizen platforms to underrepresented
+    groups (sv)'
   url: https://medium.com/digidemlab/l%C3%A4rdomar-fr%C3%A5n-att-introducera-medborgarplattformar-till-underrepresenterade-grupper-f57af4620331
-- title: 'Democratic Cities (sv)'
+- title: Democratic Cities (sv)
   url: https://demokratiskastader.se
 ---
-
 
 The test persisted of evaluating a demo version of the citizen platform and introducing and testing the term participatory budget.
 

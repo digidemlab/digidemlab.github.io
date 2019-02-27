@@ -1,11 +1,12 @@
 ---
 title: Democratic cultural heritage
 date: 2018-09-18 00:00:00 Z
-lang: en
 permalink: "/en/projects/kulturarv/"
+lang: en
 ref: kulturarv
 excerpt: Citizen participation for cultural heritage
-ingress-text: A pilot study of how citizen participation can help collect data about our mutual cultural heritage.
+ingress-text: A pilot study of how citizen participation can help collect data about
+  our mutual cultural heritage.
 image: "/uploads/kulturarv.jpg"
 links:
 - title: CITiZAN
@@ -13,8 +14,9 @@ links:
 contact:
 - name: Anton Larsson
   image: "/uploads/anton-hires.png"
-  text: I am an archaeologist (bachelor's degree in studies of cultural heritage, master's in archaeology). I work part-time as a substitute teacher in primary school and as a field archaeologist for the direct democratic cooperative Kulturlandskapet.
-
+  text: I am an archaeologist (bachelor's degree in studies of cultural heritage,
+    master's in archaeology). I work part-time as a substitute teacher in primary
+    school and as a field archaeologist for the direct democratic cooperative Kulturlandskapet.
 ---
 
 ## What will you do?

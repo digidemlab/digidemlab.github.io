@@ -1,8 +1,8 @@
 ---
 title: Translation of citizen platforms
 date: 2018-07-01 00:00:00 Z
-lang: en
 permalink: "/en/projects/translation-citizen-platforms/"
+lang: en
 ref: oversattning-medborgarplattformar
 excerpt: Platforms for democratic cities
 ingress-text: Translation of the citizen platforms CONSUL and Decidim.
@@ -14,8 +14,10 @@ links:
   url: https://decidim.org/
 contact:
 - name: Maria Hammer
-  text: I have a passion for justice with focus on the climate, environment and gender issues. I like learning new languages and work with translation in different contexts. Besides this project I study global studies and I'm active in the grass roots campaign Fossilgasfällan that is based in Gothenburg.
-
+  text: I have a passion for justice with focus on the climate, environment and gender
+    issues. I like learning new languages and work with translation in different contexts.
+    Besides this project I study global studies and I'm active in the grass roots
+    campaign Fossilgasfällan that is based in Gothenburg.
 ---
 
 ## What will you do?

@@ -1,15 +1,21 @@
 ---
 title: Handlingar.se
 date: 2018-11-05 00:00:00 Z
-lang: en
 permalink: "/en/projects/handlingarse/"
+lang: en
 ref: handlingarse
 excerpt: Offentlighetsprincipen in action
-ingress-text: A platform that makes it easier to request public documents and workshops about the subject.
+ingress-text: A platform that makes it easier to request public documents and workshops
+  about the subject.
 image: "/uploads/handlingar.jpg"
 contact:
 - name: Elle Weijmar
-  text: I have worked for the entrepreneur and tech school KomTek in Järfälla which ignited my interest in working with projects, education and facilitation. I am currently studying at Hyper Island in Karlskrona to learn more about animation and graphical design. I am interested in using my spear time to connect my experience of education and technology to create something valuable for more people. Something that I always can depend on is my will to learn something new and inspire others.
+  text: I have worked for the entrepreneur and tech school KomTek in Järfälla which
+    ignited my interest in working with projects, education and facilitation. I am
+    currently studying at Hyper Island in Karlskrona to learn more about animation
+    and graphical design. I am interested in using my spear time to connect my experience
+    of education and technology to create something valuable for more people. Something
+    that I always can depend on is my will to learn something new and inspire others.
   image: "/uploads/elle.jpg"
 ---
 

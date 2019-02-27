@@ -1,11 +1,13 @@
 ---
 title: Citizens for the climate
 date: 2018-10-02 00:00:00 Z
-lang: en
 permalink: "/en/projects/citizens-for-climate/"
+lang: en
 ref: medborgare-for-klimatet
 excerpt: How participatory democracy makes Madrid sustainable
-ingress-text: The purpose of the project is to study direct democracy and how it affects the ability to put forward decisions focused on sustainability and environmental issues.
+ingress-text: The purpose of the project is to study direct democracy and how it affects
+  the ability to put forward decisions focused on sustainability and environmental
+  issues.
 image: "/uploads/madrid-sustainable.jpg"
 links:
 - title: 'Blog post: Så funkar medborgarbudgeten i Madrid'
@@ -14,7 +16,13 @@ links:
   url: https://decide.madrid.es/proposals/199-madrid-100-sostenible
 contact:
 - name: Julia Lönnqvist
-  text: Julia Lönnqvist is active in the environmental movement through different organisations and projects focused on the environment and sustainability such as PUSH Sweden, AirClim och Fältbiologerna. She was recently involved in organising the climate march in Gothenburg where PUSH Sweden together with Friends of the Earth via the group Solcellskapet demanded that Gothenburg city hold their promise from the budget 2017 which accepted the citizen proposal of putting solar panels on all public buildings, but with a sharper deadline.
+  text: Julia Lönnqvist is active in the environmental movement through different
+    organisations and projects focused on the environment and sustainability such
+    as PUSH Sweden, AirClim och Fältbiologerna. She was recently involved in organising
+    the climate march in Gothenburg where PUSH Sweden together with Friends of the
+    Earth via the group Solcellskapet demanded that Gothenburg city hold their promise
+    from the budget 2017 which accepted the citizen proposal of putting solar panels
+    on all public buildings, but with a sharper deadline.
   image: "/uploads/julia.jpeg"
 ---
 
