@@ -11,9 +11,12 @@ links:
 contact:
 - name: Connie Nguyen & Aksel Biørn-Hansen
   image: "/uploads/conny-aksel.jpg"
-  text: "Connie: Connie går sitt sista år på masterprogrammet Interaction Design and Technologies vid Chalmers Tekniska Högskola. Hon är intresserad i sätt att göra design mer tillgängligt för flera.  
-  Aksel: Aksel går också sitt sista år på masterprogrammet Interaction Design and Technologies vid Chalmers. Han är engagerad i hållbarhetsfrågor, och intresserad i vilken roll digital teknologi spelar i att skapa ett mer hållbart samhälle."
-
+  text: 'Connie: Connie går sitt sista år på masterprogrammet Interaction Design and
+    Technologies vid Chalmers Tekniska Högskola. Hon är intresserad i sätt att göra
+    design mer tillgängligt för flera. Aksel: Aksel går också sitt sista år på masterprogrammet
+    Interaction Design and Technologies vid Chalmers. Han är engagerad i hållbarhetsfrågor,
+    och intresserad i vilken roll digital teknologi spelar i att skapa ett mer hållbart
+    samhälle.'
 ---
 
 ## Vad kommer ni att göra?
