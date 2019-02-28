@@ -9,6 +9,8 @@ ingress-text: A roadmap to open sourcing the Smartakartan website in the future 
   other cities to adopt.
 image: "/uploads/smarta-kartan-logo.png"
 links:
+- title: 'Blog post: Designing a smart map home page'
+  url: https://medium.com/digidemlab/designing-a-smart-map-home-page-bcd4be95ab7f
 - title: Smarta Kartan
   url: http://smartakartan.se/
 contact:

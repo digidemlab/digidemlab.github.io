@@ -6,6 +6,8 @@ excerpt: Karta för ett hållbart Göteborg
 ingress-text: Redesign av Smartakartan med fokus på användarvänlighet.
 image: "/uploads/smarta-kartan-logo.png"
 links:
+- title: 'Blogginlägg: Designing a smart map home page'
+  url: https://medium.com/digidemlab/designing-a-smart-map-home-page-bcd4be95ab7f
 - title: Smartakartan
   url: http://smartakartan.se/
 contact:
