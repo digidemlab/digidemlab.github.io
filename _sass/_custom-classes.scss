@@ -95,7 +95,13 @@
   @include media-breakpoint-down(sm) {
     margin-top: -5rem;
   }
+
+  &.video {
+    font-size: 4rem;
+    margin-top: 0;
+  }
 }
+
 
 .btn,
 .nav .nav-link,
