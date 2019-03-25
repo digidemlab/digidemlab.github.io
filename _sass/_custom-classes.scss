@@ -5,13 +5,13 @@
 
 // Positioning
 
-/**
+
 .header {
   position: relative;
   top: 5.5rem; // ca 89
   margin-top: -3rem;
 }
-*/
+
 .view-header-box {
   position: absolute;
   top: -0;
@@ -24,7 +24,7 @@
 /**
   Start page
   */
-
+/**
 .header-start {
   margin-top: -2rem;
 }
@@ -72,6 +72,7 @@
     }
   }
 }
+**/
 
 // Padding
 @include media-breakpoint-down(sm) {
@@ -89,10 +90,10 @@
 
 .display-1 {
   line-height: 1.375;
-//  margin-top: 27rem; //-6rem;
+  margin-top: -6rem;
 
   @include media-breakpoint-down(sm) {
-  //  margin-top: -5rem;
+    margin-top: -5rem;
   }
 }
 

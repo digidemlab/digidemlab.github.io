@@ -1,11 +1,9 @@
 ---
-title: Ditt digitala demokratilabb
+title: Deltagande budget i Biskopsgården
 position: 0
-description: Digidem Lab är ett oberoende labb för deltagande demokrati med ny teknik.
-  Vi backar projekt, utvecklar medborgarplattformar, ordnar föreläsningar, workshops
-  och hackathons.
+description: Göteborgs stads bostadsbolag och Digidem Lab genomför Nordens första deltagande boendebudget i Norra Biskopsgården i Göteborg. Mer information kommer snart!
 ref: start
-header-image: "/uploads/cloudthoughts_poster.png"
+header-image: "/uploads/biskopsgarden.jpg"
 links:
 - title: Vilka är Digidem Lab?
   link: "/about"
@@ -20,16 +18,15 @@ news-flash:
   link-title: demokratiskastäder.se
   link: https://demokratiskastader.se
 banners:
-- title: 
+- title:
   image: "/uploads/banner-wide-demokratiskastader.jpg"
   link: https://demokratiskastader.se
   format: wide
-- title: 
+- title:
   image: "/uploads/banner-civictech.jpg"
   link: http://civictech.se
-- title: 
+- title:
   image: "/uploads/banner-normal-democat.png"
   link: https://democat.me
 layout: start
 ---
-
