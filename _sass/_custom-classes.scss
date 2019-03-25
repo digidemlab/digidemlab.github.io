@@ -24,15 +24,15 @@
 /**
   Start page
   */
-/**
-.header-start {
+
+.header-start-video {
   margin-top: -2rem;
 }
 
-.site-header {
+.site-header-video {
   position: relative;
 }
-.navbar-wrapper {
+.navbar-wrapper-video {
   position: absolute;
   top: 0;
   left: 0;
@@ -72,7 +72,7 @@
     }
   }
 }
-**/
+
 
 // Padding
 @include media-breakpoint-down(sm) {
