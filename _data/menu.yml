@@ -1,14 +1,12 @@
 sv:
+- title: Tjänster
+  url: /services
 - title: Om
   url: /about
-- title: Projekt
-  url: /projects
-#- title: Ansök
-#  url: /apply
 - title: Kontakt
   url: /contact
-- title: Blogg
-  url: http://medium.com/digidemlab
+- title: Labbet
+  url: /lab
 en:
 - title: About
   url: /en/about
