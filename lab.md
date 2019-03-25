@@ -1,8 +1,13 @@
 ---
 title: Ditt digitala demokratilabb
-description: Digidem Lab är ett oberoende labb för deltagande demokrati med ny teknik. Vi backar projekt, utvecklar medborgarplattformar, ordnar föreläsningar, workshops och hackathons.
+description: I labbet samlar vi aktivister, forskare, programmerare, designers och alla som tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Här är de projekt vi gjort hittills.
 layout: lab
-ref: projects
+ref: lab
+links:
+- title: Kolla in CivicTech Sweden
+  link: https://civictech.se
+- title: Följ Digidem Lab-bloggen
+  link: https://medium.com/digidemlab
 banners:
 - title:
   image: "/uploads/banner-civictech.jpg"
@@ -11,3 +16,5 @@ banners:
   image: "/uploads/banner-normal-democat.png"
   link: https://democat.me
 ---
+
+ :bulb:

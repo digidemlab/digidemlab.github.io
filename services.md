@@ -1,23 +1,23 @@
 ---
-title: Om Digidem Lab
+title: Våra erbjudanden
 position: 1
-description: Digidem Lab är ett oberoende och icke vinstdrivande labb för deltagande
-  demokrati.
-ref: about
+description: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande.
+ref: services
+links:
+  - title: Resursbanken demokratiskastäder.se
+    url: https://demokratiskastader.se
 image: "/uploads/brainpuzzle.gif"
-ingress-text: Digidem Lab är ett oberoende och icke vinstdrivande labb som verkar
-  för deltagande demokrati med ny teknik. Det gör vi genom att backa bra projekt,
-  utveckla medborgarplattformar, ordna föreläsningar, workshops och hackathons.
+ingress-text: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande. Vi hjälper er med processdesign av deltagandeprocesser, installation och utbildning i digitala plattformar för deltagande, workshops och föreläsningar.
 ---
 
-## Demokratilabb
-I labbet samlar vi aktivister, forskare, programmerare, designers och alla som  tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Vi tror att nya former för deltagande måste skapas underifrån och i alla delar av samhället.
+## Processdesign
+Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.
 
-## För städer
-Vi samarbetar med Madrid stad och stadsdelar i Göteborg och Stockholm för att utveckla världens största medborgarplattform Consul. På webbplatsen [Demokratiska Städer](http://demokratiskastader.se) samlar vi metoder, verktyg och plattformar för kommuner och stadsdelar som vill ta sin medborgardialog till nästa nivå.
+## Installation & drift
+Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.
 
-## För rörelser
-Nya verktyg öppnar för transparenta deltagandeprocesser i realtid oberoende av geografisk plats. Vi erbjuder workshops och föreläsningar om digitala verktyg för påverkan, diskussion och beslut. Vårt mål är att stötta organisationer och rörelser som vill bli mer inkluderande och verkningsfulla.
+## Utbildning
+Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.
 
-## Hackathon
-[CivicTechSweden](http://civictech.se) samlar utvecklare, designers, aktivister och öppen data-entusiaster som skapar tekniska lösningar för samhällsnytta. Vi ordnar återkommande hackathons tillsammans med bland andra Göteborgs Stad, Göteborgsregionens Kommunalförbund, Gothenburg Hackerspace och Solidariskt Kylskåp.
+## Workshops & föreläsningar
+Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.
