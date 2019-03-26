@@ -7,17 +7,18 @@ links:
   - title: Resursbanken demokratiskastäder.se
     url: https://demokratiskastader.se
 image: "/uploads/brainpuzzle.gif"
-ingress-text: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande. Vi hjälper er med processdesign av deltagandeprocesser, installation och utbildning i digitala plattformar för deltagande, workshops och föreläsningar.
+ingress-text: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande. Vi hjälper er med processdesign av deltagandeprocesser, installation och utbildning i digitala plattformar för deltagande och erbjuder workshops och föreläsningar.
+
 ---
 
 ## Processdesign
-Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.
+För att lyckas med deltagandeprocesser gäller det att inkludera alla parter från början. I en serie workshops med inblandade parter utformar vi en medborgarcentrerad process för deltagande. Vi kartlägger vilka nyckelaktörer som behöver inkluderas i processen och planerar vad som ska göras under alla olika steg, från idéfas till utvärdering och uppföljning.
 
 ## Installation & drift
-Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.
+Vi erbjuder installation och drift av väl testade, transparenta och kompletta digitala plattformar för förslag, beslutsfattande och deltagande budgetar. Digidem Lab har arbetat tillsammans med Madrid stad sedan 2017 för att utveckla världens mest använda digitala medborgarplattform, [Consul](http://consulproject.org/en). Vi har även erfarenhet av att arbeta med [Decidim](https://decidim.org/), där vi samarbetar med Helsinki stad.
 
 ## Utbildning
-Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.
+För att få ut största möjliga effekt av medborgarplattformar rekommenderar vi vår utbildning för administratörer och moderatorer. Där tittar vi även på hur den digitala medborgarplattformen kan integreras med fysiska metoder för att skapa större deltagande.
 
 ## Workshops & föreläsningar
-Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla.
+För de som vill veta mer, få inspiration, eller testa på en digital medborgarplattform håller vi praktiska workshops och inspirationsföreläsningar om nya metoder för medborgardeltagande.

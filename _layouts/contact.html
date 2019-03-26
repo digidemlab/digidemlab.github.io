@@ -2,31 +2,70 @@
 layout: global
 ---
 
-<article>
-  <div class="container">
-    {% include content/page-header.html %}
+<div class="container">
+  <div class="row mt-4 mt-lg-5 mb-2 mb-lg-4">
+    <div class="col-lg-10 offset-lg-1 text-center">
+      <h1>{{page.title}}</h1>
+    </div>
+  </div>
+</div>
+
+<div class="bg-faded">
+  <div class="container py-3b pb-lg-3c">
     <div class="row">
-      <div class="col content">
-        {% assign paragraphs = content | split:'</p>' %}
-        {% for paragraph in paragraphs limit:2 %}
-          {{ paragraph | append: '</p>' }}
-        {% endfor %}
-        {% if page.banners.size > 0 %}
-      </div>
-    </div>
-  </div>
-  <section class="container-fluid px-0 mb-3 my-lg-4">
-    {% include panels/banners.html %}
-  </section>
-  <div class="container">
-    <div class="row content mb-lg-3">
       <div class="col">
-        {% endif %}
-        {% for paragraph in paragraphs offset:2 %}
-          {{ paragraph | append: '</p>' }}
-        {% endfor %}
+        <h2 class="display-3">Digidem Lab</h2>
       </div>
     </div>
-  </div>
-</article>
-{% include content/team-compact.html %}
+		<div class="row">
+      {% assign crew=site.crew | where:"lang", page.lang | where:"category", "Digidem Lab" %}
+      {% for item in crew %}
+        <div class="col-lg-6">
+					<div class="row mb-3">
+						<div class="col-3">
+							<img class="w-100" src="{{site.baseurl}}{{item.image}}">
+						</div>
+						<div class="col-9 small">
+								<h4 class="mb-0">{{item.title}}</h4>
+                <strong>{{item.job}}</strong><br>
+								{{item.content}}
+								{% if item.phone %}{{item.phone}}, {% endif %}
+								{% if item.mail %}<a href="mailto:{{item.mail}}">{{item.mail}}</a><br>{% endif %}
+							</p>
+						</div>
+					</div>
+        </div>
+			{% endfor %}
+		</div>
+	</div>
+</div>
+
+<div class="">
+  <div class="container py-3b pb-lg-3c">
+    <div class="row">
+      <div class="col">
+        <h2 class="display-3">CivicTech Sweden</h2>
+      </div>
+    </div>
+		<div class="row">
+      {% assign crew=site.crew | where:"lang", page.lang | where:"category", "CivicTech" %}
+      {% for item in crew %}
+        <div class="col-lg-6">
+					<div class="row mb-3">
+						<div class="col-3">
+							<img class="w-100" src="{{site.baseurl}}{{item.image}}">
+						</div>
+						<div class="col-9 small">
+								<h4 class="mb-0">{{item.title}}</h4>
+                <strong>{{item.job}}</strong><br>
+								{{item.content}}
+								{% if item.phone %}{{item.phone}}, {% endif %}
+								{% if item.mail %}<a href="mailto:{{item.mail}}">{{item.mail}}</a><br>{% endif %}
+							</p>
+						</div>
+					</div>
+        </div>
+			{% endfor %}
+		</div>
+	</div>
+</div>

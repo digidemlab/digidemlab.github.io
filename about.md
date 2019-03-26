@@ -1,23 +1,19 @@
 ---
 title: Om Digidem Lab
 position: 1
-description: Digidem Lab är ett oberoende och icke vinstdrivande labb för deltagande
-  demokrati.
+description: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
 ref: about
-image: "/uploads/brainpuzzle.gif"
-ingress-text: Digidem Lab är ett oberoende och icke vinstdrivande labb som verkar
-  för deltagande demokrati med ny teknik. Det gör vi genom att backa bra projekt,
-  utveckla medborgarplattformar, ordna föreläsningar, workshops och hackathons.
+image: "/uploads/surprise.gif"
+ingress-text: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+
 ---
 
-## Demokratilabb
-I labbet samlar vi aktivister, forskare, programmerare, designers och alla som  tror att en annan värld är möjlig, för att skapa metoder och verktyg för morgondagens deltagande demokrati. Vi tror att nya former för deltagande måste skapas underifrån och i alla delar av samhället.
+Digidem Lab arbetar enlig [Open Government Partnerships rekommendationer](https://www.opengovpartnership.org/open-government-declaration) för att göra politiken mer inkluderande och transparent, och de Globala Målens målsättningar om deltagandebaserat beslutsfattande i [offentliga institutioner](https://www.globalamalen.se/om-globala-malen/mal-16-fredliga-och-inkluderande-samhallen/) och inom [stadsplanering och boende](https://www.globalamalen.se/om-globala-malen/mal-11-hallbara-stader-och-samhallen/).
 
-## För städer
-Vi samarbetar med Madrid stad och stadsdelar i Göteborg och Stockholm för att utveckla världens största medborgarplattform Consul. På webbplatsen [Demokratiska Städer](http://demokratiskastader.se) samlar vi metoder, verktyg och plattformar för kommuner och stadsdelar som vill ta sin medborgardialog till nästa nivå.
+I den statliga [Demokratiutredningen](https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2014/07/dir.-2014111/) från 2014 målas en dyster framtidsbild för partipolitiken. Partierna tappar medlemmar och makten koncentreras till allt färre förtroendevalda. Kvinnor, utrikesfödda och unga är underrepresenterade i de valda församlingarna.
 
-## För rörelser
-Nya verktyg öppnar för transparenta deltagandeprocesser i realtid oberoende av geografisk plats. Vi erbjuder workshops och föreläsningar om digitala verktyg för påverkan, diskussion och beslut. Vårt mål är att stötta organisationer och rörelser som vill bli mer inkluderande och verkningsfulla.
+Den goda nyheten är att digitaliseringen skapar helt nya möjligheter för påverkan och gemensamt beslutsfattande. I Madrid, Paris, Taiwan och många andra platser görs storskaliga processer med deltagande budgetar och medborgarinflytande.
 
-## Hackathon
-[CivicTechSweden](http://civictech.se) samlar utvecklare, designers, aktivister och öppen data-entusiaster som skapar tekniska lösningar för samhällsnytta. Vi ordnar återkommande hackathons tillsammans med bland andra Göteborgs Stad, Göteborgsregionens Kommunalförbund, Gothenburg Hackerspace och Solidariskt Kylskåp.
+Digidem Lab erbjuder en rad tjänster för organisationer och offentliga institutioner som vill utveckla sitt deltagandearbete, bland annat väl testade och transparenta digitala verktyg.
+
+En viktig del av vårt arbete är att vi också är ett labb - en plats för att utveckla och testa framtidens verktyg och metoder. Vi har hittills stöttat omkring 30 projekt, genomförda av unga personer, och genom nätverket [CivicTechSweden](http://civictech.se) ordnar vi hackathons och Meetups för att utveckla nya digitala tjänster för samhällsnytta.

@@ -18,16 +18,16 @@ layout: default
 </header>
 
 <section class="container mt-4 mt-lg-5 pb-3b">
-  <div class="row mb-2b mb-lg-4">
-    <div class="col-lg-7 offset-lg-5">
-      <p class="lead text-primary pl-lg-5">{{page.description}}</p>
+  <div class="row mb-3 mb-md-0 mb-lg-4">
+    <div class="col-lg-6 push-lg-6 offset-xl-2 push-xl-4">
+      <div class="lead text-primary">{{ page.description }}</div>
     </div>
+    {% if page.links %}
+      <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
+        {% include content/page-links.html links=page.links %}
+      </div>
+    {% endif %}
   </div>
-  <nav class="nav flex-column flex-lg-row mb-2b">
-    {% for item in page.links %}
-      <a class="flex-lg-fill nav-link pl-4 pl-lg-3 pr-lg-5 pt-0 pb-1 pb-lg-0 icon-arrow" href="{{site.baseurl}}{{item.link}}">{{item.title}}</a>
-    {% endfor %}
-  </nav>
 
   {% if page.news-flash %}
     <div class="row">
@@ -43,38 +43,57 @@ layout: default
   {% endif %}
 </section>
 
-<section id="projects" class="bg-faded">
+<!--
+<section id="news" class="bg-faded">
   <div class="container py-3b pb-lg-3c">
     <div class="row">
       <div class="col">
-        <h2 class="display-3">{{site.project-title[page.lang]}}</h2>
+        <h2 class="display-3">Nyheter</h2>
       </div>
     </div>
     <div class="row">
-      {% include panels/projects-small.html limit=6 %}
+      {% include panels/news-small.html limit=3 %}
     </div>
     <div class="row">
       <div class="col">
         <div class="text-right lead">
-          <a href="lab" class="icon-arrow pl-4 pl-lg-3">{{site.project-link[page.lang]}}</a>
+          <a href="lab" class="icon-arrow pl-4 pl-lg-3">Fler nyheter</a>
         </div>
       </div>
     </div>
+  </div>
+</section>
+-->
+
+<section id="lab">
+  <div class="container py-3b pb-lg-3c">
+    <div class="row">
+      <div class="col">
+        <h2 class="display-3 mb-0"><a href="lab">{{site.lab-title[page.lang]}}</a></h2>
+        <p class="lead mb-3">{{site.lab-desc[page.lang]}}</p>
+      </div>
+    </div>
+    <div class="row">
+      {% include panels/projects-small.html limit=3 %}
+    </div>
+    <div class="row ">
+      <div class="col-lg-10 offset-lg-1">
+        {% include content/partners.html %}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <div class="text-right lead">
+          <a href="lab" class="icon-arrow pl-4 pl-lg-3">{{site.lab-link[page.lang]}}</a>
+        </div>
+      </div>
+    </div>
+
   </div>
 </section>
 
 <section class="container-fluid px-0">
   {% include panels/banners.html %}
 </section>
-
-<div class="py-3 py-lg-4">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-7 offset-lg-3">
-        {% include content/partners.html %}
-      </div>
-    </div>
-  </div>
-</div>
 
 {% include footer.html %}

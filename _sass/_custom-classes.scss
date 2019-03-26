@@ -291,6 +291,10 @@ input {
   font-size: 1.5rem;
   line-height: 1;
   white-space: nowrap;
+
+  li:last-child a {
+    color: $violet !important;
+  }
 }
 
 .nav-menu-secondary {
