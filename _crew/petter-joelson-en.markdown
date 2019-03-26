@@ -1,12 +1,13 @@
 ---
 title: Petter Joelson
-date: 2017-02-23 18:08:00 Z
+date: 2018-02-23 18:08:00 Z
 lang: en
 image: "/uploads/petter2-crop.gif"
 job: Project coordinator & Product developer
 phone: "+46 70 867 42 44"
 mail: petter@digidemlab.org
 twitter: "@p_jo"
+category: Digidem Lab
 ---
 
 Petter Joelson is a co-founder of Digidem Lab. He has worked with web

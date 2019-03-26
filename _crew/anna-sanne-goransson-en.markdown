@@ -3,9 +3,10 @@ title: Anna Sanne Göransson
 date: 2017-02-23 18:10:00 Z
 lang: en
 image: "/uploads/anna2-crop.gif"
-job: Project coordinator & Community manager
+job: Engagement Strategist
 phone: "+46 76 242 28 24"
 mail: anna@digidemlab.org
+category: Digidem Lab
 ---
 
 Community organiser specialised in film and digital media for participation

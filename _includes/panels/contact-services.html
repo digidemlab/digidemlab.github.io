@@ -1,20 +1,15 @@
 <section id="contact" class="bg-info">
   <div class="container pt-3b pb-3 pb-lg-0">
-
     <div class="row">
       <div class="col-lg-10 offset-lg-1 text-center px-3">
-
-        <h2 class="display-2 text-white mb-lg-1">{{site.contact[page.lang].title}}</h2>
-        <div class="text-white">{{site.contact[page.lang].text | markdownify escape}}</div>
-
+        <h2 class="display-2 text-white mb-lg-1">{{site.contact-services[page.lang].title}}</h2>
+        <div class="text-white">{{site.contact-services[page.lang].text | markdownify escape}}</div>
       </div>
     </div>
-
     <div class="row">
       <div class="col">
         <ul class="list-unstyled list-random mt-2">
-
-          {% assign crew=site.crew | where:"lang", page.lang %}
+          {% assign crew=site.crew | where:"lang", page.lang | where:"title", "Sanna Ghotbi" %}
           {% for item in crew %}
             <li class="media text-white text-center list-random-item  list-random-item-{{forloop.index}} {% cycle 'mb-lg-5', 'mb-lg-3', '' %}">
               <div class="media-body pt-2 pb-3">
@@ -26,10 +21,8 @@
               <img class="list-random-image list-random-image-{{forloop.index}} hidden-md-down" src="{{site.baseurl}}{{item.image}}" width="150">
             </li>
           {% endfor %}
-
         </ul>
       </div>
     </div>
-
   </div>
 </section> <!-- /contact -->

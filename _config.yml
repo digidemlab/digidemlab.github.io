@@ -2,6 +2,10 @@
 title: Digidem Lab
 timezone: UTC
 collections:
+  projects:
+    title: Projects
+    output: true
+    permalink: "/:title/"
   crew:
     title: Crew
     output: false
@@ -26,6 +30,12 @@ defaults:
     lang: en
 - scope:
     path: ''
+    type: projects
+  values:
+    layout: project
+    lang: sv
+- scope:
+    path: ''
     type: posts
   values:
     layout: project
@@ -40,16 +50,21 @@ email: admin@digidemlab.org
 contact:
   sv:
     title: Prata med oss!
-    text: Digidem Lab är ett oberoende och icke vinstdrivande labb för deltagande
-      demokrati. [Läs mer om](/contact) hur vi kan hjälpa er organisation att hitta
-      nya sätt att engagera och skapa processer för deltagande.
+    text: Hör av dig om du har en idé till ett spännande projekt!
   en:
     title: Get in touch!
     text: Digidem Lab is a non-profit organisation promoting participatory democracy
-      on all levels of society. Get in touch to see how we can help your movement
-      or organisation to find new processes and tools for participation.
+      on all levels of society. Get in touch to talk about project ideas or cooperation!
+contact-services:
+  sv:
+    title: Vill du veta mer?
+    text: Kontakta oss för att diskutera gemensamma projekt eller få ett prisförslag på våra tjänster.
+  en:
+    title: Get in touch!
+    text: Digidem Lab is a non-profit organisation promoting participatory democracy
+      on all levels of society. Get in touch to talk about project ideas or cooperation!
 partner-text:
-  sv: Digidem Lab arrangeras med hjälp av Allmänna Arvsfonden och ABF Göteborg i samarbete
+  sv: Labbet drivs med hjälp av Allmänna Arvsfonden och ABF Göteborg i samarbete
     med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna, LSU - Sveriges ungdomsorganisationer,
     Ung Media och Unga Rörelsehindrade Göteborgsklubben.
   en: Digidem Open Lab is co-organised with ABF Göteborg, with the support of Allmänna
@@ -66,13 +81,15 @@ partner-links:
 questions:
   sv: Projektledare
   en: Project manager
-project-title:
-  sv: Projekt
+lab-title:
+  sv: "Labbet :bulb:"
   en: Projects
-project-link:
-  sv: Alla projekt
+lab-desc:
+  sv: I labbet utvecklar vi framtidens digitala tjänster för deltagande och demokrati.
+lab-link:
+  sv: Mer om labbet
   en: More projects
-baseurl: 
+baseurl:
 url: https://digidemlab.org
 author: Digidem Lab
 twitter:
@@ -95,7 +112,7 @@ exclude:
 theme: minima
 sass:
   sass_dir: _sass
-gems:
+plugins:
 - jemoji
 - jekyll-seo-tag
 - jekyll-redirect-from
