@@ -10,11 +10,9 @@ sv:
 en:
 - title: About
   url: /en/about
-- title: Projects
-  url: /en/projects
-#- title: Apply
-#  url: /en/apply
 - title: Contact
   url: /en/contact
 - title: Blog
   url: http://medium.com/digidemlab
+- title: "Lab :bulb:"
+  url: /en/lab

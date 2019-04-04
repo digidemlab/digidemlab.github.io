@@ -8,13 +8,6 @@ links:
   link: https://civictech.se
 - title: Följ Digidem Lab-bloggen
   link: https://medium.com/digidemlab
-banners:
-- title:
-  image: "/uploads/banner-civictech.jpg"
-  link: http://civictech.se
-- title:
-  image: "/uploads/banner-normal-democat.png"
-  link: https://democat.me
 ---
 
  :bulb:
