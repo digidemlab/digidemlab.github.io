@@ -43,12 +43,11 @@ layout: default
   {% endif %}
 </section>
 
-<!--
 <section id="news" class="bg-faded">
   <div class="container py-3b pb-lg-3c">
     <div class="row">
       <div class="col">
-        <h2 class="display-3">Nyheter</h2>
+        <h2 class="display-3"><a href="https://news.digidemlab.org/">{{site.news[page.lang].title}}</a></h2>
       </div>
     </div>
     <div class="row">
@@ -57,13 +56,12 @@ layout: default
     <div class="row">
       <div class="col">
         <div class="text-right lead">
-          <a href="lab" class="icon-arrow pl-4 pl-lg-3">Fler nyheter</a>
+          <a href="https://news.digidemlab.org/" class="icon-arrow pl-4 pl-lg-3">{{site.news[page.lang].more}}</a>
         </div>
       </div>
     </div>
   </div>
 </section>
--->
 
 <section id="lab">
   <div class="container py-3b pb-lg-3c">

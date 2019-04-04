@@ -47,6 +47,13 @@ defaults:
     lang: sv
 permalink: "/projects/:title/"
 email: admin@digidemlab.org
+news:
+  sv:
+    title: Nyheter
+    more: Fler nyheter
+  en:
+    title: News
+    more: More news
 contact:
   sv:
     title: Prata med oss!

@@ -6,3 +6,4 @@ path
 .bundle
 Gemfile.lock
 bower_components
+*.sh
