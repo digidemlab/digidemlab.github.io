@@ -88,9 +88,12 @@ partner-links:
 questions:
   sv: Projektledare
   en: Project manager
+project-title:
+  sv: Projekt
+  en: Projects
 lab-title:
   sv: "Labbet :bulb:"
-  en: Projects
+  en: "Lab :bulb:"
 lab-desc:
   sv: I labbet utvecklar vi framtidens digitala tjänster för deltagande och demokrati.
 lab-link:

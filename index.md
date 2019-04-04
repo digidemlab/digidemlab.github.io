@@ -8,16 +8,5 @@ news-flash:
   - text: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande. Vi hjälper er med processdesign av deltagandeprocesser, installation och utbildning i digitala plattformar för deltagande och erbjuder workshops och föreläsningar.
     link-title: Läs mer om våra tjänster
     link: /services
-banners:
-- title:
-  image: "/uploads/banner-wide-demokratiskastader.jpg"
-  link: https://demokratiskastader.se
-  format: wide
-- title:
-  image: "/uploads/banner-civictech.jpg"
-  link: http://civictech.se
-- title:
-  image: "/uploads/banner-normal-democat.png"
-  link: https://democat.me
 layout: start
 ---
