@@ -1,10 +1,12 @@
 sv:
 - title: Tjänster
   url: /services
-- title: Kontakt
-  url: /contact
+- title: Uppdrag
+  url: /work
 - title: Om
   url: /about
+- title: Kontakt
+  url: /contact
 - title: "Labbet :bulb:"
   url: /lab
 en:
