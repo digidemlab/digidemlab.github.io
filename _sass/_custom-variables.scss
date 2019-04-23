@@ -238,12 +238,12 @@ $link-hover-decoration: underline !default;
 //
 // Font, line-height, and color for body text, headings, and more.
 
-$font-size-base: 1.25rem !default;
-$line-height-base: 1.5 !default;
+$font-size-base: 1.125rem !default;
+$line-height-base: 1.667 !default;
 
-$font-family-sans-serif:    'Noto Sans', sans-serif !default;
+$font-family-sans-serif:    'Noto Sans', Arial, Verdana, sans-serif !default;
 
-$headings-font-family:      'BentonSans', sans-serif !default;
+$headings-font-family:      'BentonSans', 'Arial Black', 'Impact', Arial, Verdana, sans-serif !default;
 $headings-font-weight:      normal !default;
 $headings-color:            $blue !default;
 $headings-line-height:      1.56 !default;

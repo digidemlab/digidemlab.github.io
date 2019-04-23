@@ -16,8 +16,7 @@ ref: work
 
 {% assign projects=site.projects | where:"lang", page.lang %}
 {% for item in projects %}
-
-{% include panels/projects.html %}
+  {% include panels/projects.html %}
 {% endfor %}
 
 
