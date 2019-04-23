@@ -2,8 +2,8 @@
 title: Digidem Lab
 timezone: UTC
 collections:
-  work:
-    title: Work
+  projects:
+    title: Projects
     output: true
     permalink: "/:title/"
   crew:
@@ -30,9 +30,9 @@ defaults:
     lang: en
 - scope:
     path: ''
-    type: work
+    type: projects
   values:
-    layout: project
+    layout: page
     lang: sv
 - scope:
     path: ''

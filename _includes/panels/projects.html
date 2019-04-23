@@ -1,6 +1,3 @@
-{% assign projects=site.posts | where:"lang", page.lang %}
-
-{% for item in projects %}
   <div class="{% cycle 'bg-faded', '' %}">
     <div class="container py-3b py-lg-3c">
       <div class="row">
@@ -18,10 +15,11 @@
         <div class="col-lg-5 col-xl-4 offset-xl-1 push-lg-7">
           {% include content/page-links.html links=item.links %}
         </div>
-        <div class="col-lg-7 pull-lg-5  hidden-xs-down">
-          {% include content/partners.html partners=item.partner-links partner-text=item.partner-text %}
-        </div>
+        {% if item.partner-links %}
+          <div class="col-lg-7 pull-lg-5  hidden-xs-down">
+            {% include content/partners.html partners=item.partner-links partner-text=item.partner-text %}
+          </div>
+        {% endif %}
       </div>
     </div>
   </div>
-{% endfor %}
