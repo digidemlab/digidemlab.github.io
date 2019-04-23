@@ -2,8 +2,9 @@
 title: Deltagande budget i Biskopsgården
 featured: true
 ref: boendebudget
-excerpt: Göteborgs stads bostadsbolag och Digidem Lab genomför Nordens första deltagande boendebudget i Norra Biskopsgården i Göteborg.
+excerpt: Processdesign och handledning i deltagande boendebudget.
 ingress-text: Göteborgs stads bostadsbolag och Digidem Lab genomför Nordens första deltagande boendebudget i Norra Biskopsgården i Göteborg.
+image: "/uploads/biskopsgarden.jpg"
 banners:
 - image: "/uploads/biskop1-wide.jpg"
   format: wide

@@ -7,11 +7,19 @@ layout: default
     {% include panels/navbar.html %}
   </div>
 
+  {% assign project=site.projects | where:"lang", page.lang %}
+  {% if project.size > 0 %}
+    {% assign item=project[0] %}
+    {% assign project_link=project[0].url %}
+  {% else %}
+    {% assign item=page %}
+  {% endif %}
+
   <div class="container header">
     <div class="row">
       <div class="col-lg-10 offset-lg-1 text-center">
-        <img src="{{site.baseurl}}{{page.header-image}}" class="img-fluid" height="" alt="" style="max-height:445px; max-width:72%;">
-        <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{page.title}}</span></h1>
+        <img src="{{site.baseurl}}{{item.image}}" class="img-fluid" height="" alt="" style="max-height:445px; max-width:72%;">
+        <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{item.title}}</span></h1>
       </div>
     </div>
   </div>
@@ -20,11 +28,22 @@ layout: default
 <section class="container mt-4 mt-lg-5 pb-3b">
   <div class="row mb-3 mb-md-0 mb-lg-4">
     <div class="col-lg-6 push-lg-6 offset-xl-2 push-xl-4">
-      <div class="lead text-primary">{{ page.description }}</div>
+      <div class="lead text-primary">{{ item.ingress-text }}</div>
     </div>
-    {% if page.links %}
+    {% if item.links %}
       <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
-        {% include content/page-links.html links=page.links %}
+        {% include content/page-links.html links=item.links %}
+      </div>
+    {% endif %}
+    {% if project_link %}
+      <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
+        <div class="row nav">
+          <div class="col-sm col-lg-12">
+            <div class="nav-item pl-lg-2">
+              <a class="nav-link p-0 icon-arrow pl-4 pl-lg-3" href="{{site.baseurl}}{{project_link}}">Läs om uppdraget</a>
+            </div>
+          </div>
+        </div>
       </div>
     {% endif %}
   </div>
