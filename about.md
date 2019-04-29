@@ -8,7 +8,7 @@ ingress-text: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg f
 
 ---
 
-Digidem Lab arbetar enlig [Open Government Partnerships rekommendationer](https://www.opengovpartnership.org/open-government-declaration) för att göra politiken mer inkluderande och transparent, och de Globala Målens målsättningar om deltagandebaserat beslutsfattande i [offentliga institutioner](https://www.globalamalen.se/om-globala-malen/mal-16-fredliga-och-inkluderande-samhallen/) och inom [stadsplanering och boende](https://www.globalamalen.se/om-globala-malen/mal-11-hallbara-stader-och-samhallen/).
+Digidem Lab arbetar enligt [Open Government Partnerships rekommendationer](https://www.opengovpartnership.org/open-government-declaration) för att göra politiken mer inkluderande och transparent, och de Globala Målens målsättningar om deltagandebaserat beslutsfattande i [offentliga institutioner](https://www.globalamalen.se/om-globala-malen/mal-16-fredliga-och-inkluderande-samhallen/) och inom [stadsplanering och boende](https://www.globalamalen.se/om-globala-malen/mal-11-hallbara-stader-och-samhallen/).
 
 I den statliga [Demokratiutredningen](https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2014/07/dir.-2014111/) från 2014 målas en dyster framtidsbild för partipolitiken. Partierna tappar medlemmar och makten koncentreras till allt färre förtroendevalda. Kvinnor, utrikesfödda och unga är underrepresenterade i de valda församlingarna.
 
