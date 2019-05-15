@@ -1,7 +1,7 @@
 ---
 title: Installation av cloud-tjänster
 date: 2019-04-01 00:00:00 Z
-ref: tippingpoint
+ref: installation-cloud
 excerpt: Installationsscript för open source cloud-tjänster
 ingress-text: Installationsscript för open source cloud-tjänster
 image: "/uploads/cloud.jpg"
