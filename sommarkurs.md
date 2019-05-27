@@ -5,6 +5,10 @@ description: Välkommen på kurs i community organising, 2 dagar på Tjörn och 
 ref: sommarkurs
 ingress-text: Välkommen på kurs i community organising, 2 dagar på Tjörn och 1 dag i Göteborg, juni 2019!
 image: "/uploads/community1.png"
+links:
+- title: Anmälan
+  url: https://digidemlab.typeform.com/to/IEbpxF
+  style: button
 partner-text: ' '
 partner-links:
 - name: ' '
@@ -26,7 +30,7 @@ Kursen kostar 3000 kr per plats för betalande. Kost till självkostnadspris 100
 
 *Anna Sanne Göransson* är facilitator och organisatör som vill se community organising växa i Sverige. Medgrundare till Digidem Lab. Initiativtagare till att använda film och mediateknologi för att stärka ungas ställning och inflytande i socialt utsatta områden.
 
-## Hur bokar jag en plats?
+## Frågor?
 Kontakta Anna Sanne Göransson  
 0762422824  
 <anna@digidemlab.org>
