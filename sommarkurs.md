@@ -30,7 +30,7 @@ Kursen kostar 3000 kr per plats för betalande. Kost till självkostnadspris 100
 
 *Tatiana Garavito* är facilitator som utbildar i organisations- och rörelseutveckling, rörelsesekologi, makt och privilegier, faciliteringsmetoder och strategier.
 
-*Anna Sanne Göransson* är facilitator och organisatör som vill se community organising växa i Sverige. Medgrundare till Digidem Lab. Initiativtagare till att använda film och mediateknologi för att stärka ungas ställning och inflytande i socialt utsatta områden.
+*Anna Sanne Göransson* är facilitator och organisatör som vill se community organising växa i Sverige. Medgrundare till Digidem Lab.
 
 ## Frågor?
 Kontakta Anna Sanne Göransson  
