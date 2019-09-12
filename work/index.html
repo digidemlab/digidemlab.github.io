@@ -14,7 +14,7 @@ ref: work
   </div>
 </div>
 
-{% assign projects=site.projects | where:"lang", page.lang %}
+{% assign projects=site.projects | where:"lang", page.lang | sort:date | reverse %}
 {% for item in projects %}
   {% include panels/projects.html %}
 {% endfor %}

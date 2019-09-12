@@ -7,7 +7,7 @@ layout: default
     {% include panels/navbar.html %}
   </div>
 
-  {% assign project=site.projects | where:"lang", page.lang %}
+  {% assign project=site.projects | where:"lang", page.lang | sort:date | reverse %}
   {% if project.size > 0 %}
     {% assign item=project[0] %}
     {% assign project_link=project[0].url %}
@@ -41,6 +41,9 @@ layout: default
           <div class="col-sm col-lg-12">
             <div class="nav-item pl-lg-2">
               <a class="nav-link p-0 icon-arrow pl-4 pl-lg-3" href="{{site.baseurl}}{{project_link}}">Läs om uppdraget</a>
+            </div>
+            <div class="nav-item pl-lg-2">
+              <a class="nav-link p-0 icon-arrow pl-4 pl-lg-3" href="{{site.baseurl}}work">Fler uppdrag</a>
             </div>
           </div>
         </div>
