@@ -15,6 +15,12 @@ banners:
   format: normal
 quotes:
 - text: Boendebudget innebär att hyresgäster får bestämma över en viss andel av ett bostadsbolagets budget.
+partner-text: Norra Biskopsgården är ett av sju så kallade utvecklingsområden inom allmännyttan och AB Framtiden i Göteborg. Bostadsbolaget förvaltar cirka 1700 lägenheter på Klarvädersgatan, Godvädersgatan, Dimvädersgatan samt Friskväderstorget och är således även fastighetsägare för områdets torg och centrala knutpunkt.
+partner-links:
+- name: Bostadsbolaget Norra Biskopsgården
+  logo: "/uploads/logotyp-bostadsbolaget.svg"
+  link: https://www.bostadsbolaget.se/vara-omraden/hisingen/norra-biskopsgarden/
+
 ---
 
 ## Uppdraget
