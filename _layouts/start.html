@@ -30,11 +30,6 @@ layout: default
     <div class="col-lg-6 push-lg-6 offset-xl-2 push-xl-4">
       <div class="lead text-primary">{{ item.ingress-text }}</div>
     </div>
-    {% if item.links %}
-      <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
-        {% include content/page-links.html links=item.links %}
-      </div>
-    {% endif %}
     {% if project_link %}
       <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
         <div class="row nav">
@@ -47,6 +42,10 @@ layout: default
             </div>
           </div>
         </div>
+      </div>
+    {% elsif item.links %}
+      <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
+        {% include content/page-links.html links=item.links %}
       </div>
     {% endif %}
   </div>
