@@ -18,9 +18,15 @@
   <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#00ffcc">
   <meta name="theme-color" content="#00ffcc">
 
-  <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+  <!-- main stylesheet -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: full_base_url }}">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+
+  <!-- font awesome -->
+  <!--
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+  -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/brands.css" integrity="sha384-n9+6/aSqa9lBidZMRCQHTHKJscPq6NW4pCQBiMmHdUCvPN8ZOg2zJJTkC7WIezWv" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/fontawesome.css" integrity="sha384-vd1e11sR28tEK9YANUtpIOdjGW14pS87bUBuOIoBILVWLFnS+MCX9T6MMf0VdPGq" crossorigin="anonymous">
 
   <!-- Matomo -->
   <script type="text/javascript">
@@ -44,34 +50,15 @@
 
   {{ content }}
 
-  {% include panels/menu-mobile.html %}
-
   <!-- JavaScript -->
-
   <script src="{{ "/assets/js/holder.min.js" | prepend: full_base_url }}"></script>
   <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
-
-  <!-- Video player -->
   <script>
-    jQuery( document ).ready(function($) {
-      if($("#header-video").length) {
-        var video = $('#header-video');
-        var videoElement = video.get(0);
-        if (videoElement.paused) {
-          video.addClass('paused');
-        }
-        video.click(function() {
-          if(this.paused) {
-            this.play();
-            $(this).removeClass('paused');
-          } else {
-            this.pause();
-            $(this).addClass('paused');
-          }
-        });
-      }
+  $(document).ready(function() {
+    $(".navbar-burger").click(function() {
+      $(".navbar-burger").toggleClass("is-active");
+      $(".navbar-menu").toggleClass("is-active");
+      });
     });
   </script>
 </body>

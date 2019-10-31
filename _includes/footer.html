@@ -1,16 +1,29 @@
-<footer id="footer" class=" bg-success">
-  <div class="container pt-2 pb-1">
-    {% include panels/social.html %}
+<section id="partners" class="section has-background-light">
+  <div class="container">
+    <h2 class="title section-title has-text-centered">{{site.t[page.lang].partner-title}}</h2>
+    <div class="columns partners is-mobile is-vcentered is-multiline">
+      {% for item in site.t[page.lang].member %}
+        {% include member.html %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
 
-    <div class="row">
-      <div class="col text-center text-primary">
-        <!--
-        <p>
-          <script src="https://liberapay.com/digidemlab/widgets/button.js"></script>
-          <noscript><a href="https://liberapay.com/digidemlab/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-        </p>
-        -->
-        <p class="small">Registered in Sweden as Non-Profit 802500-2638. Animations by <a href="https://www.simonwilms.com">Simon Wilms</a>.</p>
+<footer class="footer has-background-black">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-three-fifths">
+        <p class="title is-6 has-text-white">{{site.t[page.lang].mission}}</p>
+      </div>
+    </div>
+    <div class="columns">
+      <div class="column has-text-white">
+        <p>Content
+        is licensed <a class="has-text-white" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.</p>
+        <p>Contact // <a class="has-text-white" href="mailto:hello@civictech.se">hello@civictech.se</a></p>
+      </div>
+      <div class="column">
+        {% include social.html %}
       </div>
     </div>
   </div>

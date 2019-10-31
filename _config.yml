@@ -126,3 +126,18 @@ plugins:
 - jemoji
 - jekyll-seo-tag
 - jekyll-redirect-from
+t:
+  sv:
+    mission: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+    language: Svenska
+    member:
+    - title: Styrelsemedlem och medgrundare till internationella Consul Democracy Foundation.
+      image: holder.js/100px75p?theme=social
+      link: https://consulproject.org
+    - title: Vi utvecklar metoder för medborgardialog i Göteborg och Stockholm med stöd av Vinnova.
+      image: holder.js/100px75p?theme=social
+    - title: Medlem i Global PB Support Board.
+      image: holder.js/100px75p?theme=social
+  en:
+    mission: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+    language: English

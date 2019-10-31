@@ -1,0 +1,14 @@
+<h2 class="title"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
+<p>{{item.excerpt}}</p>
+<p>{{ item.ingress-text | strip_html }}</p>
+
+<div class="columns">
+  <div class="column">
+    {% include content/page-links.html links=item.links %}
+  </div>
+  {% if item.partner-links %}
+    <div class="column">
+      {% include content/partners.html partners=item.partner-links partner-text=item.partner-text %}
+    </div>
+  {% endif %}
+</div>

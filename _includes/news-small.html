@@ -1,0 +1,13 @@
+{% for item in site.data.news.posts limit:include.limit %}
+  <div class="column">
+    <a href="{{site.baseurl}}{{item.url}}">
+      {% if item.feature_image %}
+      <figure class="figure text-center">
+        <img src="{{item.feature_image}}" class="" alt="">
+      </figure>
+      {% endif %}
+      <h3 class="title">{{item.title}}</h3>
+      <p class="small">{{ item.excerpt }}</p>
+    </a>
+  </div>
+{% endfor %}

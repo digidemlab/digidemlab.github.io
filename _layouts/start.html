@@ -2,119 +2,101 @@
 layout: default
 ---
 
-<header class="site-header bg-success" role="banner">
+{% assign project=site.projects | where:"lang", page.lang | sort:date | reverse %}
+{% if project.size > 0 %}
+  {% assign item=project[0] %}
+  {% assign project_link=project[0].url %}
+{% else %}
+  {% assign item=page %}
+{% endif %}
+
+<section class="hero is-medium is-info is-front hero-image hero-cts">
+  <!-- Hero head: will stick at the top -->
+  <div class="hero-head">
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item">
+            <img src="{{site.baseurl}}/assets/images/logotyp.svg" alt="Digidem Lab" width="232px" height="178px">
+          </a>
+          <span class="navbar-burger burger" data-target="navbarMenuHeroA">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </div>
+        {% include menu.html %}
+      </div>
+    </nav>
+  </div>
+
+  <!-- Hero content: will be in the middle -->
+  <div class="hero-body">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-half">
+
+          <img src="{{site.baseurl}}{{item.image}}" class="img-fluid" height="" alt="" style="max-height:445px; max-width:72%;">
+
+          <h1 class="title">
+            <a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+          </h1>
+          {{ item.ingress-text }}
+
+          {% if project_link %}
+            <div class="has-text-right arrow-line">
+              <a href="{{site.baseurl}}{{project_link}}" class="title is-6 arrow">Läs om uppdraget</a>
+            </div>
+            <div class="has-text-right arrow-line">
+              <a href="{{site.baseurl}}work" class="title is-6 arrow">>Fler uppdrag</a>
+            </div>
+          {% endif %}
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="project" class="section is-medium">
   <div class="container">
-    {% include panels/navbar.html %}
+    {% for item in project offset:1 limit:1 %}
+      {% include projects.html %}
+    {% endfor %}
   </div>
-
-  {% assign project=site.projects | where:"lang", page.lang | sort:date | reverse %}
-  {% if project.size > 0 %}
-    {% assign item=project[0] %}
-    {% assign project_link=project[0].url %}
-  {% else %}
-    {% assign item=page %}
-  {% endif %}
-
-  <div class="container header">
-    <div class="row">
-      <div class="col-lg-10 offset-lg-1 text-center">
-        <img src="{{site.baseurl}}{{item.image}}" class="img-fluid" height="" alt="" style="max-height:445px; max-width:72%;">
-        <h1 class="display-1"><span class="bg-info text-white text-uppercase">{{item.title}}</span></h1>
-      </div>
-    </div>
-  </div>
-</header>
-
-<section class="container mt-4 mt-lg-5 pb-3b">
-  <div class="row mb-3 mb-md-0 mb-lg-4">
-    <div class="col-lg-6 push-lg-6 offset-xl-2 push-xl-4">
-      <div class="lead text-primary">{{ item.ingress-text }}</div>
-    </div>
-    {% if project_link %}
-      <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
-        <div class="row nav">
-          <div class="col-sm col-lg-12">
-            <div class="nav-item pl-lg-2">
-              <a class="nav-link p-0 icon-arrow pl-4 pl-lg-3" href="{{site.baseurl}}{{project_link}}">Läs om uppdraget</a>
-            </div>
-            <div class="nav-item pl-lg-2">
-              <a class="nav-link p-0 icon-arrow pl-4 pl-lg-3" href="{{site.baseurl}}work">Fler uppdrag</a>
-            </div>
-          </div>
-        </div>
-      </div>
-    {% elsif item.links %}
-      <div class="col-lg-5 pull-lg-6 col-xl-4 pull-xl-8 mt-2 mt-lg-0">
-        {% include content/page-links.html links=item.links %}
-      </div>
-    {% endif %}
-  </div>
-
-  {% if page.news-flash %}
-    <div class="row">
-      <div class="col p-0">
-        <div class="box text-primary py-2b px-2 px-lg-3">
-          <p class="mb-2b lead">{{page.news-flash[0].text}}</p>
-          <div class="text-right lead">
-            <a href="{{page.news-flash[0].link}}" class="icon-arrow-blue pl-4 pl-lg-3">{{page.news-flash[0].link-title}}</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  {% endif %}
 </section>
 
-<section id="news" class="bg-faded">
-  <div class="container py-3b pb-lg-3c">
-    <div class="row">
-      <div class="col">
-        <h2 class="display-3"><a href="https://news.digidemlab.org/">{{site.news[page.lang].title}}</a></h2>
-      </div>
-    </div>
-    <div class="row">
-      {% include panels/news-small.html limit=3 %}
-    </div>
-    <div class="row">
-      <div class="col">
-        <div class="text-right lead">
-          <a href="https://news.digidemlab.org/" class="icon-arrow pl-4 pl-lg-3">{{site.news[page.lang].more}}</a>
+<section id="mission" class="section is-medium">
+  <div class="container">
+    <h2 class="title">{{page.mission.title}}</h2>
+    {% for item in page.mission.item %}
+      <div class="columns">
+        <div class="column">
+          <img src="{{item.image}}">
+        </div>
+        <div class="column">
+          <h3 class="title">{{item.title}}</h3>
+          <p>{{item.text}}</p>
         </div>
       </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section id="news" class="section is-medium">
+  <div class="container">
+    <h2 class="title"><a href="https://news.digidemlab.org/">{{site.news[page.lang].title}}</a></h2>
+    <div class="columns">
+      {% include news-small.html limit=3 %}
+    </div>
+    <div class="text-right lead">
+      <a href="https://news.digidemlab.org/" class="icon-arrow pl-4 pl-lg-3">{{site.news[page.lang].more}}</a>
     </div>
   </div>
 </section>
 
-{% include panels/webprojects.html %}
-
-<section id="lab" class="bg-faded">
-  <div class="container py-3b pb-lg-3c">
-    <div class="row">
-      <div class="col">
-        <h2 class="display-3 mb-0"><a href="lab">{{site.lab-title[page.lang]}}</a></h2>
-        <p class="lead mb-3">{{site.lab-desc[page.lang]}}</p>
-      </div>
-    </div>
-    <div class="row">
-      {% include panels/projects-small.html limit=3 %}
-    </div>
-    <div class="row ">
-      <div class="col-lg-10 offset-lg-1">
-        {% include content/partners.html %}
-      </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        <div class="text-right lead">
-          <a href="lab" class="icon-arrow pl-4 pl-lg-3">{{site.lab-link[page.lang]}}</a>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</section>
-
-<section class="container-fluid px-0">
-  {% include panels/banners.html %}
+<section id="banner" class="section is-small">
+  <img src="holder.js/100px75p?theme=social">
 </section>
 
 {% include footer.html %}

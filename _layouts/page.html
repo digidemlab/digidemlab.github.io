@@ -2,37 +2,19 @@
 layout: global
 ---
 
-<article>
+<article id="page" class="section is-medium">
   <div class="container">
-    {% include content/page-header.html %}
-    <div class="row">
-      <div class="col content">
-        {% assign paragraphs = content | split:'</p>' %}
-        {% for paragraph in paragraphs limit:1 %}
-          {{ paragraph | append: '</p>' }}
-        {% endfor %}
-
-        {% if page.quotes %}
-          {% include panels/quote.html %}
-        {% endif %}
-
-        {% for paragraph in paragraphs limit:1 offset:1 %}
-          {{ paragraph | append: '</p>' }}
-        {% endfor %}
-        {% if page.banners.size > 0 %}
+    <div class="columns is-centered">
+      <div class="column is-three-quarters-tablet is-two-thirds-desktop has-text-centered">
+        <h1 class="title is-1">{{page.title}}</h1>
       </div>
     </div>
-  </div>
-  <section class="container-fluid px-0 mb-3 my-lg-4">
-    {% include panels/banners.html %}
-  </section>
-  <div class="container mb-3">
-    <div class="row">
-      <div class="col content">
-        {% endif %}
-        {% for paragraph in paragraphs offset:2 %}
-          {{ paragraph | append: '</p>' }}
-        {% endfor %}
+
+    <div class="columns is-centered">
+      <div class="column is-three-quarters-tablet is-half-desktop">
+        <div class="content">
+          {{content}}
+        </div>
       </div>
     </div>
   </div>
