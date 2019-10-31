@@ -114,6 +114,7 @@ social:
   - https://www.instagram.com/digidemlab/
   - https://github.com/digidemlab
 github_username: p-jo
+repository: digidemlab/digidemlab.github.io
 markdown: kramdown
 exclude:
 - ".sass-cache"
