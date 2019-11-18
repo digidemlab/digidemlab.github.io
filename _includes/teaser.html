@@ -1,0 +1,10 @@
+<div class="columns">
+  <div class="column">
+    <img src="{{item.image}}" alt="{{item.title}}">
+  </div>
+  <div class="column">
+    <h2 class="title is-4"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
+    <p>{{ item.ingress-text | strip_html }}</p>
+    <p><a class="read-more" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a><p>
+  </div>
+</div>

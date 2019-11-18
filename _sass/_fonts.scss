@@ -1,24 +1,31 @@
 
 
 @font-face {
-    font-family: 'Open Sans Condensed';
-    src: url('../fonts/OpenSans-CondBold-webfont.woff') format('woff');
+    font-family: 'GT Zirkon';
+    src: url('../fonts/GT-Zirkon-Regular.woff') format('woff2'),
+         url('../fonts/GT-Zirkon-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'OfficeCodeProD';
-    src: url('../fonts/officecodeprod-regular-webfont.woff2') format('woff2'),
-         url('../fonts/officecodeprod-regular-webfont.woff') format('woff');
+    font-family: 'GT Zirkon';
+    src: url('../fonts/GT-Zirkon-Black.woff') format('woff2'),
+         url('../fonts/GT-Zirkon-Black.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Space Mono';
+    src: url('../fonts/SpaceMono-Regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'OfficeCodeProD';
-    src: url('../fonts/officecodeprod-bold-webfont.woff2') format('woff2'),
-         url('../fonts/officecodeprod-bold-webfont.woff') format('woff');
+    font-family: 'Space Mono';
+    src: url('../fonts/SpaceMono-Bold-webfont.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }

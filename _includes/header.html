@@ -1,24 +1,34 @@
-<section class="hero is-info hero-cts is-medium hero-image" {% if page.image %} style="background-image:url('{{site.baseurl}}{{page.image}}');" {% endif %}>
-  <!-- Hero head: will stick at the top -->
-  <div class="hero-head">
-    <nav class="navbar">
-      <div class="container">
-        <div class="navbar-brand">
-          <a class="navbar-item" href="{{site.baseurl}}{% if page.lang == 'sv'%}/{% else %}/en{% endif %}">
-            <img src="{{site.baseurl}}/assets/images/logotyp.svg" alt="{{site.title}}">
-          </a>
-          <span class="navbar-burger burger" data-target="navbarMenuHeroA">
-            <span></span>
-            <span></span>
-            <span></span>
-          </span>
-        </div>
-				{% include menu.html %}
+<!-- Hero head: will stick at the top -->
+<div class="hero-head">
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="{{site.baseurl}}{% if page.lang == 'sv'%}/{% else %}/en{% endif %}"><img src="{{site.baseurl}}/assets/images/digidemlab-logo.svg" alt="Digidem Lab" width="308" height="78px"></a>
+        <span class="navbar-burger burger" data-target="navbar-menu">
+          <span></span>
+          <span></span>
+          <span></span>
+        </span>
       </div>
-    </nav>
-  </div>
+    </div>
+  </nav>
 
-  <!-- Hero content: will be in the middle -->
-  <div class="hero-body">
-  </div>
-</section>
+  <nav class="navbar">
+    <div class="container">
+      <div class="navbar-menu" id="navbar-menu">
+        <div class="navbar-start">
+          {% for item in site.data.menu[page.lang].primary %}
+            <a class="navbar-item" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+          {% endfor %}
+        </div>
+
+        <div class="navbar-end">
+          {% for item in site.data.menu[page.lang].secondary %}
+            <a class="navbar-item" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+          {% endfor %}
+          {% include menu-lang.html %}
+        </div>
+      </div>
+    </div>
+  </nav>
+</div>

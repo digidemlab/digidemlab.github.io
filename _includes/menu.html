@@ -1,8 +1,0 @@
-<div id="navbarMenuHeroA" class="navbar-menu">
-	<div class="navbar-end">
-		{% include menu-lang.html %}
-		{% for item in site.data.menu[page.lang] %}
-			<a class="navbar-item" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
-		{% endfor %}
-	</div>
-</div>

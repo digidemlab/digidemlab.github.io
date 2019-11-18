@@ -1,5 +1,14 @@
 
+// Grid
 
+$gap:           32px !default
+$fullhd:        1200px + (2 * $gap) !default
+$column-gap:    0.625rem !default
+
+// Font size
+
+$body-font-size: 1.25em
+$body-line-height: 1.2
 
 // Colors
 
@@ -7,39 +16,38 @@ $black:        #000 !default
 $black-bis:    #000 !default
 $black-ter:    #000 !default
 
-$grey-darker:  #000 !default
-$grey-dark:    #000 !default
-$grey:         hsl(0, 0%, 48%) !default
-$grey-light:   hsl(0, 0%, 71%) !default
+$grey-darker:  #2C2C2C !default
+$grey-dark:    #808080 !default
+$grey:         #C8C8C8 !default
+$grey-light:   #E9E4E3 !default
 $grey-lighter: hsl(0, 0%, 86%) !default
 
 $white-ter:    hsl(0, 0%, 96%) !default
 $white-bis:    hsl(0, 0%, 98%) !default
 $white:        hsl(0, 0%, 100%) !default
 
-$orange:       hsl(14,  100%, 53%) !default
-$yellow:       #F2E610 !default
-$green:        #50E3C2 !default
-$turquoise:    #50E3C2 !default
-$cyan:         #50E3C2 !default
-$blue:         #3300FF !default
-$purple:       #8E00FF !default
-$red:          #DB007E !default
+$pink:         #FF7484 !default
+$green:        #00F1A4 !default
+$yellow:       #FFB800 !default
+$purple:       #AD0470 !default
+$red:          #E50046 !default
+$ash:          #7D6771 !default
+
 
 // Typography
 
-$family-sans-serif: "OfficeCodeProD",  BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !default
-$family-headlines: "Open Sans Condensed", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !default
-$family-monospace: monospace !default
+$family-sans-serif: "GT Zirkon",  BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !default
+$family-headlines: "GT Zirkon", BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif !default
+$family-monospace: "Space Mono", monospace !default
 $render-mode: optimizeLegibility !default
 
-$size-1: 3rem !default
-$size-2: 2.5rem !default
-$size-3: 2rem !default
-$size-4: 1.5rem !default
-$size-5: 1.25rem !default
-$size-6: 1rem !default
-$size-7: 0.75rem !default
+$size-1: 5.9375rem !default
+$size-2: 3.75rem !default
+$size-3: 3.125rem !default
+$size-4: 3rem !default
+$size-5: 2.5rem !default
+$size-6: 1.625rem !default
+$size-7: 1.25rem !default
 
 $weight-light: 300 !default
 $weight-normal: 400 !default
@@ -50,10 +58,10 @@ $weight-bold: 700 !default
 
 // Defaults
 
-$primary: $turquoise !default
+$primary: $pink !default
 
-$info: $purple !default
-$success: $blue !default
+$info: $green !default
+$success: $purple !default
 $warning: $yellow !default
 $danger: $red !default
 
@@ -86,14 +94,14 @@ $pre-background: $background !default
 // Link colors
 
 $link: $black !default
-$link-invert: $blue !default
+$link-invert: $pink !default
 $link-visited: $purple !default
 
 $link-hover: $link !default
 $link-hover-border: $link !default
 
 $link-focus: $grey-darker !default
-$link-focus-border: $blue !default
+$link-focus-border: $pink !default
 
 $link-active: $grey-darker !default
 $link-active-border: $grey-dark !default
@@ -117,12 +125,12 @@ $radius-large: 0 !default
 
 // Navbar
 
-$navbar-item-color: $yellow !default
-$navbar-item-hover-color: $yellow !default
+$navbar-item-color: $black !default
+$navbar-item-hover-color: $black !default
 $navbar-item-hover-background-color: transparent !default
-$navbar-item-active-color: $yellow !default
+$navbar-item-active-color: $black !default
 $navbar-item-active-background-color: transparent !default
-$navbar-dropdown-arrow: $yellow !default
+$navbar-dropdown-arrow: $black !default
 $navbar-dropdown-radius: 0 !default
 $navbar-dropdown-background-color: $info !default
 $navbar-dropdown-border-top: 0 !default
@@ -138,9 +146,14 @@ $box-padding:	2.75rem !default
 $card-footer-border-top: 0 !default
 
 // Button
-$button-background-color : $yellow !default
-$button-padding-horizontal: 3rem !default
-$button-padding-vertical: 1.5rem !default
+$button-background-color : $pink !default
+$button-padding-horizontal: 1rem !default
+$button-padding-vertical: 1rem !default
 
 // Footer
 $footer-padding: 5rem 1.5rem 4.5rem !default
+
+// Content
+$content-blockquote-background-color: $background !default
+$content-blockquote-border-left: none !default
+$content-blockquote-padding: 0 !default

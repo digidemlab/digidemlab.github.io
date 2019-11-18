@@ -7,5 +7,5 @@ ref: work
 
 {% assign projects=site.projects | where:"lang", page.lang | sort:date | reverse %}
 {% for item in projects %}
-  {% include projects.html %}
+  {% include teaser.html %}
 {% endfor %}

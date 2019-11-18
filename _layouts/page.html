@@ -1,23 +1,56 @@
 ---
-layout: global
+layout: default
 ---
+
+<section class="hero is-fullheight is-front is-primary">
+  {% include header.html %}
+
+  <!-- Hero content: will be in the middle -->
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <figure class="image is-2by1">
+        <img src="{{page.image}}">
+      </figure>
+    </div>
+  </div>
+
+  <!-- Hero footer: will stick at the bottom -->
+  <div class="hero-foot">
+    <div class="container has-text-centered">
+      <a class="link-down" href="#content"><img src="/assets/images/pil.svg" alt="down" width="80" height="80"></a>
+    </div>
+  </div>
+</section>
+
+<div id="content"></div>
 
 <article id="page" class="section is-medium">
   <div class="container">
-    <div class="columns is-centered">
-      <div class="column is-three-quarters-tablet is-two-thirds-desktop has-text-centered">
+    <div class="columns">
+      <div class="column is-10">
         <h1 class="title is-1">{{page.title}}</h1>
+        <p class="subtitle is-3">{{page.ingress-text}}</p>
       </div>
     </div>
 
-    <div class="columns is-centered">
-      <div class="column is-three-quarters-tablet is-half-desktop">
-        <div class="content">
-          {{content}}
-        </div>
-      </div>
+    {% if page.links %}
+      <aside class="facts has-text-right">
+        <h2 class="title is-6">Läs mer</h2>
+        <ul>
+          {% for item in page.links %}
+            <li><a href="{{item.url}}">{{item.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </aside>
+    {% endif %}
+
+    <div class="content">
+      {{content}}
     </div>
   </div>
 </article>
 
 {% include panels/contact-services.html %}
+
+
+{% include footer.html %}

@@ -1,20 +1,14 @@
 {% if page.ref %}
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for post in posts %}
+    <a class="navbar-item is-uppercase {% if post.lang == page.lang %}active{% endif %}" href="{{ site.baseurl }}{{ post.url }}">{{ post.lang }}</a>
+  {% endfor %}
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for item in pages %}
-    {% if item.lang != page.lang %}
-      <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.t[item.lang].language }}</a>
-    {% endif %}
+    <a class="navbar-item is-uppercase {% if item.lang == page.lang %}active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.lang }}</a>
   {% endfor %}
   {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' %}
-  {% for item in groups %}
-    {% if item.lang != page.lang %}
-      <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.t[item.lang].language }}</a>
-    {% endif %}
-  {% endfor %}
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for item in posts %}
-    {% if item.lang != page.lang %}
-      <a class="navbar-item" href="{{ site.baseurl }}{{ item.url }}">{{ site.t[item.lang].language }}</a>
-    {% endif %}
+  {% for item in projects %}
+    <a class="navbar-item is-uppercase {% if item.lang == page.lang %}active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.lang }}</a>
   {% endfor %}
 {% endif %}

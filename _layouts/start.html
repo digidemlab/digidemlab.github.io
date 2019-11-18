@@ -2,100 +2,86 @@
 layout: default
 ---
 
-{% assign project=site.projects | where:"lang", page.lang | sort:date | reverse %}
-{% if project.size > 0 %}
-  {% assign item=project[0] %}
-  {% assign project_link=project[0].url %}
-{% else %}
-  {% assign item=page %}
-{% endif %}
-
-<section class="hero is-medium is-info is-front hero-image hero-cts">
-  <!-- Hero head: will stick at the top -->
-  <div class="hero-head">
-    <nav class="navbar">
-      <div class="container">
-        <div class="navbar-brand">
-          <a class="navbar-item">
-            <img src="{{site.baseurl}}/assets/images/logotyp.svg" alt="Digidem Lab" width="232px" height="178px">
-          </a>
-          <span class="navbar-burger burger" data-target="navbarMenuHeroA">
-            <span></span>
-            <span></span>
-            <span></span>
-          </span>
-        </div>
-        {% include menu.html %}
-      </div>
-    </nav>
-  </div>
+<section class="hero is-fullheight is-front is-primary">
+  {% include header.html %}
 
   <!-- Hero content: will be in the middle -->
   <div class="hero-body">
-    <div class="container">
-      <div class="columns">
-        <div class="column is-half">
+    <div class="container has-text-centered">
+      <h1 class="title">Digital tools for the win</h1>
+    </div>
+  </div>
 
-          <img src="{{site.baseurl}}{{item.image}}" class="img-fluid" height="" alt="" style="max-height:445px; max-width:72%;">
-
-          <h1 class="title">
-            <a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
-          </h1>
-          {{ item.ingress-text }}
-
-          {% if project_link %}
-            <div class="has-text-right arrow-line">
-              <a href="{{site.baseurl}}{{project_link}}" class="title is-6 arrow">Läs om uppdraget</a>
-            </div>
-            <div class="has-text-right arrow-line">
-              <a href="{{site.baseurl}}work" class="title is-6 arrow">>Fler uppdrag</a>
-            </div>
-          {% endif %}
-
-        </div>
-      </div>
+  <!-- Hero footer: will stick at the bottom -->
+  <div class="hero-foot">
+    <div class="container has-text-centered">
+      <a class="link-down" href="#content"><img src="/assets/images/pil.svg" alt="down" width="80" height="80"></a>
     </div>
   </div>
 </section>
 
-<section id="project" class="section is-medium">
+
+{% assign project=site.projects | where:"lang", page.lang | sort:date | reverse %}
+
+<div id="content"></div>
+<section id="featured" class="section">
+  <div class="container has-text-centered">
+      {% for item in project limit:1 %}
+        <figure class="image is-2by1">
+          <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
+        </figure>
+        <div class="columns is-centered">
+
+        <div class="column is-10">
+          <h2 class="title is-1"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
+          <p class="subtitle is-3">{{item.excerpt}}</p>
+          {% for link in item.links %}
+            <a class="button" href="{{link.url}}">{{link.title}}</a>
+          {% endfor %}
+        </div>
+      </div>
+
+      {% endfor %}
+
+  </div>
+</section>
+
+<section id="project" class="section">
   <div class="container">
-    {% for item in project offset:1 limit:1 %}
-      {% include projects.html %}
+    {% for item in project offset:1 limit:2 %}
+      {% include teaser.html %}
     {% endfor %}
   </div>
 </section>
 
-<section id="mission" class="section is-medium">
-  <div class="container">
-    <h2 class="title">{{page.mission.title}}</h2>
-    {% for item in page.mission.item %}
-      <div class="columns">
+<section id="mission" class="section">
+  <div class="container mission has-background-info">
+    <h2 class="title is-2">{{page.mission.title}}</h2>
+    <div class="columns">
+      {% for item in page.mission.item %}
         <div class="column">
           <img src="{{item.image}}">
-        </div>
-        <div class="column">
-          <h3 class="title">{{item.title}}</h3>
+          <h3 class="title is-6">{{item.title}}</h3>
           <p>{{item.text}}</p>
         </div>
-      </div>
-    {% endfor %}
+      {% endfor %}
+    </div>
   </div>
 </section>
 
-<section id="news" class="section is-medium">
+<section id="news" class="section">
   <div class="container">
-    <h2 class="title"><a href="https://news.digidemlab.org/">{{site.news[page.lang].title}}</a></h2>
+    <h2 class="title is-2"><a href="https://news.digidemlab.org/">{{site.news[page.lang].title}}</a></h2>
     <div class="columns">
-      {% include news-small.html limit=3 %}
+      {% include teaser-small.html limit=2 %}
     </div>
-    <div class="text-right lead">
-      <a href="https://news.digidemlab.org/" class="icon-arrow pl-4 pl-lg-3">{{site.news[page.lang].more}}</a>
+    <div class="has-text-right section-more is-size-6">
+      <a href="https://news.digidemlab.org/" class="read-more">{{site.news[page.lang].more}}</a>
     </div>
   </div>
 </section>
 
-<section id="banner" class="section is-small">
+<section id="banner" class="section">
   <img src="holder.js/100px75p?theme=social">
 </section>
 

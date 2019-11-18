@@ -3,15 +3,12 @@
 //
 
 
-// General
-
-body {
-  font-size: 0.875rem;
-  line-height: 1.6428571429;
-}
-
-
 // Links
+
+.link-down {
+  display: block;
+  margin: -5.5rem auto 1rem;
+}
 
 .footer a,
 .contact a,
@@ -29,63 +26,70 @@ body {
 
 .button {
   font-weight: bold;
-  font-size: 1rem !important;
+  font-size: 1.625rem !important;
   border-radius: 0 !important;
+  &::after {
+    content: " >";
+    padding-left: 0.25em;
+  }
 }
 
+.read-more {
+  font-weight: bold;
 
-// Form
-
-label {
-  font-size: 1rem !important;
+  &::after {
+    content: " >";
+    padding-left: 0.25em;
+  }
 }
 
-form {
-  margin: 2rem 0;
+.section-more {
+  padding: 1em 0;
+  border: 1px solid $black;
+  border-width: 0 0 1px 0;
+  display: block;
 }
-
-.file-upload {
-  font-size: 1rem !important;
-  padding: $control-padding-vertical 0;
-}
-
 
 // Title
 
-.title {
-  font-family: $family-headlines;
-  text-transform: uppercase;
-  // letter-spacing: 1px;
-  font-weight: normal;
-  line-height: 1.4;
-  color: $link;
-  font-size: 1.625rem;
+.hero .title {
+  font-size: 11.25rem;
+  line-height: 0.9;
+  letter-spacing: -0.05em;
+}
 
+.title {
+  letter-spacing: -0.03em;
+
+  &.is-1,
+  &.is-2 {
+    line-height: 0.9;
+  }
   @include from($tablet) {
-    font-size: 1.875rem;
+
   }
 
   &.is-4 {
-    font-size: 1.625rem;
+    // font-size: 1.625rem;
   }
 }
 .title.is-1 {
-  font-size: 1.875rem;
-  margin-bottom: 1rem;
+  // font-size: 1.875rem;
+  // margin-bottom: 1rem;
 
   @include from($tablet) {
-    font-size: 3rem;
+    // font-size: 3rem;
   }
 
   @include from($desktop) {
-    font-size: 3.75rem;
+    // font-size: 3.75rem;
   }
 }
 .title.is-5 {
-  font-size: 1.25rem;
+  // font-size: 1.25rem;
 
   @include from($tablet) {
-    font-size: 1.375rem;
+    // font-size: 1.375rem;
   }
 }
 
@@ -98,43 +102,31 @@ a.title {
 }
 
 
+// Mission
+
+.mission {
+  padding: 1rem 1.5rem;
+
+  @include from($tablet) {
+    padding: 2rem 3rem;
+  }
+
+  @include from($desktop) {
+    padding: 3.5rem 4.625rem;
+  }
+}
+
+
 // Card
 
-.card .image {
+.image {
   overflow: hidden;
 
   img {
     height: auto !important;
-  }
-}
-
-.card {
-    display:flex;
-    flex-direction: column;
-    height: 100%;
-}
-
-.card .title {
-  margin-bottom: 1rem;
-}
-
-.card-content {
-  padding: 2rem 2rem 0;
-}
-
-.card-footer {
-    margin-top: auto;
-}
-
-.card-footer-item {
-  padding: 1.5rem 2rem;
-
-  &.left {
-    justify-content: left;
-  }
-
-  &.right {
-    justify-content: right;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%);
   }
 }
 
@@ -161,104 +153,59 @@ a.title {
   }
 }
 
-.box {
-  @include until($tablet) {
-    padding: 1.5rem;
-  }
-}
-
-
 // Hero
 
-.hero-head {
-  @include from($desktop) {
-    margin-top: 2.3rem;
-  }
-}
-
-@mixin set-colored-bg-image($bgcolor, $bggradient, $bgimage) {
-	background: linear-gradient(
-      rgba($bgcolor, $bggradient),
-      rgba($bgcolor, $bggradient)
-    ), url($bgimage);
-}
-
-@mixin set-dark-bg-image($bgimage) {
-	@include set-colored-bg-image($black, 0.2, $bgimage);
-}
-
-.hero-image {
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
-}
-
-.hero-image {
-  // background-image: url('../images/hero.jpg');
-  @include set-dark-bg-image('../images/hero.jpg');
-  background-size: cover;
-  background-position: top center;
-}
-
-.hero-project .hero-body {
-  @include from($desktop) {
-    min-height: 18.75rem;
-  }
-
-  img {
-    max-height: 18.75rem;
-  }
-}
-
-.is-front .hero-body {
-  padding-top: 0 !important;
-
-  @include until($desktop) {
-    padding-bottom: 2rem !important;
-  }
-
-  @include from($tablet) {
-    margin-top: -3rem;
-  }
-}
-
 .hero .title {
-  color: $black !important;
+  color: $text !important;
 }
 
-.hero-foot {
-  padding: 0 0 2rem;
+.hero {
+  background-image: linear-gradient(125deg,$purple,$pink,$yellow,$green,$ash);
+  background-size: 400% 400%;
+  animation: bganimation 30s infinite;
+}
 
-  @include from($desktop) {
-    padding: 1.5rem 0 3rem;
+@keyframes bganimation {
+  0%{
+    background-position: 0% 0%; // Purple & Pink
+  }
+  25%{
+    background-position: 0% 100%; // Pink & Yellow
+  }
+  50%{
+    background-position: 100% 100%; // Green & Ash
+  }
+  75%{
+    background-position: 0% 100%; // Pink & Yellow
+  }
+  100%{
+    background-position: 0% 0%; // Purple & Pink
   }
 }
 
-.arrow {
-  display: inline-block;
-  background: url('../images/pil-thin.svg') $primary 0 0 no-repeat;
-  padding-left: 2rem;
-}
-
-.arrow-line {
-  background: url('../images/pil-line.svg') 0 10px repeat-x;
-  margin-top: 1em;
-
-  @include from($desktop) {
-    &:first-of-type {
-      margin-top: 3rem;
-    }
+/*
+@keyframes bganimation {
+  0%{
+    background-position: 0% 50%;
+  }
+  50%{
+    background-position: 100% 50%;
+  }
+  100%{
+    background-position: 0% 50%;
   }
 }
-
+*/
 
 // Navbar
+
 
 .navbar-menu:not(.is-active) {
   max-height: 1.5rem;
 }
 
-.select:not(.is-multiple):not(.is-loading)::after, .navbar-link:not(.is-arrowless)::after {
+.select:not(.is-multiple):not(.is-loading)::after,
+.navbar-link:not(.is-arrowless)::after {
   border-width: 1px;
   border-radius: 0;
 }
@@ -276,79 +223,16 @@ a.title {
 }
 
 .navbar-brand .navbar-item {
-  flex-shrink: 1;
+//  flex-shrink: 1;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  padding-top: 0 !important;
 }
 
 .navbar-item img {
   max-height: inherit;
 }
-
-
-// Principles
-
-#principles {
-  padding-bottom: 0;
-}
-
-.principle-image {
-  margin: 0 auto 1.5rem;
-}
-
-.principle-text {
-  padding: 0 2rem;
-}
-
-// Mission
-
-.mission {
-  padding: 1rem 1.5rem 1.5rem;
-
-  p:before {
-    content: '”';
-    display: block;
-  }
-
-  @include from($tablet) {
-    padding: 2rem 3rem 3rem;
-  }
-
-  @include from($desktop) {
-    padding: 3rem 7.5rem 7rem;
-
-    p:before {
-      margin-bottom: 2rem;
-    }
-  }
-}
-
-
-// Partners
-
-.columns.partners {
-  border: 3px solid $grey-lighter;
-  border-width: 3px 0;
-  padding: 2rem 0;
-}
-
-.partner-image {
-  max-width: 128px;
-  margin: 2rem auto;
-}
-
-// Contact
-
-.columns.contact {
-  margin-top: 2rem;
-
-  @include until($tablet) {
-    font-size: 0.75rem;
-  }
-
-  @include from($desktop) {
-    margin-top: 4rem;
-  }
-}
-
 
 // Footer
 
@@ -359,15 +243,129 @@ a.title {
 
 // Content
 
-.content {
-  line-height: 1.75;
+@mixin monospace {
+  font-family: $family-monospace;
+  font-size: 1rem;
+}
+
+
+// Läs mer faktaruta
+.facts {
+  ul {
+    @include monospace;
+  }
 
   @include from($tablet) {
-    font-size: 1rem;
+    float: left;
+    width: 16.6666666667%;
+    margin-left: 8.3333333333%;
   }
 }
 
-.content p:not(:last-child), .content dl:not(:last-child), .content ol:not(:last-child), .content ul:not(:last-child), .content blockquote:not(:last-child), .content pre:not(:last-child), .content table:not(:last-child) {
+// Citat
+.content blockquote {
+  color: $pink;
+  font-weight: bold;
+  font-size: 2.75rem;
+  letter-spacing: -0.05em;
+  line-height: 1.111;
+
+  p::before,
+  p::after {
+    content: '”';
+  }
+}
+
+// Textmarginal
+.content {
+  > p, h2, h3, h4, ul, ol, blockquote {
+    @include from($tablet) {
+      margin-left: 33.3333333333%;
+      width: 50%;
+      padding-left: $column-gap;
+      padding-right: $column-gap;
+    }
+  }
+}
+
+// Bild i text
+.content {
+  figure {
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+
+    &:not(:first-child) {
+      margin-top: 3rem;
+    }
+    &:not(:last-child) {
+      margin-bottom: 3rem;
+    }
+    img {
+      display: inline-block;
+    }
+  }
+
+  figure figcaption,
+  .caption {
+    font-style: normal;
+    margin-top: 3rem;
+    @include monospace;
+    border-top: 1px solid $black;
+    width: 25%;
+    float: left;
+    padding-top: 0.5rem;
+  }
+}
+
+// Definition list, siffror
+.content dd {
+  @include monospace;
+  margin-left: 0;
+  padding: 0 7rem;
+
+  &:first-of-type {
+    clear: left;
+  }
+
+  &:only-of-type {
+    padding: 0 20rem;
+  }
+}
+
+.content dt {
+  font-size: 12.5rem;
+  font-weight: bold;
+  letter-spacing: -0.05em;
+  line-height: 0.9;
+
+  &:only-of-type {
+    font-size: 22rem;
+  }
+}
+
+.content dt,
+.content dd {
+  text-align: center;
+
+  &:first-of-type:not(:only-of-type) {
+    width: 48%;
+    float: left;
+  }
+
+  &:nth-of-type(2) {
+    margin-left: 50%;
+  }
+}
+
+// Marginbottoms
+.content p:not(:last-child),
+.content dl:not(:last-child),
+.content ol:not(:last-child),
+.content ul:not(:last-child),
+.content blockquote:not(:last-child),
+.content pre:not(:last-child),
+.content table:not(:last-child) {
   margin-bottom: 1.75em;
 }
 
@@ -388,52 +386,4 @@ a.title {
 
 .content h3:not(:first-child) {
   margin-top: 1.75rem;
-}
-
-
-
-
-/** ---------------- **/
-
-
-// Event
-
-.is-overlapping {
-  margin-top: -7rem;
-
-  @include from($tablet) {
-    margin-top: -19rem;
-  }
-
-  @include from($desktop) {
-    margin-top: -24rem;
-  }
-}
-
-.box.event {
-  @include from($desktop) {
-    padding: 4rem 6rem;
-  }
-}
-
-.box p {
-  margin-bottom: 1.5rem;
-}
-
-.event-links {
-  margin-top: 2.5rem;
-  margin-bottom: 2.5rem !important;
-}
-
-
-// Page
-
-#page.section {
-  @include from($desktop) {
-    padding-top: 5rem;
-  }
-}
-
-.ingress {
-  margin: 2.5rem 0 1.5rem;
 }
