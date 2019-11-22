@@ -34,6 +34,7 @@ defaults:
   values:
     layout: page
     lang: sv
+    contact: true
 - scope:
     path: ''
     type: posts
@@ -45,60 +46,8 @@ defaults:
     type: crew
   values:
     lang: sv
-permalink: "/projects/:title/"
+permalink: "/:title/"
 email: admin@digidemlab.org
-news:
-  sv:
-    title: Nyheter
-    more: Fler nyheter
-  en:
-    title: News
-    more: More news
-contact:
-  sv:
-    title: Prata med oss!
-    text: Hör av dig om du har en idé till ett spännande projekt!
-  en:
-    title: Get in touch!
-    text: Digidem Lab is a non-profit organisation promoting participatory democracy
-      on all levels of society. Get in touch to talk about project ideas or cooperation!
-contact-services:
-  sv:
-    title: Vill du veta mer?
-    text: Kontakta oss för att diskutera gemensamma projekt eller få ett prisförslag på våra tjänster.
-  en:
-    title: Get in touch!
-    text: Digidem Lab is a non-profit organisation promoting participatory democracy
-      on all levels of society. Get in touch to talk about project ideas or cooperation!
-partner-text:
-  sv: Labbet drivs med hjälp av Allmänna Arvsfonden och ABF Göteborg i samarbete
-    med Sveriges Kommuner och Landsting, Miljöpartiet de Gröna, LSU - Sveriges ungdomsorganisationer,
-    Ung Media och Unga Rörelsehindrade Göteborgsklubben.
-  en: Digidem Open Lab is co-organised with ABF Göteborg, with the support of Allmänna
-    Arsvfonden and the cooperation of Sweden's Municipalities, The Swedish Green Party,
-    The National Council of Swedish Youth Organisations (LSU), Young Media and Unga
-    Rörelsehindrade Gothenburg.
-partner-links:
-- name: ABF
-  logo: "/uploads/logotyp-abf.png"
-  link: http://www.abf.se/goteborg
-- name: Allmänna Arvsfonden
-  logo: "/uploads/logotyp-arvsfonden.png"
-  link: http://www.arvsfonden.se/
-questions:
-  sv: Projektledare
-  en: Project manager
-project-title:
-  sv: Projekt
-  en: Projects
-lab-title:
-  sv: "Labbet :bulb:"
-  en: "Lab :bulb:"
-lab-desc:
-  sv: I labbet utvecklar vi framtidens digitala tjänster för deltagande och demokrati.
-lab-link:
-  sv: Mer om labbet
-  en: More projects
 baseurl:
 url: https://digidemlab.org
 author: Digidem Lab
@@ -115,31 +64,44 @@ social:
   - https://github.com/digidemlab
 github_username: p-jo
 repository: digidemlab/digidemlab.github.io
-markdown: kramdown
-exclude:
-- ".sass-cache"
-- bower_components
-- path
-theme: minima
-sass:
-  sass_dir: _sass
 plugins:
 - jemoji
 - jekyll-seo-tag
-- jekyll-redirect-from
 t:
   sv:
     mission: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
     language: Svenska
     member:
+    - title: Medlem i Global Participatory Budgeting Hub.
+      image: /assets/images/logo-pbp2.png
+      url: https://www.participatorybudgeting.org/globalpbhub/
     - title: Styrelsemedlem och medgrundare till internationella Consul Democracy Foundation.
       image: /assets/images/logo-consul.png
       url: https://consulproject.org
-    - title: Vi utvecklar metoder för medborgardialog i Göteborg och Stockholm med stöd av Vinnova.
+    - title: Utveckling av medborgardialog i Göteborg och Stockholm med stöd av Vinnova.
       image: /assets/images/logo-vinnova.png
-    - title: Medlem i Global Participatory Budgeting Hub.
-      image: /assets/images/logo-pbp.png
-      url: https://www.participatorybudgeting.org/globalpbhub/
+      url: https://www.vinnova.se/
+    news: Nyheter
+    more-news: Fler nyheter
+    read-more: Läs mer
+    contact-title: Vill du veta mer?
+    contact-text: Kontakta oss för att diskutera gemensamma projekt eller få ett prisförslag på våra tjänster.
   en:
     mission: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
     language: English
+    member:
+    - title: Member of Global Participatory Budgeting Hub.
+      image: /assets/images/logo-pbp2.png
+      url: https://www.participatorybudgeting.org/globalpbhub/
+    - title: Co-founder and board member of Consul Democracy Foundation.
+      image: /assets/images/logo-consul.png
+      url: https://consulproject.org
+    - title: Developing new methods for citizen participation with the support of Vinnova.
+      image: /assets/images/logo-vinnova.png
+      url: https://www.vinnova.se/en/
+    news: News
+    more-news: More news
+    read-more: Read more
+    contact-title: Get in touch!
+    contact-text: Digidem Lab is a non-profit organisation promoting participatory democracy
+      on all levels of society. Get in touch to talk about project ideas or cooperation!

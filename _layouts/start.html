@@ -8,14 +8,14 @@ layout: default
   <!-- Hero content: will be in the middle -->
   <div class="hero-body">
     <div class="container has-text-centered">
-      <h1 class="title">Digital tools for the win</h1>
+      <h1 class="title">{{page.title}}</h1>
     </div>
   </div>
 
   <!-- Hero footer: will stick at the bottom -->
   <div class="hero-foot">
     <div class="container has-text-centered">
-      <a class="link-down" href="#content"><img src="/assets/images/pil.svg" alt="down" width="80" height="80"></a>
+      <a class="link-down" href="#content"><img src="{{site.baseurl}}/assets/images/pil.svg" alt="down" width="80" height="80"></a>
     </div>
   </div>
 </section>
@@ -33,7 +33,7 @@ layout: default
         <div class="columns is-centered">
 
         <div class="column is-10">
-          <h2 class="title is-1"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
+          <h2 class="title is-1 is-spaced"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
           <p class="subtitle is-3">{{item.excerpt}}</p>
           {% for link in item.links %}
             <a class="button" href="{{link.url}}">{{link.title}}</a>
@@ -71,12 +71,12 @@ layout: default
 
 <section id="news" class="section">
   <div class="container">
-    <h2 class="title is-2"><a href="https://news.digidemlab.org/">{{site.news[page.lang].title}}</a></h2>
+    <h2 class="title is-2"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
     <div class="columns">
       {% include teaser-small.html limit=2 %}
     </div>
     <div class="has-text-right section-more is-size-6">
-      <a href="https://news.digidemlab.org/" class="read-more">{{site.news[page.lang].more}}</a>
+      <a href="https://news.digidemlab.org/" class="read-more">{{site.t[page.lang].more-news}}</a>
     </div>
   </div>
 </section>

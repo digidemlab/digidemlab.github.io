@@ -1,0 +1,28 @@
+<section class="section">
+  <div class="container">
+    <div class="prices">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <h2 class="title is-3 has-text-centered">{{page.prices[0].title}}</h2>
+          {% for item in page.prices[0]items %}
+            <div class="columns is-vcentered">
+              <div class="column has-text-centered">
+                <figure class="image is-300x300">
+                  <img src="{{site.baseurl}}{{item.icon}}">
+                </figure>
+              </div>
+              <div class="column">
+                <h3 class="title is-6">{{item.title}}</h3>
+                <ul>
+                  {% for item in item.items %}
+                    <li>{{item.text}}</li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

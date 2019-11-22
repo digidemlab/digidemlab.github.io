@@ -1,0 +1,29 @@
+<section id="contact">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-10">
+        <div class="box">
+          <h2 class="title is-4"><span class="has-background-primary is-padded">{{site.t[page.lang].contact-title}}</span></h2>
+          <p>{{site.t[page.lang].contact-text | markdownify escape}}</p>
+
+          <div class="columns">
+            {% assign crew=site.crew | where:"lang", page.lang | where:"title", "Sanna Ghotbi" %}
+            {% for item in crew %}
+              <div class="column">
+                <img src="{{site.baseurl}}{{item.image}}">
+              </div>
+              <div class="column">
+                <h3 class="title is-6">{{item.title}}</h3>
+                <p>
+                  {{item.job}}<br>
+                  {{item.phone}}<br>
+                  <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
+                </p>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section> <!-- /contact -->

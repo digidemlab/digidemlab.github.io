@@ -1,5 +1,6 @@
 ---
 title: Pierre Mesure
+lang: en
 job: Participation Software Developer
 mail: pierre@digidemlab.org
 phone: "+46 72 838 52 29"

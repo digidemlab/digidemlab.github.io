@@ -24,7 +24,7 @@ layout: default
 
 <div id="content"></div>
 
-<article id="page" class="section is-medium">
+<article id="page" class="section is-medium page-{{page.ref}}">
   <div class="container">
     <div class="columns">
       <div class="column is-10">
@@ -35,7 +35,7 @@ layout: default
 
     {% if page.links %}
       <aside class="facts has-text-right">
-        <h2 class="title is-6">Läs mer</h2>
+        <h2 class="title is-6">{{site.t[page.lang].read-more}}</h2>
         <ul>
           {% for item in page.links %}
             <li><a href="{{item.url}}">{{item.title}}</a></li>
@@ -50,7 +50,16 @@ layout: default
   </div>
 </article>
 
-{% include panels/contact-services.html %}
+{% if page.services.size > 0 %}
+  {% include services.html %}
+{% endif %}
 
+{% if page.prices.size > 0 %}
+  {% include prices.html %}
+{% endif %}
+
+{% if page.contact %}
+  {% include contact.html %}
+{% endif %}
 
 {% include footer.html %}

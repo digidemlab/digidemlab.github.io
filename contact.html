@@ -1,0 +1,30 @@
+---
+title: Kontakta oss
+description: Kontakta oss med projektidéer, eller för en offert på någon av våra tjänster.
+ingress-text: Kontakta oss med projektidéer, eller för en offert på någon av våra tjänster.
+ref: contact
+image: /uploads/communityorg.jpg
+---
+
+{% assign crew=site.crew | where:"lang", page.lang | where:"category", "Digidem Lab" %}
+
+<div class="columns">
+  <div class="column is-offset-1 is-10">
+    <div class="columns is-multiline">
+      {% for item in crew %}
+        <div class="column is-half">
+          <figure class="image">
+            <img src="{{site.baseurl}}{{item.image}}">
+          </figure>
+          <h3 class="title is-6">{{item.title}}</h3>
+          <p>
+            {{item.job}}<br>
+            {{item.phone}}<br>
+            <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
+          </p>
+          {{item.content}}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

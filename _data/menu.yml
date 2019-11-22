@@ -1,14 +1,14 @@
 sv:
   primary:
   - title: Uppdrag
-    url: /work
+    url: /work/
   - title: Tjänster
-    url: /services
+    url: /services/
   - title: Om
-    url: /about
+    url: /about/
   secondary:
   - title: Kontakt
-    url: /contact
+    url: /contact/
   - title: Labb
     url: /lab
 en:

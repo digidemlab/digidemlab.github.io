@@ -1,19 +1,48 @@
 ---
-title: Om Digidem Lab
+title: Vi är Digidem Lab
 position: 1
 description: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
 ref: about
-image: "/uploads/surprise.gif"
-ingress-text: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+image: "/uploads/medialab.jpg"
+ingress-text: Vi arbetar utifrån Demokratiutredningens mål och beprövade internationella erfarenheter inom medborgardeltagande.
 
 ---
 
-Digidem Lab arbetar enligt [Open Government Partnerships rekommendationer](https://www.opengovpartnership.org/open-government-declaration) för att göra politiken mer inkluderande och transparent, och de Globala Målens målsättningar om deltagandebaserat beslutsfattande i [offentliga institutioner](https://www.globalamalen.se/om-globala-malen/mal-16-fredliga-och-inkluderande-samhallen/) och inom [stadsplanering och boende](https://www.globalamalen.se/om-globala-malen/mal-11-hallbara-stader-och-samhallen/).
+## Rubrik här?
+Det gör vi genom att erbjuda metoder och verktyg för medborgardeltagande som inkluderar underrepresenterade grupper i beslutsfattande.
+Utgångspunkter är att skapa långsiktiga strukturerför dialog-processer. Medborgare ska känna sig trygga och stärkta i sitt deltagande och tjänstepersoner få effektiva verktyg för att förankra arbetssätt och metodik internt.
 
-I den statliga [Demokratiutredningen](https://www.regeringen.se/rattsliga-dokument/kommittedirektiv/2014/07/dir.-2014111/) från 2014 målas en dyster framtidsbild för partipolitiken. Partierna tappar medlemmar och makten koncentreras till allt färre förtroendevalda. Kvinnor, utrikesfödda och unga är underrepresenterade i de valda församlingarna.
-
-Den goda nyheten är att digitaliseringen skapar helt nya möjligheter för påverkan och gemensamt beslutsfattande. I Madrid, Paris, Taiwan och många andra platser görs storskaliga processer med deltagande budgetar och medborgarinflytande.
-
-Digidem Lab erbjuder en rad tjänster för organisationer och offentliga institutioner som vill utveckla sitt deltagandearbete, bland annat väl testade och transparenta digitala verktyg.
+<div class="box">
+  <h2>Globala målen</h2>
+  <p class="is-medium">Vi arbetar för att uppnå FN:s hållbarhetsmål, med fokus på följande punkter:</p>
+  <p><strong>10.2</strong> ...verka för att alla människor, oavsett ålder, kön, funktions­ned­sättning, ras, etnicitet, ur­­sprung, religion eller ekonomisk eller annan ställning, blir inkluderade i det sociala, ekonomiska och ­politiska livet.</p>
+  <p><strong>16.7</strong> Säkerställa ett lyhört, inkluderande, deltagande­baserat och representativt beslutsfattande på alla nivåer.</p>
+  <p><strong>11.3</strong> ...verka för en inkluderande och hållbar urba­n­isering samt förbättra kapaciteten för del­tagande­baserad, integrerad och hållbar planering och förvaltning av bosättningar i alla länder.</p>
+</div>
 
 En viktig del av vårt arbete är att vi också är ett labb - en plats för att utveckla och testa framtidens verktyg och metoder. Vi har hittills stöttat omkring 30 projekt, genomförda av unga personer, och genom nätverket [CivicTechSweden](http://civictech.se) ordnar vi hackathons och Meetups för att utveckla nya digitala tjänster för samhällsnytta.
+
+<div class="columns">
+  <div class="column">
+    <figure>
+      <img src="/uploads/communityorg.jpg" alt="Community organising">
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="/uploads/usertesting.jpg" alt="User testing of Consul">
+    </figure>
+  </div>
+</div>
+<div class="columns">
+  <div class="column is-one-third">
+    <figure>
+      <img src="/uploads/paris.jpg" alt="Paris participatory budget">
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="/uploads/workshop.jpg" alt="Workshop">
+    </figure>
+  </div>
+</div>

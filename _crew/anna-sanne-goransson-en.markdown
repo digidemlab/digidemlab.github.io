@@ -2,7 +2,7 @@
 title: Anna Sanne Göransson
 date: 2017-02-23 18:10:00 Z
 lang: en
-image: "/uploads/anna2-crop.gif"
+image: "/uploads/anna.jpg"
 job: Engagement Strategist
 phone: "+46 76 242 28 24"
 mail: anna@digidemlab.org

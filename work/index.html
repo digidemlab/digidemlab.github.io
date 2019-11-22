@@ -1,11 +1,18 @@
 ---
-title: Uppdrag
-description: Aktuella uppdrag
+title: Våra uppdrag
+description: Tidigare uppdrag.
 layout: page
+ingress-text: Här är några av våra tidigare uppdrag.
+image: "/uploads/medialab2.jpg"
 ref: work
 ---
 
 {% assign projects=site.projects | where:"lang", page.lang | sort:date | reverse %}
-{% for item in projects %}
-  {% include teaser.html %}
-{% endfor %}
+
+<div class="columns">
+  <div class="column is-offset-1 is-10">
+    {% for item in projects %}
+      {% include teaser.html %}
+    {% endfor %}
+  </div>
+</div>

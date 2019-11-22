@@ -58,15 +58,20 @@
   letter-spacing: -0.05em;
 }
 
-.title {
+.title,
+.subtitle {
   letter-spacing: -0.03em;
 
   &.is-1,
   &.is-2 {
-    line-height: 0.9;
+    line-height: 1.07;
   }
   @include from($tablet) {
 
+  }
+
+  &.is-3 {
+    line-height: 1.12;
   }
 
   &.is-4 {
@@ -101,6 +106,9 @@ a.title {
   }
 }
 
+.title .is-padded {
+  padding: 0 0.25em;
+}
 
 // Mission
 
@@ -124,34 +132,26 @@ a.title {
 
   img {
     height: auto !important;
-    top: 50% !important;
-    left: 50% !important;
-    transform: translate(-50%, -50%);
+  }
+
+  &.is-2by1 {
+    img {
+      top: 50% !important;
+      left: 50% !important;
+      transform: translate(-50%, -50%);
+    }
   }
 }
 
 
 // Spacing: section, box
 
-.is-medium .section-title {
-  @include from($desktop) {
-    margin: -2.5rem 0 4rem !important;
-  }
+.section.no-padding-width {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+
 }
 
-.section.is-tight {
-  padding-bottom: 0 !important;
-}
-
-.section-title {
-  margin-bottom: 2.5rem !important;
-}
-
-#projects .columns:first-of-type {
-  @include from($tablet) {
-    margin-bottom: 4rem;
-  }
-}
 
 // Hero
 
@@ -199,27 +199,45 @@ a.title {
 
 // Navbar
 
-
-.navbar-menu:not(.is-active) {
-  max-height: 1.5rem;
+.navbar-top {
+  @include from($desktop) {
+    min-height: 7.25rem;
+  }
 }
 
-.select:not(.is-multiple):not(.is-loading)::after,
-.navbar-link:not(.is-arrowless)::after {
-  border-width: 1px;
-  border-radius: 0;
+.navbar-item {
+  font-size: 1.5rem;
+  padding-bottom: 0.25rem;
 }
 
-.hero a.navbar-item,
-.hero a.navbar-link {
+.navbar-item {
+  &.item-lang-1 {
+    padding-right: 0.25rem !important;
+  }
+
+  &.item-lang-2 {
+    padding-left: 0 !important;
+    &::before {
+      content: '|';
+      padding-right: 0.25rem !important;
+    }
+  }
+}
+
+.hero a.navbar-item {
   color: $navbar-item-color !important;
-  font-weight: bold;
+  border-bottom: 7px solid transparent;
+
 
   &:hover,
   &.is-active {
     background: $navbar-item-hover-background-color !important;
-    text-decoration: underline;
+    border-bottom-color: $white;
   }
+}
+
+.navbar-start .navbar-item {
+  font-weight: bold;
 }
 
 .navbar-brand .navbar-item {
@@ -240,21 +258,62 @@ a.title {
   margin-left: 2rem;
 }
 
+// Sections
+
+
+.box {
+  margin: 4rem 0%;
+
+  background-image: url("../images/box-top.png"), url("../images/box-bottom.png");
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
+
+  strong {
+    font-family: $family-monospace;
+  }
+
+  .is-medium {
+    font-size: 1.5rem;
+  }
+}
+
+.services {
+  border: 1.5rem solid $grey-light;
+  max-width: 1370px;
+
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
 
 // Content
 
 @mixin monospace {
   font-family: $family-monospace;
   font-size: 1rem;
+  line-height: 1.25;
 }
 
 
 // Läs mer faktaruta
+.services,
+.prices,
 .facts {
   ul {
     @include monospace;
-  }
 
+    li {
+      padding: 0 0 1rem;
+
+      &::before {
+        content: '>';
+        padding-right: 0.5rem;
+      }
+    }
+  }
+}
+
+.facts {
   @include from($tablet) {
     float: left;
     width: 16.6666666667%;
@@ -277,14 +336,19 @@ a.title {
 }
 
 // Textmarginal
-.content {
-  > p, h2, h3, h4, ul, ol, blockquote {
+.content > {
+   p, h2, h3, h4, ul, ol, blockquote {
     @include from($tablet) {
       margin-left: 33.3333333333%;
       width: 50%;
       padding-left: $column-gap;
       padding-right: $column-gap;
     }
+  }
+
+  .box {
+    margin-left: 25%;
+    width: 66.6666666667%;
   }
 }
 
@@ -372,7 +436,11 @@ a.title {
 .content h1,
 .content h2,
 .content h3,
-.content h4,
+.content h4 {
+  font-size: 1.6em;
+  font-weight: bold;
+}
+
 .content h5,
 .content h6 {
   font-size: 1em;
@@ -386,4 +454,11 @@ a.title {
 
 .content h3:not(:first-child) {
   margin-top: 1.75rem;
+}
+
+
+// Specific pages
+
+#featured figure {
+  margin-bottom: 2.5rem;
 }
