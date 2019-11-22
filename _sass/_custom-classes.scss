@@ -2,6 +2,22 @@
 // Custom styles
 //
 
+// Mixins
+@mixin read-more {
+  &::after {
+    content: ">";
+    padding-left: 0.25em;
+    font-family: $family-monospace;
+    position: relative;
+    top: 0.05em;
+  }
+}
+
+@mixin monospace {
+  font-family: $family-monospace;
+  font-size: 1rem;
+  line-height: 1.25;
+}
 
 // Links
 
@@ -10,17 +26,15 @@
   margin: -5.5rem auto 1rem;
 }
 
-.footer a,
-.contact a,
-.content a {
+p > a:hover {
   text-decoration: underline;
 }
 
-.button.is-text {
+.button {
   text-decoration: none;
 
   &:hover {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
@@ -28,25 +42,22 @@
   font-weight: bold;
   font-size: 1.625rem !important;
   border-radius: 0 !important;
-  &::after {
-    content: " >";
-    padding-left: 0.25em;
-  }
+  height: 2.25em !important;
+  @include read-more;
 }
 
 .read-more {
-  font-weight: bold;
+  margin: 0.75rem 0;
 
-  &::after {
-    content: " >";
-    padding-left: 0.25em;
+  a {
+    font-weight: bold;
+    @include read-more;
   }
 }
 
 .section-more {
   padding: 1em 0;
-  border: 1px solid $black;
-  border-width: 0 0 1px 0;
+  border-bottom: 3px solid #000;
   display: block;
 }
 
@@ -76,6 +87,10 @@
 
   &.is-4 {
     // font-size: 1.625rem;
+    margin-bottom: 0.5rem;
+  }
+  &.is-7 {
+    margin: 1.5rem 0 0.5rem;
   }
 }
 .title.is-1 {
@@ -92,6 +107,7 @@
 }
 .title.is-5 {
   // font-size: 1.25rem;
+  margin-bottom: 0.5rem;
 
   @include from($tablet) {
     // font-size: 1.375rem;
@@ -120,7 +136,7 @@ a.title {
   }
 
   @include from($desktop) {
-    padding: 3.5rem 4.625rem;
+    padding: 3rem 4.625rem 3.5rem;
   }
 }
 
@@ -134,7 +150,9 @@ a.title {
     height: auto !important;
   }
 
-  &.is-2by1 {
+  &.is3by2,
+  &.is-2by1,
+  &.is-3by1 {
     img {
       top: 50% !important;
       left: 50% !important;
@@ -254,8 +272,12 @@ a.title {
 
 // Footer
 
+.footer {
+  background: linear-gradient(240deg, $pink 0%, $purple 100%);
+}
+
 .icon.is-large {
-  margin-left: 2rem;
+  margin-left: 1rem;
 }
 
 // Sections
@@ -287,12 +309,6 @@ a.title {
 
 
 // Content
-
-@mixin monospace {
-  font-family: $family-monospace;
-  font-size: 1rem;
-  line-height: 1.25;
-}
 
 
 // Läs mer faktaruta
@@ -343,6 +359,10 @@ a.title {
       width: 50%;
       padding-left: $column-gap;
       padding-right: $column-gap;
+    }
+
+    a {
+      text-decoration: underline;
     }
   }
 
@@ -459,6 +479,49 @@ a.title {
 
 // Specific pages
 
+#featured.section {
+  padding-bottom: 6rem;
+}
+
 #featured figure {
   margin-bottom: 2.5rem;
+}
+#featured .links {
+  margin-top: 3.5rem;
+
+  .button:first-child {
+    margin-right: 1.5rem;
+  }
+}
+
+#news .container,
+#project .container {
+  border-bottom: 1px solid;
+}
+
+#mission.section {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+}
+#mission .columns {
+  margin-bottom: 2.5rem;
+}
+
+
+// Teaser
+
+.columns.teaser {
+  margin-bottom: 3rem;
+}
+
+.teaser-small .image {
+  margin-bottom: 1.75rem;
+}
+
+.image-logo {
+  margin: 1rem auto;
+  img {
+    width: auto !important;
+    max-height: 100% !important;
+  }
 }

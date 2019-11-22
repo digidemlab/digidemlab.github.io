@@ -35,9 +35,11 @@ layout: default
         <div class="column is-10">
           <h2 class="title is-1 is-spaced"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
           <p class="subtitle is-3">{{item.excerpt}}</p>
-          {% for link in item.links %}
-            <a class="button" href="{{link.url}}">{{link.title}}</a>
-          {% endfor %}
+          <div class="links">
+            {% for link in item.links %}
+              <a class="button" href="{{link.url}}">{{link.title}}</a>
+            {% endfor %}
+          </div>
         </div>
       </div>
 
@@ -48,9 +50,14 @@ layout: default
 
 <section id="project" class="section">
   <div class="container">
-    {% for item in project offset:1 limit:2 %}
+
+    {% for item in project limit:2 %}
       {% include teaser.html %}
     {% endfor %}
+
+    <p class="has-text-right read-more has-text-weight-bold is-size-6">
+      <a href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/work/">{{site.t[page.lang].more-projects}}</a>
+    </p>
   </div>
 </section>
 
@@ -60,12 +67,17 @@ layout: default
     <div class="columns">
       {% for item in page.mission.item %}
         <div class="column">
-          <img src="{{item.image}}">
-          <h3 class="title is-6">{{item.title}}</h3>
+          <figure class="image">
+            <img src="{{item.image}}">
+          </figure>
+          <h3 class="title is-7">{{item.title}}</h3>
           <p>{{item.text}}</p>
         </div>
       {% endfor %}
     </div>
+    <p class="has-text-centered">
+      <a class="button is-white" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/services/">{{site.t[page.lang].more-services}}</a>
+    </p>
   </div>
 </section>
 
@@ -75,14 +87,16 @@ layout: default
     <div class="columns">
       {% include teaser-small.html limit=2 %}
     </div>
-    <div class="has-text-right section-more is-size-6">
-      <a href="https://news.digidemlab.org/" class="read-more">{{site.t[page.lang].more-news}}</a>
-    </div>
+    <p class="has-text-right read-more has-text-weight-bold is-size-6">
+      <a href="https://news.digidemlab.org/">{{site.t[page.lang].more-news}}</a>
+    </p>
   </div>
 </section>
 
+{% include partners.html %}
+
 <section id="banner" class="section">
-  <img src="holder.js/100px75p?theme=social">
+  <a href="/lab"><img src="{{site.baseurl}}/assets/images/banner-labbet.jpg"></a>
 </section>
 
 {% include footer.html %}

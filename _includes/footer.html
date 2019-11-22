@@ -1,26 +1,12 @@
-<section id="partners" class="section">
-  <div class="container">
-    <h2 class="title section-title has-text-centered">{{site.t[page.lang].partner-title}}</h2>
-    <div class="columns partners is-mobile is-vcentered is-multiline">
-      {% for item in site.t[page.lang].member %}
-        {% include member.html %}
-      {% endfor %}
-    </div>
-  </div>
-</section>
-
-<footer class="footer has-background-black">
+<footer class="footer">
   <div class="container">
     <div class="columns">
-      <div class="column is-three-fifths">
-        <p class="title is-6 has-text-white">{{site.t[page.lang].mission}}</p>
+      <div class="column is-3">
+        <a href="{{site.baseurl}}{% if page.lang == 'sv'%}/{% else %}/en{% endif %}"><img src="{{site.baseurl}}/assets/images/digidemlab.svg" alt="Digidem Lab" width="241" height="61px"></a>
       </div>
-    </div>
-    <div class="columns">
-      <div class="column has-text-white">
-        <p>Content
-        is licensed <a class="has-text-white" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.</p>
-        <p>Contact // <a class="has-text-white" href="mailto:hello@civictech.se">hello@civictech.se</a></p>
+      <div class="column is-5">
+        <p>{{site.t[page.lang].mission}}</p>
+        <p><small>Content is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.</small></p>
       </div>
       <div class="column">
         {% include social.html %}

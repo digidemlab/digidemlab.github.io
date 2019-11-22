@@ -8,11 +8,6 @@ ref: work
 ---
 
 {% assign projects=site.projects | where:"lang", page.lang | sort:date | reverse %}
-
-<div class="columns">
-  <div class="column is-offset-1 is-10">
-    {% for item in projects %}
-      {% include teaser.html %}
-    {% endfor %}
-  </div>
-</div>
+{% for item in projects %}
+  {% include teaser.html %}
+{% endfor %}

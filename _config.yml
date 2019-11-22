@@ -73,7 +73,7 @@ t:
     language: Svenska
     member:
     - title: Medlem i Global Participatory Budgeting Hub.
-      image: /assets/images/logo-pbp2.png
+      image: /assets/images/logo-pbp.png
       url: https://www.participatorybudgeting.org/globalpbhub/
     - title: Styrelsemedlem och medgrundare till internationella Consul Democracy Foundation.
       image: /assets/images/logo-consul.png
@@ -81,6 +81,9 @@ t:
     - title: Utveckling av medborgardialog i Göteborg och Stockholm med stöd av Vinnova.
       image: /assets/images/logo-vinnova.png
       url: https://www.vinnova.se/
+    project-link: Läs mer om uppdraget
+    more-projects: Fler uppdrag
+    more-services: Läs mer om våra tjänster
     news: Nyheter
     more-news: Fler nyheter
     read-more: Läs mer
@@ -91,7 +94,7 @@ t:
     language: English
     member:
     - title: Member of Global Participatory Budgeting Hub.
-      image: /assets/images/logo-pbp2.png
+      image: /assets/images/logo-pbp.png
       url: https://www.participatorybudgeting.org/globalpbhub/
     - title: Co-founder and board member of Consul Democracy Foundation.
       image: /assets/images/logo-consul.png
@@ -99,6 +102,9 @@ t:
     - title: Developing new methods for citizen participation with the support of Vinnova.
       image: /assets/images/logo-vinnova.png
       url: https://www.vinnova.se/en/
+    project-link: Read about the project
+    more-projects: More projects
+    more-services: Read more about our services
     news: News
     more-news: More news
     read-more: Read more
