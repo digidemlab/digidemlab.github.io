@@ -51,7 +51,7 @@ layout: default
 <section id="project" class="section">
   <div class="container">
 
-    {% for item in project limit:2 %}
+    {% for item in project offset:1 limit:2 %}
       {% include teaser.html %}
     {% endfor %}
 

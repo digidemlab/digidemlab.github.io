@@ -9,8 +9,4 @@ twitter: "@p_jo"
 category: Digidem Lab
 ---
 
-Medgrundare till Digidem Lab och entreprenör/organisatör inom webb och digitala tjänster för civilsamhället sedan femton år. Startade den feministiska och normkritiska kommunikationsbyrån Rabash och har arbetat för Läkare Utan Gränser, Friends of the Earth International och Sverige för UNHCR.
-
-Skapade projektet “Consul Going Worldwide” på Medialab Prado i Madrid, som i samarbete med Madrid stad utvecklade installationsskript, manualer och användarforum för att tillgängliggöra världens största medborgarplattform Consul.
-
-Petter är freds- och miljöaktivist sedan tonåren och byggde en gång en modell av en [kärnvapenmissil i naturlig storlek](http://media.gettyimages.com/photos/faslane-united-kingdom-campaigners-hold-an-inflatable-during-a-in-picture-id73572010?s=612x612) av sopsäckar, tejp och en datorfläkt.
+Digital strateg med femton års erfarenhet av arbete med digitala tjänster för civilsamhället.
