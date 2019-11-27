@@ -1,5 +1,5 @@
 ---
-title: Deltagande demokrati
+title: Framtidens deltagande demokrati
 position: 0
 description: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
 ref: start

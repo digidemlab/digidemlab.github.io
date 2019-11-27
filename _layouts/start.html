@@ -15,7 +15,7 @@ layout: default
   <!-- Hero footer: will stick at the bottom -->
   <div class="hero-foot">
     <div class="container has-text-centered">
-      <a class="link-down" href="#content"><img src="{{site.baseurl}}/assets/images/pil.svg" alt="down" width="80" height="80"></a>
+      <a class="link-down" href="#content"><img src="{{site.baseurl}}/assets/images/pil.svg" alt="down" width="100" height="100"></a>
     </div>
   </div>
 </section>
@@ -63,12 +63,12 @@ layout: default
 
 <section id="mission" class="section">
   <div class="container mission has-background-info">
-    <h2 class="title is-2">{{page.mission.title}}</h2>
+    <h2 class="title is-3">{{page.mission.title}}</h2>
     <div class="columns">
       {% for item in page.mission.item %}
         <div class="column">
           <figure class="image">
-            <img src="{{item.image}}">
+            <img src="{{site.baseurl}}{{item.image}}">
           </figure>
           <h3 class="title is-7">{{item.title}}</h3>
           <p>{{item.text}}</p>
@@ -83,7 +83,7 @@ layout: default
 
 <section id="news" class="section">
   <div class="container">
-    <h2 class="title is-2"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
+    <h2 class="title is-3"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
     <div class="columns">
       {% include teaser-small.html limit=2 %}
     </div>
@@ -96,7 +96,9 @@ layout: default
 {% include partners.html %}
 
 <section id="banner" class="section">
-  <a href="/lab"><img src="{{site.baseurl}}/assets/images/banner-labbet.jpg"></a>
+  <div class="container">
+    <a href="/lab"><img src="{{site.baseurl}}/assets/images/banner-labbet.jpg"></a>
+  </div>
 </section>
 
 {% include footer.html %}

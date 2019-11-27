@@ -10,6 +10,7 @@ ingress-text: Vi arbetar utifrån Demokratiutredningens mål och beprövade inte
 
 ## Rubrik här?
 Det gör vi genom att erbjuda metoder och verktyg för medborgardeltagande som inkluderar underrepresenterade grupper i beslutsfattande.
+
 Utgångspunkter är att skapa långsiktiga strukturerför dialog-processer. Medborgare ska känna sig trygga och stärkta i sitt deltagande och tjänstepersoner få effektiva verktyg för att förankra arbetssätt och metodik internt.
 
 <div class="box">
@@ -25,24 +26,24 @@ En viktig del av vårt arbete är att vi också är ett labb - en plats för att
 <div class="columns">
   <div class="column">
     <figure>
-      <img src="/uploads/communityorg.jpg" alt="Community organising">
+      <img src="{{site.baseurl}}/uploads/communityorg.jpg" alt="Community organising">
     </figure>
   </div>
   <div class="column">
     <figure>
-      <img src="/uploads/usertesting.jpg" alt="User testing of Consul">
+      <img src="{{site.baseurl}}/uploads/usertesting.jpg" alt="User testing of Consul">
     </figure>
   </div>
 </div>
 <div class="columns">
   <div class="column is-one-third">
     <figure>
-      <img src="/uploads/paris.jpg" alt="Paris participatory budget">
+      <img src="{{site.baseurl}}/uploads/paris.jpg" alt="Paris participatory budget">
     </figure>
   </div>
   <div class="column">
     <figure>
-      <img src="/uploads/workshop.jpg" alt="Workshop">
+      <img src="{{site.baseurl}}/uploads/workshop.jpg" alt="Workshop">
     </figure>
   </div>
 </div>

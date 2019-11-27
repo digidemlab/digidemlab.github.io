@@ -21,11 +21,7 @@
 
 // Links
 
-.link-down {
-  display: block;
-  margin: -5.5rem auto 1rem;
-}
-
+aside a:hover,
 p > a:hover {
   text-decoration: underline;
 }
@@ -63,9 +59,10 @@ p > a:hover {
 
 // Title
 
+
 .hero .title {
   font-size: 11.25rem;
-  line-height: 0.9;
+  line-height: 0.95;
   letter-spacing: -0.05em;
 }
 
@@ -74,25 +71,30 @@ p > a:hover {
   letter-spacing: -0.03em;
 
   &.is-1,
-  &.is-2 {
+  &.is-2,
+  &.is-3 {
     line-height: 1.07;
   }
   @include from($tablet) {
 
   }
 
-  &.is-3 {
-    line-height: 1.12;
-  }
-
-  &.is-4 {
+  &.is-4,
+  &.is-5,
+  &.is-6 {
     // font-size: 1.625rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.5em;
   }
   &.is-7 {
     margin: 1.5rem 0 0.5rem;
   }
 }
+
+.subtitle.is-3 {
+  font-size: 3.125rem;
+  line-height: 1.12;
+}
+
 .title.is-1 {
   // font-size: 1.875rem;
   // margin-bottom: 1rem;
@@ -173,6 +175,24 @@ a.title {
 
 // Hero
 
+.is-front .hero-body {
+  @include from($desktop) {
+    padding-top: 0rem !important;
+    padding-bottom: 7.5rem !important;
+  }
+}
+
+.hero .image.is-2by1 {
+  @include from($widescreen) {
+    padding-top: 55%;
+  }
+}
+
+.link-down {
+  display: block;
+  margin: -6.5rem auto 1rem;
+}
+
 .hero .title {
   color: $text !important;
 }
@@ -188,13 +208,13 @@ a.title {
     background-position: 0% 0%; // Purple & Pink
   }
   25%{
-    background-position: 0% 100%; // Pink & Yellow
+    background-position: 25% 25%; // Pink & Yellow
   }
   50%{
     background-position: 100% 100%; // Green & Ash
   }
   75%{
-    background-position: 0% 100%; // Pink & Yellow
+    background-position: 25% 25%; // Pink & Yellow
   }
   100%{
     background-position: 0% 0%; // Purple & Pink
@@ -225,21 +245,6 @@ a.title {
 
 .navbar-item {
   font-size: 1.5rem;
-  padding-bottom: 0.25rem;
-}
-
-.navbar-item {
-  &.item-lang-1 {
-    padding-right: 0.25rem !important;
-  }
-
-  &.item-lang-2 {
-    padding-left: 0 !important;
-    &::before {
-      content: '|';
-      padding-right: 0.25rem !important;
-    }
-  }
 }
 
 .hero a.navbar-item {
@@ -250,12 +255,41 @@ a.title {
   &:hover,
   &.is-active {
     background: $navbar-item-hover-background-color !important;
+  }
+}
+
+.navbar-menu a.navbar-item {
+  padding: 0.5rem 0.25rem 0 !important;
+  line-height: 1 !important;
+
+  &:hover,
+  &.is-active {
     border-bottom-color: $white;
   }
 }
 
 .navbar-start .navbar-item {
   font-weight: bold;
+
+  &:not(:last-child) {
+    margin-right: 1.625rem;
+  }
+}
+
+.navbar-end .navbar-item {
+  margin-right: 0.5rem;
+
+  &.item-lang-1 {
+    margin-right: 0 !important;
+  }
+
+  &.item-lang-2 {
+    padding-left: 0 !important;
+    &::before {
+      content: '|';
+      padding-right: 0.25rem !important;
+    }
+  }
 }
 
 .navbar-brand .navbar-item {
@@ -284,9 +318,16 @@ a.title {
 
 
 .box {
-  margin: 4rem 0%;
 
-  background-image: url("../images/box-top.png"), url("../images/box-bottom.png");
+  margin-top: 3rem;
+  margin-bottom: 3rem !important;
+
+  @include from($desktop) {
+    margin-top: 5.5rem;
+    margin-bottom: 5.5rem !important;
+  }
+
+  background-image: url("../images/box-upper.png"), url("../images/box-lower.png");
   background-repeat: no-repeat;
   background-position: top left, bottom right;
 
@@ -302,9 +343,12 @@ a.title {
 .services {
   border: 1.5rem solid $grey-light;
   max-width: 1370px;
-
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  margin: 0 auto;
+  padding: 3rem;
+  @include from($widescreen) {
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 
 
@@ -319,21 +363,32 @@ a.title {
     @include monospace;
 
     li {
-      padding: 0 0 1rem;
+      padding: 0 0 0.75rem;
 
       &::before {
         content: '>';
         padding-right: 0.5rem;
+        color: $purple;
       }
     }
   }
 }
 
+
+.services ul li::before {
+  color: $black;
+}
+
 .facts {
   @include from($tablet) {
     float: left;
-    width: 16.6666666667%;
-    margin-left: 8.3333333333%;
+    width: 25%;
+    // width: 16.6666666667%;
+    // margin-left: 8.3333333333%;
+  }
+
+  h2 {
+    margin-bottom: 0.75rem !important;
   }
 }
 
@@ -379,12 +434,6 @@ a.title {
     margin-right: 0;
     text-align: center;
 
-    &:not(:first-child) {
-      margin-top: 3rem;
-    }
-    &:not(:last-child) {
-      margin-bottom: 3rem;
-    }
     img {
       display: inline-block;
     }
@@ -393,13 +442,30 @@ a.title {
   figure figcaption,
   .caption {
     font-style: normal;
-    margin-top: 3rem;
     @include monospace;
     border-top: 1px solid $black;
     width: 25%;
     float: left;
-    padding-top: 0.5rem;
+    padding-top: 1rem;
   }
+
+  figure figcaption {
+    margin-top: 2.625rem;
+  }
+}
+
+.content > figure,
+.content .columns {
+  margin-top: 4rem;
+  margin-bottom: 2rem !important;
+
+  &+ .columns {
+    margin-top: -2.625rem;
+  }
+}
+
+.content > figure {
+  margin-bottom: 3rem !important;
 }
 
 // Definition list, siffror
@@ -443,11 +509,24 @@ a.title {
 }
 
 // Marginbottoms
-.content p:not(:last-child),
+.content p:not(:last-child) {
+  margin-bottom: .5em;
+}
+
+.content > p:last-of-type {
+  margin-bottom: 4rem;
+}
+
+.content blockquote {
+  margin-top: 0.75em;
+}
+.content blockquote:not(:last-child) {
+  margin-bottom: 0.75em;
+}
+
 .content dl:not(:last-child),
 .content ol:not(:last-child),
 .content ul:not(:last-child),
-.content blockquote:not(:last-child),
 .content pre:not(:last-child),
 .content table:not(:last-child) {
   margin-bottom: 1.75em;
@@ -457,8 +536,17 @@ a.title {
 .content h2,
 .content h3,
 .content h4 {
-  font-size: 1.6em;
+  font-size: 1.3em;
   font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+.content h1,
+.content h2 {
+  @include from($desktop) {
+    font-size: 2.2em;
+    letter-spacing: -0.05em;
+  }
 }
 
 .content h5,
@@ -469,12 +557,12 @@ a.title {
 
 .content h2:not(:first-child) {
   margin-top: 3rem;
-  margin-bottom: 2rem;
 }
 
 .content h3:not(:first-child) {
   margin-top: 1.75rem;
 }
+
 
 
 // Specific pages
@@ -512,15 +600,53 @@ a.title {
   padding-bottom: 2rem;
 }
 
+#page.section {
+  padding-top: 6rem;
+  padding-bottom: 3rem;
+}
+
+#contact {
+  h3 {
+    margin-bottom: 0;
+  }
+  p {
+    margin-bottom: 1.5em;
+  }
+}
+
+.services {
+  figure {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+}
+
+// Page
+
+.columns-header {
+  margin-bottom: 3rem !important;
+
+  @include from($desktop) {
+    margin-bottom: 6rem !important;
+  }
+}
+
+.page-date {
+  margin: -1rem 0 0.5rem;
+}
 
 // Teaser
 
 .columns.teaser {
-  margin-bottom: 3rem;
+  margin-top: 0 !important;
 }
 
 .teaser-small .image {
   margin-bottom: 1.75rem;
+}
+
+.teaser-crew {
+  margin-bottom: 4rem;
 }
 
 .image-logo {

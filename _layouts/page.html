@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<section class="hero is-fullheight is-front is-primary">
+<section class="hero is-fullheight is-primary">
   {% include header.html %}
 
   <!-- Hero content: will be in the middle -->
   <div class="hero-body">
     <div class="container has-text-centered">
       <figure class="image is-2by1">
-        <img src="{{page.image}}">
+        <img src="{{site.baseurl}}{{page.image}}">
       </figure>
     </div>
   </div>
@@ -17,7 +17,7 @@ layout: default
   <!-- Hero footer: will stick at the bottom -->
   <div class="hero-foot">
     <div class="container has-text-centered">
-      <a class="link-down" href="#content"><img src="/assets/images/pil.svg" alt="down" width="80" height="80"></a>
+      <a class="link-down" href="#content"><img src="/assets/images/pil.svg" alt="down" width="100" height="100"></a>
     </div>
   </div>
 </section>
@@ -26,9 +26,14 @@ layout: default
 
 <article id="page" class="section is-medium page-{{page.ref}}">
   <div class="container">
-    <div class="columns">
+    <div class="columns columns-header">
       <div class="column is-10">
-        <h1 class="title is-1">{{page.title}}</h1>
+        {% if page.date %}
+          <div class="page-date">
+            {{ page.date | date: "%Y.%m.%d"}}
+          </div>
+        {% endif %}
+        <h1 class="title is-1 is-spaced">{{page.title}}</h1>
         <p class="subtitle is-3">{{page.ingress-text}}</p>
       </div>
     </div>
