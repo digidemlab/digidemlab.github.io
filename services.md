@@ -79,17 +79,17 @@ Genom att implementera en digital plattform för dialoger kan kommuner samla sin
 Tjänstepersoner kan enkelt få ut statistik, en bredare bild över vilka som deltar och en överblick över prioriterade frågor i kommunens arbete. Det går också att genomföra olika typer av dialoger samtidigt på en samlad och tydlig plattform.
 
 <figure class="image is-2by1">
-  <img src="/uploads/usertesting.jpg" alt="Usertesting of Consul">
+  <img src="{{site.baseurl}}/uploads/usertesting.jpg" alt="Usertesting of Consul">
 </figure>
 <div class="columns">
   <div class="column">
     <figure class="image is-2by1">
-      <img src="/uploads/workshop.jpg" alt="Workshop">
+      <img src="{{site.baseurl}}/uploads/workshop.jpg" alt="Workshop">
     </figure>
   </div>
   <div class="column">
     <figure class="image is-2by1">
-      <img src="/uploads/paris2.jpg" alt="Participatory budget in Paris">
+      <img src="{{site.baseurl}}/uploads/paris2.jpg" alt="Participatory budget in Paris">
     </figure>
   </div>
 </div>
