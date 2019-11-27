@@ -345,10 +345,6 @@ a.title {
   max-width: 1370px;
   margin: 0 auto;
   padding: 3rem;
-  @include from($widescreen) {
-    padding-right: 0;
-    padding-left: 0;
-  }
 }
 
 
