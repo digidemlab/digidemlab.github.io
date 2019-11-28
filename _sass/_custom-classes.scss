@@ -61,9 +61,17 @@ p > a:hover {
 
 
 .hero .title {
-  font-size: 11.25rem;
+  font-size: 3.375rem;
   line-height: 0.95;
   letter-spacing: -0.05em;
+
+  @include from($tablet) {
+    font-size: 4.375rem;
+  }
+
+  @include from($desktop) {
+    font-size: 11.25rem;
+  }
 }
 
 .title,
@@ -91,28 +99,23 @@ p > a:hover {
 }
 
 .subtitle.is-3 {
-  font-size: 3.125rem;
+  font-size: 1.875rem;
+  @include from($tablet) {
+    font-size: 3.125rem;
+  }
   line-height: 1.12;
 }
 
 .title.is-1 {
-  // font-size: 1.875rem;
-  // margin-bottom: 1rem;
-
-  @include from($tablet) {
-    // font-size: 3rem;
-  }
 
   @include from($desktop) {
-    // font-size: 3.75rem;
   }
 }
 .title.is-5 {
-  // font-size: 1.25rem;
   margin-bottom: 0.5rem;
 
   @include from($tablet) {
-    // font-size: 1.375rem;
+
   }
 }
 
@@ -169,7 +172,6 @@ a.title {
 .section.no-padding-width {
   padding-right: 0 !important;
   padding-left: 0 !important;
-
 }
 
 
@@ -221,19 +223,6 @@ a.title {
   }
 }
 
-/*
-@keyframes bganimation {
-  0%{
-    background-position: 0% 50%;
-  }
-  50%{
-    background-position: 100% 50%;
-  }
-  100%{
-    background-position: 0% 50%;
-  }
-}
-*/
 
 // Navbar
 
@@ -250,7 +239,6 @@ a.title {
 .hero a.navbar-item {
   color: $navbar-item-color !important;
   border-bottom: 7px solid transparent;
-
 
   &:hover,
   &.is-active {
@@ -318,7 +306,6 @@ a.title {
 
 
 .box {
-
   margin-top: 3rem;
   margin-bottom: 3rem !important;
 
