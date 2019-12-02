@@ -1,14 +1,14 @@
-<div class="columns teaser">
-  <div class="column is-half is-offset-1">
+<div class="columns is-desktop teaser">
+  <div class="column is-half-desktop is-offset-1-fullhd">
     <a href="{{site.baseurl}}{{item.url}}">
       <figure class="image is-3by2">
         <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
       </figure>
     </a>
   </div>
-  <div class="column is-4">
-    <h2 class="title is-4"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
+  <div class="column is-5-widescreen is-4-fullhd">
+    <h2 class="title is-6 is-size-5-tablet is-size-4-widescreen"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
     <p>{{ item.ingress-text | strip_html }}</p>
-    <p class="read-more"><a href="{{site.baseurl}}{{item.url}}">{{site.t[page.lang].project-link}}</a><p>
+    <p class="read-more is-hidden-touch is-hidden-desktop-only"><a href="{{site.baseurl}}{{item.url}}">{{site.t[page.lang].project-link}}</a><p>
   </div>
 </div>

@@ -25,17 +25,20 @@ layout: default
 
 <div id="content"></div>
 <section id="featured" class="section">
-  <div class="container has-text-centered">
+  <div class="container has-text-centered-widescreen">
       {% for item in project limit:1 %}
-        <figure class="image is-2by1">
+        <figure class="image is-3by2">
           <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
         </figure>
         <div class="columns is-centered">
 
-        <div class="column is-10">
-          <h2 class="title is-4 is-size-1-tablet is-spaced"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
-          <p class="subtitle is-7 is-size-3-tablet">{{item.excerpt}}</p>
-          <div class="links">
+        <div class="column is-10-widescreen">
+          <h2 class="title is-6 is-size-5-tablet is-size-1-widescreen is-spaced"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
+
+          <p class="subtitle is-3 is-hidden-touch is-hidden-desktop-only">{{item.excerpt}}</p>
+          <p class="is-size-7 is-hidden-widescreen">{{ item.ingress-text }}</p>
+
+          <div class="links is-hidden-touch is-hidden-desktop-only">
             {% for link in item.links %}
               <a class="button" href="{{link.url}}">{{link.title}}</a>
             {% endfor %}
@@ -55,22 +58,22 @@ layout: default
       {% include teaser.html %}
     {% endfor %}
 
-    <p class="has-text-right read-more has-text-weight-bold is-size-6">
-      <a href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/work/">{{site.t[page.lang].more-projects}}</a>
+    <p class="has-text-right-desktop has-text-centered read-more">
+      <a class="button" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/work/">{{site.t[page.lang].more-projects}}</a>
     </p>
   </div>
 </section>
 
 <section id="mission" class="section">
   <div class="container mission has-background-info">
-    <h2 class="title is-3">{{page.mission.title}}</h2>
-    <div class="columns">
+    <h2 class="title is-6 is-size-5-tablet is-size-3-desktop">{{page.mission.title}}</h2>
+    <div class="columns is-desktop is-multiline">
       {% for item in page.mission.item %}
-        <div class="column">
-          <figure class="image">
+        <div class="column is-full-desktop is-one-third-widescreen">
+          <figure class="image is-3by2">
             <img src="{{site.baseurl}}{{item.image}}">
           </figure>
-          <h3 class="title is-7">{{item.title}}</h3>
+          <h3 class="title is-6 is">{{item.title}}</h3>
           <p>{{item.text}}</p>
         </div>
       {% endfor %}
@@ -83,12 +86,12 @@ layout: default
 
 <section id="news" class="section">
   <div class="container">
-    <h2 class="title is-3"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
-    <div class="columns">
+    <h2 class="title is-6 is-size-5-tablet is-size-3-desktop"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
+    <div class="columns is-desktop">
       {% include teaser-small.html limit=2 %}
     </div>
-    <p class="has-text-right read-more has-text-weight-bold is-size-6">
-      <a href="https://news.digidemlab.org/">{{site.t[page.lang].more-news}}</a>
+    <p class="has-text-right-desktop has-text-centered read-more">
+      <a class="button" href="https://news.digidemlab.org/">{{site.t[page.lang].more-news}}</a>
     </p>
   </div>
 </section>

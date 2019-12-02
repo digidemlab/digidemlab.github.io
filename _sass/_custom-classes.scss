@@ -15,8 +15,12 @@
 
 @mixin monospace {
   font-family: $family-monospace;
-  font-size: 1rem;
+  font-size: 0.8125rem;
   line-height: 1.25;
+
+  @include from($desktop) {
+    font-size: 1rem;
+  }
 }
 
 // Links
@@ -36,7 +40,12 @@ p > a:hover {
 
 .button {
   font-weight: bold;
-  font-size: 1.625rem !important;
+  font-size: 1rem !important;
+
+  @include from($desktop) {
+    font-size: 1.625rem !important;
+  }
+
   border-radius: 0 !important;
   height: 2.25em !important;
   @include read-more;
@@ -49,13 +58,14 @@ p > a:hover {
     font-weight: bold;
     @include read-more;
   }
+
+  .button {
+    @include from($desktop) {
+      background: none;
+    }
+  }
 }
 
-.section-more {
-  padding: 1em 0;
-  border-bottom: 3px solid #000;
-  display: block;
-}
 
 // Title
 
@@ -69,7 +79,15 @@ p > a:hover {
     font-size: 4.375rem;
   }
 
+  @include from(550px) {
+    font-size: 6rem;
+  }
+
   @include from($desktop) {
+    font-size: 7.5rem;
+  }
+
+  @include from($widescreen) {
     font-size: 11.25rem;
   }
 }
@@ -77,48 +95,22 @@ p > a:hover {
 .title,
 .subtitle {
   letter-spacing: -0.03em;
+  line-height: 1.07;
+}
 
-  &.is-1,
-  &.is-2,
-  &.is-3 {
-    line-height: 1.07;
-  }
-  @include from($tablet) {
-
-  }
-
-  &.is-4,
-  &.is-5,
-  &.is-6 {
-    // font-size: 1.625rem;
-    margin-bottom: 0.5em;
-  }
-  &.is-7 {
-    margin: 1.5rem 0 0.5rem;
-  }
+#mission h3 {
+  margin-bottom: 0.5rem;
 }
 
 .subtitle.is-3 {
   font-size: 1.875rem;
-  @include from($tablet) {
+  @include from($desktop) {
     font-size: 3.125rem;
   }
   line-height: 1.12;
 }
 
-.title.is-1 {
-
-  @include from($desktop) {
-  }
-}
-.title.is-5 {
-  margin-bottom: 0.5rem;
-
-  @include from($tablet) {
-
-  }
-}
-
+.subtitle a,
 .title a,
 a.title {
   &:hover,
@@ -155,14 +147,21 @@ a.title {
     height: auto !important;
   }
 
-  &.is3by2,
+  &.is-4by3,
+  &.is-3by2,
   &.is-2by1,
-  &.is-3by1 {
+  &.is-3by1,
+  &.is-1by2 {
     img {
       top: 50% !important;
       left: 50% !important;
       transform: translate(-50%, -50%);
     }
+  }
+
+  &.is-300x300,
+  &.is-240x240 {
+    max-width: 100%;
   }
 }
 
@@ -177,6 +176,17 @@ a.title {
 
 // Hero
 
+.hero-head {
+  @include until($desktop) {
+    margin-top: 3.5rem;
+  }
+}
+
+
+.hero-body {
+  padding-top: 1.5rem;
+}
+
 .is-front .hero-body {
   @include from($desktop) {
     padding-top: 0rem !important;
@@ -184,9 +194,31 @@ a.title {
   }
 }
 
-.hero .image.is-2by1 {
+.hero .image {
+  padding-top: 175% !important;
+
+  @include from($tablet) {
+    padding-top: 150% !important;
+  }
+
+  @include from(550px) {
+    padding-top: 90% !important;
+  }
+
+  @include from(590px) {
+    padding-top: 75% !important;
+  }
+
   @include from($widescreen) {
-    padding-top: 55%;
+    padding-top: 55% !important;
+  }
+
+  @include until(590px) {
+    img {
+      height: 100% !important;
+      width: inherit !important;
+      max-width: inherit;
+    }
   }
 }
 
@@ -225,6 +257,17 @@ a.title {
 
 
 // Navbar
+
+.navbar-burger span {
+  height: 2px;
+}
+
+.navbar,
+.navbar > .container {
+  @include until($desktop) {
+    min-height: inherit;
+  }
+}
 
 .navbar-top {
   @include from($desktop) {
@@ -299,7 +342,9 @@ a.title {
 }
 
 .icon.is-large {
-  margin-left: 1rem;
+  @include from($desktop) {
+    margin-left: 1rem;
+  }
 }
 
 // Sections
@@ -309,14 +354,18 @@ a.title {
   margin-top: 3rem;
   margin-bottom: 3rem !important;
 
-  @include from($desktop) {
-    margin-top: 5.5rem;
-    margin-bottom: 5.5rem !important;
+  @include until($tablet) {
+    padding: 3rem 1.25rem;
+    margin: 2rem 0 !important;
   }
 
-  background-image: url("../images/box-upper.png"), url("../images/box-lower.png");
-  background-repeat: no-repeat;
-  background-position: top left, bottom right;
+  @include from($tablet) {
+    margin-top: 5.5rem;
+    margin-bottom: 5.5rem !important;
+    background-image: url("../images/box-upper.png"), url("../images/box-lower.png");
+    background-repeat: no-repeat;
+    background-position: 2% 0%, 98% 100%;
+  }
 
   strong {
     font-family: $family-monospace;
@@ -337,6 +386,19 @@ a.title {
 
 // Content
 
+// Mobile text
+@include until($desktop) {
+  #mission p,
+  .teaser-small p,
+  .teaser p,
+  .content > p,
+  .content > ul,
+  .content > ol,
+  footer p {
+    font-size: 1.0625rem !important;
+    line-height: 1.17647 !important;
+  }
+}
 
 // Läs mer faktaruta
 .services,
@@ -363,7 +425,16 @@ a.title {
 }
 
 .facts {
-  @include from($tablet) {
+
+  @include until($widescreen) {
+    background: $green;
+    position: absolute;
+    bottom: -2rem;
+    padding: 1rem 0.75rem;
+    width: 100%;
+  }
+
+  @include from($widescreen) {
     float: left;
     width: 25%;
     // width: 16.6666666667%;
@@ -375,11 +446,17 @@ a.title {
   }
 }
 
+.container.page {
+  @include until($widescreen) {
+    padding-bottom: 14rem;
+  }
+}
+
 // Citat
 .content blockquote {
   color: $pink;
   font-weight: bold;
-  font-size: 2.75rem;
+  font-size: 1.625rem;
   letter-spacing: -0.05em;
   line-height: 1.111;
 
@@ -387,16 +464,21 @@ a.title {
   p::after {
     content: '”';
   }
+  @include from($desktop) {
+    font-size: 2.75rem;
+  }
 }
 
 // Textmarginal
 .content > {
    p, h2, h3, h4, ul, ol, blockquote {
-    @include from($tablet) {
+    @include from($widescreen) {
       margin-left: 33.3333333333%;
-      width: 50%;
       padding-left: $column-gap;
       padding-right: $column-gap;
+    }
+    @include from($fullhd) {
+      width: 50%;
     }
 
     a {
@@ -405,9 +487,20 @@ a.title {
   }
 
   .box {
-    margin-left: 25%;
-    width: 66.6666666667%;
+
+    @include until($tablet) {
+      padding: 0;
+    }
+
+    @include from($widescreen) {
+      margin-left: 25%;
+    }
+
+    @include from($fullhd) {
+      width: 66.6666666667%;
+    }
   }
+
 }
 
 // Bild i text
@@ -426,24 +519,42 @@ a.title {
   .caption {
     font-style: normal;
     @include monospace;
-    border-top: 1px solid $black;
-    width: 25%;
-    float: left;
+    margin-bottom: 1.5rem;
     padding-top: 1rem;
+
+    @include from($widescreen) {
+      border-top: 1px solid $black;
+      width: 25%;
+      float: left;
+    }
   }
 
-  figure figcaption {
-    margin-top: 2.625rem;
+  @include from($widescreen) {
+    margin-top: 1rem;
+
+    figure figcaption {
+      margin-top: 2.625rem;
+    }
   }
 }
 
 .content > figure,
 .content .columns {
-  margin-top: 4rem;
+  margin-top: 2rem;
   margin-bottom: 2rem !important;
 
   &+ .columns {
     margin-top: -2.625rem;
+  }
+
+  @include until($widescreen) {
+    &+ .caption {
+      margin-top: -2.625rem;
+    }
+  }
+
+  @include from($widescreen) {
+    margin-top: 4rem;
   }
 }
 
@@ -455,39 +566,57 @@ a.title {
 .content dd {
   @include monospace;
   margin-left: 0;
-  padding: 0 7rem;
 
   &:first-of-type {
     clear: left;
   }
 
-  &:only-of-type {
-    padding: 0 20rem;
+  @include from($widescreen) {
+    padding: 0 7rem;
+
+    &:only-of-type {
+      padding: 0 20rem;
+    }
   }
 }
 
 .content dt {
-  font-size: 12.5rem;
+  font-size: 5rem;
   font-weight: bold;
   letter-spacing: -0.05em;
   line-height: 0.9;
 
+  @include from($widescreen) {
+    font-size: 12.5rem;
+  }
+
   &:only-of-type {
-    font-size: 22rem;
+    @include from($tablet) {
+      font-size: 7.5rem;
+    }
+    @include from($desktop) {
+      font-size: 12.5rem;
+    }
+    @include from($widescreen) {
+      font-size: 22rem;
+    }
   }
 }
 
 .content dt,
 .content dd {
   text-align: center;
+  margin-bottom: 1.5rem;
 
-  &:first-of-type:not(:only-of-type) {
-    width: 48%;
-    float: left;
-  }
+  @include from($tablet) {
+    &:first-of-type:not(:only-of-type) {
+      width: 48%;
+      float: left;
+    }
 
-  &:nth-of-type(2) {
-    margin-left: 50%;
+    &:nth-of-type(2) {
+      margin-left: 50%;
+    }
   }
 }
 
@@ -551,12 +680,21 @@ a.title {
 // Specific pages
 
 #featured.section {
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
+  @include from($widescreen) {
+    padding-bottom: 6rem;
+  }
 }
 
 #featured figure {
-  margin-bottom: 2.5rem;
+  margin-bottom: 1.25rem;
+
+  @include from($widescreen) {
+    margin-bottom: 2.5rem;
+    padding-top: 50%;
+  }
 }
+
 #featured .links {
   margin-top: 3.5rem;
 
@@ -567,15 +705,20 @@ a.title {
 
 #news .container,
 #project .container {
-  border-bottom: 1px solid;
+  @include from($desktop) {
+    border-bottom: 1px solid;
+}
 }
 
 #mission.section {
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
-#mission .columns {
-  margin-bottom: 2.5rem;
+#mission .column {
+  margin-bottom: 2rem;
+}
+#mission figure {
+  margin-bottom: .5rem;
 }
 
 #partners.section {
@@ -583,9 +726,18 @@ a.title {
   padding-bottom: 2rem;
 }
 
+#partners .column {
+  @include until($desktop) {
+    //max-width: 50%;
+    font-size: 0.7em;
+  }
+}
+
 #page.section {
-  padding-top: 6rem;
-  padding-bottom: 3rem;
+  @include from($desktop) {
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+  }
 }
 
 #contact {
@@ -597,10 +749,14 @@ a.title {
   }
 }
 
+.page-contact .content .columns {
+  margin: 0;
+}
+
+.prices,
 .services {
   figure {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin: 0 auto 1rem;
   }
 }
 
@@ -609,7 +765,7 @@ a.title {
 .columns-header {
   margin-bottom: 3rem !important;
 
-  @include from($desktop) {
+  @include from($widescreen) {
     margin-bottom: 6rem !important;
   }
 }
@@ -626,6 +782,12 @@ a.title {
 
 .teaser-small .image {
   margin-bottom: 1.75rem;
+}
+
+.teaser-small h3 {
+  @include from($desktop) {
+    font-weight: bold;
+  }
 }
 
 .teaser-crew {

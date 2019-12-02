@@ -1,20 +1,20 @@
 <section id="contact">
   <div class="container">
     <div class="columns is-centered">
-      <div class="column is-10">
+      <div class="column is-10-widescreen">
         <div class="box">
-          <h2 class="title is-3"><span class="has-background-primary is-padded">{{site.t[page.lang].contact-title}}</span></h2>
-          <p class="is-size-6">{{site.t[page.lang].contact-text }}</p>
+          <h2 class="title is-5 is-size-4-tablet is-size-3-widescreen"><span class="has-background-primary is-padded">{{site.t[page.lang].contact-title}}</span></h2>
+          <p class="is-size-7 is-size-6-widescreen">{{site.t[page.lang].contact-text }}</p>
 
           <div class="columns">
             {% assign crew=site.crew | where:"lang", page.lang | where:"title", "Sanna Ghotbi" %}
             {% for item in crew %}
-              <div class="column is-4">
+              <div class="column is-size-4">
                 <img src="{{site.baseurl}}{{item.image}}">
               </div>
               <div class="column">
-                <h3 class="title is-6">{{item.title}}</h3>
-                <p class="is-size-6">
+                <h3 class="title is-7 is-size-6-widescreen">{{item.title}}</h3>
+                <p class="is-size-7 is-size-6-widescreen">
                   {{item.job}}<br>
                   {{item.phone}}<br>
                   <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
