@@ -6,7 +6,7 @@
           <h2 class="title is-5 is-size-4-tablet is-size-3-widescreen"><span class="has-background-primary is-padded">{{site.t[page.lang].contact-title}}</span></h2>
           <p class="is-size-7 is-size-6-widescreen">{{site.t[page.lang].contact-text }}</p>
 
-          <div class="columns">
+          <div class="columns is-mobile">
             {% assign crew=site.crew | where:"lang", page.lang | where:"title", "Sanna Ghotbi" %}
             {% for item in crew %}
               <div class="column is-size-4">

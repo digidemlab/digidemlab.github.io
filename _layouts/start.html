@@ -66,7 +66,7 @@ layout: default
 
 <section id="mission" class="section">
   <div class="container mission has-background-info">
-    <h2 class="title is-6 is-size-5-tablet is-size-3-desktop">{{page.mission.title}}</h2>
+    <h2 class="title is-6 is-size-5-tablet is-size-3-widescreen">{{page.mission.title}}</h2>
     <div class="columns is-desktop is-multiline">
       {% for item in page.mission.item %}
         <div class="column is-full-desktop is-one-third-widescreen">
@@ -86,7 +86,7 @@ layout: default
 
 <section id="news" class="section">
   <div class="container">
-    <h2 class="title is-6 is-size-5-tablet is-size-3-desktop"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
+    <h2 class="title is-6 is-size-5-tablet is-size-3-widescreen"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
     <div class="columns is-desktop">
       {% include teaser-small.html limit=2 %}
     </div>

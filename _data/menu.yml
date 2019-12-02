@@ -1,9 +1,9 @@
 sv:
   primary:
-  - title: Uppdrag
-    url: /work/
   - title: Tjänster
     url: /services/
+  - title: Uppdrag
+    url: /work/
   - title: Om oss
     url: /about/
   secondary:
@@ -13,14 +13,14 @@ sv:
     url: /lab
 en:
   primary:
-  - title: Work
-    url: /work
   - title: Services
-    url: /services
+    url: /en/services/
+  - title: Work
+    url: /en/work/
   - title: About
-    url: /en/about
+    url: /en/about/
   secondary:
   - title: Contact
     url: /en/contact
-  - title: "Lab :bulb:"
-    url: /en/lab
+  - title: Lab
+    url: /lab/en

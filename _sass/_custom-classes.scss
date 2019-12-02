@@ -52,7 +52,7 @@ p > a:hover {
 }
 
 .read-more {
-  margin: 0.75rem 0;
+  margin: 1.5rem 0 0.75rem;
 
   a {
     font-weight: bold;
@@ -98,6 +98,20 @@ p > a:hover {
   line-height: 1.07;
 }
 
+.title:not(:last-child),
+.subtitle:not(:last-child) {
+  @include until($widescreen) {
+    margin-bottom: 1rem;
+  }
+}
+
+.column .title:not(:last-child),
+.column .subtitle:not(:last-child) {
+  @include until($widescreen) {
+    margin-bottom: 0.5rem;
+  }
+}
+
 #mission h3 {
   margin-bottom: 0.5rem;
 }
@@ -120,23 +134,25 @@ a.title {
 }
 
 .title .is-padded {
-  padding: 0 0.25em;
+  padding: 0 0.1em;
 }
 
-// Mission
+// Mission, Services
 
+.services,
 .mission {
-  padding: 1rem 1.5rem;
-
-  @include from($tablet) {
-    padding: 2rem 3rem;
-  }
+  padding: 1rem .5rem;
 
   @include from($desktop) {
     padding: 3rem 4.625rem 3.5rem;
   }
 }
 
+.services {
+  border: 1.5rem solid $grey-light;
+  max-width: 1370px;
+  margin: 0 auto;
+}
 
 // Card
 
@@ -195,25 +211,25 @@ a.title {
 }
 
 .hero .image {
-  padding-top: 175% !important;
+  padding-top: 120% !important;
 
-  @include from($tablet) {
-    padding-top: 150% !important;
-  }
+  // @include from($tablet) {
+  //   padding-top: 90% !important;
+  // }
 
   @include from(550px) {
-    padding-top: 90% !important;
+    padding-top: 80% !important;
   }
 
   @include from(590px) {
-    padding-top: 75% !important;
+    padding-top: 60% !important;
   }
 
   @include from($widescreen) {
     padding-top: 55% !important;
   }
 
-  @include until(590px) {
+  @include until($desktop) {
     img {
       height: 100% !important;
       width: inherit !important;
@@ -289,36 +305,38 @@ a.title {
   }
 }
 
-.navbar-menu a.navbar-item {
-  padding: 0.5rem 0.25rem 0 !important;
-  line-height: 1 !important;
-
-  &:hover,
-  &.is-active {
-    border-bottom-color: $white;
-  }
-}
-
 .navbar-start .navbar-item {
   font-weight: bold;
-
-  &:not(:last-child) {
-    margin-right: 1.625rem;
-  }
 }
 
-.navbar-end .navbar-item {
-  margin-right: 0.5rem;
+@include from($desktop) {
+  .navbar-menu a.navbar-item {
+    padding: 0.5rem 0.25rem 0 !important;
+    line-height: 1 !important;
 
-  &.item-lang-1 {
-    margin-right: 0 !important;
+    &:hover,
+    &.is-active {
+      border-bottom-color: $white;
+    }
   }
 
-  &.item-lang-2 {
-    padding-left: 0 !important;
-    &::before {
-      content: '|';
-      padding-right: 0.25rem !important;
+  .navbar-start .navbar-item:not(:last-child) {
+    margin-right: 1.625rem;
+  }
+
+  .navbar-end .navbar-item {
+    margin-right: 0.5rem;
+
+    &.item-lang-1 {
+      margin-right: 0 !important;
+    }
+
+    &.item-lang-2 {
+      padding-left: 0 !important;
+      &::before {
+        content: '|';
+        padding-right: 0.25rem !important;
+      }
     }
   }
 }
@@ -328,7 +346,7 @@ a.title {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  padding-top: 0 !important;
+  padding: 0 !important;
 }
 
 .navbar-item img {
@@ -339,11 +357,15 @@ a.title {
 
 .footer {
   background: linear-gradient(240deg, $pink 0%, $purple 100%);
+
+  @include until($desktop) {
+    padding-top: 3rem;
+  }
 }
 
 .icon.is-large {
   @include from($desktop) {
-    margin-left: 1rem;
+    margin-left: 0.5rem;
   }
 }
 
@@ -354,12 +376,12 @@ a.title {
   margin-top: 3rem;
   margin-bottom: 3rem !important;
 
-  @include until($tablet) {
+  @include until($desktop) {
     padding: 3rem 1.25rem;
     margin: 2rem 0 !important;
   }
 
-  @include from($tablet) {
+  @include from($desktop) {
     margin-top: 5.5rem;
     margin-bottom: 5.5rem !important;
     background-image: url("../images/box-upper.png"), url("../images/box-lower.png");
@@ -376,12 +398,7 @@ a.title {
   }
 }
 
-.services {
-  border: 1.5rem solid $grey-light;
-  max-width: 1370px;
-  margin: 0 auto;
-  padding: 3rem;
-}
+
 
 
 // Content
@@ -389,8 +406,10 @@ a.title {
 // Mobile text
 @include until($desktop) {
   #mission p,
+  .teaser-crew p,
   .teaser-small p,
   .teaser p,
+  .content .box p,
   .content > p,
   .content > ul,
   .content > ol,
@@ -429,7 +448,7 @@ a.title {
   @include until($widescreen) {
     background: $green;
     position: absolute;
-    bottom: -2rem;
+    bottom: 0;
     padding: 1rem 0.75rem;
     width: 100%;
   }
@@ -437,6 +456,9 @@ a.title {
   @include from($widescreen) {
     float: left;
     width: 25%;
+  }
+  @include from($fullhd) {
+    padding-left: 3rem;
     // width: 16.6666666667%;
     // margin-left: 8.3333333333%;
   }
@@ -488,7 +510,7 @@ a.title {
 
   .box {
 
-    @include until($tablet) {
+    @include until($desktop) {
       padding: 0;
     }
 
@@ -508,7 +530,10 @@ a.title {
   figure {
     margin-left: 0;
     margin-right: 0;
-    text-align: center;
+
+    @include from($widescreen) {
+      text-align: center;
+    }
 
     img {
       display: inline-block;
@@ -520,7 +545,7 @@ a.title {
     font-style: normal;
     @include monospace;
     margin-bottom: 1.5rem;
-    padding-top: 1rem;
+    padding-top: 0.5rem;
 
     @include from($widescreen) {
       border-top: 1px solid $black;
@@ -540,16 +565,16 @@ a.title {
 
 .content > figure,
 .content .columns {
-  margin-top: 2rem;
-  margin-bottom: 2rem !important;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem !important;
 
   &+ .columns {
-    margin-top: -2.625rem;
+    margin-top: -1.125rem;
   }
 
   @include until($widescreen) {
     &+ .caption {
-      margin-top: -2.625rem;
+      margin-top: -1.125rem;
     }
   }
 
@@ -559,7 +584,9 @@ a.title {
 }
 
 .content > figure {
-  margin-bottom: 3rem !important;
+  @include from($widescreen) {
+    margin-bottom: 3rem !important;
+  }
 }
 
 // Definition list, siffror
@@ -650,7 +677,8 @@ a.title {
 .content h4 {
   font-size: 1.3em;
   font-weight: bold;
-  margin-bottom: 0.5em;
+  margin-bottom: 0.25em;
+  letter-spacing: -0.03em;
 }
 
 .content h1,
@@ -667,30 +695,47 @@ a.title {
   font-weight: bold;
 }
 
-.content h2:not(:first-child) {
-  margin-top: 3rem;
-}
+@include from($desktop) {
+  .content h2:not(:first-child) {
+    margin-top: 3rem;
+  }
 
-.content h3:not(:first-child) {
-  margin-top: 1.75rem;
+  .content h3:not(:first-child) {
+    margin-top: 1.75rem;
+  }
 }
 
 
 
 // Specific pages
 
+.section {
+  @include until($desktop) {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+}
+
 #featured.section {
-  padding-bottom: 0rem;
+  padding-bottom: 0;
+
   @include from($widescreen) {
+    padding-top: 3rem;
     padding-bottom: 6rem;
   }
 }
 
+.teaser-small .image,
 #featured figure {
-  margin-bottom: 1.25rem;
+  margin-bottom: .625rem;
 
   @include from($widescreen) {
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
+  }
+}
+
+#featured figure {
+  @include from($widescreen) {
     padding-top: 50%;
   }
 }
@@ -715,7 +760,7 @@ a.title {
   padding-bottom: 1.5rem;
 }
 #mission .column {
-  margin-bottom: 2rem;
+  // margin-bottom: 2rem;
 }
 #mission figure {
   margin-bottom: .5rem;
@@ -734,6 +779,8 @@ a.title {
 }
 
 #page.section {
+  padding-top: 3rem;
+
   @include from($desktop) {
     padding-top: 6rem;
     padding-bottom: 3rem;
@@ -778,20 +825,32 @@ a.title {
 
 .columns.teaser {
   margin-top: 0 !important;
-}
+  margin-bottom: 1rem;
 
-.teaser-small .image {
-  margin-bottom: 1.75rem;
+  .column:first-of-type {
+    padding-bottom: 0;
+  }
 }
 
 .teaser-small h3 {
   @include from($desktop) {
     font-weight: bold;
+    margin-bottom: 1rem !important;
   }
 }
 
+.content .teaser-crew figure:not(:last-child) {
+  margin-bottom: 1rem;
+}
+.column .teaser-crew .title:not(:last-child) {
+  margin-top: 0;
+}
 .teaser-crew {
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
+
+  @include from($desktop) {
+    margin-bottom: 4rem;
+  }
 }
 
 .image-logo {
