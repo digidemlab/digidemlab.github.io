@@ -1,6 +1,5 @@
 ---
 title: Vårt erbjudande
-position: 1
 description: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande.
 ref: services
 links:
@@ -34,7 +33,7 @@ services:
         - text: Installation av medborgarplattform utifrån identifierade behov.
         - text: Anpassingar av färger och typsnitt.
         - text: Utbildning i användning och administration av plattformen.
-    - title: Drift och vidareutvecling
+    - title: Drift och vidareutveckling
       icon: /assets/images/icon-future.svg
       items:
         - text: Drift och hosting av plattformen.
@@ -58,7 +57,7 @@ prices:
     - title: Stor
       icon: /assets/images/icon-large.svg
       items:
-      - text: "Priser för större eller installa­tioner beräknas utifrån antal ­användare och behov av utbildning och support. Kontakta oss gärna för att få en prisuppskattning eller offert!"
+      - text: "Priser för större installa­tioner beräknas utifrån antal ­användare och behov av utbildning och support. Kontakta oss gärna för att få en prisuppskattning eller offert!"
 ---
 
 ## Inkluderande deltagande

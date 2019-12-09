@@ -84,24 +84,28 @@ layout: default
   </div>
 </section>
 
-<section id="news" class="section">
-  <div class="container">
-    <h2 class="title is-6 is-size-5-tablet is-size-3-widescreen"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
-    <div class="columns is-desktop">
-      {% include teaser-small.html limit=2 %}
+{% if page.lang == 'sv' %}
+  <section id="news" class="section">
+    <div class="container">
+      <h2 class="title is-6 is-size-5-tablet is-size-3-widescreen"><a href="https://news.digidemlab.org/">{{site.t[page.lang].news}}</a></h2>
+      <div class="columns is-desktop">
+        {% include teaser-small.html limit=2 %}
+      </div>
+      <p class="has-text-right-desktop has-text-centered read-more">
+        <a class="button" href="https://news.digidemlab.org/">{{site.t[page.lang].more-news}}</a>
+      </p>
     </div>
-    <p class="has-text-right-desktop has-text-centered read-more">
-      <a class="button" href="https://news.digidemlab.org/">{{site.t[page.lang].more-news}}</a>
-    </p>
-  </div>
-</section>
+  </section>
+{% endif %}
 
 {% include partners.html %}
 
-<section id="banner" class="section">
-  <div class="container">
-    <a href="/lab"><img src="{{site.baseurl}}/assets/images/banner-labbet.jpg"></a>
-  </div>
-</section>
+{% for item in page.banner %}
+  <section id="banner" class="section">
+    <div class="container">
+      <a href="{{item.url}}"><img src="{{site.baseurl}}{{item.image}}"></a>
+    </div>
+  </section>
+{% endfor %}
 
 {% include footer.html %}

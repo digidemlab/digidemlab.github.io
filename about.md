@@ -1,14 +1,12 @@
 ---
 title: Vi är Digidem Lab
-position: 1
-description: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+description: "Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella erfarenheter inom medborgardeltagande."
 ref: about
 image: "/uploads/medialab.jpg"
-ingress-text: Vi arbetar utifrån Demokratiutredningens mål och beprövade internationella erfarenheter inom medborgardeltagande.
+ingress-text: "Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella erfarenheter inom medborgardeltagande."
 
 ---
 
-## Rubrik här?
 Det gör vi genom att erbjuda metoder och verktyg för medborgardeltagande som inkluderar underrepresenterade grupper i beslutsfattande.
 
 Utgångspunkter är att skapa långsiktiga strukturerför dialog-processer. Medborgare ska känna sig trygga och stärkta i sitt deltagande och tjänstepersoner få effektiva verktyg för att förankra arbetssätt och metodik internt.

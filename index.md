@@ -16,9 +16,8 @@ mission:
   - title: Enklare hantering av dialoger
     image: /uploads/paris-small.jpg
     text: Genom att implementera en digital plattform för dialog kan kommuner samla sina processer på en och samma plats. Det underlättar för medborgarna och förenklar det långsiktiga demokratiarbetet.
-news-flash:
-  - text: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande. Vi hjälper er med processdesign av deltagandeprocesser, installation och utbildning i digitala plattformar för deltagande och erbjuder workshops och föreläsningar.
-    link-title: Läs mer om våra tjänster
-    link: /services
+banner:
+  - image: /assets/images/banner-labbet.jpg
+    url: /lab
 layout: start
 ---

@@ -90,7 +90,7 @@ t:
     contact-title: Vill du veta mer?
     contact-text: Kontakta oss för att diskutera gemensamma projekt eller få ett prisförslag på våra tjänster.
   en:
-    mission: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+    mission: Digidem Lab offers services and develops platforms for the participatory democracy of the future.
     language: English
     member:
     - title: Member of Global Participatory Budgeting Hub.
@@ -109,5 +109,4 @@ t:
     more-news: More news
     read-more: Read more
     contact-title: Get in touch!
-    contact-text: Digidem Lab is a non-profit organisation promoting participatory democracy
-      on all levels of society. Get in touch to talk about project ideas or cooperation!
+    contact-text: Get in touch to discuss ideas for projects or cooperation.
