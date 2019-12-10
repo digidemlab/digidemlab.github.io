@@ -10,7 +10,7 @@ sv:
   - title: Kontakt
     url: /contact/
   - title: Labb
-    url: /lab
+    url: /lab/
 en:
   primary:
   - title: Services
@@ -21,6 +21,6 @@ en:
     url: /en/about/
   secondary:
   - title: Contact
-    url: /en/contact
+    url: /en/contact/
   - title: Lab
-    url: /lab/en
+    url: /lab/en/
