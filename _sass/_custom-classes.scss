@@ -74,21 +74,36 @@ p > a:hover {
   font-size: 3.375rem;
   line-height: 0.95;
   letter-spacing: -0.05em;
+  &.lang-en {
+    font-size: 3rem;
+  }
 
   @include from($tablet) {
     font-size: 4.375rem;
+    &.lang-en {
+      font-size: 4rem;
+    }
   }
 
   @include from(550px) {
     font-size: 6rem;
+    &.lang-en {
+      font-size: 5rem;
+    }
   }
 
   @include from($desktop) {
     font-size: 7.5rem;
+    &.lang-en {
+      font-size: 7rem;
+    }
   }
 
   @include from($widescreen) {
     font-size: 11.25rem;
+    &.lang-en {
+      font-size: 10rem;
+    }
   }
 }
 
@@ -164,7 +179,7 @@ a.title {
 
     &.cut-height {
       max-width: inherit;
-      
+
     }
   }
 

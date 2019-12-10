@@ -8,9 +8,11 @@ layout: default
   <!-- Hero content: will be in the middle -->
   <div class="hero-body">
     <div class="container has-text-centered">
-      <figure class="image is-2by1">
-        <img src="{{site.baseurl}}{{page.image}}">
-      </figure>
+      {% if page.image %}
+        <figure class="image is-2by1">
+          <img src="{{site.baseurl}}{{page.image}}">
+        </figure>
+      {% endif %}
     </div>
   </div>
 

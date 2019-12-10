@@ -2,8 +2,6 @@ _site
 .sass-cache
 .jekyll-metadata
 .DS_Store
-path
 .bundle
 Gemfile.lock
-bower_components
 *.sh
