@@ -1,16 +1,18 @@
 ---
 title: Medborgarbudget i Majorna-Linné
-featured: true
 date: 2019-09-10 17:21:00 Z
+featured: true
 ref: majorna-linne
 excerpt: Medborgarbudget med Consul i Majorna-Linné
-ingress-text: Digidem Lab har översatt och anpassat världens största medborgarplattform Consul till svenska förhållanden. Nu blir stadsdelen Majorna-Linné i Göteborg först i Norden att använda den.
+ingress-text: Digidem Lab har översatt och anpassat världens största medborgarplattform
+  Consul till svenska förhållanden. Nu blir stadsdelen Majorna-Linné i Göteborg först
+  i Norden att använda den.
 image: "/uploads/majorna.jpg"
 links:
-  - title: Majorna-Linnés medborgarbudget
-    url: https://majorna.demokratiskastader.se/
-  - title: Mer om Consul
-    url: https://demokratiskastader.se/consul/
+- title: Majorna-Linnés medborgarbudget
+  url: https://majorna.demokratiskastader.se/
+- title: Mer om Consul
+  url: https://demokratiskastader.se/consul/
 ---
 
 ### Uppdraget

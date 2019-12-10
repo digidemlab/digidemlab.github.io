@@ -1,10 +1,11 @@
 ---
 title: Vi är Digidem Lab
-description: "Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella erfarenheter inom medborgardeltagande."
+description: Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella
+  erfarenheter inom medborgardeltagande.
 ref: about
 image: "/uploads/medialab.jpg"
-ingress-text: "Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella erfarenheter inom medborgardeltagande."
-
+ingress-text: Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella
+  erfarenheter inom medborgardeltagande.
 ---
 
 Det gör vi genom att erbjuda metoder och verktyg för medborgardeltagande som inkluderar underrepresenterade grupper i beslutsfattande.

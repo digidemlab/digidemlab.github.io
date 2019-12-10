@@ -1,17 +1,19 @@
 ---
 title: Participatory budget in Gothenburg
+date: 2019-09-10 17:21:00 Z
 featured: true
 lang: en
-date: 2019-09-10 17:21:00 Z
 ref: majorna-linne
 excerpt: First participatory budget with Consul in Sweden.
-ingress-text: Digidem Lab has translated and adapted the world's most used citizen participation platform Consul. Now Gothenburg becomes the first city in the Nordic countries to use it, for the city district Majorna-Linné.
+ingress-text: Digidem Lab has translated and adapted the world's most used citizen
+  participation platform Consul. Now Gothenburg becomes the first city in the Nordic
+  countries to use it, for the city district Majorna-Linné.
 image: "/uploads/majorna.jpg"
 links:
-  - title: Participatory budget for Majorna-Linné
-    url: https://majorna.demokratiskastader.se/
-  - title: More about Consul
-    url: http://consulproject.org/en/
+- title: Participatory budget for Majorna-Linné
+  url: https://majorna.demokratiskastader.se/
+- title: More about Consul
+  url: http://consulproject.org/en/
 ---
 
 ### Assignment

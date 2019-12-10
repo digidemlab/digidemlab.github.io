@@ -1,13 +1,13 @@
 ---
 title: Participatory budget for residents
-featured: true
 date: 2019-08-01 17:21:00 Z
+featured: true
 ref: boendebudget
 lang: en
 excerpt: Process design and trainings for participatory budgeting for residents.
-ingress-text: Gothenburg's public housing company, Bostadsbolaget, and Digidem Lab creates the first participatory budget process for tenants in the Nordic countries.
+ingress-text: Gothenburg's public housing company, Bostadsbolaget, and Digidem Lab
+  creates the first participatory budget process for tenants in the Nordic countries.
 image: "/uploads/biskopsgarden.jpg"
-
 ---
 
 Bostadsbolaget set aside SEK 100,000 in 2019, for their residents in the district of Norra Biskopsgården to decide about. The participatory budget for 2019 was a pilot to try out the method, with the intention of continuing in 2020.

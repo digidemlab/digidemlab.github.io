@@ -2,16 +2,16 @@
 title: Digidem Lab
 timezone: UTC
 collections:
-  projects:
-    title: Projects
-    output: true
-    permalink: "/:title/"
   crew:
     title: Crew
     output: false
   posts:
     title: Posts
     output: true
+  projects:
+    title: Projects
+    output: true
+    permalink: "/:title/"
   uploads:
     title: Uploads
     output: true
@@ -48,7 +48,7 @@ defaults:
     lang: sv
 permalink: "/:title/"
 email: admin@digidemlab.org
-baseurl:
+baseurl: 
 url: https://digidemlab.org
 author: Digidem Lab
 twitter:
@@ -69,17 +69,19 @@ plugins:
 - jekyll-seo-tag
 t:
   sv:
-    mission: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+    mission: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens
+      deltagande demokrati.
     language: Svenska
     member:
     - title: Styrelsemedlem i Global Participatory Budgeting Hub.
-      image: /assets/images/logo-pbp.png
+      image: "/assets/images/logo-pbp.png"
       url: https://www.participatorybudgeting.org/globalpbhub/
-    - title: Styrelsemedlem och medgrundare till internationella Consul Democracy Foundation.
-      image: /assets/images/logo-consul.png
+    - title: Styrelsemedlem och medgrundare till internationella Consul Democracy
+        Foundation.
+      image: "/assets/images/logo-consul.png"
       url: https://consulproject.org
     - title: Utveckling av medborgardialog i Göteborg och Stockholm med stöd av Vinnova.
-      image: /assets/images/logo-vinnova.png
+      image: "/assets/images/logo-vinnova.png"
       url: https://www.vinnova.se/
     project-link: Läs mer om uppdraget
     more-projects: Fler uppdrag
@@ -88,19 +90,22 @@ t:
     more-news: Fler nyheter
     read-more: Läs mer
     contact-title: Vill du veta mer?
-    contact-text: Kontakta oss för att diskutera gemensamma projekt eller få ett prisförslag på våra tjänster.
+    contact-text: Kontakta oss för att diskutera gemensamma projekt eller få ett prisförslag
+      på våra tjänster.
   en:
-    mission: Digidem Lab offers services and develops platforms for the participatory democracy of the future.
+    mission: Digidem Lab offers services and develops platforms for the participatory
+      democracy of the future.
     language: English
     member:
     - title: Board member of Global Participatory Budgeting Hub.
-      image: /assets/images/logo-pbp.png
+      image: "/assets/images/logo-pbp.png"
       url: https://www.participatorybudgeting.org/globalpbhub/
     - title: Co-founder and board member of Consul Democracy Foundation.
-      image: /assets/images/logo-consul.png
+      image: "/assets/images/logo-consul.png"
       url: https://consulproject.org
-    - title: Developing new methods for citizen participation with the support of Vinnova.
-      image: /assets/images/logo-vinnova.png
+    - title: Developing new methods for citizen participation with the support of
+        Vinnova.
+      image: "/assets/images/logo-vinnova.png"
       url: https://www.vinnova.se/en/
     project-link: Read about the project
     more-projects: More projects
