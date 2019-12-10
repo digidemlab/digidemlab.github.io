@@ -1,15 +1,21 @@
 <section id="partners" class="section">
   <div class="container">
     <h2 class="title section-title has-text-centered">{{site.t[page.lang].partner-title}}</h2>
-    <div class="columns partners is-mobile is-multiline">
+    <div class="columns partners is-desktop">
       {% for item in site.t[page.lang].member %}
-        <div class="column is-half-mobile is-half-tablet is-one-third-desktop">
-          <a href="{{item.url}}" title="{{item.title}}">
-            <figure class="image is-3by1 image-logo">
-                <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
-            </figure>
-          </a>
-          <p>{{item.title}}</p>
+        <div class="column">
+          <div class="columns is-mobile is-multiline is-vcentered">
+            <div class="column is-one-third-mobile is-one-third-tablet is-full-desktop">
+              <a href="{{item.url}}" title="{{item.title}}">
+                <figure class="image is-3by1 image-logo">
+                    <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
+                </figure>
+              </a>
+            </div>
+            <div class="column is-half-tablet is-full-desktop">
+              <p>{{item.title}}</p>
+            </div>
+          </div>
         </div>
       {% endfor %}
     </div>
