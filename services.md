@@ -9,7 +9,7 @@ image: "/uploads/usertesting-top.jpg"
 ingress-text: Vi skapar medborgarcentrerade processer utifrån beprövade metoder för att särskilt nå underrepresenterade grupper.
 links:
   - title: "Ladda ner vår brief \"En stad för alla\" med mer information om  hur vi jobbar."
-    url: https://majorna.demokratiskastader.se/
+    url: "/assets/files/Digidem Lab - En stad för alla.pdf"
   - title: På Demokratistäder.se finns mer information om plattformarna Consul och Decidim.
     url: https://demokratiskastader.se/
 contact: true
@@ -24,7 +24,7 @@ services:
     - title: Processdesign
       icon: /assets/images/icon-process.svg
       items:
-        - text: Design av stegför-stegmodell med instruk-tioner om varje fas.
+        - text: Design av steg-för-ste-gmodell med instruktioner om varje fas.
         - text: Förankring av metoder i arbets- och ledningsgrupp.
         - text: Workshop för nyckelpersoner bland medarbetare och civilsamhälle.
     - title: Teknisk utveckling
@@ -45,15 +45,15 @@ prices:
     - title: Liten
       icon: /assets/images/icon-small.svg
       items:
-      - text: "Dialog i med färre än 20 000 potentiella deltagare"
+      - text: "Dialog med färre än 20 000 potentiella deltagare"
       - text: "Behovsanalys, processdesign och teknisk utveckling: 40 000 kr"
-      - text: "Drift och hosting: 2 000 kr per aktiv månad, 1 000 kr per inaktiv månad"
+      - text: "Drift och hosting: 2000 kr per aktiv månad, 1000 kr per inaktiv månad"
     - title: Mellan
       icon: /assets/images/icon-medium.svg
       items:
-      - text: "Kommun eller stadsdel med 20.000–80.000 invånare"
-      - text: "Behovsanalys, processdesign och teknisk utveckling: 60.000 kr"
-      - text: "Drift och hosting: 5.000 kr per aktiv månad, 2.500 kr per inaktiv månad."
+      - text: "Kommun eller stadsdel med 20 000–80 000 invånare"
+      - text: "Behovsanalys, processdesign och teknisk utveckling: 60 000 kr"
+      - text: "Drift och hosting: 5000 kr per aktiv månad, 2500 kr per inaktiv månad."
     - title: Stor
       icon: /assets/images/icon-large.svg
       items:
@@ -77,9 +77,11 @@ Plattformarna vi arbetar med har öppen källkod. Det gör att ni aldrig är lå
 Genom att implementera en digital plattform för dialoger kan kommuner samla sina processer på en och samma plats. Det underlättar för medborgarna och förenklar det långsiktiga demokratiarbetet.
 Tjänstepersoner kan enkelt få ut statistik, en bredare bild över vilka som deltar och en överblick över prioriterade frågor i kommunens arbete. Det går också att genomföra olika typer av dialoger samtidigt på en samlad och tydlig plattform.
 
+<!--
 <figure class="image is-2by1">
   <img src="{{site.baseurl}}/uploads/usertesting.jpg" alt="Usertesting of Consul">
 </figure>
+-->
 <div class="columns">
   <div class="column">
     <figure class="image is-2by1">

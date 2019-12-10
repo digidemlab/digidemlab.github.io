@@ -8,4 +8,4 @@ mail: anna@digidemlab.org
 category: Digidem Lab
 ---
 
-Facilitator, internationell projektledare och expert i deltagandeprocesser.
+Anna är medgrundare av Digidem Lab, facilitator, internationell projektledare och expert i deltagandeprocesser.

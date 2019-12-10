@@ -11,31 +11,23 @@ links:
     url: https://majorna.demokratiskastader.se/
   - title: Mer om Consul
     url: https://demokratiskastader.se/consul/
-banners:
-- image: "/uploads/majorna-3-standard.jpg"
-  format: normal
-- image: "/uploads/majorna-1-standard.jpg"
-  format: normal
-- image: "/uploads/majorna-2-bred.jpg"
-  format: wide
-quotes:
-- text: Majorna-Linné gör sin andra medborgarbudget på totalt 450 000 kr. Stadsdelen är den största i Göteborgs Stad med 64 000 invånare.
-partner-text: Av de tio stadsdelarna i Göteborgs Stad är Majorna-Linné befolkningsmässigt den största med över 64 000 invånare. Stadsdelen består i sin tur av nio primärområden; Sanna, Kungsladugård, Majorna, Stigberget, Masthugget, Olivedal, Haga, Annedal och Änggården.
-partner-links:
-- name: Majorna-Linné stadsdelsförvaltning
-  logo: "/uploads/logotyp-goteborgsstad.png"
-  link: https://majorna.demokratiskastader.se/
 ---
 
 ### Uppdraget
 Majorna-Linné genomför under hösten 2019 sin andra medborgarbudget i syfte att uppnå målen om ett jämlikt Göteborg. Alla som bor eller verkar i Majorna-Linné kan lägga förslag och rösta om vilka förslag som ska genomföras med en budget på 450 000 kr. Stadsdelen hade som önskemål att digitalisera sin process och göra medborgarbudgeten mer transparent för medborgarna och inledde därför ett samarbete med Digidem Lab.
+
+64 000
+: Stadsdelen är den största i Göteborgs Stad med 64 000 invånare.
+
+450 000
+: Majorna-Linné gör sin andra medborgarbudget på totalt 450 000 kr.
 
 ### Önskemål
 Stadsdelen ville digitalisera och öppna upp sin process och tog därför hjälp av oss på Digidem Lab. Baserat på Majorna-Linnés specifika behov av en plattform som är lätt för tjänstepersoner att lära sig hantera och som tillåter ökad kommunikation mellan medarbetare och medborgare valde vi Consul. I plattformen finns färdiga strukturer för att bygga en medborgarbudget som tjänstepersoner oavsett tidigare kunskaper kan börja använda på en gång. Stadsdelen kan skapa olika roller för de medarbetare som ska medverka i dialogen och kan enkelt delegera kostnadsfrågor till berörda förvaltningar. Medarbetare på medborgarkontor, bibliotek eller andra öppna verksamheter kan få inlogg för att assistera medborgare när de lägger förslag.
 
 <figure>
   <img src="/uploads/majorna-2-bred.jpg" alt="Möte i Majorna">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+  <figcaption>Ett av workshop&shy;tillfällena för Majorna-Linné.</figcaption>
 </figure>
 
 ## Lösningen
@@ -58,20 +50,8 @@ Medborgarbudget är en välbeprövad metod som testats i över 1500 städer och 
     </figure>
   </div>
 </div>
-<div class="caption">Fig.1 - Trulli, Puglia, Italy.</div>
+<div class="caption">Workshop och utbildningsmaterial för tjänstepersoner.</div>
 
-sjklafjas kldfjslad öfjskaldfj lksadjf klsajfdlk 
 
 ## Om Majorna-Linné stadsdel
 Av de tio stadsdelarna i Göteborgs Stad är Majorna-Linné befolkningsmässigt den största med över 64 000 invånare. Stadsdelen består i sin tur av nio primärområden; Sanna, Kungsladugård, Majorna, Stigberget, Masthugget, Olivedal, Haga, Annedal och Änggården.
-
-1 268
-: Förklaringstext et renim, santetur, solupid essi dit estrunta lorem satee wiss merate.
-
----
-
-59%
-: Förklaringstext et renim, santetur, solupid essi dit estrunta lorem satee wiss merate.
-
-128
-: Förklaringstext et renim, santetur, solupid essi dit estrunta lorem satee wiss merate.

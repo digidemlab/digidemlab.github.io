@@ -9,6 +9,4 @@ mail: anna@digidemlab.org
 category: Digidem Lab
 ---
 
-Community organiser specialised in film and digital media for participation
- and empowerment. Has previously worked for a film studio in Ouagadougou, as a youth
- worker in Cali and as a peace observer in Chiapas.
+Anna is a cofounder of Digidem Lab, facilitator, international project manager and expert in participatory processes.

@@ -8,4 +8,4 @@ mail: sanna@digidemlab.org
 category: Digidem Lab
 ---
 
-Tidigare kommunfullmäktigeledamot i Göteborg, kurshållare i deltagande med digitala verktyg och styrelseledamot i Consul Democracy Foundation.
+Tidigare kommunfullmäktigeledamot i Göteborg, kurshållare i deltagande med digitala verktyg och styrelseledamot i Global Participatory Budgeting Hub och Consul Democracy Foundation.

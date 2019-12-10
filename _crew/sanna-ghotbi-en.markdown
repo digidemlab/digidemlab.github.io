@@ -9,7 +9,4 @@ mail: sanna@digidemlab.org
 category: Digidem Lab
 ---
 
-Sanna Ghotbi is a campaigner for refugee's rights, environmental issues
-  and an elected representative for the feminist party in the local council of Gothenburg.
-  She is active in the municipalist movement, and is working for Digidem Lab to advance
-  deliberative democracy at the city level in Sweden.
+Previously on the Gothenburg city council, Sanna is now a speaker and trainer in participation and digital platforms and a board member of Global Participatory Budgeting Hub and Consul Democracy Foundation.

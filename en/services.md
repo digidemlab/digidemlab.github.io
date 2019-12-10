@@ -16,7 +16,7 @@ services:
     - title: Process design
       icon: /assets/images/icon-process.svg
       items:
-        - text: Design of a step-by-step modell with instructions for every phase.
+        - text: Design of a step-by-step model with instructions for every phase.
         - text: Getting support for the methods from relevant decision makers.
         - text: Workshops for key people from staff and the local community.
     - title: Technical development
@@ -37,7 +37,7 @@ prices:
     - title: Small
       icon: /assets/images/icon-small.svg
       items:
-      - text: "Process with less than 20 000 potential participants."
+      - text: "Process with less than 20.000 potential participants."
       - text: "Initial assessment, process design and technical development: € 4000"
       - text: "Service and hosting: € 200 per active month, € 100 per inactive."
     - title: Medium
@@ -61,9 +61,11 @@ We use Consul and Decidim, two of the most advanced digital platforms for citize
 ## Simpler administration of dialogues
 By implementing a digital platform for citizen participation, local authorities can administer all their processes from one place.
 
+<!--
 <figure class="image is-2by1">
   <img src="{{site.baseurl}}/uploads/usertesting.jpg" alt="Usertesting of Consul">
 </figure>
+-->
 <div class="columns">
   <div class="column">
     <figure class="image is-2by1">

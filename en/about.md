@@ -1,15 +1,14 @@
 ---
 title: We are Digidem Lab
-description: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens deltagande demokrati.
+description: We work to improve citizen participation according to the UN Global Goals.
 ref: about
 image: "/uploads/medialab.jpg"
-ingress-text: Vi arbetar utifrån Demokratiutredningens mål och beprövade internationella erfarenheter inom medborgardeltagande.
-
+ingress-text: We work to improve citizen participation according to the UN Global Goals.
 ---
 
-Det gör vi genom att erbjuda metoder och verktyg för medborgardeltagande som inkluderar underrepresenterade grupper i beslutsfattande.
+We do this by providing methods and platforms for citizen participation and decision making with a focus on under-represented groups.
 
-Utgångspunkter är att skapa långsiktiga strukturerför dialog-processer. Medborgare ska känna sig trygga och stärkta i sitt deltagande och tjänstepersoner få effektiva verktyg för att förankra arbetssätt och metodik internt.
+The aim is to create sustainable frameworks for citizen participaton. Citizens should feel reassured and empowered in their participation and civil servants should have access to effective tools to administer participation.
 
 <div class="box">
   <h2>The Global Goals</h2>
@@ -19,8 +18,9 @@ Utgångspunkter är att skapa långsiktiga strukturerför dialog-processer. Medb
   <p><strong>11.3</strong> By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries.</p>
 </div>
 
-En viktig del av vårt arbete är att vi också är ett labb - en plats för att utveckla och testa framtidens verktyg och metoder. Vi har hittills stöttat omkring 30 projekt, genomförda av unga personer, och genom nätverket [CivicTechSweden](http://civictech.se) ordnar vi hackathons och Meetups för att utveckla nya digitala tjänster för samhällsnytta.
+An important part of our work is also to be a lab - a place to test and develop new methods and platforms. Digidem Lab has sponsored [over 30 projects](/lab/en/) by young people, and are founders of  [Civic Tech Sweden](http://civictech.se/en), a network for strengthening the civic tech sector.
 
+<!---
 <div class="columns">
   <div class="column">
     <figure>
@@ -45,3 +45,4 @@ En viktig del av vårt arbete är att vi också är ett labb - en plats för att
     </figure>
   </div>
 </div>
+-->
