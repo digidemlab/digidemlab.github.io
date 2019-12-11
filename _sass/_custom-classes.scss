@@ -23,6 +23,24 @@
   }
 }
 
+@mixin gradients($color1, $color2, $color3) {
+  background-image: linear-gradient(125deg, $color1, $color2, $color3);
+  background-size: 200% 200%;
+  animation: bganimation 60s infinite;
+}
+
+@keyframes bganimation {
+  0%{
+    background-position: 0% 0%;
+  }
+  50%{
+    background-position: 100% 100%;
+  }
+  100%{
+    background-position: 0% 0%;
+  }
+}
+
 // Links
 
 aside a:hover,
@@ -195,7 +213,8 @@ a.title {
   &.is-3by2,
   &.is-2by1,
   &.is-3by1,
-  &.is-1by2 {
+  &.is-1by2,
+  &.is-1by1 {
     img {
       top: 50% !important;
       left: 50% !important;
@@ -269,26 +288,14 @@ a.title {
 }
 
 .hero {
-  background-image: linear-gradient(125deg,$purple,$pink,$yellow,$green,$ash);
-  background-size: 400% 400%;
-  animation: bganimation 30s infinite;
+  @include gradients($purple,$pink,$yellow);
 }
 
-@keyframes bganimation {
-  0%{
-    background-position: 0% 0%; // Purple & Pink
-  }
-  25%{
-    background-position: 25% 25%; // Pink & Yellow
-  }
-  50%{
-    background-position: 100% 100%; // Green & Ash
-  }
-  75%{
-    background-position: 25% 25%; // Pink & Yellow
-  }
-  100%{
-    background-position: 0% 0%; // Purple & Pink
+#page-services,
+#page-about,
+#page-majorna-linne {
+  .hero {
+    @include gradients($green,$ash,$pink);
   }
 }
 
@@ -331,7 +338,7 @@ a.title {
 
 .hero .navbar-item {
   color: $navbar-item-color !important;
-  border-bottom: 1px solid transparent;
+  border-bottom: 2px solid transparent;
 
   &:hover,
   &.is-active {
@@ -401,6 +408,10 @@ a.title {
 .footer {
   background: linear-gradient(240deg, $pink 0%, $purple 100%);
 
+  p {
+    margin-bottom: .5em;
+  }
+
   @include until($desktop) {
     padding-top: 3rem;
     padding-bottom: 3rem;
@@ -433,9 +444,7 @@ a.title {
   }
 
   @include from($desktop) {
-    margin-top: 5.5rem;
-    margin-bottom: 5.5rem !important;
-    background-image: url("../images/box-upper.png"), url("../images/box-lower.png");
+    background-image: url("../images/box-top.png"), url("../images/box-bottom.png");
     background-repeat: no-repeat;
     background-position: 2% 0%, 98% 100%;
   }
@@ -793,6 +802,10 @@ a.title {
   @include until($desktop) {
     padding-top: 1.75rem;
     padding-bottom: 1rem;
+
+    &#prices {
+      padding-top: 2.5rem;
+    }
   }
 }
 
@@ -882,6 +895,25 @@ a.title {
 .prices {
   figure {
     margin: 0 auto;
+    max-width: 300px;
+  }
+
+  h2.title {
+    margin-bottom: 1rem !important;
+
+    @include from($desktop) {
+      margin-bottom: 3rem !important;
+    }
+  }
+
+  @include until($desktop) {
+    .columns .column .columns .column {
+      padding-top: 0;
+
+      &:first-of-type {
+        padding-top: 1.5rem;
+      }
+    }
   }
 }
 
