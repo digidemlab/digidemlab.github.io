@@ -51,8 +51,8 @@
   {{ content }}
 
   <!-- JavaScript -->
-  <script src="{{ "/assets/js/holder.min.js" | prepend: full_base_url }}"></script>
   <script>
+  // Menu
   document.addEventListener('DOMContentLoaded', () => {
 
     // Get all "navbar-burger" elements
@@ -78,6 +78,13 @@
     }
 
   });
+
+    // Page links
+    var box = document.querySelector('.facts');
+    var height = box.clientHeight;
+    var parent = box.parentNode;
+    parent.style.paddingBottom = height+'px';
+
   </script>
 </body>
 </html>

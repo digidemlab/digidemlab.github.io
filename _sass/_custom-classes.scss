@@ -511,8 +511,8 @@ a.title {
 }
 
 .container.page {
-  @include until($widescreen) {
-    padding-bottom: 14rem;
+  @include from($widescreen) {
+    padding-bottom: 0 !important;
   }
 }
 
@@ -607,16 +607,16 @@ a.title {
 
 .content > figure,
 .content .columns {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem !important;
+  margin-top: 1rem;
+  margin-bottom: 1rem !important;
 
   &+ .columns {
-    margin-top: -1.125rem;
+    margin-top: -0.625rem;
   }
 
   @include until($widescreen) {
     &+ .caption {
-      margin-top: -1.125rem;
+      margin-top: -1rem;
     }
   }
 
@@ -720,7 +720,7 @@ a.title {
 }
 
 .content > p:last-of-type {
-  margin-bottom: 4rem;
+  // margin-bottom: 2rem;
 }
 
 .content blockquote {
@@ -866,7 +866,12 @@ a.title {
   margin: 0;
 }
 
-.prices,
+.prices {
+  figure {
+    margin: 0 auto;
+  }
+}
+
 .services {
   figure {
     margin: 0 auto 1rem;
@@ -875,8 +880,8 @@ a.title {
 
 // Page
 
-.columns-header {
-  margin-bottom: 3rem !important;
+.columns.columns-header {
+  margin-bottom: 4rem !important;
 
   @include from($widescreen) {
     margin-bottom: 6rem !important;

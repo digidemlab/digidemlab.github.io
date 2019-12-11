@@ -83,12 +83,12 @@ Tjänstepersoner kan enkelt få ut statistik, en bredare bild över vilka som de
 -->
 <div class="columns">
   <div class="column">
-    <figure class="image is-2by1">
+    <figure class="image is-3by2">
       <img src="{{site.baseurl}}/uploads/workshop.jpg" alt="Workshop">
     </figure>
   </div>
   <div class="column">
-    <figure class="image is-2by1">
+    <figure class="image is-3by2">
       <img src="{{site.baseurl}}/uploads/paris2.jpg" alt="Participatory budget in Paris">
     </figure>
   </div>
