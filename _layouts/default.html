@@ -80,10 +80,12 @@
   });
 
     // Page links
-    var box = document.querySelector('.facts');
-    var height = box.clientHeight;
-    var parent = box.parentNode;
-    parent.style.paddingBottom = height+'px';
+    if (document.querySelector('.facts')) {
+      var box = document.querySelector('.facts');
+      var height = box.clientHeight;
+      var parent = box.parentNode;
+      parent.style.paddingBottom = height+'px';
+    }
 
   </script>
 </body>

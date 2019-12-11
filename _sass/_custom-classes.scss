@@ -115,9 +115,9 @@ p > a:hover {
 
 .title:not(:last-child),
 .subtitle:not(:last-child) {
-  @include until($widescreen) {
-    margin-bottom: 1rem;
-  }
+  //@include until($widescreen) {
+    margin-bottom: 0.875rem;
+  //}
 }
 
 .column .title:not(:last-child),
@@ -329,9 +329,9 @@ a.title {
   font-size: 1.5rem;
 }
 
-.hero a.navbar-item {
+.hero .navbar-item {
   color: $navbar-item-color !important;
-  border-bottom: 7px solid transparent;
+  border-bottom: 1px solid transparent;
 
   &:hover,
   &.is-active {
@@ -344,13 +344,13 @@ a.title {
 }
 
 @include from($desktop) {
-  .navbar-menu a.navbar-item {
+  .navbar-menu .navbar-item {
     padding: 0.5rem 0.25rem 0 !important;
     line-height: 1 !important;
 
     &:hover,
     &.is-active {
-      border-bottom-color: $white;
+      border-bottom-color: $black;
     }
   }
 
@@ -363,14 +363,17 @@ a.title {
 
     &.item-lang-1 {
       margin-right: 0 !important;
+      margin-left: 0.25rem;
     }
 
+    &.item-lang-space {
+      margin-right: 0 !important;
+    }
+
+    &.item-lang-1,
     &.item-lang-2 {
       padding-left: 0 !important;
-      &::before {
-        content: '|';
-        padding-right: 0.25rem !important;
-      }
+      padding-right: 0 !important;
     }
   }
 }
@@ -481,10 +484,6 @@ a.title {
 }
 
 
-.services ul li::before {
-  color: $black;
-}
-
 .facts {
 
   @include until($widescreen) {
@@ -575,6 +574,10 @@ a.title {
 
     @include from($widescreen) {
       text-align: center;
+
+      figcaption {
+        text-align: left;
+      }
     }
 
     img {
@@ -607,7 +610,7 @@ a.title {
 
 .content > figure,
 .content .columns {
-  margin-top: 1rem;
+  margin-top: 1rem !important;
   margin-bottom: 1rem !important;
 
   &+ .columns {
@@ -621,7 +624,7 @@ a.title {
   }
 
   @include from($widescreen) {
-    margin-top: 4rem;
+    margin-top: 4rem !important;
   }
 }
 
@@ -713,6 +716,10 @@ a.title {
   }
 }
 
+
+.content {
+  margin-bottom: 2rem;
+}
 
 // Marginbottoms
 .content p:not(:last-child) {
