@@ -10,4 +10,4 @@ mail: annie@digidemlab.org
 phone: "‭+46 70 278 69 08‬"
 ---
 
-Project coordinator and participation advocat with a background at the Swedish Agency for Marine and Water Management.
+Political scientist and project coordinator with a passion for sustainability and participation.

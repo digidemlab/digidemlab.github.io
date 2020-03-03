@@ -9,4 +9,4 @@ mail: annie@digidemlab.org
 phone: "‭+46 70 278 69 08‬"
 ---
 
-Statsvetare och projektkoordinator med passion hållbar utveckling och deltagande.
+Statsvetare och projektkoordinator med passion för hållbar utveckling och deltagande.
