@@ -1,0 +1,35 @@
+---
+label: News
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: boolean
+  name: featured
+  label: featured
+- type: text
+  name: ref
+  label: ref
+- type: text
+  name: excerpt
+  label: excerpt
+- type: textarea
+  name: ingress-text
+  label: ingress-text
+- type: file
+  name: image
+  label: image
+- type: field_group_list
+  name: links
+  label: links
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: url
+    label: url
