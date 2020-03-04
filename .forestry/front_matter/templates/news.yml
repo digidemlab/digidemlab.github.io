@@ -4,16 +4,7 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-- type: boolean
-  name: featured
-  label: featured
-- type: text
-  name: ref
-  label: ref
+  label: Title
 - type: text
   name: excerpt
   label: excerpt
