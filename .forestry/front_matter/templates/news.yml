@@ -7,16 +7,17 @@ fields:
   label: Title
 - type: text
   name: excerpt
-  label: excerpt
+  label: Excerpt
+  description: Short description shown in lists.
 - type: textarea
   name: ingress-text
-  label: ingress-text
+  label: Ingress
 - type: file
   name: image
   label: image
 - type: field_group_list
   name: links
-  label: links
+  label: Links
   fields:
   - type: text
     name: title
