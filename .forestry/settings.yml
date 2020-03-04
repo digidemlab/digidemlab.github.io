@@ -20,11 +20,6 @@ sections:
   label: Crew
   create: all
   match: "**/*"
-- type: directory
-  path: _uploads
-  label: Uploads
-  create: all
-  match: "**/*"
 upload_dir: _uploads
 public_path: "/uploads"
 front_matter_path: ''
