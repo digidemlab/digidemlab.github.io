@@ -39,8 +39,10 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: project
+    is_post: true
+    layout: page
     lang: sv
+    permalink: /news/:title/
 - scope:
     path: ''
     type: crew
@@ -48,7 +50,7 @@ defaults:
     lang: sv
 permalink: "/:title/"
 email: admin@digidemlab.org
-baseurl: 
+baseurl:
 url: https://digidemlab.org
 author: Digidem Lab
 twitter:
