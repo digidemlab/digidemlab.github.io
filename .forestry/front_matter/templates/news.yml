@@ -28,3 +28,4 @@ fields:
     label: url
 pages:
 - _posts/test-post.md
+- _posts/title.md
