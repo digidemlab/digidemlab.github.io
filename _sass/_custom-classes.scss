@@ -623,6 +623,8 @@ svg.logo-dropdown {
 
 // Bild i text
 .content {
+
+  p > img,
   figure {
     margin-left: 0;
     margin-right: 0;
@@ -732,7 +734,7 @@ svg.logo-dropdown {
   }
 
   @include from($fullhd) {
-    font-size: 10.625rem; //12.5rem;
+    font-size: 9rem; //12.5rem;
   }
 
   &:only-of-type {
