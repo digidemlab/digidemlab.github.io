@@ -27,4 +27,5 @@ fields:
     name: url
     label: url
 pages:
-- _posts/test-post.md
+- _posts/test.md
+- _posts/title.md
