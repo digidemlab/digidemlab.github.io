@@ -5,6 +5,10 @@ fields:
 - type: text
   name: title
   label: Title
+- type: file
+  name: image
+  label: Image
+  description: Main image. Recommended size 1200x629 px, 72 dpi.
 - type: text
   name: excerpt
   label: Excerpt
@@ -12,9 +16,6 @@ fields:
 - type: textarea
   name: ingress-text
   label: Ingress
-- type: file
-  name: image
-  label: image
 - type: field_group_list
   name: links
   label: Links
