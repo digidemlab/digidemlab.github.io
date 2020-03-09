@@ -1,10 +1,15 @@
-- icon: medium
-  url: https://medium.com/digidemlab
+- icon: rss-square
+  url: /feed.xml
+  set: fas
 - icon: instagram
   url: https://www.instagram.com/digidemlab/
+  set: fab
 - icon: facebook
   url: https://www.facebook.com/digidemlab
+  set: fab
 - icon: twitter
+  set: fab
   url: https://twitter.com/digidemlab
 - icon: github
+  set: fab
   url: https://github.com/digidemlab

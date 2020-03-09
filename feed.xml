@@ -1,0 +1,34 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>{{ site.name | xml_escape }}</title>
+		<description>{{site.t["sv"].mission | xml_escape }}</description>
+		<link>{{ site.url }}</link>
+		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
+
+    {% assign pagesArray = site.emptyArray %}
+    {% for post in site.posts %}
+      {% assign pagesArray = pagesArray | push: post %}
+    {% endfor %}
+    {% for scr in site.projects %}
+      {% assign pagesArray = pagesArray | push: scr %}
+    {% endfor %}
+    {% assign sorted = pagesArray | where:"lang", "sv" | sort: "date" %}
+
+		{% for post in sorted limit:10  %}
+			<item>
+				<title>{{ post.title | xml_escape }}</title>
+				<description>{{ post.ingress-text | xml_escape }}</description>
+				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+				<link>{{ site.url }}{{ post.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        {% if post.image %}
+          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}{{post.image}}" /><media:content medium="image" url="{{ site.url }}{{post.image}}" xmlns:media="http://search.yahoo.com/mrss/" />
+        {% endif %}
+			</item>
+		{% endfor %}
+	</channel>
+</rss>
