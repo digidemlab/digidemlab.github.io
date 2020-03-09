@@ -85,7 +85,7 @@ layout: default
 </section>
 
 
-{% if page.lang == 'sv' %}
+{% if page.lang == 'sv' and site.posts.size > 0 %}
   {% include news.html %}
 {% endif %}
 
