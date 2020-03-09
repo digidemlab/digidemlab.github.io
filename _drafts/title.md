@@ -9,3 +9,5 @@ links:
 
 ---
 Text here
+
+![](/uploads/biskop2.jpg)
