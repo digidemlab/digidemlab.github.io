@@ -408,7 +408,7 @@ a.title {
 
 // Mobile menu
 @include until($desktop) {
-  .hero .navbar-main{
+  .hero .navbar-main.is-active{
     position: fixed;
     top: 0;
     width: 100%;
@@ -858,7 +858,7 @@ svg.logo-dropdown {
   }
 }
 
-.teaser-small .image,
+.teaser-small figure,
 #featured figure {
   margin-bottom: 1rem;
 

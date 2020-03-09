@@ -84,11 +84,10 @@ layout: default
   </div>
 </section>
 
-{% comment %}
-  {% if page.lang == 'sv' %}
-    {% include news.html %}
-  {% endif %}
-{% endcomment %}
+
+{% if page.lang == 'sv' %}
+  {% include news.html %}
+{% endif %}
 
 {% include partners.html %}
 
