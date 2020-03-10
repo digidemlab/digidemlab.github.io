@@ -1,8 +1,7 @@
 ---
 title: En halv miljon i Biskopsgårdens nya boendebudget
-image: "/uploads/DSC_0078.jpg"
-excerpt: 'Efter en lyckad pilot ville Bostadsbolaget fortsätta med boendebudget och
-  ökar summan till 500 000 för år 2020. Digidem Lab fick förtroendet att processleda
+image: "/uploads/DSC_0099.jpg"
+excerpt: 'Bostadsbolaget fortsätter med boendebudget och Digidem Lab processleder
   även denna gång. '
 ingress-text: "Efter en lyckad pilot ville Bostadsbolaget fortsätta med boendebudget
   och ökar summan till 500 000 för år 2020. Digidem Lab fick förtroendet att processleda
@@ -15,6 +14,7 @@ links:
 - title: Bostadsbolagets hemsida för förslagen (går enbart att se under projekttiden)
   url: https://bostadsbolaget.demokratiskastader.se/
 published: false
+
 ---
 ### Uppdraget
 
@@ -22,22 +22,16 @@ Förra året genomförde Bostadsbolaget Nordens första deltagande boendebudget 
 
 Digidem lab processleder boendebudgeten och genomför utbildningar och workshops med både anställda på Bostadsbolaget och lokalt föreningsliv. Bostadsbolaget har valt att använda den Open Source-baserade plattformen Concul där de boende kan lägga förslag och rösta. Digidem lab hjälper till med installation och utbildning.
 
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/DSC_0099.jpg" alt="">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/DSC_0084.jpg" alt="">
-    </figure>
-  </div>
+<div class="columns"> <div class="column"> <figure> <img src="/uploads/DSC_0078.jpg" alt=""> </figure> </div>_<div class="column">
+<figure>
+<img src="/uploads/DSC_0084.jpg" alt="">
+</figure>
+</div_>
 </div>
 
-Vi mötte bland annat de lokala föreningarna i området på en träff där deltagarna gav prov på ett otroligt engagemang. Idéerna för vad pengarna ska användas till sprudlade under kvällen - ett bevis på den förlösande kraft som medborgardeltagande kan föra med sig. 
+Vi mötte bland annat de lokala föreningarna i området på en träff där deltagarna gav prov på ett otroligt engagemang. Idéerna för vad pengarna ska användas till sprudlade under kvällen - ett bevis på den förlösande kraft som medborgardeltagande kan föra med sig.
 
-– Det här blev ju väldigt lyckat! säger Hilda Wenander, Bostadsbolagets utvecklingsledare i Norra Biskopsgården som medverkade på träffen. 
+– Det här blev ju väldigt lyckat! säger Hilda Wenander, Bostadsbolagets utvecklingsledare i Norra Biskopsgården som medverkade på träffen.
 
 500 000
 : kronor är den totala summan för 2020 åra boendebudget för Bostadsbolaget Norra Biskopsgården
@@ -45,7 +39,7 @@ Vi mötte bland annat de lokala föreningarna i området på en träff där delt
 200 000
 : kronor får varje enskild idé kosta
 
----
+***
 
 Bostadsbolaget vill bidra till att människor får ett större inflytande över sitt eget område. På träffen lämnades flera förslag på vad de 500 000 kronorna ska användas till. Varje enskilt förslag får maximalt kosta 200 000 kronor att genomföra, för att fler ska kunna ha chansen att få igenom sina idéer. Några av förslagen som hittills kommit in är arrangerandet av ”Biskopsgården-varvet”, utflykt till Skara sommarland, loppis en gång i månaden, odlingskurs, teater- och kulturfest och gymnastik.
 
@@ -56,16 +50,16 @@ Bostadsbolaget vill bidra till att människor får ett större inflytande över 
 På förra årets boendebudget var det Läxhjälp för barn och vuxna som fick flest röster. Idén kom från Gladys Velarde som länge varit engagerad i området, bland annat i den lokala Hyresgästföreningen.
 
 <div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/DSC_0050.jpg" alt="">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/DSC_0104.jpg" alt="">
-    </figure>
-  </div>
+<div class="column">
+<figure>
+<img src="/uploads/DSC_0050.jpg" alt="">
+</figure>
+</div>
+<div class="column">
+<figure>
+<img src="/uploads/DSC_0104.jpg" alt="">
+</figure>
+</div>
 </div>
 
 Pengarna förra året räckte även till en resa till Borås Djurpark, fler öppettider på Bostadsbolagets gemensamhetslokal Orkanen och matträffar. Bodil Karlsson som kom med idén beskriver det såhär på Bostadsbolagets hemsida:
