@@ -1,7 +1,6 @@
 ---
 title: Deltagande budget i Biskopsgården
 date: 2019-08-01 17:21:00 Z
-featured: true
 ref: boendebudget
 excerpt: Processdesign och handledning i deltagande boendebudget.
 ingress-text: Göteborgs stads bostadsbolag och Digidem Lab genomför Nordens första

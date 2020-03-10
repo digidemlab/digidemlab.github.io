@@ -1,7 +1,6 @@
 ---
 title: Medborgarbudget i Majorna-Linné
 date: 2019-09-10 17:21:00 Z
-featured: true
 ref: majorna-linne
 excerpt: Medborgarbudget med Consul i Majorna-Linné
 ingress-text: Digidem Lab har översatt och anpassat världens största medborgarplattform

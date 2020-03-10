@@ -1,7 +1,6 @@
 ---
 title: Participatory budget for residents
 date: 2019-08-01 17:21:00 Z
-featured: true
 ref: boendebudget
 lang: en
 excerpt: Process design and trainings for participatory budgeting for residents.

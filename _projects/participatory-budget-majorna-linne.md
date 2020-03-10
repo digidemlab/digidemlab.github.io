@@ -1,7 +1,6 @@
 ---
 title: Participatory budget in Gothenburg
 date: 2019-09-10 17:21:00 Z
-featured: true
 lang: en
 ref: majorna-linne
 excerpt: First participatory budget with Consul in Sweden.
