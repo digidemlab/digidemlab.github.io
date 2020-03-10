@@ -39,9 +39,7 @@ layout: default
           <p class="is-size-7 is-hidden-widescreen">{{ item.ingress-text }}</p>
 
           <div class="links is-hidden-touch is-hidden-desktop-only">
-            {% for link in item.links %}
-              <a class="button" href="{{link.url}}">{{link.title}}</a>
-            {% endfor %}
+            <a class="button" href="{{site.baseurl}}{{item.url}}">{{site.t[page.lang].project-link}}</a>
           </div>
         </div>
       </div>
