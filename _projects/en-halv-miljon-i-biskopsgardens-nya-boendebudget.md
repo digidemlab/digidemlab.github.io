@@ -1,6 +1,6 @@
 ---
 title: En halv miljon i Biskopsgårdens nya boendebudget
-date: 2020-03-09 17:21:00 Z
+date: 2020-03-09T17:21:00.000+00:00
 image: "/uploads/DSC_0099.jpg"
 excerpt: 'Bostadsbolaget fortsätter med boendebudget och Digidem Lab processleder
   även denna gång. '
@@ -15,7 +15,6 @@ links:
 - title: Bostadsbolagets hemsida för förslagen (går enbart att se under projekttiden)
   url: https://bostadsbolaget.demokratiskastader.se/
 
-
 ---
 ### Uppdraget
 
@@ -26,7 +25,7 @@ Digidem Lab processleder boendebudgeten och genomför utbildningar och workshops
 <div class="columns">
   <div class="column">
     <figure>
-      <img src="/uploads/DSC_0078.jpg" alt="">
+      <img src="/uploads/DSC_0099.jpg" alt="">
     </figure>
   </div>
   <div class="column">
