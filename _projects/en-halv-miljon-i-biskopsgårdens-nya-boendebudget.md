@@ -22,7 +22,12 @@ Förra året genomförde Bostadsbolaget Nordens första deltagande boendebudget 
 
 Digidem lab processleder boendebudgeten och genomför utbildningar och workshops med både anställda på Bostadsbolaget och lokalt föreningsliv. Bostadsbolaget har valt att använda den Open Source-baserade plattformen Concul där de boende kan lägga förslag och rösta. Digidem lab hjälper till med installation och utbildning.
 
-<div class="columns"> <div class="column"> <figure> <img src="/uploads/DSC_0078.jpg" alt=""> </figure> </div>_<div class="column">
+<div class="columns">
+<div class="column">
+<figure>
+<img src="/uploads/DSC_0099.jpg" alt="">
+</figure>
+</div>_<div class="column">
 <figure>
 <img src="/uploads/DSC_0084.jpg" alt="">
 </figure>
