@@ -23,16 +23,16 @@ Förra året genomförde Bostadsbolaget Nordens första deltagande boendebudget 
 Digidem Lab processleder boendebudgeten och genomför utbildningar och workshops med både anställda på Bostadsbolaget och lokalt föreningsliv. Bostadsbolaget har valt att använda den Open Source-baserade plattformen Consul där de boende kan lägga förslag och rösta. Digidem Lab hjälper till med installation och utbildning.
 
 <div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/DSC_0099.jpg" alt="">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/DSC_0084.jpg" alt="">
-    </figure>
-  </div>
+<div class="column">
+<figure>
+<img src="/uploads/DSC_0099.jpg" alt="">
+</figure>
+</div>
+<div class="column">
+<figure>
+<img src="/uploads/DSC_0084.jpg" alt="">
+</figure>
+</div>
 </div>
 
 Vi mötte bland annat de lokala föreningarna i området på en träff där deltagarna gav prov på ett otroligt engagemang. Idéerna för vad pengarna ska användas till sprudlade under kvällen - ett bevis på den förlösande kraft som medborgardeltagande kan föra med sig.
@@ -42,8 +42,8 @@ Vi mötte bland annat de lokala föreningarna i området på en träff där delt
 500 000
 : kronor är den totala summan för 2020 åra boendebudget för Bostadsbolaget Norra Biskopsgården
 
-200 000
-: kronor får varje enskild idé kosta
+5 000  
+: hyresgäster kan delta
 
 ***
 
@@ -56,16 +56,16 @@ Bostadsbolaget vill bidra till att människor får ett större inflytande över 
 På förra årets boendebudget var det Läxhjälp för barn och vuxna som fick flest röster. Idén kom från Gladys Velarde som länge varit engagerad i området, bland annat i den lokala Hyresgästföreningen.
 
 <div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/DSC_0050.jpg" alt="">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/DSC_0104.jpg" alt="">
-    </figure>
-  </div>
+<div class="column">
+<figure>
+<img src="/uploads/DSC_0050.jpg" alt="">
+</figure>
+</div>
+<div class="column">
+<figure>
+<img src="/uploads/DSC_0104.jpg" alt="">
+</figure>
+</div>
 </div>
 
 Pengarna förra året räckte även till en resa till Borås Djurpark, fler öppettider på Bostadsbolagets gemensamhetslokal Orkanen och matträffar. Bodil Karlsson som kom med idén beskriver det såhär på Bostadsbolagets hemsida:
