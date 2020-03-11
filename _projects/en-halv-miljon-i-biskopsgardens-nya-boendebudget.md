@@ -43,7 +43,7 @@ Vi mötte bland annat de lokala föreningarna i området på en träff där delt
 : kronor är den totala summan för 2020 åra boendebudget för Bostadsbolaget Norra Biskopsgården
 
 5 000  
-: hyresgäster kan delta
+: hyresgäster har makten att lämna förslag och rösta i boendebudgeten
 
 ***
 
