@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Stiftelse grundas för världens största medborgarplattform
 date: '2019-04-02 13:37:42'
 image: "/uploads/photo_2019-03-26_14-50-02.jpg"
