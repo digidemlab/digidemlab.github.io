@@ -14,7 +14,7 @@ mission:
       metoder för att särskilt nå underrepresenterade grupper.
   - title: Säkerhet och flexibilitet
     image: "/uploads/workshop-small.jpg"
-    text: Vi arbetar med Consul och Decidim, två av de mest avancerade digitala plattformarna
+    text: Vi arbetar med Consul och Decidim, två av de mest kompletta digitala plattformarna
       för medborgardeltagande med miljontals användare över hela världen.
   - title: Enklare hantering av dialoger
     image: "/uploads/paris-small.jpg"
@@ -26,4 +26,3 @@ banner:
   url: "/lab"
 layout: start
 ---
-

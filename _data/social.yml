@@ -1,6 +1,9 @@
 - icon: rss-square
   url: /feed.xml
   set: fas
+- icon: medium
+  url: https://medium.com/digidemlab
+  set: fab
 - icon: instagram
   url: https://www.instagram.com/digidemlab/
   set: fab

@@ -1,0 +1,14 @@
+<div class="columns is-desktop teaser">
+  <div class="column is-half-desktop is-offset-1-fullhd">
+    <a href="{{site.baseurl}}{{item.url}}">
+      <figure class="image is-3by2">
+        <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
+      </figure>
+    </a>
+  </div>
+  <div class="column is-5-widescreen is-4-fullhd">
+    <h2 class="subtitle is-6 is-size-4-widescreen"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h2>
+    <p>{{ item.date | date: "%Y.%m.%d"}} | {{ item.ingress-text | strip_html }}</p>
+    <p class="read-more is-hidden-touch is-hidden-desktop-only"><a href="{{site.baseurl}}{{item.url}}">{{site.t[page.lang].read-more}}</a><p>
+  </div>
+</div>

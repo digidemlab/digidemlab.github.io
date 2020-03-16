@@ -4,7 +4,7 @@ description: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagan
 ref: services
 links:
 - title: Ladda ner vår brief "En stad för alla" med mer information om  hur vi jobbar.
-  url: "/assets/files/Digidem Lab - En stad för alla.pdf"
+  url: "/assets/files/Digidem Lab En stad for alla.pdf"
 - title: På Demokratistäder.se finns mer information om plattformarna Consul och Decidim.
   url: https://demokratiskastader.se/
 image: "/uploads/usertesting-top.jpg"
@@ -66,7 +66,7 @@ Som team har vi lång erfarenhet av arbete för social hållbarhet, mänskliga r
 Vi kombinerar fysiska metoder som bygger förtroende och egentmakt med väl fungerande digitala plattformar som sänker tröskeln för att delta i dialoger.
 
 ## Säkerhet och flexibilitet
-Vi arbetar med Consul och Decidim, två av de mest avancerade plattformarna för medborgardeltagande med miljontals användare över hela världen.
+Vi arbetar med Consul och Decidim, två av de mest kompletta plattformarna för medborgardeltagande med miljontals användare över hela världen.
 
 Med våra plattformar kan städer skräddarsy medborgarprocesser på ett öppet, transparent och demokratiskt sätt.
 
