@@ -16,7 +16,7 @@ layout: none
     {% for scr in site.projects %}
       {% assign pagesArray = pagesArray | push: scr %}
     {% endfor %}
-    {% assign sorted = pagesArray | where:"lang", "sv" | sort: "date" %}
+    {% assign sorted = pagesArray | where:"lang", "sv"  | sort:date | reverse %}
 
 		{% for post in sorted limit:10  %}
 			<item>
