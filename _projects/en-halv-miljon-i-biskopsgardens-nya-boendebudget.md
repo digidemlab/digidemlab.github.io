@@ -2,6 +2,7 @@
 title: En halv miljon i Biskopsgårdens nya boendebudget
 date: 2020-03-09T17:21:00.000+00:00
 image: "/uploads/DSC_0078.jpg"
+thumbnail: "/uploads/DSC_0078_thumb.jpg"
 excerpt: 'Bostadsbolaget fortsätter med boendebudget och Digidem Lab processleder
   även denna gång. '
 ingress-text: "Efter en lyckad pilot ville Bostadsbolaget fortsätta med boendebudget
