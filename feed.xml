@@ -26,7 +26,7 @@ layout: none
 				<link>{{ site.url }}{{ post.url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
         {% if post.thumbnail %}
-          <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{ site.url }}{{post.thumbnail}}" /><media:content medium="image" url="{{ site.url }}{{post.thumbnail}}" xmlns:media="http://search.yahoo.com/mrss/" />
+          <media:content medium="image" url="{{ site.url }}{{post.thumbnail}}" xmlns:media="http://search.yahoo.com/mrss/" />
         {% endif %}
 			</item>
 		{% endfor %}
