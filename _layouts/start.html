@@ -87,6 +87,10 @@ layout: default
   {% include news.html %}
 {% endif %}
 
+{% if page.lang == 'sv' %}
+  {% include newsletter.html %}
+{% endif %}
+
 {% include partners.html %}
 
 {% for item in page.banner %}
