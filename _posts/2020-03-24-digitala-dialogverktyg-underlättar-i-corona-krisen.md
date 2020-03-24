@@ -25,6 +25,6 @@ Digidem lab förespråkar de Open Source-baserade digitala plattformarna Consul 
 
 – Den stora användningen av plattformarna världen över gör att det finns en upparbetad kunskap om digitaliserade medborgardialoger. Det finns ett globalt nätverk där man kan inhämta kunskap och erfarenhetsutbyte. Plattformarna och processerna är designade för att främja konstruktiva debatter och förslag. Allt detta finns redan på plats, och man kan börja använda dem direkt. Det går jättefort att digitalisera en redan påbörjad dialog, eller sätta igång en ny.
 
-**Men är det inte svårt att lära sig de här nya verktygen?**  
-  
-– Jag förstår att det kan kännas obekvämt. Många tror att man måste vara expert för att hantera dem, men det är som är så bra med de här plattformarna. I Madrid till exempel var ambitionen att ha ett verktyg där det krävdes så låga förkunskaper som möjligt. Det var endast två tjänstepersoner totalt som skötte arbetet för hela Madrids stads dialogprocesser.
+**Men är det inte svårt att lära sig de här nya verktygen?**
+
+– Jag förstår att det kan kännas obekvämt. Många tror att man måste vara expert för att hantera dem, men det är det som är så bra med de här plattformarna. I Madrid till exempel var det endast två tjänstepersoner totalt som skötte arbetet för hela Madrids stads dialogprocesser. Därför skapade de plattformen Consul som kunde effektivisera dialogarbetet med så lite resurser och tekniska kunskaper som möjligt.
