@@ -33,5 +33,6 @@ fields:
     name: url
     label: url
 pages:
+- _posts/digitala-dialogverktyg-underlättar-i-corona-krisen.md
 - _posts/test.md
 - _posts/title.md
