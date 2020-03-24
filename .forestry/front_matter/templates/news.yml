@@ -9,6 +9,12 @@ fields:
   name: image
   label: Image
   description: Main image. Recommended size 1200x629 px, 72 dpi.
+- name: thumbnail
+  type: file
+  config:
+    maxSize: 250
+  label: Smaller image
+  description: Bild 560px bred, till nyhetsbrev.
 - type: text
   name: excerpt
   label: Excerpt
