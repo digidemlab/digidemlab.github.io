@@ -4,10 +4,10 @@ image: "/uploads/DSC_0083 (1).jpg"
 thumbnail: "/uploads/DSC_0083 (3).jpg"
 excerpt: Corona-pandemin gör att fysiska möten ställs in på löpande band. Digidem
   lab har de digitiala verktygen som kan hålla dialogen vid liv.
-ingress-text: Fysiska träffar ställs nu in på löpande band som en följd av Corona-pandemin.
+ingress-text: Fysiska träffar ställs in på löpande band som en följd av Corona-pandemin.
   Många organisationer funderar på hur de ska hantera alla pågående och inplanerade
   dialogprocesser. DIgidem lab tillhandahåller lätthanterliga digitala plattformar
-  som redan använts av hundratals städer runt om i världen.
+  som använts av hundratals städer runt om i världen.
 links:
 - title: Decidim (Demokratiskastäder.se)
   url: https://demokratiskastader.se/decidim/
@@ -21,7 +21,7 @@ links:
 
 Digidem lab förespråkar de Open Source-baserade digitala plattformarna Consul och Decidim. De har redan används av hundratals städer runt om i världen för att skapa digitala mötesplatser där deltagarna samarbetar i dialogprocesser. Madrid, Barcelona, Helsingfors och Paris är några exempel. I Sverige använder Bostadsbolaget plattformen Consul i sin boendebudget-process.
 
-> "Det går jättefort att digitalisera en redan påbörjad dialog, eller sätta igång en ny"
+> Det går jättefort att digitalisera en redan påbörjad dialog, eller sätta igång en ny
 
 – Den stora användningen av plattformarna världen över gör att det finns en upparbetad kunskap om digitaliserade medborgardialoger. Det finns ett globalt nätverk där man kan inhämta kunskap och erfarenhetsutbyte. Plattformarna och processerna är designade för att främja konstruktiva debatter och förslag. Allt detta finns redan på plats, och man kan börja använda dem direkt. Det går jättefort att digitalisera en redan påbörjad dialog, eller sätta igång en ny.
 
