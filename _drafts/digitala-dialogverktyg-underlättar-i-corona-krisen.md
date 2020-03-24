@@ -1,7 +1,7 @@
 ---
 title: Digitala dialogverktyg underlättar i Corona-krisen
-image: ''
-thumbnail: ''
+image: "/uploads/DSC_0083 (1).jpg"
+thumbnail: "/uploads/DSC_0083 (3).jpg"
 excerpt: Corona-pandemin gör att fysiska möten ställs in på löpande band. Digidem
   lab har de digitiala verktygen som kan hålla dialogen vid liv.
 ingress-text: Fysiska träffar ställs nu in på löpande band i försök att minska effekterna
