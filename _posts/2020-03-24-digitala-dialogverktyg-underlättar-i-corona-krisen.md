@@ -6,7 +6,7 @@ excerpt: Corona-pandemin gör att fysiska möten ställs in på löpande band. D
   lab har de digitala verktygen som kan hålla dialogen vid liv.
 ingress-text: Fysiska träffar ställs in på löpande band som en följd av Corona-pandemin.
   Många organisationer funderar på hur de ska hantera alla pågående och inplanerade
-  dialogprocesser. DIgidem lab tillhandahåller lätthanterliga digitala plattformar
+  dialogprocesser. Digidem Lab tillhandahåller lätthanterliga digitala plattformar
   som använts av hundratals städer runt om i världen.
 links:
 - title: Decidim (Demokratiskastäder.se)
