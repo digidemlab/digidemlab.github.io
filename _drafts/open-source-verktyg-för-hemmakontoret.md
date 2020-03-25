@@ -1,7 +1,7 @@
 ---
 title: Open Source-verktyg för hemmakontoret
-image: ''
-thumbnail: ''
+image: "/uploads/Unsplash Djurdjica Boskovic (1).jpg"
+thumbnail: "/uploads/Unsplash Djurdjica Boskovic (3).jpg"
 excerpt: Open Source-världen har flera bra plattformar för distansarbete, med bättre
   skydd för den personliga integriteten än de kommersiella varianterna.
 ingress-text: När nu hela organisationer jobbar hemifrån uppstår nya behov och krav
