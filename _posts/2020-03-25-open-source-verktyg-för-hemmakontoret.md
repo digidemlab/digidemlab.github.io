@@ -21,7 +21,7 @@ links:
   url: https://www.loomio.org/
 
 ---
-– Dels finns basverktyg som till exempel gemensam dokumenthantering och chat. Där kan vara bra att börja om man inte har sådana, eller om man exempelvis är uppbunden på Googles tjänster, säger Petter Joelson, medgrundare av Digidem Lab och initiativtagare till Collective Tools.
+– Dels finns basverktyg som till exempel gemensam dokumenthantering och chat. Det kan vara bra att börja med istället för Googles tjänster, säger Petter Joelson, medgrundare av Digidem Lab och initiativtagare till Collective Tools.
 
 **Collective Tools** är ett Open Source-baserat plattformskooperativ där alla kan bli medlemmar. De tillhandahåller molntjänster (ungefär som Google Drive), Chat (liknande Slack) och projekthanteringsverktyg (såsom Trello eller Basecamp).
 
