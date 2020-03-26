@@ -39,6 +39,6 @@ Nu gör Corona-pandemin att många organisationer snabbt vill ansluta sina medar
 
 Utöver Collective Tools finns exempelvis **Loomio**, en mötesplattform anpassad för diskussioner och omröstningar. **Consider.it** hanterar diskussioner kring en specifik fråga och möjliggör för användarna att placera sig på en skala på hur man ser på saken. **Big blue button** är ett alternativ till videokonfensplattformen Zoom som möjliggör att arbeta online tillsammans med dokument utan att behöva något program.
 
-**Hur kan jag känna mig säker på att de här plattformarnas hanterar användardatan bättre?**
+**Hur kan jag känna mig säker på att de här plattformarna hanterar användardatan bättre?**
 
 – Det som gör Open Source-plattformar säkrare är att koden kan granskas av alla. Privacy-nördar är där och hugger direkt när det finns något tveksamt, säger Petter.
