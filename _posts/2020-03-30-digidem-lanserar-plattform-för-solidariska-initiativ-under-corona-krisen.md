@@ -1,5 +1,5 @@
 ---
-title: Digidem lanserar plattform för solidariska initiativ under Corona-krisen
+title: Digidem Lab lanserar plattform för solidariska initiativ under Corona-krisen
 image: "/uploads/Screenshot_2020-03-30 Agera tillsammans .png"
 thumbnail: "/uploads/ageratillsammans.jpg"
 excerpt: Digidem Lab lanserar nu en plattform som kan underlätta organiseringen av
