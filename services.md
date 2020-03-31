@@ -93,3 +93,5 @@ Tjänstepersoner kan enkelt få ut statistik, en bredare bild över vilka som de
     </figure>
   </div>
 </div>
+
+{% include faq.html %}

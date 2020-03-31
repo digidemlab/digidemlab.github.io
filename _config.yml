@@ -6,6 +6,9 @@ collections:
   crew:
     title: Crew
     output: false
+  faq:
+    title: FAQ
+    output: false
   posts:
     title: Posts
     output: true

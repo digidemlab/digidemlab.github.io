@@ -514,6 +514,7 @@ svg.logo-dropdown {
   .content > p,
   .content > ul,
   .content > ol,
+  .accordion-body p,
   footer p {
     font-size: 1.125rem !important;
     line-height: 1.25 !important;
@@ -589,7 +590,8 @@ svg.logo-dropdown {
 }
 
 // Textmarginal
-.content > {
+.content >,
+#accordion-basic {
    p, h2, h3, h4, ul, ol, blockquote {
     @include from($widescreen) {
       margin-left: 33.3333333333%;
@@ -1057,4 +1059,30 @@ svg.logo-dropdown {
     font-size: 1rem;
     height: 2.25rem;
   }
+}
+
+// Accordion
+.accordion-head {
+  &::before {
+    @include monospace;
+    font-size: 1.5rem !important;
+    font-weight: normal;
+    content: '+';
+    padding-right: 0.5rem;
+    color: $purple;
+  }
+
+  &.open::before {
+    content: '−';
+  }
+}
+
+.accordion-head:hover {
+  cursor: pointer;
+}
+.accordion-body {
+  display: none;
+}
+.accordion-body.open {
+  display: block;
 }
