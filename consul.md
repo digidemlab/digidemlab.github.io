@@ -9,7 +9,6 @@ ingress-text: Med Consul kan ni skapa en digital mötesplats där staden och inv
 links:
 - title: Decidim
   url: https://digidemlab.org/decidim
-published: false
 
 ---
 ## Vad är det och varför ska vi använda det?
