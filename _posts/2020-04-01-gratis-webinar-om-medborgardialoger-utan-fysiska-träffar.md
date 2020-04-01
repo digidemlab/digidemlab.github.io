@@ -19,4 +19,4 @@ Vi på Digidem Lab arbetar med flera av de mest välutvecklade digitala plattfor
 
 Under webinariet ger vi en introduktion till plattformarna med massvis av konkreta användningsexempel från våra samarbetskommuner Göteborg, Stockholm, Paris, Helsingfors, New York och Madrid . Ni får också möjlighet att ställa frågor utifrån de behov era kommuner har just nu.
 
-14 april kl 8:00-9:00. [Anmälningssida]()
+14 april kl 8:00-9:00.[ Anmälningssida](https://www.eventbrite.com/e/webinar-digital-medborgardialog-under-och-efter-krisen-tickets-101619968060 "Anmälningssida")
