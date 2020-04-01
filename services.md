@@ -3,10 +3,10 @@ title: Vårt erbjudande
 description: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande.
 ref: services
 links:
+- title: Läs mer om den Open Source-baserade plattformen Decidim
+  url: https://digidemlab.org/decidim/
 - title: Ladda ner vår brief "En stad för alla" med mer information om  hur vi jobbar.
   url: "/assets/files/Digidem Lab En stad for alla.pdf"
-- title: På Demokratistäder.se finns mer information om plattformarna Consul och Decidim.
-  url: https://demokratiskastader.se/
 image: "/uploads/usertesting-top.jpg"
 ingress-text: Vi skapar medborgarcentrerade processer utifrån beprövade metoder för
   att särskilt nå underrepresenterade grupper.
@@ -57,8 +57,8 @@ prices:
     - text: Priser för större installa­tioner beräknas utifrån antal ­användare och
         behov av utbildning och support. Kontakta oss gärna för att få en prisuppskattning
         eller offert!
----
 
+---
 ## Inkluderande deltagande
 Vi skapar medborgarcenterade processer utifrån internationellt beprovade metoder för att särksilt nå underrepresenterade grupper.
 
