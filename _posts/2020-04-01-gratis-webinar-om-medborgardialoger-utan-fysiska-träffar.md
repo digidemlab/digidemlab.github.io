@@ -2,9 +2,9 @@
 title: Gratis webinar om medborgardialoger utan fysiska träffar
 image: "/uploads/hybriddemokrati1.jpg"
 thumbnail: "/uploads/hybriddemokrati1-1.jpg"
-excerpt: Den 14 april arrangerar vi ett webinar om framgångsrika medborgardialoger
+excerpt: Den 16 april arrangerar vi ett webinar om framgångsrika medborgardialoger
   utan fysiska träffar.
-ingress-text: Den 14 april arrangerar vi ett webinar där du får lär lära dig om hur
+ingress-text: Den 16 april arrangerar vi ett webinar där du får lär lära dig om hur
   man kan genomföra framgångsrika medborgardialoger utan fysiska träffar.
 links:
 - title: Anmälningssida (Eventbride)
@@ -19,4 +19,4 @@ Vi på Digidem Lab arbetar med flera av de mest välutvecklade digitala plattfor
 
 Under webinariet ger vi en introduktion till plattformarna med massvis av konkreta användningsexempel från våra samarbetskommuner Göteborg, Stockholm, Paris, Helsingfors, New York och Madrid . Ni får också möjlighet att ställa frågor utifrån de behov era kommuner har just nu.
 
-14 april kl 8:00-9:00.[ Anmälningssida](https://www.eventbrite.com/e/webinar-digital-medborgardialog-under-och-efter-krisen-tickets-101619968060 "Anmälningssida")
+16 april kl 8:00-9:00.[ Anmälningssida](https://www.eventbrite.com/e/webinar-digital-medborgardialog-under-och-efter-krisen-tickets-101619968060 "Anmälningssida")
