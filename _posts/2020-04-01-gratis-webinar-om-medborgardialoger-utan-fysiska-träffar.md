@@ -11,10 +11,12 @@ links:
   url: https://www.eventbrite.com/e/webinar-digital-medborgardialog-under-och-efter-krisen-tickets-101619968060
 
 ---
-Arbetet med medborgardialog har försvårats av Corona-pandemin och många verksamheter ser ett behov att digitalisera sina processer. Under de senaste veckorna har vi kontaktats av många kommuner som funderar på hur de ska hantera alla pågående och inplanerade dialoger. Fler efterfrågar konkreta verktyg och tips. Därför anordnar vi nu detta tillfälle för att dela med oss av den expertis vi samlat.  
-  
-Vi på Digidem Lab arbetar med flera av de mest välutvecklade digitala plattformarna för medborgardeltagande med miljontals användare över hela världen. Med tanke på att hundratals städer använt plattformarna finns massvis av inbyggd kunskap för att skapa konstruktiva dialoger mellan medborgare, inkluderande och transparenta medborgarprocesser och effektivisera arbetet samt kommunikationen hos förvaltningar.   
-  
+Arbetet med medborgardialog har försvårats av Corona-pandemin och många verksamheter ser ett behov att digitalisera sina processer. Under de senaste veckorna har vi kontaktats av många kommuner som funderar på hur de ska hantera alla pågående och inplanerade dialoger. Fler efterfrågar konkreta verktyg och tips. Därför anordnar vi nu detta tillfälle för att dela med oss av den expertis vi samlat.
+
+> Hundratals städer har använt plattformarna
+
+Vi på Digidem Lab arbetar med flera av de mest välutvecklade digitala plattformarna för medborgardeltagande med miljontals användare över hela världen. Med tanke på att hundratals städer använt plattformarna finns massvis av inbyggd kunskap för att skapa konstruktiva dialoger mellan medborgare, inkluderande och transparenta medborgarprocesser och effektivisera arbetet samt kommunikationen hos förvaltningar.
+
 Under webinariet ger vi en introduktion till plattformarna med massvis av konkreta användningsexempel från våra samarbetskommuner Göteborg, Stockholm, Paris, Helsingfors, New York och Madrid . Ni får också möjlighet att ställa frågor utifrån de behov era kommuner har just nu.
 
 14 april kl 8:00-9:00. [Anmälningssida]()
