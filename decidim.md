@@ -9,7 +9,6 @@ ingress-text: Med hjälp av medborgarplattformen Decidim kan kommuner facilitera
 links:
 - title: 'Consul '
   url: https://digidemlab.org/consul
-published: false
 
 ---
 ## Vad är det och varför ska vi använda det?
