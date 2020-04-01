@@ -5,7 +5,7 @@ ref: services
 links:
 - title: Läs mer om den Open Source-baserade medborgarplattformen Consul
   url: https://digidemlab.org/consul
-- title: Läs mer om den Open Source-baserade plattformen Decidim
+- title: Läs mer om den Open Source-baserade medborgarplattformen Decidim
   url: https://digidemlab.org/decidim/
 - title: Ladda ner vår brief "En stad för alla" med mer information om  hur vi jobbar.
   url: "/assets/files/Digidem Lab En stad for alla.pdf"
