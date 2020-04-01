@@ -6,7 +6,9 @@ thumbnail: ''
 excerpt: Decidim är en Open Source-baserad digital medborgarplattform
 ingress-text: Med hjälp av medborgarplattformen Decidim kan kommuner facilitera medborgarprocesser
   och skapa utrymmen för medborgarinflytande.
-links: []
+links:
+- title: 'Consul '
+  url: https://digidemlab.org/consul
 published: false
 
 ---
