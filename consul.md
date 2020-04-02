@@ -19,7 +19,8 @@ links:
 
 Staden kan skapa olika roller för tjänstepersonerna som ska arbeta med dialogen. Tjänstepersoner kan enkelt kommunicera och delegera kostnadsfrågor till berörda förvaltningar. Medarbetare på medborgarkontor eller andra öppna verksamheter kan få inlogg för att assistera medborgare när de lägger förslag.
 
-**Funktioner i Consul**
+**  
+Funktioner i Consul**
 
 * Dialog mellan invånare eller mellan staden och invånare
 * Skriva och samla stöd för medborgarförslag
