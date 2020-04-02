@@ -13,9 +13,9 @@ links:
   url: https://digidemlab.org/decidim
 
 ---
-Consul är en medborgarplattform för stadsdelar, städer, regioner, länder och organisationer som vill genomföra avancerade dialogprocesser. Consul är en av de mest kompletta medborgarplattformarna för öppna, transparenta och demokratiska processer. Plattformen används idag av över 100 institutioner i 35 länder. 
+**Consul är en medborgarplattform** för stadsdelar, städer, regioner, länder och organisationer som vill genomföra avancerade dialogprocesser. Consul är en av de mest kompletta medborgarplattformarna för öppna, transparenta och demokratiska processer. Plattformen används idag av över 100 institutioner i 35 länder.
 
-Consul har öppen källkod vilket betyder att dess utveckling stöttas av kommuner och programmeringsteam världen över, från Madrid, Paris, Porto Alegre och Buenos Aires till New York och Ljubljana.I plattformen finns färdiga strukturer för medborgarprocesser som tjänstepersoner oavsett tidigare kunskaper kan börja använda på en gång. 
+**Consul har öppen källkod** vilket betyder att dess utveckling stöttas av kommuner och programmeringsteam världen över, från Madrid, Paris, Porto Alegre och Buenos Aires till New York och Ljubljana.I plattformen finns färdiga strukturer för medborgarprocesser som tjänstepersoner oavsett tidigare kunskaper kan börja använda på en gång.
 
 Staden kan skapa olika roller för tjänstepersonerna som ska arbeta med dialogen. Tjänstepersoner kan enkelt kommunicera och delegera kostnadsfrågor till berörda förvaltningar. Medarbetare på medborgarkontor eller andra öppna verksamheter kan få inlogg för att assistera medborgare när de lägger förslag.
 
