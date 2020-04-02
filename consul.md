@@ -7,25 +7,27 @@ excerpt: 'Consul är en medborgarplattform för städer, stadsdelar och organisa
 ingress-text: Med Consul kan ni skapa en digital mötesplats där staden och invånarna
   kan samarbeta genom mångsidiga dialogprocesser.
 links:
+- title: Consuls hemsida
+  url: http://consulproject.org/
 - title: Decidim
   url: https://digidemlab.org/decidim
+published: false
 
 ---
-## Vad är det och varför ska vi använda det?
+> ”Vi skapade Consul för att kommuner med minsta möjliga resurser ska kunna skapa avancerade medborgar­dialoger som dokumenteras på en och samma plats. Med tanke på att det finns så många användare sker det en ständig förbättring och utveckling av de olika funktionerna”
 
-Consul är en medborgarplattform för städer, stadsdelar och organisationer som vill genomföra avancerade dialogprocesser. I plattformen går det att organisera medborgarförslag, medskapande processer inom stadsplanering, framtagandet av handlingsplaner, medborgarbudgetar och omröstningar. Consul utvecklades av Madrid stad 2015 för utveckla deltagandet i staden. 2017 genomförde Madrid en medborgarbudget på 100 miljoner euro år med hjälp av Consul, där omkring 964 000 personer deltog jämt fördelat över kön, ålder och stadsdel. Eftersom koden till plattformen är öppen kan de som vill kopiera och anpassa den till sin kontext. I nuläget är det omkring 70 städer globalt som använder de olika funktionerna i Consul.
+_Miguel Arana Catania, tidigare Demokrati ansvarig i Madrid stad._
 
-## Funktioner i Consul
+Consul är en medborgarplattform för stadsdelar, städer, regioner, länder och organisationer som vill genomföra avancerade dialogprocesser. Consul är en av de mest kompletta medborgarplattformarna för öppna, transparenta och demokratiska processer. Plattformen används idag av över 100 institutioner i 35 länder. 
 
-* **Debatt** för fria diskussioner.
-* **Medborgarförslag** där staden kan ställa in antal stödunderskrifter som behövs för att förslaget ska nå en automatisk röstning bland alla invånare.
-* **Kollaborativa planer** är debattutrymmen där kommunen kan publicera utkast till handlingsplaner, detaljplaner eller program. Invånare kan kommentera och prioritera det de tycker borde inkluderas i dokumentet.
-* **Medborgarbudget** låter dig lätt anpassa processen efter summan på budgeten och skapa en tidsplan för alla steg i processen. Omröstningar kan göras efter stadsdel eller hela-staden nivå.
-* Andra funktioner är deltagande stadsplanering där kommunen kan samla förslag och feedback genom enkäter, öppna frågor och omröstningar.
+Consul har öppen källkod vilket betyder att dess utveckling stöttas av kommuner och programmeringsteam världen över, från Madrid, Paris, Porto Alegre och Buenos Aires till New York och Ljubljana.I plattformen finns färdiga strukturer för medborgarprocesser som tjänstepersoner oavsett tidigare kunskaper kan börja använda på en gång. 
 
-## Hur använder vi det?
+Staden kan skapa olika roller för tjänstepersonerna som ska arbeta med dialogen. Tjänstepersoner kan enkelt kommunicera och delegera kostnadsfrågor till berörda förvaltningar. Medarbetare på medborgarkontor eller andra öppna verksamheter kan få inlogg för att assistera medborgare när de lägger förslag.
 
-* Aktivera de funktioner som är relevanta för er och kan välja att endast använda en funktion eller kombinera flera.
-* Consul använder ett verifikationssystem för att försäkra att individer endast röster en gång och gör det möjligt att kombinera online-röstning med fysiska valsedlar.
-* Verktyget är gjort för att göra det så enkelt som möjligt för tjänstepersoner att gå igenom data och ge svar kring kostnader och genomförbarhet.
-* Consul är världens mest använda medborgarplattformen vilket innebär att det finns ett stort community av utvecklare som förbättrar tekniken samt politiker och tjänstepersoner från städer av olika storlek, ekonomi och styren som utvärderar användningen av den.
+**Funktioner i Consul**
+
+* Dialog mellan invånare eller mellan staden och invånare
+* Skriva och samla stöd för medborgarförslag
+* Deltagande samhällsplanering genom enkäter och utformning av handlingsplaner och detaljplaner
+* Medborgarbudget
+* Säkra omröstningar.
