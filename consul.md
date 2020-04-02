@@ -11,7 +11,6 @@ links:
   url: http://consulproject.org/
 - title: Decidim
   url: https://digidemlab.org/decidim
-published: false
 
 ---
 Consul är en medborgarplattform för stadsdelar, städer, regioner, länder och organisationer som vill genomföra avancerade dialogprocesser. Consul är en av de mest kompletta medborgarplattformarna för öppna, transparenta och demokratiska processer. Plattformen används idag av över 100 institutioner i 35 länder. 
