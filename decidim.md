@@ -11,7 +11,7 @@ links:
   url: https://digidemlab.org/consul
 
 ---
-**Decidim är en digital medborgarplattform** skapad av Barcelona stad. Plattformen är designad för att kommuner, företag och organisationer ska kunna skräddarsy medborgarprocesser efter sina behov. Decidim är gjord för att kunna kombinera fysiska möten med det som sker online, till exempel genom att kunna lägga upp kommande dialogträffar som sedan kan streamas i plattformen. 
+**Decidim är en digital medborgarplattform** skapad av Barcelona stad. Plattformen är designad för att kommuner, företag och organisationer ska kunna skräddarsy medborgarprocesser efter sina behov. Decidim är gjord för att kunna kombinera fysiska möten med det som sker online, till exempel genom att kunna lägga upp kommande dialogträffar som sedan kan streamas i plattformen.
 
 Plattformen låter kommuner integrera olika former av deltagande i samma process. Det betyder att ni kan kombinera funktioner som diskussion, enkäter, med borgarförslag, medbor­garbudget och medskapande handlingsplaner i samma dialog. Decidim har även avancerade funktioner för uppföljning och transparens där medborgare kan följa varje beslut steg för steg och se hur långt av genomförandet som är kvar. Det gör att deltagarna får direkt återkoppling och större förståelse för kommunens arbetssätt.
 
