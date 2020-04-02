@@ -9,7 +9,7 @@ ingress-text: Med Consul kan ni skapa en digital mötesplats där staden och inv
 links:
 - title: Consuls hemsida
   url: http://consulproject.org/
-- title: Decidim
+- title: Läs mer om den Open Source-baserade plattformen Decidim
   url: https://digidemlab.org/decidim
 
 ---
