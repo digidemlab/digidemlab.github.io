@@ -9,7 +9,7 @@ ingress-text: Med hjälp av medborgarplattformen Decidim kan kommuner facilitera
 links:
 - title: Decidims hemsida
   url: https://decidim.org/
-- title: 'Consul '
+- title: 'Läs mer om den Open Source-baserade plattformen Consul '
   url: https://digidemlab.org/consul
 
 ---
