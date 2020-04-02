@@ -9,18 +9,21 @@ ingress-text: Med hjälp av medborgarplattformen Decidim kan kommuner facilitera
 links:
 - title: 'Consul '
   url: https://digidemlab.org/consul
+published: false
 
 ---
-## Vad är det och varför ska vi använda det?
+Decidim är en digital medborgarplattform skapad av Barcelona stad. Plattformen är designad för att kommuner, företag och organisationer ska kunna skräddarsy medborgarprocesser efter sina behov. Decidim är gjord för att kunna kombinera fysiska möten med det som sker online, till exempel genom att kunna lägga upp kommande dialogträffar som sedan kan streamas i plattformen. 
 
-Decidim är en digital medborgarplattform skapad av Barcelona stad. Plattformen är designad för att koordinera medborgarprocesser och skapa utrymmen för diskussion och kollektiv intelligens i skapandet av politiska förslag. Koden är öppen vilket gör att alla som vill använda plattformen kan kopiera och anpassa den efter sina behov.
+Plattformen låter kommuner integrera olika former av deltagande i samma process. Det betyder att ni kan kombinera funktioner som diskussion, enkäter, med borgarförslag, medbor­garbudget och medskapande handlingsplaner i samma dialog. Decidim har även avancerade funktioner för uppföljning och transparens där medborgare kan följa varje beslut steg för steg och se hur långt av genomförandet som är kvar. Det gör att deltagarna får direkt återkoppling och större förståelse för kommunens arbetssätt.
 
-Decidim lanserades av Barcelonas kommunfullmäktige 2016 med målet att koordinera en deltagande process i framtagandet av en lokal handlingsplan. Inom två månader hade 25 000 personer registrerat sig, 10 860 förslag lämnades in, 410 möten hållits och över 160 000 röster samlats in. Plattformen har utvecklats till att kunna generera medborgarförslag, hantera medborgarbudgetar och designa andra utrymmen för deltagande och används nu i ett flertal städer i Spanien. Nyligen har Helsingfors börjat att använda plattformen för sin ungdomsmedborgarbudget på 200 000€.
+**Funktioner i Decidim**
 
-## Hur fungerar det?
+* Medborgarförslag
+* Omröstningar och enkäter
+* Kombination av digitala och fysiska processer
+* Specialanpassade processer i flera steg
+* Uppföljning av längre processer.
 
-* Plattformen tillåter städer att integrera olika former av deltagarprocesser som diskussioner, medborgarförslag, medborgarbudget, stadsplanering och anda typer av medskapande processer.
-* Eftersom plattformen är modulär och väldigt formbar kan den som skapar processerna välja att integrera exempelvis enkäter, kollaborativa funktioner för att skriva och kommentera på handlingar eller utvärderingar i de olika stegen.
-* Decidim är designad för att kunna kombinera fysiska möten med det som sker på plattformen, till exempel genom att kunna filma möten och sedan lägga upp de som en del av onlineforumet.
-* All data kring de olika politiska processerna, förutom den som rör privata användare, är transparent och offentlig.
-* Eftersom koden och teknologin bakom plattformen är öppen innebär det att utvecklare och experter världen över samarbetar för att ständigt förbättra plattformen och anpassa dess funktioner.
+> Decidim är en plattform som skapades för att öka tillgången till information och dialog. Att ge suveränitet över tekniken till medborgare innebär att göra dem till medskapare och ägare av offentliga tjänster, vilket för oss är definitionen av en Smart City.
+
+_Francesca Bria,Barcelonas tidigare Digital Innovation Officer_
