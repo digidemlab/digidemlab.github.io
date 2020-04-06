@@ -4,9 +4,7 @@ image: "/uploads/anvandartest2.jpg"
 thumbnail: ''
 excerpt: Var med och bygg upp ett community för teknik för samhällsnytta!
 ingress-text: Var med och bygg upp ett community för teknik för samhällsnytta!
-links:
-- title: ''
-  url: ''
+links: []
 
 ---
 Vi söker dig som vill arbeta som projektledare för [Civic Tech Sweden](https://civictech.se) och utveckla ett aktivt community av personer och grupper som arbetar för teknik för samhällsnytta.
