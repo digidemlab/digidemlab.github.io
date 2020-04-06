@@ -13,7 +13,7 @@ Vi söker dig som vill arbeta som projektledare för [Civic Tech Sweden](https:/
 
 Tjänsten kan förläggas antingen till Digidem Labs kontor i Göteborg, eller till Stockholm. Du arbetar för nätverket i hela landet, så det kommer att ingå tjänsteresor.
 
-Som anställd hos Digidem Lab får du:
+### Som anställd hos Digidem Lab får du:
 
 * Jobba för samhällsförändring. Vi arbetar för att digital teknik ska bidra till en positiv och inkluderande samhällsutveckling.
 * Flexibla arbetsdagar. Hos oss är arbetsdagarna anpassade för att personalen ska fungera så bra som möjligt.
