@@ -1,6 +1,6 @@
 ---
 title: 'Ledig tjänst: Projektledare för att bygga civic tech-nätverk'
-image: "/uploads/anvandartest2.jpg"
+image: "/uploads/anvandartest4.jpg"
 thumbnail: ''
 excerpt: Var med och bygg upp ett community för teknik för samhällsnytta!
 ingress-text: Var med och bygg upp ett community för teknik för samhällsnytta!
