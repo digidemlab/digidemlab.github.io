@@ -42,7 +42,7 @@ Digidem Lab startade nätverket Civic Tech Sweden 2017 för att bygga upp ett co
 * Arbetat inom civilsamhället eller offentlig förvaltning
 * Kunskaper eller utbildning inom något mer än projektledning och kommunikation
 
-Tjänsten är en projektanställning på 80% med lön baserat på 32 000 för heltid, med löneökning på 2% per år. Från 1 juni 2020 till 31 december 2021 (17 månader). Intervjuer sker löpande.
+Tjänsten är en projektanställning på 80% med lön baserat på 32 000 för heltid, med löneökning på 2% per år. Från 1 juni 2020 till 31 december 2021 (19 månader). Intervjuer sker löpande.
 
 Ansök genom att svara på frågorna i [formuläret](https://digidemlab.typeform.com/to/PwD57H) och skicka ditt CV till [rekrytering@digidemlab.org](mailto:rekrytering@digidemlab.org).
 
