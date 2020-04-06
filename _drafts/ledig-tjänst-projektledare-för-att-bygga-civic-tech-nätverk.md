@@ -23,7 +23,7 @@ Som anställd hos Digidem Lab får du:
 
 ### Mer om verksamheten
 
-Digidem Lab startade nätverket Civic Tech Sweden 2017 för att bygga upp ett community kring digital teknik för demokrati, transparens och hållbarhet. I den här projektanställningen, som finansieras av Vinnova, blir din roll att utveckla och stärka nätverket genom att för deltagande projekt organisera event lokalt och nationellt, ge kommunikationsstöd och koordinera aktiviteter med projektpartners och det bredare nätverket. 
+Digidem Lab startade nätverket Civic Tech Sweden 2017 för att bygga upp ett community kring digital teknik för demokrati, transparens och hållbarhet. I den här projektanställningen, som finansieras av Vinnova, blir din roll att utveckla och stärka nätverket genom att för deltagande projekt organisera event lokalt och nationellt, ge kommunikationsstöd och koordinera aktiviteter med projektpartners och det bredare nätverket.
 
 ### Arbetsuppgifter
 
@@ -31,7 +31,7 @@ Digidem Lab startade nätverket Civic Tech Sweden 2017 för att bygga upp ett co
 * Ge stöd till lokala grupper att komma igång med verksamhet.
 * Kommunikationsstöd för spridning av projekt och civic tech-begreppet.
 * Representera nätverket på relevanta konferenser.
-* Samordning med nätverket och projektpartners. 
+* Samordning med nätverket och projektpartners.
 * Dokumentation och rapportering till finansiärer.
 
 ### Det är meriterande om du har
@@ -44,9 +44,9 @@ Digidem Lab startade nätverket Civic Tech Sweden 2017 för att bygga upp ett co
 
 Tjänsten är en projektanställning på 80% med lön baserat på 32 000 för heltid, med löneökning på 2% per år. Från 1 juni 2020 till 31 december 2021 (17 månader). Intervjuer sker löpande.
 
-Ansök genom att svara på frågorna i [formuläret](https://digidemlab.typeform.com/to/PwD57H) och skicka ditt CV till rekrytering@digidemlab.org.
+Ansök genom att svara på frågorna i [formuläret](https://digidemlab.typeform.com/to/PwD57H) och skicka ditt CV till [rekrytering@digidemlab.org](mailto:rekrytering@digidemlab.org).
 
-Om du har frågor om tjänsten går det bra att kontakta oss på rekrytering@digidemlab.org eller ringa till Annie Hermansson på 0702 786 908. Vi finns på plats mellan klockan 9-16 måndag till torsdag.
+Om du har frågor om tjänsten går det bra att kontakta oss på [rekrytering@digidemlab.org](mailto:rekrytering@digidemlab.org) eller ringa till Annie Hermansson på 0702 786 908. Vi finns på plats mellan klockan 9-16 måndag till torsdag.
 
 ### Ansökningsformulär
 
