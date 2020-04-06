@@ -48,4 +48,4 @@ Mer information om Civic Tech Sweden, och vår chatt för samordning och uppdate
 
 ### Övriga partners
 
-Civic Tech Sweden, Mötesplats Social Innovation, Bron Innovation, Code for All, Centrum för Tjänsteforskning
+Civic Tech Sweden, Mötesplats Social Innovation, Bron Innovation, Code for All och Centrum för Tjänsteforskning.
