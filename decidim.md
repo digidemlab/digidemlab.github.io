@@ -1,7 +1,6 @@
 ---
 title: Decidim
-image: "/uploads/Screenshot-2018-5-16 Propostes - Pla d'Actuació Municipal - decidim
-  barcelona.png"
+image: "/uploads/decidim_barcelona.png"
 thumbnail: ''
 excerpt: Decidim är en Open Source-baserad digital medborgarplattform
 ingress-text: Med hjälp av medborgarplattformen Decidim kan kommuner facilitera medborgarprocesser

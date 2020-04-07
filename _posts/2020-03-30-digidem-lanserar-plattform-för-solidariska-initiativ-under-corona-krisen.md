@@ -1,6 +1,6 @@
 ---
 title: Digidem Lab lanserar plattform för solidariska initiativ under Corona-krisen
-image: "/uploads/Screenshot_2020-03-30 Agera tillsammans .png"
+image: "/uploads/Screenshot_2020-03-30_Agera_tillsammans.png"
 thumbnail: "/uploads/ageratillsammans.jpg"
 excerpt: Digidem Lab lanserar nu en plattform som kan underlätta organiseringen av
   solidariska initiativ runt om i Sverige.
@@ -14,7 +14,7 @@ links:
 ---
 Välkommen till en plattform öppen för alla som bor och verkar i Sverige! På [Ageratillsammans.nu](https://ageratillsammans.nu/ "Ageratillsammans.nu") kan du vara med och skapa förslag för hur vi kan stötta varandra under spridningen av COVID-19 men även bidra i skapandet av ett hållbart samhälle på lång sikt.
 
-> Många startar olika initiativ för att stötta riskgrupper 
+> Många startar olika initiativ för att stötta riskgrupper
 
 Vi ser hur många individer och verksamheter startar olika initiativ för att stötta riskgrupper genom att exempelvis hjälpa människor att handla mat eller dela ut gratis handsprit. Vi tror att många har ännu fler idéer kring hur vi kan hjälpa våra medmänniskor. Vi tror också att det är viktigt att skapa en vision för hur vi vill se vårt samhälle efter krisen.
 
