@@ -1,5 +1,5 @@
 ---
-title: Hur förhindrar man förslag som bryter mot kommunens riktlinjer/rådighet/kostnader?
+title: Varför ska man digitalisera medborgardialoger? Borde vi inte bli bättre på att möta våra in-vånare istället?
 ---
 
-När man gör processer som medborgarbudget eller medborgarförslag ingår det alltid en granskning tillsammans med tjänstepersoner eller områdespersonal med kunskaper i kostnader och genomförbarhet. Det är även viktigt att ha en löpande dialog med medborgare för att de ska lära sig mer om hur kommunen och dess restriktioner fungerar och kunna anpassa sina förslag därefter. Detta gör medborgardeltagande till en folkbildande insats. Studier av världens största och längst pågående medborgarprocesser visar också att medborgare tenderar att lägga effektiva och kreativa förslag som bidrar till ett hållbart samhälle. Med många deltagare ökar den kollektiva intelligenser som hjälper kommuner identifiera viktiga behov och nya lösningar.
+Absolut, borde vi bli bättre på att möta våra invånare! Men det ena utesluter inte det andra. Digi-tala medborgarplattformar tillåter kommuner att samla sina dialoger på ett transparent sätt som gör det lättare för tjänstepersoner att arbeta förvaltningsöverskridande och för medborgare att samarbeta med varandra. Men det är viktigt att kommuner kombinerar sin digitala strategi med utåtriktad kommunikation och fysiska möten. De plattformar vi arbetar med effektiviserar med-borgardialoger så att tjänstepersoner får mer tid till att vara ute och träffa målgrupper.
