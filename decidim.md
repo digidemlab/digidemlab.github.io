@@ -2,6 +2,7 @@
 title: Decidim
 image: "/uploads/decidim_barcelona.png"
 thumbnail: ''
+menu: services
 excerpt: Decidim är en Open Source-baserad digital medborgarplattform
 ingress-text: Med hjälp av medborgarplattformen Decidim kan kommuner facilitera medborgarprocesser
   och skapa utrymmen för medborgarinflytande.

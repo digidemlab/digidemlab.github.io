@@ -2,6 +2,7 @@
 title: Consul
 image: "/uploads/Consul.jpg"
 thumbnail: ''
+menu: services
 excerpt: 'Consul är en medborgarplattform för städer, stadsdelar och organisationer
   som vill genomföra dialogprocesser. '
 ingress-text: Med Consul kan ni skapa en digital mötesplats där staden och invånarna

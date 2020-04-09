@@ -522,6 +522,7 @@ svg.logo-dropdown {
 }
 
 // Läs mer faktaruta
+.menu,
 .services,
 .prices,
 .facts {
@@ -540,19 +541,25 @@ svg.logo-dropdown {
   }
 }
 
+.menu ul li:last-child {
+  padding-bottom: 0;
+}
 
-.facts {
+aside {
 
-  @include until($widescreen) {
-    background: $green;
-    position: absolute;
-    bottom: 0;
-    padding: 1rem 0.75rem;
-    width: 100%;
+  &.facts {
+    @include until($widescreen) {
+      background: $green;
+      position: absolute;
+      bottom: 0;
+      padding: 1rem 0.75rem;
+      width: 100%;
+    }
   }
 
   @include from($widescreen) {
     float: left;
+    clear: left;
     width: 25%;
   }
   @include from($fullhd) {
@@ -1085,4 +1092,27 @@ svg.logo-dropdown {
 }
 .accordion-body.open {
   display: block;
+}
+
+
+// Menu
+
+.menu {
+  border-bottom: 1.5rem solid $grey-light;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+}
+
+.menu-list a {
+  display: inline !important;
+  padding: 0 !important;
+}
+
+.menu-label:not(:first-child) {
+  margin: 0.75rem 0 !important;
+}
+
+.menu-label {
+  @include monospace;
+  text-transform: none !important;
 }

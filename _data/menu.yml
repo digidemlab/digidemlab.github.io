@@ -2,6 +2,19 @@ sv:
   primary:
   - title: Tjänster
     url: /services/
+    items:
+      - title: Vanliga frågor
+        url: /services/#faq
+      - title: Så arbetar vi
+        url: /services/#how-we-work
+      - title: Prisexempel
+        url: /services/#prices
+      - title: Digitala plattformar
+        items:
+          - title: Consul
+            url: /consul/
+          - title: Decidim
+            url: /decidim/
   - title: Uppdrag
     url: /work/
   - title: Om oss
