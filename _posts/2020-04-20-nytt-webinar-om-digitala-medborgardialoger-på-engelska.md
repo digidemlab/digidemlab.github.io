@@ -2,7 +2,7 @@
 title: Nytt webinar om digitala medborgardialoger på engelska
 image: "/uploads/avi-richards-Z3ownETsdNQ-unsplash.jpg"
 thumbnail: ''
-excerpt: 'Efter ett mycket populär webinar på svenska arrangerar vi nu en på engelska. '
+excerpt: 'Efter ett mycket populärt webinar på svenska arrangerar vi nu ett på engelska. '
 ingress-text: 'Det svenska webinariet om digitala medborgardialoger förra veckan blev
   en succé. Över 70 personer deltog och intresset inför det engelskspråkiga den 23
   april är ännu större. '
