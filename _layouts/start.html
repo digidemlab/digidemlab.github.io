@@ -24,6 +24,16 @@ layout: default
 {% assign project=site.projects | where:"lang", page.lang | sort:date | reverse %}
 
 <div id="content"></div>
+
+{% if page.notification %}
+  <section class="section">
+      <div class="notification is-info container">
+        <p>
+          <a href="{{site.baseurl}}{{page.notification.url}}">{{page.notification.title}}</a></p>
+      </div>
+  </section>
+{% endif %}
+
 <section id="featured" class="section">
   <div class="container has-text-centered-widescreen">
       {% for item in project limit:1 %}

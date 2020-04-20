@@ -4,6 +4,8 @@ description: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagan
 ref: services
 menu: services
 links:
+- title: Tillfälligt krispaket för dialogprocesser under Corona-krisen
+  url: "/uploads/Digidem Lab Krispaket.pdf"
 - title: Ladda ner vår brief "En stad för alla" med mer information om  hur vi jobbar.
   url: "/assets/files/Digidem Lab En stad for alla.pdf"
 image: "/uploads/usertesting-top.jpg"
@@ -58,6 +60,7 @@ prices:
         eller offert!
 
 ---
+
 ## Inkluderande deltagande
 Vi skapar medborgarcenterade processer utifrån internationellt beprovade metoder för att särksilt nå underrepresenterade grupper.
 
@@ -75,11 +78,12 @@ Plattformarna vi arbetar med har öppen källkod. Det gör att ni aldrig är lå
 Genom att implementera en digital plattform för dialoger kan kommuner samla sina processer på en och samma plats. Det underlättar för medborgarna och förenklar det långsiktiga demokratiarbetet.
 Tjänstepersoner kan enkelt få ut statistik, en bredare bild över vilka som deltar och en överblick över prioriterade frågor i kommunens arbete. Det går också att genomföra olika typer av dialoger samtidigt på en samlad och tydlig plattform.
 
-<!--
-<figure class="image is-2by1">
-  <img src="{{site.baseurl}}/uploads/usertesting.jpg" alt="Usertesting of Consul">
-</figure>
--->
+<div class="box">
+  <h2 id="crisis">Ett solidariskt krispaket</h2>
+  <p>Coronakrisen har gjort det svårt att genomföra fysiska träffar i till exempel medborgardialoger. Därför har vi satt ihop ett krispaket, specialanpassat för digitala dialogprocesser i den situation vi är i nu. Det innehåller en digitalt plattform, resurser för att snabbt komma igång och en gemenskap för att utbyta praxis och idéer.</p>
+  <p class="read-more"><a href="/uploads/Digidem Lab Krispaket.pdf">Läs mer om krispaketet</a></p>
+</div>
+
 <div class="columns">
   <div class="column">
     <figure class="image is-3by2">

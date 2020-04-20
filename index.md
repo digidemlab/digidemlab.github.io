@@ -5,6 +5,9 @@ description: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg f�
   deltagande demokrati.
 ref: start
 image: "/uploads/biskopsgarden.jpg"
+notification:
+  title: "Just nu: Tillfälligt krispaket för dialogprocesser under Corona-krisen."
+  url: "/services/#crisis"
 mission:
   title: Vårt erbjudande
   item:
