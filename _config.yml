@@ -73,6 +73,7 @@ repository: digidemlab/digidemlab.github.io
 plugins:
 - jemoji
 - jekyll-seo-tag
+- jekyll-menus
 #- jekyll-feed
 emptyArray: []
 t:

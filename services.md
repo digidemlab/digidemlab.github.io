@@ -3,6 +3,11 @@ title: Vårt erbjudande
 description: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande.
 ref: services
 menu: services
+menus:
+  sv:
+    title: Tjänster
+    weight: 1
+    identifier: services-sv
 links:
 - title: Tillfälligt krispaket för dialogprocesser under Corona-krisen
   url: "/uploads/Digidem Lab Krispaket.pdf"

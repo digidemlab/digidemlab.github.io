@@ -20,9 +20,15 @@
     <div class="container">
       <div class="navbar-menu" id="navbar-menu">
         <div class="navbar-start">
+
+          {% for item in site.menus[page.lang] %}
+            <a class="navbar-item {% if item.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+          {% endfor %}
+          <!---
           {% for item in site.data.menu[page.lang].primary %}
             <a class="navbar-item {% if item.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
           {% endfor %}
+          --->
         </div>
 
         <div class="navbar-end">
