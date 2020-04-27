@@ -15,4 +15,6 @@ Digidem Lab erbjuder kurser i organisering med fokus på lokala sammanhang där 
 
 Kursen vänder sig till lokala organisatörer som på något sätt arbetar med lokal utveckling, föreningsaktiva, lokala ledare, facilitatörer och aktivister som inser behovet av att bygga makt underifrån och vill utveckla sin egen och andras förmåga att själva organisera för att skapa den förändring de vill se.
 
-Kontakta oss för mer information!
+[Kontakta oss](https://digidemlab.org/contact/ "Kontakta oss") för mer information!
+
+![](/uploads/co (1).jpg)
