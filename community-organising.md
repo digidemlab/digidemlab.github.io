@@ -8,7 +8,6 @@ ingress-text: Utveckla din egen och andras förmåga att organisera för att ska
 links:
 - title: 'Kontakta oss '
   url: https://digidemlab.org/contact/
-published: false
 
 ---
 Digidem Lab erbjuder kurser i organisering med fokus på lokala sammanhang där deltagare får metoder och verktyg för att stärka ett community. Kursen är både teoretisk och praktisk och ger en grund i att navigera strategi, makt, jämlikhet, lyssnande med mera. Deltagarna har möjlighet att testa metoder direkt och reflektera över hur de kan användas i deras egen kontext.
