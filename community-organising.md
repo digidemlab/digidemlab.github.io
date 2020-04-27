@@ -5,7 +5,9 @@ thumbnail: ''
 excerpt: Digidem Lab erbjuder kurser i Community organising
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
   förändring ni vill se! Digidem Lab erbjuder kurser i Community organising
-links: []
+links:
+- title: 'Kontakta oss '
+  url: https://digidemlab.org/contact/
 published: false
 
 ---
