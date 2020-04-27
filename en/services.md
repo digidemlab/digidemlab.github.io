@@ -2,11 +2,6 @@
 title: Our services
 description: Digidem Lab offers a range of methods and platforms for citizen participation.
 ref: services
-menus:
-  en:
-    title: Services
-    weight: 1
-    identifier: services-en
 image: "/uploads/usertesting-top.jpg"
 ingress-text: We design inclusive processes for citizen participation.
 contact: true

@@ -6,10 +6,6 @@ ref: about
 image: "/uploads/medialab.jpg"
 ingress-text: Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella
   erfarenheter inom medborgardeltagande.
-menus:
-  sv:
-    title: Om oss
-    weight: 3
 ---
 
 Det gör vi genom att erbjuda metoder och verktyg för medborgardeltagande som inkluderar underrepresenterade grupper i beslutsfattande.

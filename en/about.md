@@ -2,10 +2,6 @@
 title: We are Digidem Lab
 description: We work to improve citizen participation according to the UN Global Goals.
 ref: about
-menus:
-  en:
-    title: About
-    weight: 3
 image: "/uploads/medialab.jpg"
 ingress-text: We work to improve citizen participation according to the UN Global
   Goals.

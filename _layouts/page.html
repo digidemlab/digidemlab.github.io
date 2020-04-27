@@ -40,29 +40,31 @@ layout: default
       </div>
     </div>
 
-    {% if page.menu == 'services' %}
-    <aside class="menu">
-      <ul class="menu-list">
-        {% for item in site.data.menu-services[page.lang] %}
-          {% if item.url %}
-            <li><a class="{% if item.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
-              {% if item.items %}
-                <ul>
-                  {% for subitem in item.items %}
-                    <li><a class="{% if subitem.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{subitem.url}}">{{subitem.title}}</a>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </li>
-          {% else %}
-          </ul>
-          <p class="menu-label">{{ item.title }}</p>
+    {% for item in site.data.menu[page.lang].primary %}
+      {% if page.menu == item.ref and item.items %}
+        <aside class="menu">
           <ul class="menu-list">
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </aside>
-    {% endif %}
+            {% for item in item.items %}
+              {% if item.url %}
+                <li><a class="{% if item.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+                  {% if item.items %}
+                    <ul>
+                      {% for subitem in item.items %}
+                        <li><a class="{% if subitem.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{subitem.url}}">{{subitem.title}}</a>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+                </li>
+              {% else %}
+              </ul>
+              <p class="menu-label">{{ item.title }}</p>
+              <ul class="menu-list">
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </aside>
+      {% endif %}
+    {% endfor %}
 
 
     {% if page.links %}
