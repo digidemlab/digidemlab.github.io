@@ -9,7 +9,9 @@ ingress-text: 'När stadsdelen Lundby i Göteborg genomför sin medborgarbudget 
   första gången i Sverige.
 
 '
-links: []
+links:
+- title: Consul (Den digitala plattform som används)
+  url: https://digidemlab.org/consul/
 published: false
 
 ---
