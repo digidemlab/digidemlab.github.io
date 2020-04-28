@@ -33,6 +33,12 @@ Familjebostäder och Stena Fastigheter har flera fastigheter som ligger runt Bju
 
 – Det handlar bland annat om workshops under skoltid. Vägen dit ska också vara en del av medborgarbudgetarbetet. Elever ska lära sig om medborgarinflytande, budget och göra research kring lokala behov och använda sin kreativitet. Man kan till exempel använda konst eller musik för att nå ut med sina förslag, beskriver Sanna.
 
+![](/uploads/Lundby_stadsdelshus2016_001 (1).jpg)
+
+![](/uploads/Aerial_photo_of_Gothenburg_2013-10-27_299 (1).jpg)
+
+_Bjurslättskolan och_ _flygfoto över del av stadsdelen Lundby. Foto: Wikipedia_ 
+
 ## Om stadsdelen
 
 Lundby är en stadsdel där det bor människor med mycket blandande socioekonomiska och kulturella bakgrunder och förutsättningar. Bjurslättsskolans upptagningsområde innefattar både bostadsområden med hög andel enföräldershushåll och hushåll med försörjningsstöd, villaområden och nybyggda flerfamiljshus. Skolan har stora möjligheter att bli en samlande arena för barn och familjer från många olika socioekonomiska livssituationer.
