@@ -25,8 +25,6 @@ Att ha medborgarbudget-processer i skolan är dock något som testats i flera an
 
 Processen kommer också i Lundby att dokumenteras i ett forskningsprojekt om medborgarbudgetar i skolor, tillsammans med organisationen Transparency international.
 
-![](/uploads/Chicago.jpg)_Erfarenheter från liknande processer i exempelvis Chicago visar att såväl motivationen för skolarbete som känslan av inflytande ökar bland de som deltar. Foto Youth PB Chicago._
-
 ## Om processen
 
 Processen går under paraplyprojektet Skolan mitt i Lundby, där stadsdelen sedan tidigare satsat på att ha skolan som mittpunkt och mötesplats. Medborgarbudgeten är på 100 000 kronor och det är skolelever i alla åldrar och hyresgäster hos de medverkande bostadsbolagen som kan lägga förslag för hur dessa pengar ska användas och rösta. Temat är sociala aktiviteter, och förhoppningen är att så många som möjligt i området ska kunna vara med, med en möjlighet att använda skolans eller bostadsföretagens lokaler.
