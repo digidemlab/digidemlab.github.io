@@ -31,7 +31,7 @@ Processen går under paraplyprojektet Skolan mitt i Lundby, där stadsdelen seda
 
 Familjebostäder och Stena Fastigheter har flera fastigheter som ligger runt Bjurslättsskolan i Lundby där de flesta aktiviteter kring medborgarbudgeten kommer att äga rum.
 
-– Det handlar bland annat om workshops under skoltid. Vägen dit ska också vara en del av medborgarbudgeten. Elever ska lära sig om medborgarinflytande, budget och göra research kring lokala behov och använda sin kreativitet. Man kan till exempel använda konst eller musik för att nå ut med sina förslag, beskriver Sanna.
+– Det handlar bland annat om workshops under skoltid. Vägen dit ska också vara en del av medborgarbudgetarbetet. Elever ska lära sig om medborgarinflytande, budget och göra research kring lokala behov och använda sin kreativitet. Man kan till exempel använda konst eller musik för att nå ut med sina förslag, beskriver Sanna.
 
 ## Om stadsdelen
 
@@ -39,4 +39,4 @@ Lundby är en stadsdel där det bor människor med mycket blandande socioekonomi
 
 ## Om uppdraget
 
-Digidem Lab processleder medborgarbudgeten och genomför utbildningar och workshops med bland annat anställda på stadsdelsförvaltningen och skolan. Lundby har valt att använda den Open Source-baserade plattformen Consul där de medverkande kan lägga förslag och rösta. Digidem Lab hjälper till med installation och utbildning. Just nu är arbetet i en förankringsfas. Planen är att den publika delen av processen ska dra igång under hösten 2020 och förslagen genomföras under 2021.
+Digidem Lab processleder medborgarbudgeten och genomför utbildningar och workshops med bland annat anställda på stadsdelsförvaltningen och skolan. Lundby har valt att använda den Open Source-baserade plattformen Consul där de medverkande kan lägga förslag och rösta. Digidem Lab hjälper till med installation och utbildning. I skrivande stund är arbetet i en förankringsfas. Planen är att den publika delen av processen ska dra igång under hösten 2020 och förslagen genomföras under 2021.
