@@ -1,6 +1,6 @@
 ---
 title: Skolan i centrum för Lundbys unika medborgarbudget
-image: ''
+image: "/uploads/BjurslattskolanIngemarbarn.jpg"
 thumbnail: ''
 excerpt: Lundby testar en medborgarbudget med skolan i centrum. Digidem Lab processleder.
 ingress-text: 'När stadsdelen Lundby i Göteborg genomför sin medborgarbudget gör man
