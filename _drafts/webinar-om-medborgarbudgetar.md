@@ -12,8 +12,6 @@ links:
   url: https://www.eventbrite.com/e/webinar-digital-medborgarbudget-tickets-103318173438
 
 ---
-Vi kommer att gå igenom exempel  hur kommuner och offentliga institutioner kan digitalisera sin medborgarbudget. Du får veta hur Madrid, New York, Helsingfors och Barcelona har utvecklat intressanta funktioner som hjälper tjänstepersoner för varje steg i medborgarbudgeten. Fokus blir även på hur svenska kommuner och bostadsbolag använt dessa plattformar för sina medborgarbudgetar. Ni som deltar får också möjlighet att ställa frågor utifrån utmaningar ni själva funderar kring.   
-  
-Tid: 60 minuters presentation + möjlighet till 30 minuters frågestånd
+Vi kommer att gå igenom exempel  hur kommuner och offentliga institutioner kan digitalisera sin medborgarbudget. Du får veta hur Madrid, New York, Helsingfors och Barcelona har utvecklat intressanta funktioner som hjälper tjänstepersoner för varje steg i medborgarbudgeten. Fokus blir även på hur svenska kommuner och bostadsbolag använt dessa plattformar för sina medborgarbudgetar. Ni som deltar får också möjlighet att ställa frågor utifrån utmaningar ni själva funderar kring.
 
 [Anmälningssida](https://www.eventbrite.com/e/webinar-digital-medborgarbudget-tickets-103318173438 "Anmälningssida")
