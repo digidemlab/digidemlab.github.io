@@ -1,5 +1,5 @@
 ---
-title: Webinar om medborgarbudgetar
+title: Webinar om medborgarbudgetar 13 maj
 image: "/uploads/webinar medborgarbudget.jpeg"
 thumbnail: ''
 excerpt: 'Vår webinarie-serie fortsätter nu med ett med som fokuserar på medborgarbudgetar. '
