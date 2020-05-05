@@ -12,7 +12,7 @@ fields:
 - name: thumbnail
   type: file
   config:
-    maxSize: 250
+    maxSize: 
   label: Smaller image
   description: Bild 560px bred, till nyhetsbrev.
 - type: text
@@ -32,6 +32,26 @@ fields:
   - type: text
     name: url
     label: url
+- name: ref
+  type: text
+  config:
+    required: false
+  label: Translation ID
+- name: lang
+  type: select
+  default: sv
+  config:
+    required: false
+    options:
+    - sv
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
+  description: Språk. Välj mellan en för engelska eller sv för svenska.
 pages:
 - _posts/2020-03-24-digitala-dialogverktyg-underlättar-i-corona-krisen.md
 - _posts/2020-03-25-open-source-verktyg-för-hemmakontoret.md
