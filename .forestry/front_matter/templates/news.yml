@@ -37,6 +37,8 @@ fields:
   config:
     required: false
   label: Translation ID
+  description: ID för texter med samma innehåll men olika språk. Använd små bokstäver
+    och bindestreck.
 - name: lang
   type: select
   default: sv
