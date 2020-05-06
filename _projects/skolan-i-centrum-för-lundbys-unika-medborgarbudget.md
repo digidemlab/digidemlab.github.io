@@ -34,11 +34,19 @@ Familjebostäder och Stena Fastigheter har flera fastigheter som ligger runt Bju
 
 – Det handlar bland annat om workshops under skoltid. Vägen dit ska också vara en del av medborgarbudgetarbetet. Elever ska lära sig om medborgarinflytande, budget och göra research kring lokala behov och använda sin kreativitet. Man kan till exempel använda konst eller musik för att nå ut med sina förslag, beskriver Sanna.
 
-![](/uploads/Lundby_stadsdelshus2016_001 (1).jpg)
-
-![](/uploads/Aerial_photo_of_Gothenburg_2013-10-27_299 (1).jpg)
-
-_Bjurslättskolan och_ _flygfoto över del av stadsdelen Lundby. Foto: Wikipedia_ 
+<div class="columns">
+  <div class="column">
+    <figure>
+      <img src="/uploads/Lundby_stadsdelshus2016_001 (1).jpg" alt="">
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+      <img src="/uploads/Aerial_photo_of_Gothenburg_2013-10-27_299 (1).jpg" alt="">
+    </figure>
+  </div>
+</div>
+<div class="caption">Bjurslättskolan och flygfoto över del av stadsdelen Lundby. Foto: Wikipedia.</div>
 
 ## Om stadsdelen
 
