@@ -2,7 +2,8 @@
 title: Webinar om medborgarbudgetar 13 maj
 image: "/uploads/webinar medborgarbudget-1.jpg"
 thumbnail: ''
-excerpt: 'Vår webinarie-serie fortsätter nu med ett med som fokuserar på medborgarbudgetar. '
+excerpt: 'Vår webinarie-serie fortsätter nu med ett med som fokuserar på det vi tycker
+  är viktigast: medborgarbudgetar. '
 ingress-text: 'Intresset för digitala medborgardiologer är just nu jättestort. De
   två tidigare webinarierna som vi arrangerat har lockat flera hundra deltagare och
   städer från hela världen hör av sig till oss med frågor. Därför gör vi ett webinar
