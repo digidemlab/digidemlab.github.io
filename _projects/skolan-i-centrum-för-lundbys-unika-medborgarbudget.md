@@ -29,23 +29,23 @@ Processen kommer också i Lundby att dokumenteras i ett forskningsprojekt om med
 
 ## Om processen
 
-Processen går under paraplyprojektet Skolan mitt i Lundby, där stadsdelen sedan tidigare satsat på att ha skolan som mittpunkt och mötesplats. Medborgarbudgeten är på 100 000 kronor och det är skolelever i alla åldrar och hyresgäster hos de medverkande bostadsbolagen som kan lägga förslag för hur dessa pengar ska användas och rösta. Temat är sociala aktiviteter, och förhoppningen är att så många som möjligt i området ska kunna vara med, med en möjlighet att använda skolans eller bostadsföretagens lokaler.
+Processen går under satsningen Skolan mitt i Lundby, där stadsdelen sedan tidigare arbetat mot att ha skolan som mittpunkt och mötesplats. Medborgarbudgeten är på 100 000 kronor och det är skolelever i alla åldrar och hyresgäster hos de medverkande bostadsbolagen som kan lägga förslag för hur dessa pengar ska användas och rösta. Temat är sociala aktiviteter, och förhoppningen är att så många som möjligt i området ska kunna vara med, med en möjlighet att använda skolans eller bostadsföretagens lokaler.
 
-Familjebostäder och Stena Fastigheter har flera fastigheter som ligger runt Bjurslättsskolan i Lundby där de flesta aktiviteter kring medborgarbudgeten kommer att äga rum.
+Familjebostäder och Stena Fastigheter har flera fastigheter som ligger runt Bjurslättskolan i Lundby där de flesta aktiviteter kring medborgarbudgeten kommer att äga rum.
 
 – Det handlar bland annat om workshops under skoltid. Vägen dit ska också vara en del av medborgarbudgetarbetet. Elever ska lära sig om medborgarinflytande, budget och göra research kring lokala behov och använda sin kreativitet. Man kan till exempel använda konst eller musik för att nå ut med sina förslag, beskriver Sanna.
 
 <div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/Lundby_stadsdelshus2016_001 (1).jpg" alt="">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/Aerial_photo_of_Gothenburg_2013-10-27_299 (1).jpg" alt="">
-    </figure>
-  </div>
+<div class="column">
+<figure>
+<img src="/uploads/Lundby_stadsdelshus2016_001 (1).jpg" alt="">
+</figure>
+</div>
+<div class="column">
+<figure>
+<img src="/uploads/Aerial_photo_of_Gothenburg_2013-10-27_299 (1).jpg" alt="">
+</figure>
+</div>
 </div>
 <div class="caption">Bjurslättskolan och flygfoto över del av stadsdelen Lundby. Foto: Wikipedia.</div>
 
