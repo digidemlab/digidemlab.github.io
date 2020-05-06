@@ -14,7 +14,7 @@ links:
 - title: Consul (Den digitala plattform som används)
   url: https://digidemlab.org/consul/
 ref: ''
-lang: ''
+lang: sv
 
 ---
 – Det känns jätteroligt! Vad vi vet är det första gången man testar medborgarbudget i skolan i Sverige. Det känns så himla viktigt. Det handlar ju om att lära sig i tidig ålder hur man kan vara med och bestämma, att göra unga människor mer benägna att engagera sig i samhället, att visa dem att deras röst räknas, säger Sanna Ghotbi, Citizen Participation Consultant på Digidem Lab.
