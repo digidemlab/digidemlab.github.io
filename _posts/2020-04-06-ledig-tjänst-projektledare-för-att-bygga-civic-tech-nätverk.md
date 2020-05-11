@@ -2,11 +2,14 @@
 title: 'Ledig tjänst: Projektledare för att bygga civic tech-nätverk'
 image: "/uploads/anvandartest4.jpg"
 thumbnail: ''
-excerpt: Var med och bygg upp ett community för teknik för samhällsnytta!
-ingress-text: Var med och bygg upp ett community för teknik för samhällsnytta!
+excerpt: 'Uppdatering: Tjänsten som projektledare för civic tech-nätverket är tillsatt.'
+ingress-text: 'Uppdatering: Tjänsten som projektledare för civic tech-nätverket är
+  tillsatt.'
 links:
 - title: Civic Tech Sweden
   url: https://civictech.se
+ref: ''
+lang: ''
 
 ---
 Vi söker dig som vill arbeta som projektledare för [Civic Tech Sweden](https://civictech.se) och utveckla ett aktivt community av personer och grupper som arbetar för teknik för samhällsnytta.
@@ -41,13 +44,3 @@ Digidem Lab startade nätverket Civic Tech Sweden 2017 för att bygga upp ett co
 * Erfarenhet av kommunikationsarbete
 * Arbetat inom civilsamhället eller offentlig förvaltning
 * Kunskaper eller utbildning inom något mer än projektledning och kommunikation
-
-Tjänsten är en projektanställning på 80% med lön baserat på 32 000 för heltid, med löneökning på 2% per år. Från 1 juni 2020 till 30 november 2021 (18 månader). Intervjuer sker löpande.
-
-Ansök genom att svara på frågorna i [formuläret](https://digidemlab.typeform.com/to/PwD57H) och skicka ditt CV till [rekrytering@digidemlab.org](mailto:rekrytering@digidemlab.org).
-
-Om du har frågor om tjänsten går det bra att kontakta oss på [rekrytering@digidemlab.org](mailto:rekrytering@digidemlab.org) eller ringa till Annie Hermansson på 0702 786 908. Vi finns på plats mellan klockan 9-16 måndag till torsdag.
-
-### Ansökningsformulär
-
-[https://digidemlab.typeform.com/to/PwD57H](https://digidemlab.typeform.com/to/PwD57H "https://digidemlab.typeform.com/to/PwD57H")
