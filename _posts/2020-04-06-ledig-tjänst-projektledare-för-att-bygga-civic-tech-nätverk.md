@@ -9,7 +9,7 @@ links:
 - title: Civic Tech Sweden
   url: https://civictech.se
 ref: ''
-lang: ''
+lang: sv
 
 ---
 Vi söker dig som vill arbeta som projektledare för [Civic Tech Sweden](https://civictech.se) och utveckla ett aktivt community av personer och grupper som arbetar för teknik för samhällsnytta.
