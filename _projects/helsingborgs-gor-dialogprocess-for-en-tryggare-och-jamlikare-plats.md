@@ -1,6 +1,6 @@
 ---
 lang: sv
-title: 'Helsingborgs gör dialogprocess för en tryggare och jämlikare plats '
+title: 'Helsingborg gör dialogprocess för en tryggare och jämlikare plats '
 image: "/uploads/helsingborg.jpg"
 thumbnail: ''
 excerpt: När Siöcronaplatsen i Helsingborg ska fräschas upp bjuds stadens invånare
@@ -12,7 +12,6 @@ links:
 - title: 'Tryggare platser i Helsingborg (Dialogplattformen) '
   url: 'https://tryggareplatser.helsingborg.se/. '
 ref: ''
-published: false
 
 ---
 – Det här är en plats som inte upplevs som särskilt attraktiv. Idag används den mestadels av förbipasserande föräldrar med småbarn. Det förekommer drogförsäljning och nedskräpning, så det finns utmaningar. Men platsen är också tacksam att jobba med eftersom den är tydligt avgränsad, beskriver Sharif Shawky, landskapsarkitekt på Helsingborgs stad.
@@ -25,9 +24,7 @@ Helsingborg har valt att använda sig av den Open Source-baserade plattformen De
 
 För att en plats ska uppfattas som trygg är bland annat belysning, överblickbarhet och renhet viktigt samt hur mycket och till vad den används. Att en plats ska vara jämlik handlar delvis om hur olika grupper har möjlighet att använda den. Finns det plats för rullstolar vid borden? Finns det skyltar på olika språk? Men det handlar också om själva processen att utforma platsen. Finns det möjlighet för medborgare att påverka över tid? Om det finns konflikter om hur en plats ska användas kan det behövas medling.
 
-![](/uploads/platsen-hborg1.jpg)![](/uploads/platsen-hborg2.jpg)
-
-_Bildtext: Siöcronaplatsen används mest av förbipasserande föräldrar med småbarn. Nu är förhoppningen att göra den tillgänglig för fler._
+![](/uploads/platsen-hborg1.jpg)![](/uploads/platsen-hborg2.jpg)_Siöcronaplatsen används mest av förbipasserande föräldrar med småbarn. Nu är förhoppningen att göra den tillgänglig för fler._
 
 – Vi håller på att undersöka vad som gör att en plats upplevs som jämlik och ska inom ett par år komma fram till en certifiering tillsammans med andra aktörer i ett Vinnova-projekt, berättar Sharif.
 
