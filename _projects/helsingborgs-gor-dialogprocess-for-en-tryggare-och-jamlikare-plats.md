@@ -14,7 +14,7 @@ links:
 ref: ''
 
 ---
-– Det här är en plats som inte upplevs som särskilt attraktiv. Idag används den mestadels av förbipasserande föräldrar med småbarn. Det förekommer drogförsäljning och nedskräpning, så det finns utmaningar. Men platsen är också tacksam att jobba med eftersom den är tydligt avgränsad, beskriver Sharif Shawky, landskapsarkitekt på Helsingborgs stad.
+– Det här är en plats som inte upplevs som särskilt attraktiv. Idag används den mestadels av förbipasserande föräldrar med småbarn. Det förekommer drogförsäljning och nedskräpning, så det finns utmaningar. Men platsen är också tacksam att jobba med eftersom den är tydligt avgränsad, beskriver Sharif Shawky, landskapsarkitekt på Helsingborgs stad (till höger på bilden ovan).
 
 Helsingborg har valt att använda sig av den Open Source-baserade plattformen Decidim för att samla in förslag från medborgarna om hur Siöcronaplatsen ska förändras. Detta är den första dialogen av flera där fokus ligger på att skapa mer trygga och jämlika platser i staden.
 
