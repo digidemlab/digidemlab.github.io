@@ -23,18 +23,18 @@ Helsingborg har valt att använda sig av den Open Source-baserade plattformen De
 
 – Den digitala plattformen blev ett självklart val under dessa Corona-tider för att kunna nå ut till fler grupper. Den minskar distansen mellan det offentliga och medborgarna. Efter Corona är det jätteviktigt att också komplettera med att investera tid i att möta folk. Tidigare har vi gjort mycket platsdialoger och träffat föreningar i områdena. Nu kompletterar vi istället med telefonintervjuer på svenska, engelska och arabiska, eftersom det bort arabisktalande i området, berättar Sharif.
 
-För att en plats ska uppfattas som trygg är bland annat belysning, överblickbarhet och renhet viktigt samt hur mycket och till vad den används. Att en plats ska vara jämlik handlar delvis om hur olika grupper har möjlighet att använda den. Finns det plats för rullstolar vid borden? Finns det skyltar på olika språk? Men det handlar också om själva processen att utforma platsen. Finns det möjlighet för medborgare att påverka över tid? Om det finns konflikter om hur en plats ska användas kan det behövas medling. 
+För att en plats ska uppfattas som trygg är bland annat belysning, överblickbarhet och renhet viktigt samt hur mycket och till vad den används. Att en plats ska vara jämlik handlar delvis om hur olika grupper har möjlighet att använda den. Finns det plats för rullstolar vid borden? Finns det skyltar på olika språk? Men det handlar också om själva processen att utforma platsen. Finns det möjlighet för medborgare att påverka över tid? Om det finns konflikter om hur en plats ska användas kan det behövas medling.
 
 ![](/uploads/platsen-hborg1.jpg)![](/uploads/platsen-hborg2.jpg)
 
-Bildtext: Siöcronaplatsen används mest av förbipasserande föräldrar med småbarn. Nu är förhoppningen att göra den tillgänglig för fler. 
+_Bildtext: Siöcronaplatsen används mest av förbipasserande föräldrar med småbarn. Nu är förhoppningen att göra den tillgänglig för fler._
 
 – Vi håller på att undersöka vad som gör att en plats upplevs som jämlik och ska inom ett par år komma fram till en certifiering tillsammans med andra aktörer i ett Vinnova-projekt, berättar Sharif.
 
-Sharif vittnar om en mycket homogen stadsutvecklingsvärld, något som kan leda till att platser utformas på ett sätt som inte alltid passar de som ska använda den. Ett exempel är i Malmö där Sveriges mest avancerade skejtpark knappt används eftersom den byggts i ett område helt utan sådana behov eller existerande kultur. 
+Sharif vittnar om en mycket homogen stadsutvecklingsvärld, något som kan leda till att platser utformas på ett sätt som inte alltid passar de som ska använda den. Ett exempel är i Malmö där Sveriges mest avancerade skejtpark knappt används eftersom den byggts i ett område helt utan sådana behov eller existerande kultur.
 
-– Men det börjar bli vanligare att ta in åsikter från berörda parter. Viljan finns men det sker lite försiktigt. Inte heller jag hinner lägga den tiden som jag skulle vilja på att få kontakt med människor i området, men det är ändå någonting, säger Sharif. 
+– Men det börjar bli vanligare att ta in åsikter från berörda parter. Viljan finns men det sker lite försiktigt. Inte heller jag hinner lägga den tiden som jag skulle vilja på att få kontakt med människor i området, men det är ändå någonting, säger Sharif.
 
-## Uppdraget & Processen  
+## Uppdraget & Processen
 
 Digidem Lab har utvecklat designen på processen och levererar [den digitala plattformen](https://tryggareplatser.helsingborg.se/.  "den digitala plattformen"), varifrån hela processen ska kunna gå att följa . Fram till 1 juni är det möjligt att bidra med idéer. Därefter kommer Sharif och hans team titta på förslagen utifrån ett jämlikhets- och trygghetsperspektiv. Utifrån den analysen kommer sedan staden att ta fram två stycken konceptförslag som lanseras 8 juni. Därefter följer en omröstning mellan 8-10 juni. Projektering kommer att ske under augusti och september. Plattformen kommer vara aktiv till 31 mars 2021. Förhoppningen är att platsen kommer vara färdig tills dess.
