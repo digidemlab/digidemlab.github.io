@@ -1,7 +1,7 @@
 ---
 lang: sv
 title: 'Helsingborg gör dialogprocess för en tryggare och jämlikare plats '
-image: "/uploads/helsingborgny.jpg"
+image: "/uploads/helsingborgny-1.jpg"
 thumbnail: ''
 excerpt: När Siöcronaplatsen i Helsingborg ska fräschas upp bjuds stadens invånare
   in till att komma med förslag och rösta på hur den ska utformas.
