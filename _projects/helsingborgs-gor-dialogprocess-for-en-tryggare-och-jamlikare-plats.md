@@ -20,7 +20,7 @@ Helsingborg har valt att använda sig av den Open Source-baserade plattformen De
 
 > Plattformen minskar distansen mellan det offentliga och medborgarna
 
-– Den digitala plattformen blev ett självklart val under dessa Corona-tider för att kunna nå ut till fler grupper. Den minskar distansen mellan det offentliga och medborgarna. Efter Corona är det jätteviktigt att också komplettera med att investera tid i att möta folk. Tidigare har vi gjort mycket platsdialoger och träffat föreningar i områdena. Nu kompletterar vi istället med telefonintervjuer på svenska, engelska och arabiska, eftersom det bort arabisktalande i området, berättar Sharif.
+– Den digitala plattformen blev ett självklart val under dessa Corona-tider för att kunna nå ut till fler grupper. Den minskar distansen mellan det offentliga och medborgarna. Efter Corona är det jätteviktigt att också komplettera med att investera tid i att möta folk. Tidigare har vi gjort mycket platsdialoger och träffat föreningar i områdena. Nu kompletterar vi istället med telefonintervjuer på svenska, engelska och arabiska, eftersom det bor arabisktalande i området, berättar Sharif.
 
 För att en plats ska uppfattas som trygg är bland annat belysning, överblickbarhet och renhet viktigt samt hur mycket och till vad den används. Att en plats ska vara jämlik handlar delvis om hur olika grupper har möjlighet att använda den. Finns det plats för rullstolar vid borden? Finns det skyltar på olika språk? Men det handlar också om själva processen att utforma platsen. Finns det möjlighet för medborgare att påverka över tid? Om det finns konflikter om hur en plats ska användas kan det behövas medling.
 
