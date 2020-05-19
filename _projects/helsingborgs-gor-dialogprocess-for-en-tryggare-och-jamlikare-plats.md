@@ -28,7 +28,7 @@ För att en plats ska uppfattas som trygg är bland annat belysning, överblickb
 
 – Vi håller på att undersöka vad som gör att en plats upplevs som jämlik och ska inom ett par år komma fram till en certifiering tillsammans med andra aktörer i ett Vinnova-projekt, berättar Sharif.
 
-Sharif vittnar om en mycket homogen stadsutvecklingsvärld, något som kan leda till att platser utformas på ett sätt som inte alltid passar de som ska använda den. Ett exempel är i Malmö där Sveriges mest avancerade skejtpark knappt används eftersom den byggts i ett område helt utan sådana behov eller existerande kultur.
+Han vittnar om en mycket homogen stadsutvecklingsvärld, något som kan leda till att platser utformas på ett sätt som inte alltid passar de som ska använda den. Ett exempel är i Malmö där Sveriges mest avancerade skejtpark knappt används eftersom den byggts i ett område helt utan sådana behov eller existerande kultur.
 
 – Men det börjar bli vanligare att ta in åsikter från berörda parter. Viljan finns men det sker lite försiktigt. Inte heller jag hinner lägga den tiden som jag skulle vilja på att få kontakt med människor i området, men det är ändå någonting, säger Sharif.
 
