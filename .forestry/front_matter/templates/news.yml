@@ -54,6 +54,17 @@ fields:
       path: 
   label: Language
   description: Språk. Välj mellan en för engelska eller sv för svenska.
+- name: date
+  type: datetime
+  label: Date
+  description: Publication date
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
 pages:
 - _posts/2020-03-24-digitala-dialogverktyg-underlättar-i-corona-krisen.md
 - _posts/2020-03-25-open-source-verktyg-för-hemmakontoret.md
