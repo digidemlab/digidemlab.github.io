@@ -21,30 +21,3 @@ Utgångspunkter är att skapa långsiktiga strukturer för dialogprocesser. Medb
 </div>
 
 En viktig del av vårt arbete är att vi också är ett labb - en plats för att utveckla och testa framtidens verktyg och metoder. Vi har hittills stöttat [över 30 projekt](/lab/), genomförda av unga personer, och genom nätverket [CivicTechSweden](http://civictech.se) ordnar vi hackathons och meetups för att utveckla nya digitala tjänster för samhällsnytta.
-
-<!--
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="{{site.baseurl}}/uploads/communityorg.jpg" alt="Community organising">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="{{site.baseurl}}/uploads/usertesting.jpg" alt="User testing of Consul">
-    </figure>
-  </div>
-</div>
-<div class="columns">
-  <div class="column is-one-third">
-    <figure>
-      <img src="{{site.baseurl}}/uploads/paris.jpg" alt="Paris participatory budget">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="{{site.baseurl}}/uploads/workshop.jpg" alt="Workshop">
-    </figure>
-  </div>
-</div>
--->

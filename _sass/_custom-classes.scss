@@ -634,7 +634,7 @@ aside {
 // Bild i text
 .content {
 
-  p > img,
+
   figure {
     margin-left: 0;
     margin-right: 0;
@@ -646,13 +646,81 @@ aside {
         text-align: left;
       }
     }
+  }
 
-    img {
-      display: inline-block;
+  p > img {
+    display: inline-block;
+    margin-top: 1rem;
+
+    @include from($tablet) {
+      &:first-of-type {
+        padding: 1%;
+        padding-left: 0;
+        padding-right: 0;
+        max-width: 99%;
+      }
+
+      &:first-of-type:not(:only-of-type) {
+        max-width: 49%;
+        padding-right: 1%;
+      }
+
+      &:nth-of-type(2) {
+        max-width: 49%;
+        padding: 1%;
+        padding-right: 0;
+      }
+    }
+
+    @include from($widescreen) {
+      margin-bottom: 1rem;
+      margin-top: 2rem;
+
+      &:first-of-type {
+        margin-left: -53%;
+        max-width: 155%;
+      }
+
+      &:first-of-type:not(:only-of-type) {
+        max-width: 77%;
+        padding-right: 2%;
+      }
+
+      &:nth-of-type(2) {
+        margin-right: -5%;
+        max-width: 77%;
+        padding-left: 2%;
+      }
+    }
+
+    @include from($fullhd) {
+      &:first-of-type {
+        margin-left: -70.5%;
+        max-width: 207%;
+      }
+
+      &:first-of-type:not(:only-of-type) {
+        max-width: 103%;
+      }
+
+      &:nth-of-type(2) {
+        margin-right: -38%;
+        max-width: 103%;
+      }
+    }
+
+    &+ em {
+      display: block;
+
+      @include from($widescreen) {
+        position: absolute;
+        left: 0;
+      }
     }
   }
 
   figure figcaption,
+  img + em,
   .caption {
     font-style: normal;
     @include monospace;

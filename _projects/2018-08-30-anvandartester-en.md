@@ -19,15 +19,4 @@ The test persisted of evaluating a demo version of the citizen platform and intr
 
 25 test subjects were divided on two occasions to try the platform and answer questions about their thoughts and experience of participatory budgeting or other citizen processes in city districts. The test subjects were selected based on the project's goal of increasing the participation in decision making of those groups that Demokratiutredningen (The democracy investigation) showed are underrepresented.
 
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/anvandartest2.jpg">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/anvandartest3.jpg">
-    </figure>
-  </div>
-</div>
+![](/uploads/anvandartest2.jpg) ![](/uploads/anvandartest3.jpg)

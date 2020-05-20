@@ -1,4 +1,4 @@
-{% if page.ref %}
+{% if page.ref and page.ref != '' %}
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %}
     {% if forloop.last %}<span class="navbar-item item-lang-space">|</span>{% endif %}

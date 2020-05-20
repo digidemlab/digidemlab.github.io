@@ -18,15 +18,4 @@ Testet bestod av att utvärdera en demoversion av medborgarplattformen och att i
 
 > Testpersoner valdes ut baserat på projektets målsättning att främja ökad deltagande i beslut för de som nu är underrepresenterade enligt Demokratiutredningen.
 
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/anvandartest2.jpg">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/anvandartest3.jpg">
-    </figure>
-  </div>
-</div>
+![](/uploads/anvandartest2.jpg) ![](/uploads/anvandartest3.jpg)

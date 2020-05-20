@@ -27,23 +27,9 @@ För att förankra processen höll vi en workshop med ledningsgruppen som bestod
 
 Efter avslutad process kommer vi göra en utvärdering tillsammans med utvecklingsledare, personal och hyresgäster.
 
-<figure>
-  <img src="/uploads/biskop1-wide.jpg" alt="Workshop">
-</figure>
+![](/uploads/biskop1-wide.jpg)
 
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/biskop2.jpg" alt="Möte">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/biskop3.jpg" alt="Möte">
-    </figure>
-  </div>
-</div>
-<div class="caption">Wokshops för Bostadsbolaget.</div>
+![](/uploads/biskop2.jpg) ![](/uploads/biskop3.jpg) _Wokshops för Bostadsbolaget._
 
 ## Om metoden
 Boendebudget innebär att hyresgäster får bestämma över en viss andel av ett bostadsbolagets budget. Hyresgäster diskuterar idéer innan de skapar konkreta förslag som alla röstar på och de vinnande förslagen genomförs. Boendebudget har tidigare genomförts av tre bostadsbolag i Paris och ett i Toronto. Bostadsbolaget i Norra Biskopsgården blir de första i Norden att testa metoden.

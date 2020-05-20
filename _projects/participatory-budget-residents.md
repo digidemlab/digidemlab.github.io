@@ -16,21 +16,6 @@ During the first year, Digidem Lab was asked to train the management group, admi
 1700
 : The housing company Bostadsbolaget has 1700 flats in Norra Biskopsgården, Gothenburg.
 
+![](/uploads/biskop1-wide.jpg)
 
-<figure>
-  <img src="/uploads/biskop1-wide.jpg" alt="Workshop">
-</figure>
-
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/biskop2.jpg" alt="Möte">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/biskop3.jpg" alt="Möte">
-    </figure>
-  </div>
-</div>
-<div class="caption">Wokshops for the housing company.</div>
+![](/uploads/biskop2.jpg) ![](/uploads/biskop3.jpg) _Wokshops for the housing company._

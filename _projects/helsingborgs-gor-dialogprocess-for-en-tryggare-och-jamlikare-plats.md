@@ -1,5 +1,6 @@
 ---
 lang: sv
+date: 2020-05-10 17:21:00 Z
 title: 'Helsingborg gör dialogprocess för en tryggare och jämlikare plats '
 image: "/uploads/helsingborgny-1.jpg"
 thumbnail: ''

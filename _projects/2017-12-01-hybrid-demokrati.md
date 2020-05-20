@@ -16,18 +16,7 @@ En medborgarjury är ungefär 40 slumpvis valda medborgare som under 40 sammanla
 
 > Syftet är att öppna upp demokratin så att människor som vanligtvis inte deltar i politiska beslut börjar göra det och att skapa ett gemensamt ägandeskap och intresse för vad som händer i staden.
 
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/hybriddemokrati.jpg">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/hybriddemokrati2.jpg">
-    </figure>
-  </div>
-</div>
+![](/uploads/hybriddemokrati.jpg) ![](/uploads/hybriddemokrati2.jpg)
 
 ## Hur kan det användas?
 Vårt projekt ska testas i Madrid och därför kombinerar vi jurysystemet med deras digitala plattform där vem som helst i staden kan lägga politiska förslag. Medborgarjurys kan också användas av politiker i kontroversiella frågor som är svåra att ta upp i kommunfullmäktige på grund av stark lobbyism alternativt när medborgare är besvikna på beslut som tagits av politikerna och kräver att medborgare ska se över beslutet.

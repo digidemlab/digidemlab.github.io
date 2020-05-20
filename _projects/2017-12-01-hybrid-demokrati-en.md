@@ -20,18 +20,7 @@ A citizens' jury consists of 40 randomly selected citizens, who will meet for 40
 
 > The project will be tested by the city of Madrid, combining the jury system with their digital platform. Citizens' juries can also be used for controversial issues that are hard for the politicians to solve, or when citizens are disapointed and want to review existing decisions.
 
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/hybriddemokrati.jpg">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/hybriddemokrati2.jpg">
-    </figure>
-  </div>
-</div>
+![](/uploads/hybriddemokrati.jpg) ![](/uploads/hybriddemokrati2.jpg)
 
 ## What was the result of the project?
 The project resulted in a manual with thorough instructions on how to implement the method for the city of Madrid. We had meetings with politicians and civil servants from Madrid during the project and discussions with politicians in Barcelona, collegues in Austria and the US and other interested organisations.

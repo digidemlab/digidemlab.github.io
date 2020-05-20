@@ -20,30 +20,3 @@ The aim is to create sustainable frameworks for citizen participaton. Citizens s
 </div>
 
 An important part of our work is also to be a lab - a place to test and develop new methods and platforms. Digidem Lab has sponsored [over 30 projects](/lab/en/) by young people, and are founders of  [Civic Tech Sweden](http://civictech.se/en), a network for strengthening the civic tech sector.
-
-<!---
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="{{site.baseurl}}/uploads/communityorg.jpg" alt="Community organising">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="{{site.baseurl}}/uploads/usertesting.jpg" alt="User testing of Consul">
-    </figure>
-  </div>
-</div>
-<div class="columns">
-  <div class="column is-one-third">
-    <figure>
-      <img src="{{site.baseurl}}/uploads/paris.jpg" alt="Paris participatory budget">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="{{site.baseurl}}/uploads/workshop.jpg" alt="Workshop">
-    </figure>
-  </div>
-</div>
--->

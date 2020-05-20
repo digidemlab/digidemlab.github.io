@@ -27,10 +27,7 @@ Majorna-Linné did their second participatory budget in the fall of 2019. Everyo
 ### Requirements
 The city district wanted to digitalise their process and make it more transparent for citizens and got in touch with Digidem Lab. Based on their requirement for a plattform that is easy to use for civil servants and that facilitates increased internal communication, we chose to work with Consul.
 
-<figure>
-  <img src="/uploads/majorna-2-bred.jpg" alt="Möte i Majorna">
-  <figcaption>One of our workshops with Majorna-Linné.</figcaption>
-</figure>
+![](/uploads/majorna-2-bred.jpg) _One of our workshops with Majorna-Linné._
 
 ## Solution
 We installed and adapted the platform based on Majorna-Linnés needs and monitor the running of the budget process.
@@ -42,16 +39,4 @@ Before the start of the participatory budget, we did a two day training with eve
 ## About the method
 Participatory budgeting is a well established method that has been used in 1500 cities and institutions all over the world. It means that citizens get to decide about a specific part of the budget for their city, city district, country or organisation.
 
-<div class="columns">
-  <div class="column">
-    <figure>
-      <img src="/uploads/majorna-3-standard.jpg" alt="Möte i Majorna">
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
-      <img src="/uploads/majorna-1-standard.jpg" alt="Möte i Majorna">
-    </figure>
-  </div>
-</div>
-<div class="caption">Workshop and manuals for civil servants.</div>
+![](/uploads/majorna-3-standard.jpg) ![](/uploads/majorna-1-standard.jpg) _Workshop and manuals for civil servants._
