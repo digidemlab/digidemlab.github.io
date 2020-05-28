@@ -1,14 +1,13 @@
 ---
 title: Skolan i centrum för Lundbys unika medborgarbudget
-date: 2020-05-01 17:21:00 Z
+date: 2020-05-01T17:21:00.000+00:00
 image: "/uploads/BjurslattskolanIngemarbarn.jpg"
 thumbnail: ''
 excerpt: 'Stadsdelen Lundby samarbetar med lokala bostadsföretag och testar en medborgarbudget
   med skolan som mittpunkt. '
 ingress-text: 'När stadsdelen Lundby i Göteborg genomför sin medborgarbudget gör man
-  det med skolan som mittpunkt och tillsammans med bostadsföretagen Stena Fastigheter
-  och Familjebostäder. Upplägget som är vanligt i flera andra länder, testas nu för
-  första gången i Sverige.
+  det med skolan som mittpunkt och tillsammans med två bostadsföretag. Upplägget som
+  är vanligt i flera andra länder, testas nu för första gången i Sverige.
 
 '
 links:
@@ -32,7 +31,7 @@ Processen kommer också i Lundby att dokumenteras i ett forskningsprojekt om med
 
 Processen går under satsningen Skolan mitt i Lundby, där stadsdelen sedan tidigare arbetat mot att ha skolan som mittpunkt och mötesplats. Medborgarbudgeten är på 100 000 kronor och det är skolelever i alla åldrar och hyresgäster hos de medverkande bostadsbolagen som kan lägga förslag för hur dessa pengar ska användas och rösta. Temat är sociala aktiviteter, och förhoppningen är att så många som möjligt i området ska kunna vara med, med en möjlighet att använda skolans eller bostadsföretagens lokaler.
 
-Familjebostäder och Stena Fastigheter har flera fastigheter som ligger runt Bjurslättskolan i Lundby där de flesta aktiviteter kring medborgarbudgeten kommer att äga rum.
+De två deltagande bostadsföretagen har flera fastigheter som ligger runt Bjurslättskolan i Lundby där de flesta aktiviteter kring medborgarbudgeten kommer att äga rum.
 
 – Det handlar bland annat om workshops under skoltid. Vägen dit ska också vara en del av medborgarbudgetarbetet. Elever ska lära sig om medborgarinflytande, budget och göra research kring lokala behov och använda sin kreativitet. Man kan till exempel använda konst eller musik för att nå ut med sina förslag, beskriver Sanna.
 
