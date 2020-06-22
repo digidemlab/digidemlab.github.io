@@ -18,6 +18,9 @@ sv:
         url: /consul/
       - title: Decidim
         url: /decidim/
+      - title: Metoder
+      - title: Community Organising
+        url: /community-organising/
   - title: Uppdrag
     url: /work/
   - title: Om oss

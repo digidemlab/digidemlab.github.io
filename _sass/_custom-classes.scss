@@ -1184,3 +1184,9 @@ aside {
   @include monospace;
   text-transform: none !important;
 }
+
+// Misc
+
+hr {
+  clear: left;
+}
