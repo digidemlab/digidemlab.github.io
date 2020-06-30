@@ -1,7 +1,7 @@
 ---
 lang: sv
-date: 2020-05-27 14:10:53 +0200
-title: 'Ny tjänst: Outreach strategist till demokratilabb'
+date: 2020-05-27T14:10:53.000+02:00
+title: 'Ansökan stängd: Outreach strategist till demokratilabb'
 image: "/uploads/workshop.jpg"
 thumbnail: ''
 excerpt: 'Vi söker dig som tror på ett samhälle där de med minst makt får möjlighet
@@ -14,6 +14,8 @@ links:
 ref: ''
 
 ---
+Ansökning för den här tjänsten är nu stängd.
+
 Digidem Lab jobbar med städer, skolor och bostadsbolag i Sverige och internationellt för att designa demokratiprocesser som medborgarbudget, medborgarjurys och deltagande stadsplanering. Vi söker dig som har ett öga för effektiv kommunikation och en stark maktanalys.
 
 Tjänsten är på 80% i ett halvår med chans till förlängning. Arbete sker huvudsakligen från Göteborg
@@ -47,9 +49,3 @@ Som vår outreach strategist kommer du jobba för att skapa och följa upp konta
 * Erfarenhet från att ha arbetat i eller med offentlig sektor
 * Arbetat med demokrati och deltagande
 * Kunskaper i grafisk formgivning och enklare webbdesign
-
-Tjänsten är på 80% med lön baserat på 32 000 för heltid. Från 1 augusti 2020 till 31 januari 2021 med möjlighet till förlängning.
-
-Om du har frågor om tjänsten går det bra att mejla till rekrytering@digidemlab.org eller ringa till Annie Hermansson på tel.nr.: 0702786908. Vi finns på plats måndag-torsdag klockan 9-16.
-
-Du ansöker genom att skicka ditt CV till rekrytering@digidemlab.org och svara på frågorna i [det här ansökningsformuläret.](https://digidemlab.typeform.com/to/S6AN30 "det här ansökningsformuläret") Intervjuer sker löpande.
