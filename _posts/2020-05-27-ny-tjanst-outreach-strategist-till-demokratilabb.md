@@ -8,9 +8,7 @@ excerpt: 'Vi söker dig som tror på ett samhälle där de med minst makt får m
   att forma sitt område och sin vardag! '
 ingress-text: 'Vi söker dig som tror på ett samhälle där de med minst makt får möjlighet
   att forma sitt område och sin vardag! '
-links:
-- title: 'Ansökningsformulär '
-  url: https://digidemlab.typeform.com/to/S6AN30
+links: []
 ref: ''
 
 ---
