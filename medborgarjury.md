@@ -10,7 +10,6 @@ ingress-text: 'Slumpvis utvalda och demografiskt representativa medborgare disku
   förslag för kommunen. '
 links: []
 ref: ''
-published: false
 
 ---
 ## Vad är det och varför ska vi använda det?
