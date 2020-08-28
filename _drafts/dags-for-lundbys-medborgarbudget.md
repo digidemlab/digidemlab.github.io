@@ -13,11 +13,11 @@ links: []
 ref: ''
 
 ---
-Digidem Lab har genomfört utbildningar och workshops för personal på Lundby stadsdelsförvaltning, bostadsföretagen Familjebostäder, Stena fastigheter och samverkansorganisationen Fastighetsägare centrala Hisingen (FCH). Vidare ska personal på Bjurslättskolan utbildas. Allt för att kvalitetssäkra arbetet med medborgarbudgeten och försöka inkludera tidigare erfarenheter. För att ha skolan i centrum för områdesutveckling är något som är väl beprövat på flera håll internationellt.
+Digidem Lab har genomfört utbildningar och workshops för personal på Lundby stadsdelsförvaltning, bostadsföretagen Familjebostäder, Stena fastigheter och samverkansorganisationen Fastighetsägare centrala Hisingen (FCH). Vidare ska personal på Bjurslättsskolan utbildas. Allt för att kvalitetssäkra arbetet med medborgarbudgeten och försöka inkludera tidigare erfarenheter. För att ha skolan i centrum för områdesutveckling är något som är väl beprövat på flera håll internationellt.
 
 – Idag är det drygt 11000 institutioner i världen som jobbar med medborgarbudget. Det sprider sig snabbt. Vi ger lite exempel på hur man har jobbat med skolor och hyresgäster internationellt tidigare, berättar Sanna Ghotbi, Citizen Participation Consultant på Digidem Lab.
 
-Målgruppen för medborgarbudgeten är barn och vuxna i närområdet kring Bjurslättskolan där också de medverkande bostadsföretagen har hyresbostäder. Utöver bostadsföretagen deltar grundskolan, förskolan, fritidsförvaltningen och biblioteket under stadsdelens koncept Skolan mitt i Lundby.
+Målgruppen för medborgarbudgeten är barn och vuxna i närområdet kring Bjurslättsskolan där också de medverkande bostadsföretagen har hyresbostäder. Utöver bostadsföretagen deltar grundskolan, förskolan, fritidsförvaltningen och biblioteket under stadsdelens koncept Skolan mitt i Lundby.
 
 – Internationellt är konceptet känt som ”Community School” men vi är först i Sverige med att jobba på det här sättet. Skolan ska vara en medborgardriven mötesplats även efter skoltid - en resurs för området. Vi hoppas att det ska leda till ökat engagemang i området och resultera i saker som går att få till ganska snabbt, beskriver Victoria Trygg från Lundby stadsdelsförvaltning, som medverkade via videolänk.
 
@@ -33,7 +33,7 @@ Bostadsföretagen som deltar vittnar om att det är generellt är svårt att få
 
 En viktig aspekt för en lyckad process är att det finns tillit. De som medverkar behöver vara övertygade om att deras engagemang kan ge konkreta resultat. Detta är något som går att se tydligt i de områden där medborgarbudget har blivit återkommande.
 
-– I Frankrike där jag kommer ifrån är många skolor involverade i medborgarbudgetar varje år, berättar Pierre Mesure, Citizen participation consultant från DIgidem Lab. Det har blivit en återkommande rutin att rösta. Min syster som går i högstadiet har blivit väldigt van.
+– I Frankrike där jag kommer ifrån är många skolor involverade i medborgarbudgetar varje år, berättar Pierre Mesure, Citizen participation consultant på Digidem Lab. Det har blivit en återkommande rutin att rösta. Min syster som går i högstadiet har blivit väldigt van.
 
 I Paris deltar hyresgäster från 250 000 bostäder i boendebudgetar och deltagandet ligger på mellan 20 och 50 procent av de boende.
 
