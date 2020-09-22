@@ -2,12 +2,12 @@
 lang: sv
 date: 2020-08-28 14:10:20 +0200
 title: 'Premiär för Lundbys medborgarbudget: "Din idé"'
-image: "/uploads/dsc05116.jpg"
+image: "/uploads/dsc_0016.JPG"
 thumbnail: ''
 excerpt: 'Nu drar stadsdelen Lundby igång sin medborgarbudget tillsammans med bostadsföretagen
-  Familjebostäder och Stena fastigheter. '
+  Familjebostäder och Stena Fastigheter. '
 ingress-text: Nu drar stadsdelen Lundby igång sin medborgarbudget tillsammans med
-  bostadsföretagen Familjebostäder och Stena fastigheter. Skolan är i centrum för
+  bostadsföretagen Familjebostäder och Stena Fastigheter. Skolan är i centrum för
   processen enligt ett internationellt beprövad koncept.
 links:
 - title: Pressmeddelande från Göteborgs stad
@@ -21,14 +21,10 @@ Digidem Lab har genomfört utbildningar och workshops för personal på Lundby s
 
 Målgruppen för medborgarbudgeten är barn och vuxna i närområdet kring Bjurslättsskolan där också de medverkande bostadsföretagen har hyresbostäder. Utöver bostadsföretagen deltar föreningen Fastighetsägare Centrala Hisingen (FSH), grundskolan, förskolan, fritidsförvaltningen och biblioteket under stadsdelens koncept Skolan mitt i Lundby. Budgeten ligger på 150 000 kronor.
 
-![](/uploads/dsc05050-1.jpg)_Sari Isberg från Stena Fastigheter håller upp datorn där Victoria Trygg från Lundby stadsdelsförvaltning deltog via video_
-
-![](/uploads/dsc05113.jpg)_Gänget från Familjebostäder och FCH på Digidem Labs workshop._
-
 En viktig aspekt för en lyckad process är att involvera nyckelpersoner och eldsjälar i området, från till exempel det lokala föreningslivet. Ytterligare en förutsättning är att det finns tillit. De som medverkar behöver vara övertygade om att deras engagemang kan ge konkreta resultat. Detta är något som går att se tydligt i de områden där medborgarbudget har blivit återkommande.
 
-– I Frankrike där jag kommer ifrån är många skolor involverade i medborgarbudgetar varje år, berättar Pierre Mesure, Citizen participation consultant på DIgidem Lab. Det har blivit en återkommande rutin att rösta. Min syster som går i högstadiet har blivit väldigt van.   I Paris deltar hyresgäster från 250 000 bostäder i boendebudgetar och deltagandet ligger på mellan 20 och 50 procent av de boende. 
+– I Frankrike där jag kommer ifrån är många skolor involverade i medborgarbudgetar varje år, berättar Pierre Mesure, Citizen participation consultant på DIgidem Lab. Det har blivit en återkommande rutin att rösta. Min syster som går i högstadiet har blivit väldigt van.
+
+I Paris deltar hyresgäster från 250 000 bostäder i boendebudgetar och deltagandet ligger på mellan 20 och 50 procent av de boende.
 
 – Det är en imponerande siffra för en så ny process. Detta märker vi även i Sverige i de områden som haft en process flera år i rad. När fler upptäcker att förslagen verkligen blir av ökar motivationen att delta nästkommande år, beskriver Pierre.
-
-![](/uploads/dsc05073.jpg)_Personal från Stena Fastigheter på Digidem Labs workshop_
