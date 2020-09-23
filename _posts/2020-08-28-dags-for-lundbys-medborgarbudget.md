@@ -4,11 +4,12 @@ date: 2020-08-28 14:10:20 +0200
 title: 'Premiär för Lundbys medborgarbudget: "Din idé"'
 image: "/uploads/dsc_0016.jpg"
 thumbnail: ''
-excerpt: 'Nu drar stadsdelen Lundby igång sin medborgarbudget tillsammans med bostadsföretagen
-  Familjebostäder och Stena Fastigheter. '
-ingress-text: Nu drar stadsdelen Lundby igång sin medborgarbudget tillsammans med
-  bostadsföretagen Familjebostäder och Stena Fastigheter. Skolan är i centrum för
+excerpt: Nu drar stadsdelen Lundby igång sin medborgarbudget tillsammans med bostadsföretagen
+  Familjebostäder och Stena Fastigheter och föreningen FCH. Skolan är i centrum för
   processen enligt ett internationellt beprövad koncept.
+ingress-text: Nu drar stadsdelen Lundby igång sin medborgarbudget tillsammans med
+  bostadsföretagen Familjebostäder och Stena Fastigheter och föreningen FCH. Skolan
+  är i centrum för processen enligt ett internationellt beprövad koncept.
 links:
 - title: Pressmeddelande från Göteborgs stad
   url: https://goteborg.se/wps/portal/press-och-media/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9LcyczA0cfbydjc28zQO9_cz0wwkpiAJKG-AAjgb6BbmhigCtQt1s/dz/d5/L2dBISEvZ0FBIS9nQSEh/#/pressreleases/unikt-samarbete-kring-medborgarbudget-foer-engagemang-och-gemenskap-i-omraadet-kring-bjurslaettsskolan-3033896
