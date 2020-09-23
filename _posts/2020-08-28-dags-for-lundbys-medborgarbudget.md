@@ -31,4 +31,4 @@ I Paris deltar hyresgäster från 250 000 bostäder i boendebudgetar och deltaga
 
 – Det är en imponerande siffra för en så ny process. Detta märker vi även i Sverige i de områden som haft en process flera år i rad. När fler upptäcker att förslagen verkligen blir av ökar motivationen att delta nästkommande år, beskriver Pierre.
 
-![](/uploads/dsc05050-1.jpg)![](/uploads/dsc05116.jpg)
+![](/uploads/dsc05050-1.jpg)![](/uploads/dsc05116.jpg)_Några deltog på utbildningen digitalt. Digidem Lab anpassar självklart även de fysiska träffarna så att avstånd kan hållas._ 
