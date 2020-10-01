@@ -18,9 +18,7 @@ links:
 ref: ''
 
 ---
-I måndags höll Digidem Lab en digital utbildning för bland annat anställda på Uppsala kommun inför deras förstärkning av dialogarbetet i kommunen. Med sig hade deltagarna tidigare erfarenheter från dialoger, som stundtals upplevts som otillräckliga. För sent i processerna och till irrelevanta målgrupper var två områden som de hoppas kunna förbättra. 
-
-Digidem Lab arbetar med beprövade metoder för att öka kvinnors, utrikesföddas och ungas deltagande i kommunala och andra beslutsprocesser. Utöver att hålla i utbildningar kommer Digidem Lab att ge stöd i att utforma en processdesign, med målet att genomföra en dialog i stadsdelen Gottsunda.
+I måndags höll Digidem Lab en digital utbildning för bland annat anställda på Uppsala kommun inför deras förstärkning av dialogarbetet i kommunen. Med hjälp av beprövade metoder kommer kommunen nu att arbeta för att öka kvinnors, utrikesföddas och ungas deltagande. Utöver att hålla i utbildningar kommer Digidem Lab att ge stöd i att utforma en processdesign, med målet att genomföra en dialog i stadsdelen Gottsunda.
 
 > Vi kallar det för mainstreaming av dialoger
 
