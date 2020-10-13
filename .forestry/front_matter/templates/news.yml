@@ -66,6 +66,7 @@ fields:
   hidden: true
   default: now
 pages:
+- _crew/stephanie-toro-1.md
 - _crew/stephanie-toro.md
 - _posts/2020-03-24-digitala-dialogverktyg-underlättar-i-corona-krisen.md
 - _posts/2020-03-25-open-source-verktyg-för-hemmakontoret.md
