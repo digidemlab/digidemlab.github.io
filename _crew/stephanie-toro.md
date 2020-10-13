@@ -5,14 +5,10 @@ title: Stephanie Toro
 image: "/uploads/stephanie.jpg"
 thumbnail: ''
 excerpt: ''
-ingress-text: ''
+ingress-text: "Outreach strategist \n076897916\nstephanie@digidemlab.org"
 links: []
 ref: ''
 published: false
 
 ---
-Outreach strategist  
-0768979166  
-stephanie@digidemlab.org  
-  
 Expert på outreach och norm-kritisk analys med lång erfarenhet av arbete inom offentlig förvaltning och ett stadigt engagemang i gräsrotsaktivism.
