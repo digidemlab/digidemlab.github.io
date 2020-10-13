@@ -2,7 +2,7 @@
 lang: sv
 date: 2020-10-13 10:18:03 +0200
 title: Stephanie Toro
-image: "/uploads/stephanie.jpg"
+image: "/uploads/stephanie2.jpg"
 thumbnail: ''
 excerpt: ''
 ingress-text: ''
