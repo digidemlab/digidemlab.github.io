@@ -39,7 +39,7 @@ För Digidem Lab blir projektet en möjlighet till ytterligare vässning av reda
 
 – Det finns en bristande tillit hos många idag. Människor tror inte på att deras röst räknas och betyder något. Det kan till exempel handla om att det hålls ett dialogmöte men därefter får man inte någon feedback på vad som händer. Enbart ett digitalt verktyg är inte lösningen, det behövs tillitskapande aktiviteter och ett skifte i arbetssättet, där man på allvar bjuder in invånarna till att delta och bestämma över sådant som görs i ett område eller stad, säger Sanna Ghotbi.
 
-> "Det är systemet med demokrati har vi haft i hundra år. Det tar lite tid att skifta"
+> Det är systemet med demokrati har vi haft i hundra år. Det tar lite tid att skifta
 
 Även om en medborgardbudget är liten till att börja med så innebär den ett steg åt att lära sig ett arbetssätt som kan skalas upp på sikt, där tjänstepersoner delar med sig av sin makt, och där medborgare praktiserar deltagande.
 
