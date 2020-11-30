@@ -23,18 +23,17 @@ I forskningsprojektet som finansieras genom [Nordforsk](https://www.nordforsk.or
 
 – Vi ska studera olika verktyg för att demokratisera kommuner och offentliga institutioner. Verktygen ska testas genom tre piloter. Helsingfors och Trondheim ska ha medborgarbudgetar och Biskopsgården en ny boendebudget, berättar Sanna.
 
-![](/uploads/sanna.jpg)_Sanna Ghotbi, Digidem Lab_  
-  
+![](/uploads/sanna.jpg)
+
+![](/uploads/nordforsk-jennie.jpg)_Sanna Ghotbi, Digidem Lab och Jenny Stenberg, Gothenburg Research Institute._
+
 Bostadsbolaget i Göteborg har sedan tidigare inlett arbetet med boendebudgetar i Biskopsgården och kommer att fortsätta på den inslagna vägen som de vill vidareutveckla.
 
 – Vi ser väldigt positivt på att delta som samverkanspart i projektet eftersom det knyter an till två samhällsviktiga teman - digitalisering och medborgarinflytande. Vi är väldigt måna om att vårt arbete med sociala frågor och medbestämmande i bostadsområdet ständigt utvecklas. Här har boendebudgeten varit ett stort och viktigt steg. Genom vårt deltagande i forskningsprojektet ges vi möjlighet att få viktig återkoppling för vårt arbete framåt, både genom att fungera som forum för att testa nya metoder och genom extern utvärdering av arbetet, beskriver Amanda Sjöstrand från Bostadsbolaget.
 
-En av forskarna som deltar är Jenny Stenberg, Gothenburg Research Institute. Hennes forskning är aktionsinriktad, interaktiv och transdisciplinär med särskilt fokus på sociala aspekter och invånarinflytande i planering, renovering och design. 
+En av forskarna som deltar är Jenny Stenberg, Gothenburg Research Institute. Hennes forskning är aktionsinriktad, interaktiv och transdisciplinär med särskilt fokus på sociala aspekter och invånarinflytande i planering, renovering och design.
 
 – Jag är projektledare för den svenska delen av projektet där även Jaan-Henrik Kain ingår som forskare. Min förhoppning är att projektet kommer att utveckla ny kunskap om hur invånare genom digitala verktyg kan medskapa stadsutveckling och att kunskapen får betydelse i verkligheten, berättar hon.
-
-  
-![](/uploads/nordforsk-jennie.jpg)_Jenny Stenberg, Gothenburg Research Institute._
 
 För Digidem Lab blir projektet en möjlighet till ytterligare vässning av redan väl beprövade metoder. Det är viktigt för att på sikt stärka tilliten för offentliga institutioner och utveckla de demokratiska processerna.
 
@@ -42,6 +41,6 @@ För Digidem Lab blir projektet en möjlighet till ytterligare vässning av reda
 
 > "Det är systemet med demokrati har vi haft i hundra år. Det tar lite tid att skifta"
 
-Även om en medborgardbudget är liten till att börja med så innebär den ett steg åt att lära sig ett arbetssätt som kan skalas upp på sikt, där tjänstepersoner delar med sig av sin makt, och där medborgare praktiserar deltagande.  
-  
- – Det är systemet med demokrati har vi haft i hundra år. Det tar lite tid att skifta, poängterar hon.
+Även om en medborgardbudget är liten till att börja med så innebär den ett steg åt att lära sig ett arbetssätt som kan skalas upp på sikt, där tjänstepersoner delar med sig av sin makt, och där medborgare praktiserar deltagande.
+
+– Det är systemet med demokrati har vi haft i hundra år. Det tar lite tid att skifta, poängterar hon.
