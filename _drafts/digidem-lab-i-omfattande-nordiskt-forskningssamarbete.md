@@ -23,7 +23,7 @@ I forskningsprojektet som finansieras genom [Nordforsk](https://www.nordforsk.or
 
 – Vi ska studera olika verktyg för att demokratisera kommuner och offentliga institutioner. Verktygen ska testas genom tre piloter. Helsingfors och Trondheim ska ha medborgarbudgetar och Biskopsgården en ny boendebudget, berättar Sanna.
 
-![](/uploads/sanna.jpg)![](/uploads/nordforsk-jennie.jpg)_Sanna Ghotbi, Digidem Lab och Jenny Stenberg, Gothenburg Research Institute._
+![](/uploads/sanna.png)![](/uploads/nordforsk-jennie.jpg)_Sanna Ghotbi, Digidem Lab och Jenny Stenberg, Gothenburg Research Institute._
 
 Bostadsbolaget i Göteborg har sedan tidigare inlett arbetet med boendebudgetar i Biskopsgården och kommer att fortsätta på den inslagna vägen som de vill vidareutveckla.
 
