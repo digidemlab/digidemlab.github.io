@@ -11,7 +11,9 @@ ingress-text: "Hela 16 forskare ska följa medborgarcentrerade digitala processe
   flera års tid för att studera hur sådana verktyg och metoder kan öka tilliten till
   offentliga institutioner. Digidem Lab är en av de åtta deltagande aktörerna i projektet
   Collective Intelligence through Digital Tools (COLDIGIT).\n\n"
-links: []
+links:
+- url: https://www.nordforsk.org/projects/collective-intelligence-through-digital-tools?fbclid=IwAR1Oi5T7kq6Ss5l9Ne5YOXjBb0gq_HAoM1dzQ9rZWU9VTxeclDZHbtmIGUI
+  title: COLDIGIT på Nordforsks hemsida
 ref: ''
 
 ---
@@ -22,7 +24,7 @@ I forskningsprojektet som finansieras genom [Nordforsk](https://www.nordforsk.or
   
 – Vi ska studera olika verktyg för att demokratisera kommuner och offentliga institutioner. Verktygen ska testas genom tre piloter. Helsingfors och Trondheim ska ha medborgarbudgetar och Biskopsgården en ny boendebudget, berättar Sanna.
 
-![](/uploads/sanna.png)![](/uploads/nordforsk-jennie.jpg)_Sanna Ghotbi, Digidem Lab och Jenny Stenberg, Gothenburg Research Institute._
+![](/uploads/sanna2.png)![](/uploads/nordforsk-jennie.jpg)_Sanna Ghotbi, Digidem Lab och Jenny Stenberg, Gothenburg Research Institute._
 
 Bostadsbolaget i Göteborg har sedan tidigare inlett arbetet med boendebudgetar i Biskopsgården och kommer att fortsätta på den inslagna vägen som de vill vidareutveckla.
 
@@ -36,7 +38,7 @@ För Digidem Lab blir projektet en möjlighet till ytterligare vässning av reda
 
 – Det finns en bristande tillit hos många idag. Människor tror inte på att deras röst räknas och betyder något. Det kan till exempel handla om att det hålls ett dialogmöte men därefter får man inte någon feedback på vad som händer. Enbart ett digitalt verktyg är inte lösningen, det behövs tillitskapande aktiviteter och ett skifte i arbetssättet, där man på allvar bjuder in invånarna till att delta och bestämma över sådant som görs i ett område eller stad, säger Sanna Ghotbi.
 
-> Det är systemet med demokrati har vi haft i hundra år. Det tar lite tid att skifta
+> Det här systemet med demokrati har vi haft i hundra år. Det tar lite tid att skifta
 
   
 Även om en medborgarbudget är liten till att börja med så innebär den ett steg åt att lära sig ett arbetssätt som kan skalas upp på sikt, där tjänstepersoner delar med sig av sin makt, och där medborgare praktiserar deltagande.
