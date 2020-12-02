@@ -31,7 +31,7 @@ Vissa stadsdelar i New York har haft medborgarbudgetar i många år. Många för
 
 – Det är utmanande att jobba i en pandemi. Vi har aldrig träffat dem vi arbetar med, och kontexten är annorlunda från den vi brukar jobba med i Sverige. Vi organiserade en serie av digitala workshops med fokus på hur vi kan engagera folk tillsammans med den amerikanska organisationen Coro. Fokus var hur vi bygger en process under en pandemi, och hur vi kan bana väg för en central process över hela stan. Och just nu kör vi olika demos för beslutsfattare och användartester med unga personer för att få deras feedback för att förbättra plattformen. beskriver Pierre Mesure.
 
-![](/uploads/pierre.jpg)![](/uploads/decidim-new-york.png)_Pierre Mesure från Digidem Lab som arbetar med projektet och en skärmbild av New Yorks plattform för medborgarbudgeten._
+![](/uploads/pierre.jpg)![](/uploads/decidim-new-york-jpg.jpg)_Pierre Mesure från Digidem Lab som arbetar med projektet och en skärmbild av New Yorks plattform för medborgarbudgeten._
 
 Fokus är att mobilisera underrepresenterade grupper i processen. Informationen kring plattformen översätts automatiskt till inte mindre än 10 minoritetsspråk. Just nu är medborgarbudgeten i stadiet där förslag lämnas in och under februari månad planeras omröstningen att påbörjas.
 
