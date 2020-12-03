@@ -14,7 +14,6 @@ links:
 - title: '"Its Our Money" - plattformen för medborgarbudgeten (Decidim)'
   url: https://www.participate.nyc.gov/
 ref: ''
-published: false
 
 ---
 – Det känns väldigt spännande! Det är lite av en dröm att jobba med New York, eftersom en stor del av vårt arbete inspireras av dem. De har ett väldigt aktivistiskt sätt att jobba med exempelvis ekonomiska klyftor och rasism, säger Pierre Mesure, Citizen participation consultant / Technical expert på Digidem Lab.
