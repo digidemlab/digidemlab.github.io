@@ -5,8 +5,8 @@ title: Webinar om boendebudget 18 februari
 image: "/uploads/image.png"
 thumbnail: "/uploads/image-1.jpg"
 excerpt: Öka trygghet och trivsel genom medbestämmande!
-ingress-text: 'Webbinarie för dig som arbetar på bostadsbolag med frågor som rör trygghet,
-  trivsel och social hållbarhet. '
+ingress-text: För dig som arbetar på bostadsbolag med frågor som rör trygghet, trivsel
+  och social hållbarhet
 links:
 - title: Anmäl dig här! (Eventbrite)
   url: https://www.eventbrite.se/e/webinar-oka-trygghet-och-trivsel-genom-medbestammande-biljetter-139652653847
