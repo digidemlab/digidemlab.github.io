@@ -2,8 +2,8 @@
 lang: sv
 date: 2021-02-03 15:34:34 +0100
 title: Webinar om boendebudget 18 februari
-image: ''
-thumbnail: ''
+image: "/uploads/image.png"
+thumbnail: "/uploads/image-1.jpg"
 excerpt: Öka trygghet och trivsel genom medbestämmande!
 ingress-text: För dig som arbetar på bostadsbolag med frågor som rör trygghet, trivsel
   och social hållbarhet
