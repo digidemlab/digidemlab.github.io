@@ -1,30 +1,34 @@
 ---
 lang: sv
 date: 2021-02-03 15:34:34 +0100
-title: Webinar om boendebudget 18 februari-(copy)
-image: "/uploads/image.png"
-thumbnail: "/uploads/image-1.jpg"
-excerpt: Öka trygghet och trivsel genom medbestämmande!
-ingress-text: För dig som arbetar på bostadsbolag med frågor som rör trygghet, trivsel
-  och social hållbarhet
+title: Frukostwebbinarium om Decidim den 3 mars
+image: "/uploads/eioqmuewsae5f-r-1-1059x675.png"
+thumbnail: "/uploads/decidim.png"
+excerpt: Decidim, en demokratiplattform för att lätt komma igång med digital medborgardialog
+ingress-text: 'Decidim: en demokratiplattform för att lätt komma igång med digital
+  medborgardialog'
 links:
 - title: Anmäl dig här! (Eventbrite)
   url: https://www.eventbrite.se/e/webinar-oka-trygghet-och-trivsel-genom-medbestammande-biljetter-139652653847
 ref: ''
 
 ---
-Går det verkligen att öka tryggheten, tilliten och trivsel genom att låta boende bestämma själva? Vad säger forskningen och tidigare erfarenheter?
 
-Den 18 februari kl 12 presenterar vi på **Digidem Lab** vårt arbete med boendebudget och hur vi tillsammans med Bostadsbolaget designat **nordens första boendebudget** i Biskopsgården i Göteborg 2019, där Bostadsbolaget nu satsar **1 miljon kronor** som boende får bestämma över.
+Välkommen till ett frukostwebbinarium om Decidim med oss på Digidem Lab! Under 50 minuter berättar vi om plattformens historia, värderingar och funktioner. Vi delar med oss av exempel från vårt eget arbete med plattformen, och du får såklart chans att ställa frågor.
 
-Modellen boendebudget har tidigare provats på olika platser i världen, bland annat i Paris.
+Seminariet riktar sig till dig som arbetar som tjänsteperson eller beslutsfattare inom en kommun, en region eller ett bostadsbolag och som ansvarar för dialog, inflytande och demokrati eller dig som har ett intresse för medborgarinflytande, demokrati och deltagandeprocesser
 
-Forskning visar att det **ökar gemenskap** när boende träffas och umgås på ett sätt man inte gjort annars. Det **ökar även upplevd trygghet och trivsel** när boende får bestämma över sin boendemiljö och närmiljö. Förslagen kan handla om sociala aktiviteter och även fysisk utemiljö.
+**Om Decidim**
 
-Webbinariet riktar sig till dig som arbetar med eller vill börja arbeta med sociala hållbarhetsfrågor på bostadsbolag.
+[Decidim](http://decidim.org) är en digital plattform för dialogprocesser. Plattformen har funnits i fyra år och används i över 300 organisationer världen över, kommuner, parlament, universitet, föreningar, bostadsbolag och EU-institutioner. Decidim är uppskattad för sin flexibilitet som gör den anpassningsbar till de flesta typer av dialoger. Den är även väldigt användarvänlig.
 
-På webbinariet går vi igenom **hur en boendebudget funkar** och v**ad forskningen har att säga om modellens effekter på social hållbarhet**. Vi kommer också gå igenom hur man kan **digitalisera processer** med hjälp av en av de mest välutvecklade digitala plattformarna som används över hela världen.
+Men Decidim är inte bara ett vanligt verktyg. Det hjälper organisationer att göra mer inkluderande dialoger och främjar nya arbetssätt för ökad delaktighet.
 
-Ni får också möjlighet att ställa frågor utifrån de behov ni har just nu.
+Genom att använda Decidim kommer man även i [MetaDecidim](http://meta.decidim.org), en gemenskap av användare, tjänstepersoner och programmerare som utbyter kontinuerligt om medborgardialog och utvecklar Decidims funktioner demokratiskt med starka värderingar som transparens, integritet och open source.
+
+**Om Digidem Lab**
+
+Digidem Lab är ett demokratilabb som studerar demokrativerktyg och deltagande modeller runt om i världen. Sedan 2018 har vi testat och utvecklat Decidim med svenska kommuner som Göteborg och Stockholm. Under pandemin har vi stöttat flera kommuner som Helsingborg, Botkyrka, New York och Chicago i USA och även EU-kommissionen att komma igång med plattformen för att genomföra framgångsrika digitala dialoger.  
+För mer information om vår organisation, besök [digidemlab.org](https://digidemlab.org)
 
 [Anmäl dig här!](https://www.eventbrite.se/e/webinar-oka-trygghet-och-trivsel-genom-medbestammande-biljetter-139652653847 "Anmäl dig här!")
