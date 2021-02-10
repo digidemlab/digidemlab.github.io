@@ -5,8 +5,7 @@ title: Frukostwebbinarium om Decidim den 3 mars
 image: "/uploads/eioqmuewsae5f-r-1-1059x675.png"
 thumbnail: "/uploads/decidim.png"
 excerpt: Decidim, en demokratiplattform för att lätt komma igång med digital medborgardialog
-ingress-text: 'Decidim: en demokratiplattform för att lätt komma igång med digital
-  medborgardialog'
+ingress-text: en demokratiplattform för att lätt komma igång med digital medborgardialog
 links: []
 ref: ''
 
