@@ -6,7 +6,9 @@ image: "/uploads/eioqmuewsae5f-r-1-1059x675.png"
 thumbnail: "/uploads/decidim.png"
 excerpt: Decidim, en demokratiplattform för att lätt komma igång med digital medborgardialog
 ingress-text: en demokratiplattform för att lätt komma igång med digital medborgardialog
-links: []
+links:
+- title: Anmäl dig här! (Eventbrite)
+  url: https://www.eventbrite.se/e/decidim-en-demokratiplattform-for-inkluderande-digital-medborgardialog-biljetter-141161173871?keep_tld=1
 ref: ''
 
 ---
@@ -26,4 +28,4 @@ Genom att använda Decidim kommer man även i [MetaDecidim](http://meta.decidim.
 
 Digidem Lab är ett demokratilabb som studerar demokrativerktyg och deltagande modeller runt om i världen. Sedan 2018 har vi testat och utvecklat Decidim med svenska kommuner som Göteborg och Stockholm. Under pandemin har vi stöttat flera kommuner som Helsingborg, Botkyrka, New York och Chicago i USA och även EU-kommissionen att komma igång med plattformen för att genomföra framgångsrika digitala dialoger.
 
-Anmäl dig här!
+[Anmäl dig här!](https://www.eventbrite.se/e/decidim-en-demokratiplattform-for-inkluderande-digital-medborgardialog-biljetter-141161173871?keep_tld=1 "Anmäl dig här!")
