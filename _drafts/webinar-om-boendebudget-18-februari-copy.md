@@ -7,14 +7,11 @@ thumbnail: "/uploads/decidim.png"
 excerpt: Decidim, en demokratiplattform för att lätt komma igång med digital medborgardialog
 ingress-text: 'Decidim: en demokratiplattform för att lätt komma igång med digital
   medborgardialog'
-links:
-- title: Anmäl dig här! (Eventbrite)
-  url: https://www.eventbrite.se/e/webinar-oka-trygghet-och-trivsel-genom-medbestammande-biljetter-139652653847
+links: []
 ref: ''
 
 ---
-
-Välkommen till ett frukostwebbinarium om Decidim med oss på Digidem Lab! Under 50 minuter berättar vi om plattformens historia, värderingar och funktioner. Vi delar med oss av exempel från vårt eget arbete med plattformen, och du får såklart chans att ställa frågor.
+Välkommen till ett frukostwebbinarium onsdag den 3 mars kl 9:00 om Decidim med oss på Digidem Lab! Under 50 minuter berättar vi om plattformens historia, värderingar och funktioner. Vi delar med oss av exempel från vårt eget arbete med plattformen, och du får såklart chans att ställa frågor.
 
 Seminariet riktar sig till dig som arbetar som tjänsteperson eller beslutsfattare inom en kommun, en region eller ett bostadsbolag och som ansvarar för dialog, inflytande och demokrati eller dig som har ett intresse för medborgarinflytande, demokrati och deltagandeprocesser
 
@@ -28,7 +25,6 @@ Genom att använda Decidim kommer man även i [MetaDecidim](http://meta.decidim.
 
 **Om Digidem Lab**
 
-Digidem Lab är ett demokratilabb som studerar demokrativerktyg och deltagande modeller runt om i världen. Sedan 2018 har vi testat och utvecklat Decidim med svenska kommuner som Göteborg och Stockholm. Under pandemin har vi stöttat flera kommuner som Helsingborg, Botkyrka, New York och Chicago i USA och även EU-kommissionen att komma igång med plattformen för att genomföra framgångsrika digitala dialoger.  
-För mer information om vår organisation, besök [digidemlab.org](https://digidemlab.org)
+Digidem Lab är ett demokratilabb som studerar demokrativerktyg och deltagande modeller runt om i världen. Sedan 2018 har vi testat och utvecklat Decidim med svenska kommuner som Göteborg och Stockholm. Under pandemin har vi stöttat flera kommuner som Helsingborg, Botkyrka, New York och Chicago i USA och även EU-kommissionen att komma igång med plattformen för att genomföra framgångsrika digitala dialoger.
 
-[Anmäl dig här!](https://www.eventbrite.se/e/webinar-oka-trygghet-och-trivsel-genom-medbestammande-biljetter-139652653847 "Anmäl dig här!")
+Anmäl dig här!
