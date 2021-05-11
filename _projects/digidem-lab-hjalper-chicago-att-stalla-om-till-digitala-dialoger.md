@@ -7,7 +7,11 @@ thumbnail: ''
 excerpt: Digidem Lab hjälper just nu Chicago att göra sin medborgarbudget digital.
 ingress-text: Digidem Lab och Open Source Politics hjälper just nu Chicago att göra
   sin medborgarbudget digital, med hjälp av plattformen Decidim.
-links: []
+links:
+- title: Decidim
+  url: https://digidemlab.org/decidim/
+- title: Open Source Politics
+  url: https://opensourcepolitics.eu/en/project/le-budget-participatif-de-chicago/
 ref: chicago
 published: false
 
