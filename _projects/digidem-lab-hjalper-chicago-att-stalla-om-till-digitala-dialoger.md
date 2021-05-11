@@ -13,7 +13,6 @@ links:
 - title: Open Source Politics
   url: https://opensourcepolitics.eu/en/project/le-budget-participatif-de-chicago/
 ref: chicago
-published: false
 
 ---
 Precis som i Digidem Labs arbete med New York stad håller vi utbildningar och workshops för anställda i staden och anpassar processen till ett digitalt arbetssätt.
@@ -26,7 +25,7 @@ Precis som i Digidem Labs arbete med New York stad håller vi utbildningar och w
 
 Chicago var den första staden i USA som började använda arbetssättet medborgarbudget för 10 år sedan. Nu under Covid är de också en av de första städerna tillsammans med New York att digitalisera sin process med hjälp av Digidem Lab.
 
-Varje stadsdel har 1,5 miljoner dollar att fördela och målet är att så många människor som möjligt ska få göra sin röst hörd. ”Tidigare har de inte haft ett samlande verktyg för sina dialoger”, säger Sanna Ghotbi. Nu med Decidim samlar de alla nio medborgarbudgetar på stadsdelsnivå i samma digitala plattform.
+Varje stadsdel har 1,5 miljoner dollar att fördela och målet är att så många människor som möjligt ska få göra sin röst hörd. ”Tidigare har de inte haft ett samlande verktyg för sina dialoger”, säger Sanna Ghotbi från Digidem Lab. "Nu med Decidim samlar de alla nio medborgarbudgetar på stadsdelsnivå i samma digitala plattform."
 
 Plattformen för Chicagos medborgarbudget lanseras i juni 2021.
 
