@@ -2,7 +2,7 @@
 lang: sv
 date: 2021-05-11 11:22:23 +0200
 title: Digidem Lab hjälper Chicago att ställa om till digitala dialoger
-image: "/uploads/chicago-top.jpg"
+image: "/uploads/chicago-top-1.jpg"
 thumbnail: "/uploads/chicago-nyhet.jpg"
 excerpt: Digidem Lab hjälper just nu Chicago att göra sin medborgarbudget digital.
 ingress-text: Digidem Lab och Open Source Politics hjälper just nu Chicago att göra
