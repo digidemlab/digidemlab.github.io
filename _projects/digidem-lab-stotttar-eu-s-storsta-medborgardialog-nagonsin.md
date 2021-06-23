@@ -2,7 +2,7 @@
 lang: sv
 date: 2021-06-23 09:42:41 +0200
 title: Digidem Lab stöttar EU:s största medborgardialog någonsin!
-image: "/uploads/bild-eu-artikel.png"
+image: "/uploads/cofe-hemsida.png"
 thumbnail: "/uploads/deltagarstatistik-eu.png"
 excerpt: 'EU har lanserat konferensen om Europas framtid med hjälp av Digidem Lab '
 ingress-text: 'Digidem Lab har tillsammans med OSP stöttat EU kommissionen i förberedelser
@@ -17,20 +17,20 @@ ref: ''
 
 ---
 **Konferens om Europas Framtid**  
-Den 9 maj lanserade EU den största medborgardialogen som någonsin genomförts på EU-nivå, "konferensen om framtidens Europa" (Conference on the Future of Europe"). 450 miljoner EU-medborgare kan nu vara med och påverka framtidens Europa genom att lägga förslag, reagera på andras förslag, delta i evenemang och medborgarpaneler inom 10 olika teman.
+Den 9 maj lanserade EU den största medborgardialogen som någonsin genomförts på EU-nivå, "Konferensen om Framtidens Europa" (Conference on the Future of Europe"). 450 miljoner EU-medborgare kan nu vara med och påverka framtidens Europa genom att lägga förslag, reagera på andras förslag, delta i evenemang och medborgarpaneler inom 10 olika teman.
 
-Dialogprocessen sker med stöd av den digitala plattformen Decidim, en av världens mest använda plattform för medborgardeltagande. Flera företag inom Decidim-communitet, har varit med och förberett dialogplattformen. Digidem Lab har i ett års tid stöttat i design och förberedelser av dialogprocessen och kommer fortsätta samarbetet med EU även under genomförandet.
+Dialogprocessen sker med stöd av den digitala plattformen Decidim, en av världens mest använda plattform för medborgardeltagande. Flera organisationer inom Decidim-communitet, har varit med och förberett dialogplattformen. Digidem Lab har i ett års tid stöttat i design och förberedelser av dialogprocessen och kommer fortsätta samarbetet med EU även under genomförandet.
 
 _Att EU låter medborgare vara med och utforma policies kring exempelvis klimat, demokrati, utbildning och hälsa är ett viktigt steg för att demokratisera vårt samhälle. Det här är den största flerspråkiga dialog som någonsin gjorts och för våra svenska samarbetskommuner betyder det också att flera nya utvecklingar och översättningar av plattformen kommer de till del,_ säger Pierre Mesure på Digidem Lab
 
 **Hur medborgarna påverkar EU:s nya policies**  
 Den digitala plattformen är hjärtat för dialogen och här kan du som EU-medborgare lägga förslag och delta i event utifrån processens tio teman.
 
-Konferensen översätts på plattformen till EU:s 24 olika språk och utöver EU-nivå genomförs dialogen nationellt och lokalt. I augusti kommer ett tvåhundra slumpvist utvalda medborgare som är demografiskt representativa träffas under ett antal helger och ta fram rekommendationer för nya EU-policies baserat på alla förslag som kommit in på plattformen. Mellan medborgarnas träffar kommer det också genomföras plenarsamtal där medborgarna får chans att få feedback på sina rekommendationer från beslutsfattare.
+Konferensen översätts på plattformen till EU:s 24 olika språk och utöver EU-nivå genomförs dialogen nationellt och lokalt. I augusti kommer åtta hundra slumpvist utvalda medborgare som är demografiskt representativa träffas under ett antal helger och ta fram rekommendationer för nya EU-policies baserat på alla förslag som kommit in på plattformen. Mellan medborgarnas träffar kommer det också genomföras plenarsamtal där medborgarna får chans att få feedback på sina rekommendationer från beslutsfattare.
 
-Digidem Lab har, precis som i samarbetet med NY och Chicago, utbildat tjänstepersoner på EU-nivå i användning av plattform och stöd i design av processen för att den ska vara så inkluderande som möjligt. Nu förnyar vi samarbetet ytterligare ett år för att även stötta medborgarpanelerna digitalt.
+Digidem Lab har, precis som i samarbetet med NY och Chicago, utbildat tjänstepersoner på EU-nivå i användning av plattform och stöd i design av processen för att den ska vara så inkluderande som möjligt. Nu förnyar vi samarbetet ytterligare ett år för att även stötta medborgarpanelerna digitalt och leverera veckovisa analyser av deltagandet på plattformen.
 
-Plattformen lanserades den 19 april och hittills har det inkommit 4870 förslag, organiserats 1188 events med 18 243 deltagare.
+Plattformen lanserades den 19 april och hittills har det inkommit 4870 förslag, organiserats 1188 events med 18 243 deltagare.![](/uploads/deltagarstatistik-eu.png)
 
 **Om konferensen**
 
