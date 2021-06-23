@@ -15,10 +15,10 @@ ref: ''
 ---
 Medborgarbudget startade i Porto Alegre, Brasilien, som ett sätt att bryta den negativa spiralen av ökad ojämlikhet. Genom att sätta de som påverkades av besluten i centrum gick staden från att vara en av de mest utsatta till en av de mest välmående samhällen i landet. 30 år senare finns det nu tusentals exempel på medborgarbudget världen över.
 
-Fler och fler organisationer globalt testar medborgarbudget i skolan som ett sätt att öka unga ungas deltagande, en grupp som ofta är underrepresenterad i lokala beslutsprocesser. Även i Sverige visar Demokratiutredningen och undersökningar från SKR och MUCF att ungas inflytande lokalt fortfarande är lågt.  
+Fler och fler organisationer globalt testar medborgarbudget i skolan som ett sätt att öka unga ungas deltagande, en grupp som ofta är underrepresenterad i lokala beslutsprocesser. Även i Sverige visar Demokratiutredningen och undersökningar från SKR och MUCF att ungas inflytande lokalt fortfarande är lågt.
 
-Flera internationella studier, bland annat _Child Participation budgeting_ av Plan International, visar att medborgarbudget på lång sikt har potential att öka ungas politiska och sociala engagemang. Studien visar också att medborgarbudget i skolor ökar elevers kunskap om deras lokala område, stärker relationer mellan lärare och klasskamrater samt elevernas förmågor att driva egna projekt, tänka kritiskt och engagera sig.   
-  
-Under eventet får du hör exempel från Sverige, Estland, Litauen och Lettland som testat just medborgarbudget i skolor som metod. Gästerna kommer presentera sina konkreta erfarenheter och utbyta kunskap i ett gemensamt samtal. Ni som deltagare får också chans att ställa era frågor!  
-  
+Flera internationella studier, bland annat _Child Participation budgeting_ av Plan International, visar att medborgarbudget på lång sikt har potential att öka ungas politiska och sociala engagemang. Studien visar också att medborgarbudget i skolor ökar elevers kunskap om deras lokala område, stärker relationer mellan lärare och klasskamrater samt elevernas förmågor att driva egna projekt, tänka kritiskt och engagera sig.
+
+Under eventet får du höra exempel från Sverige, Estland, Litauen och Lettland som testat just medborgarbudget i skolor som metod. Gästerna kommer presentera sina konkreta erfarenheter och utbyta kunskap i ett gemensamt samtal. Ni som deltagare får också chans att ställa era frågor!
+
 Eventet är ett samarbete mellan Digidem Lab, Transparency International Lithuania, Transparency International Estonia, Transparency International Latvia och finansiären Nordiska minsterrådet.
