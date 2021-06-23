@@ -30,7 +30,9 @@ Konferensen översätts på plattformen till EU:s 24 olika språk och utöver EU
 
 Digidem Lab har, precis som i samarbetet med NY och Chicago, utbildat tjänstepersoner på EU-nivå i användning av plattform och stöd i design av processen för att den ska vara så inkluderande som möjligt. Nu förnyar vi samarbetet ytterligare ett år för att även stötta medborgarpanelerna digitalt och leverera veckovisa analyser av deltagandet på plattformen.
 
-Plattformen lanserades den 19 april och hittills har det inkommit 4870 förslag, organiserats 1188 events med 18 243 deltagare.![](/uploads/deltagarstatistik-eu.png)
+Plattformen lanserades den 19 april och hittills har det inkommit 4788 förslag, organiserats 1159 events med 18 056 deltagare.
+
+![](/uploads/cofe-statistik.png)
 
 **Om konferensen**
 
