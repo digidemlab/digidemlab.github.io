@@ -16,8 +16,6 @@ links:
 ref: ''
 
 ---
-![](/uploads/bild-eu-artikel.png)
-
 **Konferens om Europas Framtid**  
 Den 9 maj lanserade EU den största medborgardialogen som någonsin genomförts på EU-nivå, "konferensen om framtidens Europa" (Conference on the Future of Europe"). 450 miljoner EU-medborgare kan nu vara med och påverka framtidens Europa genom att lägga förslag, reagera på andras förslag, delta i evenemang och medborgarpaneler inom 10 olika teman.
 
@@ -32,7 +30,7 @@ Konferensen översätts på plattformen till EU:s 24 olika språk och utöver EU
 
 Digidem Lab har, precis som i samarbetet med NY och Chicago, utbildat tjänstepersoner på EU-nivå i användning av plattform och stöd i design av processen för att den ska vara så inkluderande som möjligt. Nu förnyar vi samarbetet ytterligare ett år för att även stötta medborgarpanelerna digitalt.
 
-Plattformen lanserades den 19 april och hitills har det inkommit 4870 förslag, organiserats 1188 events med 18 243 deltagare.
+Plattformen lanserades den 19 april och hittills har det inkommit 4870 förslag, organiserats 1188 events med 18 243 deltagare.
 
 **Om konferensen**
 
