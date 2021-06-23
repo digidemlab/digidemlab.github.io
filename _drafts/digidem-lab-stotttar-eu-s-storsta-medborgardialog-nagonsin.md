@@ -10,7 +10,7 @@ ingress-text: Digidem Lab har tillsammans med OSP stöttat EU kommissionen i fö
   pågår nu och du som EU-medborgare kan vara med och påverka Europas framtid.
 links:
 - url: https://futureu.europa.eu/
-  title: Medborgarplattformen
+  title: EU:s medborgarplattform
 ref: ''
 
 ---
@@ -26,7 +26,7 @@ _Att EU låter medborgare vara med och utforma policies kring exempelvis klimat,
 
 Den digitala plattformen är hjärtat för dialogen och här kan du som EU-medborgare lägga förslag och delta i event utifrån processens tio teman.
 
-Konferensen översätts på plattformen till EU:s 24 olika språk och utöver EU-nivå genomförs dialogen nationellt och lokalt. I augusti kommer ett tvåhundra slumpvist utvalda medborgare som är demografiskt representativa träffas under ett antal helger och ta fram rekommendationer för nya EU-policies baserat på alla förslag som kommit in på plattformen. Mellan medborgarnas träffar kommer det också genomföras plenarsamtal där medborgarna får chans att få feedback på sina rekommendationer från beslutsfattare. 
+Konferensen översätts på plattformen till EU:s 24 olika språk och utöver EU-nivå genomförs dialogen nationellt och lokalt. I augusti kommer ett tvåhundra slumpvist utvalda medborgare som är demografiskt representativa träffas under ett antal helger och ta fram rekommendationer för nya EU-policies baserat på alla förslag som kommit in på plattformen. Mellan medborgarnas träffar kommer det också genomföras plenarsamtal där medborgarna får chans att få feedback på sina rekommendationer från beslutsfattare.
 
 Digidem Lab har, precis som i samarbetet med NY och Chicago, utbildat tjänstepersoner på EU-nivå i användning av plattform och stöd i design av processen för att den ska vara så inkluderande som möjligt. Nu förnyar vi samarbetet ytterligare ett år för att även stötta medborgarpanelerna digitalt.
 
