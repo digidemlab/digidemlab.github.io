@@ -14,7 +14,6 @@ links:
 - title: EU:s medborgarplattform
   url: https://futureu.europa.eu/
 ref: ''
-published: false
 
 ---
 ![](/uploads/bild-eu-artikel.png)
