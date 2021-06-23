@@ -1,7 +1,7 @@
 ---
 lang: sv
 date: 2021-06-23 09:42:41 +0200
-title: Digidem Lab stötttar EU:s största medborgardialog någonsin!
+title: Digidem Lab stöttar EU:s största medborgardialog någonsin!
 image: "/uploads/bild-eu-artikel.png"
 thumbnail: "/uploads/deltagarstatistik-eu.png"
 excerpt: 'EU har lanserat konferensen om Europas framtid med hjälp av Digidem Lab '
