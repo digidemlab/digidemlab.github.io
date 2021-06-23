@@ -17,6 +17,8 @@ ref: ''
 published: false
 
 ---
+![](/uploads/bild-eu-artikel.png)
+
 **Konferens om Europas Framtid**  
 Den 9 maj lanserade EU den största medborgardialogen som någonsin genomförts på EU-nivå, "konferensen om framtidens Europa" (Conference on the Future of Europe"). 450 miljoner EU-medborgare kan nu vara med och påverka framtidens Europa genom att lägga förslag, reagera på andras förslag, delta i evenemang och medborgarpaneler inom 10 olika teman.
 
