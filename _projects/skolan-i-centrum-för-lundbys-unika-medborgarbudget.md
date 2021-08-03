@@ -11,8 +11,8 @@ ingress-text: 'När stadsdelen Lundby i Göteborg genomför sin medborgarbudget 
 
 '
 links:
-- title: Consul (Den digitala plattform som används)
-  url: https://digidemlab.org/consul/
+- title: Decidim (Den digitala plattform som används)
+  url: https://digidemlab.org/decidim/
 ref: ''
 lang: sv
 
@@ -43,4 +43,4 @@ Lundby är en stadsdel där det bor människor med mycket blandande socioekonomi
 
 ## Om uppdraget
 
-Digidem Lab processleder medborgarbudgeten och genomför utbildningar och workshops med bland annat anställda på stadsdelsförvaltningen och skolan. Lundby har valt att använda den Open Source-baserade plattformen Consul där de medverkande kan lägga förslag och rösta. Digidem Lab hjälper till med installation och utbildning. I skrivande stund är arbetet i en förankringsfas. Planen är att den publika delen av processen ska dra igång under hösten 2020 och förslagen genomföras under 2021.
+Digidem Lab processleder medborgarbudgeten och genomför utbildningar och workshops med bland annat anställda på stadsdelsförvaltningen och skolan. Lundby har valt att använda den Open Source-baserade plattformen Decidim där de medverkande kan lägga förslag och rösta. Digidem Lab hjälper till med installation och utbildning. I skrivande stund är arbetet i en förankringsfas. Planen är att den publika delen av processen ska dra igång under hösten 2020 och förslagen genomföras under 2021.
