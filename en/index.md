@@ -20,9 +20,6 @@ mission:
     image: "/uploads/paris-small.jpg"
     text: By implementing a digital platform for citizen participation, local authorities
       can administer all their processes from one place.
-banner:
-- image: "/assets/images/banner-labbet-en.jpg"
-  url: "/lab/en/"
 layout: start
 ---
 
