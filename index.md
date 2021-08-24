@@ -24,8 +24,5 @@ mission:
     text: Genom att implementera en digital plattform för dialog kan kommuner samla
       sina processer på en och samma plats. Det underlättar för medborgarna och förenklar
       det långsiktiga demokratiarbetet.
-banner:
-- image: "/assets/images/banner-labbet.jpg"
-  url: "/lab"
 layout: start
 ---
