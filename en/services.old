@@ -31,7 +31,26 @@ services:
     items:
     - text: Hosting and service of the platform.
     - text: Further adjustments or workshops.
-
+prices:
+- title: Prices
+  items:
+  - title: Small
+    icon: "/assets/images/icon-small.svg"
+    items:
+    - text: Process with less than 20.000 potential participants.
+    - text: 'Initial assessment, process design and technical development: € 4000'
+    - text: 'Service and hosting: € 200 per active month, € 100 per inactive.'
+  - title: Medium
+    icon: "/assets/images/icon-medium.svg"
+    items:
+    - text: City or district with 20.000–80.000 inhabitants
+    - text: 'Initial assessment, process design and technical development: € 6000'
+    - text: 'Service and hosting: € 500 per active month, € 250 per inactive.'
+  - title: Large
+    icon: "/assets/images/icon-large.svg"
+    items:
+    - text: Prices for larger installations are calculated based on number of participants
+        and need for training and support. Please get in touch for a preliminary offer!
 ---
 
 ## Inclusive participation

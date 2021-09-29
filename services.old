@@ -6,6 +6,8 @@ menu: services
 links:
 - title: Tillfälligt krispaket för dialogprocesser under Corona-krisen
   url: "/uploads/Digidem Lab Krispaket.pdf"
+- title: Ladda ner vår brief "En stad för alla" med mer information om  hur vi jobbar.
+  url: "/assets/files/Digidem Lab En stad for alla.pdf"
 image: "/uploads/usertesting-top.jpg"
 ingress-text: Vi skapar medborgarcentrerade processer utifrån beprövade metoder för
   att särskilt nå underrepresenterade grupper.
@@ -35,6 +37,27 @@ services:
     items:
     - text: Drift och hosting av plattformen.
     - text: Möjlighet att beställa ytterligare anpassningar eller utbildningar.
+prices:
+- title: Prisexempel
+  items:
+  - title: Liten
+    icon: "/assets/images/icon-small.svg"
+    items:
+    - text: Dialog med färre än 20 000 potentiella deltagare
+    - text: 'Behovsanalys, processdesign och teknisk utveckling: 40 000 kr'
+    - text: 'Drift och hosting: 2000 kr per aktiv månad, 1000 kr per inaktiv månad'
+  - title: Mellan
+    icon: "/assets/images/icon-medium.svg"
+    items:
+    - text: Kommun eller stadsdel med 20 000–80 000 invånare
+    - text: 'Behovsanalys, processdesign och teknisk utveckling: 60 000 kr'
+    - text: 'Drift och hosting: 5000 kr per aktiv månad, 2500 kr per inaktiv månad.'
+  - title: Stor
+    icon: "/assets/images/icon-large.svg"
+    items:
+    - text: Priser för större installa­tioner beräknas utifrån antal ­användare och
+        behov av utbildning och support. Kontakta oss gärna för att få en prisuppskattning
+        eller offert!
 
 ---
 
