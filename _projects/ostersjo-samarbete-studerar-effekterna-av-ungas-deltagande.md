@@ -20,10 +20,10 @@ published: false
 Under ett års tid har Digidem Lab tillsammans med Transparency International i Litauen och Estland studerat hur ungas delaktighet och inflytande i beslutsfattande påverkas av medborgarbudgetar. Nu avslutas projektet ”Engaging youth from the Baltic Sea region into decision-making through participatory budgeting” och kan redan påvisa intressanta resultat. Under samarbetet, som finansierats av Nordiska ministerrådet, har skolelever i Sverige, Estland och Litauen fått göra varsin medborgarbudget och därmed direkt påverka hur en andel av kommunens eller skolans pengar ska användas.
 
 3 länder
-: skolor från Sverige, Estland och Litauen har deltagit i studien
+: Skolor från Sverige, Estland och Litauen har deltagit i studien.
 
-150 000 kr
-: har Bjurslättskolan i Göteborg fått rösta om
+150 000
+: kronor har Bjurslättskolan i Göteborg fått rösta om.
 
 ***
 
