@@ -14,7 +14,6 @@ links:
 - title: Skolan i centrum för Lundbys unika medborgarbudget
   url: https://digidemlab.org/skolan-i-centrum-f%C3%B6r-lundbys-unika-medborgarbudget/
 ref: ''
-published: false
 
 ---
 Under ett års tid har Digidem Lab tillsammans med Transparency International i Litauen och Estland studerat hur ungas delaktighet och inflytande i beslutsfattande påverkas av medborgarbudgetar. Nu avslutas projektet ”Engaging youth from the Baltic Sea region into decision-making through participatory budgeting” och kan redan påvisa intressanta resultat. Under samarbetet, som finansierats av Nordiska ministerrådet, har skolelever i Sverige, Estland och Litauen fått göra varsin medborgarbudget och därmed direkt påverka hur en andel av kommunens eller skolans pengar ska användas.
