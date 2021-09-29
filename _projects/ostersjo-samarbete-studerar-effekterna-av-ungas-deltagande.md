@@ -1,6 +1,6 @@
 ---
 lang: sv
-date: 2021-09-29 10:02:21 +0200
+date: 2021-09-29T10:02:21.000+02:00
 title: Östersjö-samarbete studerar effekterna av ungas deltagande
 image: "/uploads/transparency-1.jpg"
 thumbnail: "/uploads/transparency-1-small.jpg"
@@ -9,6 +9,8 @@ excerpt: Digidem Lab och Transparency International ser positiva resultat efter 
 ingress-text: Digidem Lab och Transparency International ser positiva effekter av
   ungas deltagande efter samarbete mellan Sverige, Litauen och Estland.
 links:
+- title: Transparency International om Östersjösamarbetet
+  url: https://www.transparency.lt/en/participatory-budgeting-2021/
 - title: Dags för Lundbys medborgarbudget
   url: https://digidemlab.org/news/dags-for-lundbys-medborgarbudget/
 - title: Skolan i centrum för Lundbys unika medborgarbudget
