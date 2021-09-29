@@ -17,7 +17,7 @@ En slumpvis utvald grupp medborgare som är demografiskt representativa för bef
 
 Metoden har använts framgångsrikt i bland annat i Frankrike 2019-2020 som lät en medborgarjury ta fram rekommendationer för hur landet ska minska sina utsläpp med minst 40% till 2030. Nu används metoden i flera kommuner och regioner i landet. Även Irland, Danmark, Norge Storbritannien och Tyskland har använt medborgarjurys i komplexa samhällsfrågor.
 
-Digidem Lab var redan 2017 involverade i en internationell arbetsgrupp för att utveckla och dokumentera metoden och är sedan 2020 aktiva i utformandet och genomförandet av en medborgarjury på EU-nivå. Vi erbjuder utbildningar, processdesign och facilitering för er som vill genomföra en medborgarjury. Kontakta oss så berättar vi mer.
+Digidem Lab var redan 2017 involverade i en internationell arbetsgrupp för att utveckla och dokumentera metoden och är sedan 2020 aktiva i utformandet och genomförandet av en medborgarjury på EU-nivå. Vi erbjuder utbildningar, processdesign och facilitering för er som vill genomföra en medborgarjury. [Kontakta oss](/contact/) så berättar vi mer.
 
 ***
 
