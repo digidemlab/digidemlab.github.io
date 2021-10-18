@@ -3,9 +3,9 @@ title: Vårt erbjudande
 description: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande.
 ref: services
 menu: services
-links:
-- title: Tillfälligt krispaket för dialogprocesser under Corona-krisen
-  url: "/uploads/Digidem Lab Krispaket.pdf"
+# links:
+# - title: Tillfälligt krispaket för dialogprocesser under Corona-krisen
+#   url: "/uploads/Digidem Lab Krispaket.pdf"
 image: "/uploads/usertesting-top.jpg"
 ingress-text: Vi skapar medborgarcentrerade processer utifrån beprövade metoder för
   att särskilt nå underrepresenterade grupper.
@@ -54,12 +54,6 @@ Plattformarna vi arbetar med har öppen källkod. Det gör att ni aldrig är lå
 ## Enklare hantering av dialoger
 Genom att implementera en digital plattform för dialoger kan kommuner samla sina processer på en och samma plats. Det underlättar för medborgarna och förenklar det långsiktiga demokratiarbetet.
 Tjänstepersoner kan enkelt få ut statistik, en bredare bild över vilka som deltar och en överblick över prioriterade frågor i kommunens arbete. Det går också att genomföra olika typer av dialoger samtidigt på en samlad och tydlig plattform.
-
-<div class="box">
-  <h2 id="crisis">Ett solidariskt krispaket</h2>
-  <p>Coronakrisen har gjort det svårt att genomföra fysiska träffar i till exempel medborgardialoger. Därför har vi satt ihop ett krispaket, specialanpassat för digitala dialogprocesser i den situation vi är i nu. Det innehåller en digitalt plattform, resurser för att snabbt komma igång och en gemenskap för att utbyta praxis och idéer.</p>
-  <p class="read-more"><a href="/uploads/Digidem Lab Krispaket.pdf">Läs mer om krispaketet</a></p>
-</div>
 
 <div class="columns">
   <div class="column">
