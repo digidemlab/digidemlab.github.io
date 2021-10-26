@@ -47,3 +47,7 @@ Under studien var det också tydligt att ju mer lärarna hade tid att integrera 
 Framöver vill samtliga skolor i de tre länderna gärna fortsätta med metoden. Förhoppningen i Lundby är att fler områden vill testa medborgarbudget ihop med skola och att det på sikt blir ett integrerat arbetssätt för att öka barn och ungas inflytande.
 
 Många av eleverna svarade att de gärna ville se medborgarbudget spridas till fler skolor. Varför frågade vi? För att ”det är rättvist”, ”alla ska få vara med och bestämma” och ”att de också ska få ha kul” svarade barnen!
+
+***
+
+![](/uploads/nordic-council-of-ministers-lith.png)
