@@ -6,6 +6,9 @@ ref: about
 image: "/uploads/medialab.jpg"
 ingress-text: Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella
   erfarenheter inom medborgardeltagande.
+links:
+- title: Digidem Lab ideell förening
+  url: "/foreningen/"
 ---
 
 Det gör vi genom att erbjuda metoder och verktyg för medborgardeltagande som inkluderar underrepresenterade grupper i beslutsfattande.
