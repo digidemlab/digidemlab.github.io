@@ -6,13 +6,11 @@ image: "/uploads/usertesting.jpg"
 thumbnail: ''
 excerpt: För deltagande och demokrati.
 ingress-text: För demokratiskt deltagande på alla nivåer av samhället.
-links:
-- title: ''
-  url: ''
+links: []
 ref: ''
 
 ---
-Digidem Lab är en religiöst och partipolitiskt obunden ideell förening har som syfte att främja demokratiskt deltagande på alla nivåer i samhället. Detta sker bland annat genom att sprida kunskap om metoder och verktyg för beslutsfattande och ekonomisk transparens. Perspektivet i arbetet bygger på att det finns en vilja till medbestämmande bland alla människor och att ansvaret ligger på politiska institutioner och organisationer att öppna upp för grupper som på olika sätt exkluderas från beslutsfattande processer.
+Digidem Lab är en religiöst och partipolitiskt obunden ideell förening som har som syfte att främja demokratiskt deltagande på alla nivåer i samhället. Detta sker bland annat genom att sprida kunskap om metoder och verktyg för beslutsfattande och ekonomisk transparens. Perspektivet i arbetet bygger på att det finns en vilja till medbestämmande bland alla människor och att ansvaret ligger på politiska institutioner och organisationer att öppna upp för grupper som på olika sätt exkluderas från beslutsfattande processer.
 
 Föreningens organisationsnummer är 802500-2638. Genom den separata systerorganisationen Digidem Lab ekonomisk förening (769637-6131) bedrivs även konsultverksamhet åt kommuner, skolor och internationella städer.
 
