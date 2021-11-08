@@ -1,6 +1,5 @@
 ---
 lang: sv
-date: 2021-11-08 13:44:19 +0100
 title: Om Digidem Lab ideell förening
 image: "/uploads/usertesting.jpg"
 thumbnail: ''
