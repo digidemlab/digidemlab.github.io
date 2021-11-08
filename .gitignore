@@ -3,7 +3,6 @@ _site
 .jekyll-metadata
 .DS_Store
 .bundle
-Gemfile.lock
 *.sh
 assets/raw
 node_modules
