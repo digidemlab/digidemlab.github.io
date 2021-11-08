@@ -6,7 +6,9 @@ image: "/uploads/usertesting.jpg"
 thumbnail: ''
 excerpt: För deltagande och demokrati.
 ingress-text: För demokratiskt deltagande på alla nivåer av samhället.
-links: []
+links:
+- title: Lab för digital demokrati (2017-2019)
+  url: "/lab/"
 ref: ''
 
 ---
@@ -21,3 +23,5 @@ Digidem Lab har stöttat två stycken medborgarprocesser i Göteborg och utbilda
 Digidem Lab deltar i det internationella forskningsprojektet COLDIGIT, där vi under tre år undersöker kollektiv intelligens ihop med aktörer som Helsingfors universitet, Nesta, SINTEF och GRI. Syftet är att undersöka hur tilliten mellan medborgare och offentliga institutioner kan öka genom digitala demokrativerktyg samt hur medborgare kan samarbeta mellan varandra för att skapa lösningar på komplexa samhällsutmaningar.
 
 I projektet ”Engaging youth from the Baltic Sea region into decision-making through participatory budgeting” deltog Digidem Lab tillsammans med Transparency International i Litauen och Estland. I projektet studerades effekter av ungas deltagande i sin skolmiljö och resultaten jämförs mellan de tre medverkande länderna. Projektet avslutades juli 2021.
+
+Digidem Lab drev ett labb 2017-2019 för att utveckla digitala verktyg för demokrati.
