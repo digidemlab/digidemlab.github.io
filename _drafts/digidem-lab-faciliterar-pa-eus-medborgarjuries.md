@@ -1,7 +1,7 @@
 ---
 lang: sv
 date: 2021-11-08 13:01:07 +0100
-title: Digidem Lab faciliterar på EUs medborgarjuries
+title: Digidem Lab faciliterar på EUs medborgar-juries
 image: ''
 thumbnail: ''
 excerpt: ''
