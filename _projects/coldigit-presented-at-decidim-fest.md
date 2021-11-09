@@ -3,7 +3,7 @@ lang: en
 date: 2021-11-09 10:38:35 +0100
 title: COLDIGIT presented at Decidim Fest
 image: "/uploads/DSC_0078.jpg"
-thumbnail: ''
+thumbnail: "/uploads/DSC_0078_thumb.jpg"
 excerpt: ''
 ingress-text: ''
 links:
