@@ -10,7 +10,6 @@ links:
 - title: Presentation at DecidimFest21
   url: https://meta.decidim.org/conferences/DecidimFest21/f/1657/meetings/1642
 ref: ''
-published: false
 
 ---
 Decidim is one of the biggest open source digital democracy platforms currently in use. Over one hundred cities across the world are using Decidim for a variation of citizen participation processes.
