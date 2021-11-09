@@ -5,7 +5,7 @@ title: COLDIGIT presented at Decidim Fest
 image: "/uploads/DSC_0078.jpg"
 thumbnail: "/uploads/DSC_0078_thumb.jpg"
 excerpt: See Digidem Lab's presentation at DecidimFest
-ingress-text: Digidem Lab presented work with an international team of researchers
+ingress-text: Digidem Lab presented our work with an international team of researchers
   at this years DecidimFest.
 links:
 - title: Presentation at DecidimFest21
