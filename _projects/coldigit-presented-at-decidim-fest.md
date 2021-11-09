@@ -4,8 +4,9 @@ date: 2021-11-09 10:38:35 +0100
 title: COLDIGIT presented at Decidim Fest
 image: "/uploads/DSC_0078.jpg"
 thumbnail: "/uploads/DSC_0078_thumb.jpg"
-excerpt: ''
-ingress-text: ''
+excerpt: See Digidem Lab's presentation at DecidimFest
+ingress-text: Digidem Lab presented work with an international team of researchers
+  at this years DecidimFest.
 links:
 - title: Presentation at DecidimFest21
   url: https://meta.decidim.org/conferences/DecidimFest21/f/1657/meetings/1642
