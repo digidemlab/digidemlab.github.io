@@ -2,7 +2,7 @@
 lang: sv
 date: 2021-12-15 08:53:56 +0100
 title: Digidem Lab deltar i Nobel Week Dialogue 2021
-image: "/uploads/nobelweek.jpg"
+image: "/uploads/nobelweek-1.jpg"
 thumbnail: "/uploads/nobelweek_newsl.jpg"
 excerpt: Digidem Lab deltar i Nobelveckans panel om framtidens städer.
 ingress-text: Hur kan vi skapa hållbara samhällen när allt större del av världens
