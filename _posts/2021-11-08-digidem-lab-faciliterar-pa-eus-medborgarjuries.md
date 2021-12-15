@@ -24,3 +24,5 @@ Därför var vi extra glada att kunna äntligen resa till Strasbourg för att fa
 Vi åkte (tåg) till Strasbourg för att facilitera den fjärde panelens första session de 14-17 oktober. Målet för denna packade helg var att medborgarna först skulle  lära känna varandra, träffa experter kring ämnena de kommer jobba på, och välja de olika frågorna som kommer diskuteras.
 
 Medan Anna faciliterade en grupp med deltagare från Tyskland, Polen, Litauen och Sverige hade Pierre en grupp från Italien, Finland, Luxemburg och Frankrike. Alla fick prata sitt språk, och det hela översattes av tolkar. Magiskt!
+
+_Foto: Brigitte HASE, Copyright © European Union 2021 - Source : EP_
