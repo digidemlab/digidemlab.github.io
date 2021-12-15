@@ -2,8 +2,8 @@
 lang: sv
 date: 2021-11-08T13:01:07.000+01:00
 title: Digidem Lab faciliterar EUs medborgarjuries
-image: ''
-thumbnail: ''
+image: "/uploads/eupanel.jpg"
+thumbnail: "/uploads/eupanel_newsl.jpg"
 excerpt: Digidem Lab faciliterar EUs medborgarjuries
 ingress-text: Under hösten kommer 800 slumpmässigt valda medborgare från hela EU att
   ta fram rekommendationer för konferensens plenarförsamlingar. Digidem Labs Anna
