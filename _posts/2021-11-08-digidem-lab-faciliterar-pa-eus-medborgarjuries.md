@@ -4,7 +4,8 @@ date: 2021-11-08T13:01:07.000+01:00
 title: Digidem Lab faciliterar EUs medborgarjuries
 image: "/uploads/eupanel.jpg"
 thumbnail: "/uploads/eupanel_newsl.jpg"
-excerpt: Digidem Lab faciliterar EUs medborgarjuries
+excerpt: Digidem Labs Anna Sanne Göransson och Pierre Mesure var med i Strasbourg
+  för att facilitera arbetsgrupper under första sessionen.
 ingress-text: Under hösten kommer 800 slumpmässigt valda medborgare från hela EU att
   ta fram rekommendationer för konferensens plenarförsamlingar. Digidem Labs Anna
   Sanne Göransson och Pierre Mesure var med i Strasbourg för att facilitera arbetsgrupper
