@@ -10,7 +10,7 @@ ingress-text: |-
   Vi söker dig som tror på ett samhälle där de med minst makt får
   möjlighet att forma sitt område och sin vardag!
 links:
-- title: Ansökningsformulär
+- title: Ansökningsformulär (Fyll i här + mejla in CV)
   url: https://team.digidemlab.org/apps/forms/qWwn93cojxKqTJDR
 ref: ''
 
