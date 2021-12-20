@@ -35,7 +35,7 @@ Digidem Lab har expertis kring internationellt beprövade metoder och verktyg f�
 
 ### Mer om tjänsten
 
-Som projektledare med uppdragsansvar kommer du arbeta både strategiskt och operativt. Du kommer ha ansvar för några av våra pågående nationella och internationella uppdrag och projekt inom medborgarbudget, boendebudget och medborgarjury. Det innebär löpande kontakt med städer/organisationer, göra lokala behovsanalyser och kartläggningar, designa deltagande processer, hålla utbildningar och workshops för tjänstepersoner och civilsamhälle. Du kommer även att stötta i att utveckla uppdragsverksamheten och skapa nya kontakter med städer och offentliga institutioner genom att exempelvis delta på konferenser, möten och verksamhetsplanering. Dina huvudsakliga arbetsuppgifter är:
+Som projektledare med uppdragsansvar kommer du arbeta både strategiskt och operativt. Du kommer ha ansvar för några av våra pågående nationella och internationella uppdrag och projekt inom medborgarbudget, boendebudget och medborgarjury. Det innebär löpande kontakt med städer/organisationer, göra lokala behovsanalyser och kartläggningar, designa deltagande processer, hålla utbildningar och workshops för tjänstepersoner och civilsamhälle. Du kommer tillsammans med kollegor utveckla uppdragsverksamheten och skapa nya samarbeten med städer och offentliga institutioner. Dina huvudsakliga arbetsuppgifter är:
 
 * Leda specifika uppdrag och projekt inom deltagande och digital demokrati framförallt kopplat till metoderna medborgarbudget, boendebudget, medborgarjury
 * Göra lokala analyser och ta fram förslag på hur städer borde arbeta för att stärka medborgares inflytande i lokala beslutsprocesser
@@ -52,12 +52,13 @@ Som projektledare med uppdragsansvar kommer du arbeta både strategiskt och oper
 * En god analysförmåga
 * Ett normkritiskt perspektiv och maktanalys
 * Vana att hantera och utveckla kundrelationer
-* God förståelse för arbete inom offentlig sektor, särskilt kommunal verksamhet
+* God förståelse för arbete inom offentlig sektor och kommunalt beslutsfattande
 * Vara flytande i svenska och engelska
 
 #### Det är extra meriterande om du har:
 
 * Har arbetat flera år som konsult inom privat sektor
+* Har erfarenhet av försäljning av tjänster till offentlig sektor 
 * Har erfarenhet av att arbeta i internationella sammanhang
 * Har erfarenhet av arbete med medborgardialog och deltagande demokrati
 
