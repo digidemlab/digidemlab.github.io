@@ -29,7 +29,7 @@ ref: ''
 published: false
 
 ---
-[https://multimedia.europarl.europa.eu/video/migration-foreign-policy-citizens-make-recommendations-in-maastricht_N01_AFPS_220214_CFMA](https://multimedia.europarl.europa.eu/video/migration-foreign-policy-citizens-make-recommendations-in-maastricht_N01_AFPS_220214_CFMA "https://multimedia.europarl.europa.eu/video/migration-foreign-policy-citizens-make-recommendations-in-maastricht_N01_AFPS_220214_CFMA")
+[https://youtu.be/lj0WMgfCAEM](https://youtu.be/lj0WMgfCAEM "https://youtu.be/lj0WMgfCAEM")
 
 [Som vi skrivit om innan ](https://digidemlab.org/digidem-lab-stotttar-eu-s-storsta-medborgardialog-nagonsin/)har Digidem Lab stöttat EU kommissionen i förberedelser och genomförande av den största medborgardialogen på EU-nivå någonsin. “Konferensen om Europas framtid” sätter medborgarna i fokus för diskussioner om hur EU ska utvecklas för att tackla framtida utmaningar. Medborgarpanelerna har spelat en viktig roll då representanter diskuterat idéer [från de evenemang som arrangerats över hela EU](https://futureu.europa.eu/meetings?locale=sv&pk_source=website&pk_medium=link&pk_campaign=europarl&pk_content=headlines_editorial) och lyft förslag som skickats in via [konferensens plattform Decidim](https://futureu.europa.eu/?locale=sv&pk_source=website&pk_medium=link&pk_campaign=europarl&pk_content=headlines_editorial), en av världens mest använda plattform för medborgardeltagande. Plattformen är det nav som konferensen om Europas framtid kretsar kring. Du kan fortfarande ladda upp ditt bidrag på plattformen före den 20 februari [här](https://futureu.europa.eu/pages/getinvolved)!
 
