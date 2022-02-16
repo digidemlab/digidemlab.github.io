@@ -29,9 +29,13 @@ ref: ''
 published: false
 
 ---
+    <iframe allowfullscreen allow="fullscreen" frameborder="0" src="https://multimedia.europarl.europa.eu/share/N01_AFPS_220214_CFMA?autoplay=off" width="1920" height="1080"></iframe>
+
 [Som vi skrivit om innan ](https://digidemlab.org/digidem-lab-stotttar-eu-s-storsta-medborgardialog-nagonsin/)har Digidem Lab stöttat EU kommissionen i förberedelser och genomförande av den största medborgardialogen på EU-nivå någonsin. “Konferensen om Europas framtid” sätter medborgarna i fokus för diskussioner om hur EU ska utvecklas för att tackla framtida utmaningar. Medborgarpanelerna har spelat en viktig roll då representanter diskuterat idéer [från de evenemang som arrangerats över hela EU](https://futureu.europa.eu/meetings?locale=sv&pk_source=website&pk_medium=link&pk_campaign=europarl&pk_content=headlines_editorial) och lyft förslag som skickats in via [konferensens plattform Decidim](https://futureu.europa.eu/?locale=sv&pk_source=website&pk_medium=link&pk_campaign=europarl&pk_content=headlines_editorial), en av världens mest använda plattform för medborgardeltagande. Plattformen är det nav som konferensen om Europas framtid kretsar kring. Du kan fortfarande ladda upp ditt bidrag på plattformen före den 20 februari [här](https://futureu.europa.eu/pages/getinvolved)!
 
 Fyra olika medborgarpaneler har skett parallellt under konferensen där medborgarna fått chans att få feedback på sina rekommendationer de lämnat på plattformen från beslutsfattare. Teman som diskuterats är; ekonomi, social rättvisa och sysselsättning, demokrati, klimat och miljö och slutligen EU:s roll i världen och migration. Varje panel har träffats tre gånger och totalt har ca 200 slumpvis utvalda medborgare som speglar EU:s mångfald deltagit vid varje panel. En av dem var t.ex. 21-åriga studenten Thilde Karlsson från Fågelmara, [som DN intervjuat](https://www.dn.se/vetenskap/svensk-21-aring-ger-klimatpolitiska-rad-till-eu/).
+
+![](/uploads/maastricht2.jpg)
 
 Pierre och Anna från Digidem Lab reste till Maastricht för att facilitera den sista panelen inom temat EU i världen och migration där det diskuterades EU:s roll inom handel, solidaritet och hur kommissionen skall hantera migrationens utmaningar. Låt oss säga, att helgen avslutades med fanan i topp.
 
@@ -41,4 +45,4 @@ _- Sista etappen för Panel 4 i konferensen om Europas framtid har varit en helg
 
 De rekommendationer som panelerna har formulerat kommer att diskuteras vid plenaförsamlingarna som startar i mars, som sammanför medborgare, representanter från EU-institutioner, nationella parlament och andra intressenter. De kommer även att ingå i den slutliga konferensrapporten, som förbereds under våren. Digidem Lab kommer att fortsätta stötta dialogerna fram tills dess att de avslutats senare i vår och har stora förhoppningar för framtidens deltagande demokrati.  
 _  
-\- Vi har stora förhoppningar att detta första demokratiska experiment på EU-nivå kommer att leda till fler dialoger där vi européer får bygga vår gemensamma framtid. Vi hoppas såklart vara en del i det men vi är framförallt jättesugna på att ta de erfarenheter, kompetenser och nätverk vi fått från konferensen tillbaka till sverige. Vi reser hem fulla av idéer om hur medborgarpaneler, medborgarjuries och liknande processer kan byggas och designas,_ säger Pierre Mesure, Digidem Lab. 
+\- Vi har stora förhoppningar att detta första demokratiska experiment på EU-nivå kommer att leda till fler dialoger där vi européer får bygga vår gemensamma framtid. Vi hoppas såklart vara en del i det men vi är framförallt jättesugna på att ta de erfarenheter, kompetenser och nätverk vi fått från konferensen tillbaka till sverige. Vi reser hem fulla av idéer om hur medborgarpaneler, medborgarjuries och liknande processer kan byggas och designas,_ säger Pierre Mesure, Digidem Lab.
