@@ -39,5 +39,5 @@ _- Sista etappen för Panel 4 i konferensen om Europas framtid har varit en helg
 **Vad händer nu?**
 
 De rekommendationer som panelerna har formulerat kommer att diskuteras vid plenaförsamlingarna som startar i mars, som sammanför medborgare, representanter från EU-institutioner, nationella parlament och andra intressenter. De kommer även att ingå i den slutliga konferensrapporten, som förbereds under våren. Digidem Lab kommer att fortsätta stötta dialogerna fram tills dess att de avslutats senare i vår och har stora förhoppningar för framtidens deltagande demokrati.  
-_  
+  
 \- Vi har stora förhoppningar att detta första demokratiska experiment på EU-nivå kommer att leda till fler dialoger där vi européer får bygga vår gemensamma framtid. Vi hoppas såklart vara en del i det men vi är framförallt jättesugna på att ta de erfarenheter, kompetenser och nätverk vi fått från konferensen tillbaka till sverige. Vi reser hem fulla av idéer om hur medborgarpaneler, medborgarjuries och liknande processer kan byggas och designas,_ säger Pierre Mesure, Digidem Lab.
