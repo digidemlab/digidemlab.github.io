@@ -7,14 +7,12 @@ image: "/uploads/maastricht.jpg"
 thumbnail: "/uploads/maastricht2.jpg"
 excerpt: Digidem Lab på plats i Maastricht för att facilitera den sista av EU:s medborgarpaneler
   på temat EU i världen och migration
-ingress-text: För 30 år sedan, nästan på dagen, undertecknades Maastrichtfördraget
+ingress-text: 'För 30 år sedan, nästan på dagen, undertecknades Maastrichtfördraget
   i Maastricht, Nederländerna och därmed upprättades Europeiska Unionen. Helgen den
   11-13 februari, bara ett stenkast ifrån där fördraget signerats möttes ca 200 medborgare
   från hela Europa för den fjärde och sista medborgarpanelen under “konferensen om
   Europas framtid”. Digidem Labs Anna Sanne Göransson och Pierre Mesure var på plats
-  i Maastricht, för att facilitera panelen där medborgarna fått lägga fram konkreta
-  rekommendationer om EU:s framtida inriktning. Helgens panel höll fokus på EU i världen,
-  handel, solidaritet och migration.
+  i Maastricht, för att facilitera panelen. '
 links:
 - title: EU:s medborgarplattform
   url: https://futureu.europa.eu/
