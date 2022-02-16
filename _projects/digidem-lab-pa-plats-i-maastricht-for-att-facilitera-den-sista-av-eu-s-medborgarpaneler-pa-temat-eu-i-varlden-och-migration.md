@@ -12,7 +12,7 @@ ingress-text: 'För 30 år sedan, nästan på dagen, undertecknades Maastrichtf�
   11-13 februari, bara ett stenkast ifrån där fördraget signerats möttes ca 200 medborgare
   från hela Europa för den fjärde och sista medborgarpanelen under “konferensen om
   Europas framtid”. Digidem Labs Anna Sanne Göransson och Pierre Mesure var på plats
-  i Maastricht, för att facilitera panelen. '
+  i Maastricht, för att facilitera panelen.  '
 links:
 - title: EU:s medborgarplattform
   url: https://futureu.europa.eu/
@@ -24,7 +24,6 @@ links:
 - title: Delrapporter om den digitala plattformen Decidim
   url: https://futureu.europa.eu/pages/reporting
 ref: ''
-published: false
 
 ---
 [Som vi skrivit om innan ](https://digidemlab.org/digidem-lab-stotttar-eu-s-storsta-medborgardialog-nagonsin/)har Digidem Lab stöttat EU kommissionen i förberedelser och genomförande av den största medborgardialogen på EU-nivå någonsin. “Konferensen om Europas framtid” sätter medborgarna i fokus för diskussioner om hur EU ska utvecklas för att tackla framtida utmaningar. Medborgarpanelerna har spelat en viktig roll då representanter diskuterat idéer [från de evenemang som arrangerats över hela EU](https://futureu.europa.eu/meetings?locale=sv&pk_source=website&pk_medium=link&pk_campaign=europarl&pk_content=headlines_editorial) och lyft förslag som skickats in via [konferensens plattform Decidim](https://futureu.europa.eu/?locale=sv&pk_source=website&pk_medium=link&pk_campaign=europarl&pk_content=headlines_editorial), en av världens mest använda plattform för medborgardeltagande. Plattformen är det nav som konferensen om Europas framtid kretsar kring. Du kan fortfarande ladda upp ditt bidrag på plattformen före den 20 februari [här](https://futureu.europa.eu/pages/getinvolved)!
