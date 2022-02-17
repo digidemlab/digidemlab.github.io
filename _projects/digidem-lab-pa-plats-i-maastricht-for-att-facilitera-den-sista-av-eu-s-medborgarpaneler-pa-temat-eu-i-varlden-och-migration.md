@@ -34,7 +34,7 @@ Fyra olika medborgarpaneler har skett parallellt under konferensen där medborga
 
 Pierre och Anna från Digidem Lab reste till Maastricht för att facilitera den sista panelen inom temat EU i världen och migration där det diskuterades EU:s roll inom handel, solidaritet och hur kommissionen skall hantera migrationens utmaningar. Låt oss säga, att helgen avslutades med fanan i topp.
 
-_- Sista etappen för Panel 4 i konferensen om Europas framtid har varit en helg där vi alla; medborgare, organisatörer och facilitatorer, bestigit Mount Everest och syret räckte precis till toppen. Jag vet inte vilket lands flagga vi satte där men skönt var det! De slumpvis utvalda medborgare från alla EU-länder har nu gjort klart nästan 50 rekommendationer till beslutsfattare i EU kring EU:s roll i världen och migration. Det har varit riktigt intressant att vara med och genomföra deltagande demokrati på den här nivån och i en skala som aldrig förr testats, säger Anna Sanne Göransson, Digidem Lab._
+_- Sista etappen för Panel 4 i konferensen om Europas framtid har varit en helg där vi alla; medborgare, organisatörer och facilitatorer, bestigit Mount Everest och syret räckte precis till toppen. Jag vet inte vilket lands flagga vi satte där men skönt var det! De slumpvis utvalda medborgare från alla EU-länder har nu gjort klart nästan 50 rekommendationer till beslutsfattare i EU kring EU:s roll i världen och migration. Det har varit riktigt intressant att vara med och genomföra deltagande demokrati på den här nivån och i en skala som aldrig förr testats, säger Anna Sanne Göransson, Digidem Lab._ 
 
 **Vad händer nu?**
 
