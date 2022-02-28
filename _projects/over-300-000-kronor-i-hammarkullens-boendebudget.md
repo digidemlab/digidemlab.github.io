@@ -29,6 +29,8 @@ Bostadsbolaget har likt tidigare tillfällen valt att använda den Open Source-b
 
 I denna boendebudget satsas extra insatser gentemot barn och unga. Digidem Lab har hållit en utbildning med lärare på en skola i Hammarkullen där syftet är att ge verktyg för att jobba med verkligt medborgarinflytande tillsammans med elever. Ett samarbete har även initierats med Hammarkullens fritidsgård Mixgården, där fyra ungdomar anställts för att hjälpa till att sprida boendebudgeten. En träff kommer också att arrangeras på fritidsgården i vår för att ta nytta av ungdomarnas lokala expertis. Dessa satsningar är ytterligare steg på vägen mot vårt mål att medborgarprocesser ska vara både av och för boende i området. 
 
+![](/uploads/hammarkullen_webb.jpg)
+
 > _Det känns jättekul för det finns så mycket idéer i Hammarkullen!_
 
 _- För att uppnå målet om att människor har makt och inflytande i sin närmiljö är det ett bra första steg att avsätta riktiga pengar, för då finns det också ett mandat och en budget som människor kan påverka över. Det är viktigt att boendebudgeten görs i samverkan med civilsamhället och nyckelpersoner i området och att den baseras på de lokala behov som finns. Det finns boende i Hammarkullen som levt där länge och är experter på området, dessa personers röster måste vara i centrum av besluten_, säger Sanna Ghotbi, Digidem Lab.
