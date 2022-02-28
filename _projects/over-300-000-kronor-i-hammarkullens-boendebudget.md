@@ -12,7 +12,7 @@ ingress-text: 'Under våren får de som bor i Hammarkullen vara med och bestämm
   tidigare boendebudgetar, stötta initiativet. '
 links:
 - url: https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/
-  title: Biskopsgårdens nya boendebudget
+  title: 'Biskopsgårdens nya boendebudget '
 - url: https://digidemlab.org/boendebudget-biskopsgarden/
   title: " Bostadsbolagets boendebudget 2019 (piloten)"
 - title: Decidim (den digitala plattform som används)
@@ -28,8 +28,6 @@ Boendebudgeten innebär att de som bor hos Bostadsbolaget i Hammarkullen får va
 Bostadsbolaget har likt tidigare tillfällen valt att använda den Open Source-baserade plattformen Decidim där de boende kan lägga förslag och rösta. Digidem Lab har hjälpt till med anpassning och utbildning av plattformen. Vi har även hjälpt designa processen samt stöttar genom utbildningar och workshops med både anställda på Bostadsbolaget, hyresgäster och lokalt föreningsliv.
 
 I denna boendebudget satsas extra insatser gentemot barn och unga. Digidem Lab har hållit en utbildning med lärare på en skola i Hammarkullen där syftet är att ge verktyg för att jobba med verkligt medborgarinflytande tillsammans med elever. Ett samarbete har även initierats med Hammarkullens fritidsgård Mixgården, där fyra ungdomar anställts för att hjälpa till att sprida boendebudgeten. En träff kommer också att arrangeras på fritidsgården i vår för att ta nytta av ungdomarnas lokala expertis. Dessa satsningar är ytterligare steg på vägen mot vårt mål att medborgarprocesser ska vara både av och för boende i området.
-
-![](/uploads/nytt-miljohus-i-sandeslatt-1024x683.jpeg)
 
 > _Det känns jättekul för det finns så mycket idéer i Hammarkullen!_
 
