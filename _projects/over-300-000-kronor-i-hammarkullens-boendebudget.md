@@ -33,6 +33,8 @@ I denna boendebudget satsas extra insatser gentemot barn och unga. Digidem Lab h
 
 _- För att uppnå målet om att människor har makt och inflytande i sin närmiljö är det ett bra första steg att avsätta riktiga pengar, för då finns det också ett mandat och en budget som människor kan påverka över. Det är viktigt att boendebudgeten görs i samverkan med civilsamhället och nyckelpersoner i området och att den baseras på de lokala behov som finns. Det finns boende i Hammarkullen som levt där länge och är experter på området, dessa personers röster måste vara i centrum av besluten_, säger Sanna Ghotbi, Digidem Lab.
 
+### Ökat grannskap och större inflytande
+
 Bostadsbolaget vill bidra till att människor får ett större inflytande över sitt eget område och få bestämma över en del av budgeten. Något som de hoppas även ska leda till att öka grannskapet i området.
 
 _- Det blir spännande att möta våra hyresgäster på riktigt. Vi försöker på alla vis vi kan att göra människor mer delaktiga i sitt bostadsområde. Därför vill vi att att de kommer med idéer och är med och genomför förslagen så att pengarna används i det syfte det är tänkt. Med boendebudgeten vill vi uppmuntra till att göra saker tillsammans över åldersgränserna; att barn, unga, vuxna och äldre möts på nya sätt. Tanken är att lära känna sina grannar bättre och öka gemenskapen i sitt område,_ säger Suraya Reif Abdali, Bostadsbolaget.
