@@ -20,9 +20,9 @@ links:
 ref: ''
 
 ---
-### Om uppdraget
+### Om uppdraget 
 
-Boendebudgeten innebär att de som bor hos Bostadsbolaget i Hammarkullen får vara med och bestämma vad en del av Bostadsbolagets pengar ska användas till. Årets budget ligger på 300 000kr. Digidem Lab har tidigare stöttat i att genomföra [boendebudgetar i Biskopsgården](https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/), som var de första i Norden att testa metoden. Vi får nu leda processen när boende i Hammarkullen får lämna in idéer, utveckla projekt och rösta på förslag på vilka aktiviteter som skall utföras i området. Hyresgäster kommer lägga förslag kring temat sociala insatser för att främja umgänge i området. 
+Boendebudgeten innebär att de som bor hos Bostadsbolaget i Hammarkullen får vara med och bestämma vad en del av Bostadsbolagets pengar ska användas till. Årets budget ligger på 300 000kr. Digidem Lab har tidigare stöttat i att genomföra [boendebudgetar i Biskopsgården](https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/), som var de första i Norden att testa metoden. Vi får nu leda processen när boende i Hammarkullen får lämna in idéer, utveckla projekt och rösta på förslag på vilka aktiviteter som skall utföras i området. Hyresgäster kommer lägga förslag kring temat sociala insatser för att främja umgänge i området.
 
 Bostadsbolaget har likt tidigare tillfällen valt att använda den Open Source-baserade plattformen Decidim där de boende kan lägga förslag och rösta. Digidem Lab har hjälpt till med anpassning och utbildning av plattformen. Vi har även hjälpt designa processen samt stöttar genom utbildningar och workshops med både anställda på Bostadsbolaget, hyresgäster och lokalt föreningsliv.
 
