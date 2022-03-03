@@ -2,8 +2,8 @@
 lang: sv
 date: 2022-02-28 11:13:38 +0100
 title: 'Över 300 000 kronor i Hammarkullens boendebudget! '
-image: "/uploads/hammarkullen1.jpg"
-thumbnail: "/uploads/hammarkullen2_webb.jpg"
+image: "/uploads/hammarkullen5.jpg"
+thumbnail: "/uploads/nyhetsbrev.png"
 excerpt: ''
 ingress-text: 'Under våren får de som bor i Hammarkullen vara med och bestämma över
   hur 300 000 kr skall användas för att skapa sociala aktiviteter för de boende i
