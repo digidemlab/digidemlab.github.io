@@ -18,7 +18,6 @@ links:
 - title: Decidim (den digitala plattform som används)
   url: https://dialog.bostadsbolaget.se/
 ref: ''
-published: false
 
 ---
 ### Om uppdraget
