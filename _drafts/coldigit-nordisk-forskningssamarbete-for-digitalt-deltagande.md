@@ -11,7 +11,17 @@ ingress-text: I det treåriga forskningsprojektet Collective Intelligence throug
   Genom att studera, testa och utvärdera olika verktyg och metoder i konkreta deltagarprocesser
   i Sverige, Finland och Norge hoppas projektet bidra med ny kunskap om hur kommuner
   kan involvera medborgare i lokalt beslutsfattande på ett meningsfullt sätt.
-links: []
+links:
+- title: Nordforsk
+  url: https://www.nordforsk.org/programs/research-and-innovation-programme-digitalisation-public-sector
+- title: Boendebudget i Hammarkullen
+  url: https://digidemlab.org/300-000-kronor-i-hammarkullens-boendebudget/
+- title: Boendebudget i Biskopsgården
+  url: boendebudgetarna i Biskopsgården
+- title: Medborgarpanelen Trondheim
+  url: https://borgerkraft.no
+- title: Medborgarbudgeten Omastadi i Helsingfors
+  url: https://omastadi.hel.fi
 ref: ''
 
 ---
