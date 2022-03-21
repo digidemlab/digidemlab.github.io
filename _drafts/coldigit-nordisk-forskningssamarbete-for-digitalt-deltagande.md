@@ -21,17 +21,18 @@ _- En viktig del av vårt arbete är att utvärdera alla metoder och verktyg och
 
 Tack vare projektet får Digidem Lab även möjlighet att studera hur man jobbar med att öka medborgares inflytande i Norge och Finland. Bland annat genom studieresor och observationer av deras deltagandeprocesser och möten med kommunen. I Trondheim har kommunen låtit slumpvist utvalda och demografiskt representativa medborgare ta fram rekommendationer för stadens hållbarhetsplan. Processen har redan gett nya lärdomar om hur man kan arbeta medborgarcentrerat med lokala klimat- och jämlikhetsfrågor. I Helsingfors har kommunen avsatt 8,8 miljoner euro som medborgarna helt fått bestämma över. Deras digitala plattform har använts på ett innovativt sätt för att komplettera stadens demokratiarbete. Med i projektet är också den brittiska innovationsmyndigheten [Nesta](https://www.nesta.org.uk/) som är världsledande inom forskning kring digital demokrati.
 
-**Kollektiv intelligens för demokratisk innovation  
-**Som enklast kan ’kollektiv intelligens’ förstås som den ökade kapacitet som skapas när människor arbetar tillsammans, bl.a. med hjälp av teknik. Idén bygger på att ju fler vi är som samarbetar från olika discipliner, perspektiv och med olika kunskaper för att tackla samhällsproblem desto bättre och mer behovsanpassade blir lösningarna. Medborgardeltagande hänger ihop med kollektiv intelligens eftersom det handlar om att att bredda vilka det är som formar besluten.
+![](/uploads/dsc_0104-1.jpg)
+
+**Kollektiv intelligens för demokratisk innovation**  
+Som enklast kan ’kollektiv intelligens’ förstås som den ökade kapacitet som skapas när människor arbetar tillsammans, bl.a. med hjälp av teknik. Idén bygger på att ju fler vi är som samarbetar från olika discipliner, perspektiv och med olika kunskaper för att tackla samhällsproblem desto bättre och mer behovsanpassade blir lösningarna. Medborgardeltagande hänger ihop med kollektiv intelligens eftersom det handlar om att att bredda vilka det är som formar besluten.
 
 – _Det finns en bristande tillit hos många idag. Människor tror inte att deras röst räknas och betyder något. Det kan till exempel handla om att det hållits ett dialogmöte men därefter får man inte någon feedback på vad som händer. Enbart ett digitalt verktyg är inte lösningen, det behövs tillitsskapande aktiviteter och ett skifte i arbetssättet, där man på allvar bjuder in invånarna till att delta och bestämma över sådant som görs i ett område eller stad_. _Genom att fler är med och bestämmer skapar vi bättre samhällen som utformade för fler,_ säger Sanna Ghotbi.
 
-  
 Enligt Mikko Rask, Adjungerad professor vid Helsingfors Universitet och ledare för COLDIGIT-projektet är möjligheterna kring kollektiv intelligens för den offentliga sektorn enorma. Med nya digitala verktyg finns stor potential för att demokratisera och förnya kommunalt beslutsfattande.
 
-_- Nya digitala verktyg och lösningar kan ge många fördelar som för närvarande är okända för beslutsfattare. I COLDIGIT-projektet kommer vi att göra dessa verktyg och tillvägagångssätt mer begripliga och tillgängliga. En annan viktig anledning till studier är att minska riskerna. Digitala lösningar leder inte alltid till bättre beslut, utan snarare till krångligare, användarovänliga och tekniskt sårbara system. Vi vill bidra till en mer hållbar digital transformation av de nordiska samhällena_, säger Mikko Rask. 
+_- Nya digitala verktyg och lösningar kan ge många fördelar som för närvarande är okända för beslutsfattare. I COLDIGIT-projektet kommer vi att göra dessa verktyg och tillvägagångssätt mer begripliga och tillgängliga. En annan viktig anledning till studier är att minska riskerna. Digitala lösningar leder inte alltid till bättre beslut, utan snarare till krångligare, användarovänliga och tekniskt sårbara system. Vi vill bidra till en mer hållbar digital transformation av de nordiska samhällena_, säger Mikko Rask.
 
-**Vad ska projektet leda till?**   
+**Vad ska projektet leda till?**  
 Projektet består av fem arbetspaket. Det handlar bland annat om att skapa en katalog med 150-200 exempel på innovativa digitala demokrativerktyg, kartlägga hinder och lösningar inom deltagande demokrati och testa några av dessa innovativa verktyg och lösningar genom en serie pilotprojekt i Sverige, Finland och Norge. Projektet kommer även ta fram rekommendationer för hur kommuner kan börja arbeta med eller skala upp och institutionalisera sitt befintliga arbete med kollektiv intelligens. Rekommendationerna kommer innehålla råd kring hur offentliga institutioner kan införliva metoder och verktyg för att skapa tillit mellan offentliga institutioner och medborgare.
 
 **Partners i projektet**
