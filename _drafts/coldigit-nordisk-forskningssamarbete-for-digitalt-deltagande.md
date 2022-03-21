@@ -3,7 +3,7 @@ lang: sv
 date: 2022-03-21 08:17:11 +0100
 title: COLDIGIT - Nordisk forskningssamarbete för digitalt deltagande
 image: "/uploads/coldigit_banner.jpg"
-thumbnail: ''
+thumbnail: "/uploads/coldigit_nyhetsbrev.jpg"
 excerpt: ''
 ingress-text: I det treåriga forskningsprojektet Collective Intelligence through Digital
   Tools (COLDIGIT) studerar Digidem Lab tillsammans med ett internationellt team av
