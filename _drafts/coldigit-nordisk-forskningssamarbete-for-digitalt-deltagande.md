@@ -21,7 +21,7 @@ _- En viktig del av vårt arbete är att utvärdera alla metoder och verktyg och
 
 Tack vare projektet får Digidem Lab även möjlighet att studera hur man jobbar med att öka medborgares inflytande i Norge och Finland. Bland annat genom studieresor och observationer av deras deltagandeprocesser och möten med kommunen. I Trondheim har kommunen låtit slumpvist utvalda och demografiskt representativa medborgare ta fram rekommendationer för stadens hållbarhetsplan. Processen har redan gett nya lärdomar om hur man kan arbeta medborgarcentrerat med lokala klimat- och jämlikhetsfrågor. I Helsingfors har kommunen avsatt 8,8 miljoner euro som medborgarna helt fått bestämma över. Deras digitala plattform har använts på ett innovativt sätt för att komplettera stadens demokratiarbete. Med i projektet är också den brittiska innovationsmyndigheten [Nesta](https://www.nesta.org.uk/) som är världsledande inom forskning kring digital demokrati. 
 
-![](/uploads/dsc_0104-1.jpg)
+![](/uploads/DSC_0104.jpg)
 
 **Kollektiv intelligens för demokratisk innovation**  
 Som enklast kan ’kollektiv intelligens’ förstås som den ökade kapacitet som skapas när människor arbetar tillsammans, bl.a. med hjälp av teknik. Idén bygger på att ju fler vi är som samarbetar från olika discipliner, perspektiv och med olika kunskaper för att tackla samhällsproblem desto bättre och mer behovsanpassade blir lösningarna. Medborgardeltagande hänger ihop med kollektiv intelligens eftersom det handlar om att att bredda vilka det är som formar besluten.
