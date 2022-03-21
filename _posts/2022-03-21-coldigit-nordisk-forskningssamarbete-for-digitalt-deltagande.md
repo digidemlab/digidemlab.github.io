@@ -1,7 +1,7 @@
 ---
 lang: sv
 date: 2022-03-21 08:17:11 +0100
-title: COLDIGIT - Nordisk forskningssamarbete för digitalt deltagande
+title: COLDIGIT - Nordiskt forskningssamarbete för digitalt deltagande
 image: "/uploads/coldigit_banner.jpg"
 thumbnail: "/uploads/coldigit_nyhetsbrev.jpg"
 excerpt: ''
