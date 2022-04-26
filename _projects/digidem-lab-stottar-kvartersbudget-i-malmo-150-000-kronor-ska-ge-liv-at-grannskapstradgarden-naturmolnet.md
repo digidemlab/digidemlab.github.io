@@ -16,10 +16,10 @@ links:
   url: https://www.vaxtvarket.se/
 - title: Malmö Tillsammans
   url: https://www.malmotillsammans.se/
-- title: Boendebudget Biskopsgården
-  url: https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/
 - title: Kartersbudgetens digitala plattform
   url: http://kvartersbudget.malmotillsammans.se/
+- title: Boendebudget Biskopsgården
+  url: https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/
 - title: Boendebudget Hammarkullen
   url: https://digidemlab.org/300-000-kronor-i-hammarkullens-boendebudget/
 ref: ''
