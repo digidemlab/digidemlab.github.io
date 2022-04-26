@@ -30,7 +30,7 @@ Med på kvartersbudgeten är även Växtvärket, som driver grannskapsträdgård
 
 Mellan 1-15 maj får alla som vill rösta på sina favoritförslag och de vinnande förslagen genomförs under sommaren. All information, alla förslag och datum finns på kvartersbudgetens egna [plattform.](http://kvartersbudget.malmotillsammans.se/)
 
-Denna satsning är ytterligare steg på vägen mot att medborgarprocesser ska vara både av och för boende i området. Digidem Lab har tidigare arbetat med metoden för att människor ska få makt och inflytande i sin närmiljö, bland annat genom boendebudgetar tillsammans med Bostadsbolaget i [Biskopsgården](https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/) och [Hammarkullen.](https://digidemlab.org/300-000-kronor-i-hammarkullens-boendebudget/) 
+Denna satsning är ytterligare steg på vägen mot att medborgarprocesser ska vara både av och för boende i området. Digidem Lab har tidigare arbetat med metoden för att människor ska få makt och inflytande i sin närmiljö, bland annat genom boendebudgetar tillsammans med Bostadsbolaget i [Biskopsgården](https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/) och [Hammarkullen.](https://digidemlab.org/300-000-kronor-i-hammarkullens-boendebudget/)  
 
 **Projektpartners** 
 
