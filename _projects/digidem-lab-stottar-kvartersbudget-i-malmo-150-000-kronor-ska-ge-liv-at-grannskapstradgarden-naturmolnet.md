@@ -32,7 +32,7 @@ Mellan 1-15 maj får alla som vill rösta på sina favoritförslag och de vinnan
 
 Denna satsning är ytterligare steg på vägen mot att medborgarprocesser ska vara både av och för boende i området. Digidem Lab har tidigare arbetat med metoden för att människor ska få makt och inflytande i sin närmiljö, bland annat genom boendebudgetar tillsammans med Bostadsbolaget i [Biskopsgården](https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/) och [Hammarkullen.](https://digidemlab.org/300-000-kronor-i-hammarkullens-boendebudget/)
 
-**Projektpartners**
+**Projektpartners** 
 
 [Malmö Tillsammans](https://www.malmotillsammans.se/) står för finansiering och projektledning av Naturmolnets kvartersbudget. [Växtvärket](https://www.vaxtvarket.se/), som verkar för goda uppväxtvillkor för barn i städer, och som ansvarar för verksamheten på [Naturmolnet](https://www.vaxtvarket.se/naturmolnet/), bidrar med kompetens kring hållbar stads- och platsutveckling.
 
