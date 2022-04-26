@@ -3,7 +3,7 @@ lang: sv
 date: 2022-04-26 08:30:36 +0200
 title: Digidem Lab stöttar kvartersbudget i Malmö -  150 000 kronor ska ge liv åt
   grannskapsträdgården Naturmolnet
-image: "/uploads/baturmolnet_stor.png"
+image: "/uploads/naturmolnet_stor.jpg"
 thumbnail: "/uploads/naturmolnet_liten.png"
 excerpt: ''
 ingress-text: Nu får boende i Sofielund komma med förslag på vad som ska hända i grannskapsträdgården
