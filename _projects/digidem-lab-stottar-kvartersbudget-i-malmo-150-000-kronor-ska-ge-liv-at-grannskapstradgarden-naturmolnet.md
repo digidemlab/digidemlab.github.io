@@ -11,7 +11,13 @@ ingress-text: Nu får boende i Sofielund komma med förslag på vad som ska hän
   ska användas för att skapa sociala aktiviteter och ge liv åt platsen. Digidem Lab
   hjälper till med design och genomförande av processen när de som bor i kvarteret
   ska få lämna förslag på aktiviteter som främjar umgänge på platsen.
-links: []
+links:
+- title: Växtverket
+  url: https://www.vaxtvarket.se/
+- title: Kartersbudgetens digitala plattform
+  url: http://kvartersbudget.malmotillsammans.se/
+- title: Malmö Tillsammans
+  url: https://www.malmotillsammans.se/
 ref: ''
 published: false
 
