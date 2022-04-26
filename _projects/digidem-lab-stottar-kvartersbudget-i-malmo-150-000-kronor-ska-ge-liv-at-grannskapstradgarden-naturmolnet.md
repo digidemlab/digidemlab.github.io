@@ -12,7 +12,7 @@ ingress-text: Nu får boende i Sofielund komma med förslag på vad som ska hän
   hjälper till med design och genomförande av processen när de som bor i kvarteret
   ska få lämna förslag på aktiviteter som främjar umgänge på platsen.
 links:
-- title: Växtverket
+- title: Växtvärket
   url: https://www.vaxtvarket.se/
 - title: Malmö Tillsammans
   url: https://www.malmotillsammans.se/
