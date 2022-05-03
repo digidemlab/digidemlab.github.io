@@ -13,7 +13,6 @@ ingress-text: Det organiseras kring bostäder, val och skola i Göteborgs föror
   och driva på förändring underifrån.
 links: []
 ref: ''
-published: false
 
 ---
 För första gången i Sverige erbjuds en fördjupande utbildning i det internationellt beprövade metodpaketet Community Organising. Utbildningen Community Organising för lokalt ledarskap syftar till att stärka civilsamhällets resurser för att skapa lokal förändring i utsatta områden. Genom satsningen vill Digidem Lab lyfta lokal kunskap och utveckla metoden för lokala svenska kontexter tillsammans med Navet i Bergsjön, Tillsammans Hjällbo och Agera Göteborg. Erfarna organisatörer träffas för fallstudier och workshops på avancerad nivå och är med och utbildar en ny generation lokala ledare i Tynnered, Bergsjön och Hjällbo. De organisationer som är med i utvecklingen och utbildningen vill stärka civilsamhällesorganisationers möjligheter till samverkan att möta lokalsamhällets utmaningar och behov - så att de som bor i området kan få ökat inflytande över exempelvis sina egna boende- och levnadsvillkor. Det nybildade nätverket Tillsammans Hjällbo är en av samverkansparterna som ser att lokal organisering ger lokalbefolkningen en stark röst. 
