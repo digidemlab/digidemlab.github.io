@@ -11,7 +11,15 @@ ingress-text: Det organiseras kring bostäder, val och skola i Göteborgs föror
   alla medborgare inkluderas i att utforma demokratins villkor. För att skapa ett
   mer jämlikt samhälle behövs effektiva verktyg för att engagera sig i lokalsamhället
   och driva på förändring underifrån.
-links: []
+links:
+- title: Postkodstiftelsens satsning – Allas Röster.
+  url: https://postkodstiftelsen.se/allas-roster/
+- title: Navet i Bergsjön
+  url: https://www.navet.org/
+- title: Tillsammans Hjällbo
+  url: https://www.facebook.com/tillsammanshjallbo
+- title: Agera Göteborg
+  url: https://www.facebook.com/ageragoteborg/
 ref: ''
 
 ---
