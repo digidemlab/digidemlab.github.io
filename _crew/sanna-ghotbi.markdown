@@ -9,4 +9,4 @@ phone: "+46 73 844 04 41"
 mail: sanna@digidemlab.org
 
 ---
-Tidigare kommunfullmäktigeledamot i Göteborg, kurshållare i deltagande med digitala verktyg och styrelseledamot i Global Participatory Budgeting Hub och Consul Democracy Foundation.
+Expert på metoder och verktyg för att stärka deltagande demokratin, framförallt hos dem med minst makt. Har varit ansvarig för arbetet med boendebudgetar i Göteborg och Digidem Labs arbete med forskningsprojektet COLDIGIT. Är just nu tjänstledig för [cykla jorden runt](https://solidarityrising.com/).
