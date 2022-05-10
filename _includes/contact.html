@@ -7,7 +7,7 @@
           <p class="is-size-7 is-size-6-widescreen">{{site.t[page.lang].contact-text }}</p>
 
           <div class="columns is-mobile">
-            {% assign crew=site.crew | where:"lang", page.lang | where:"title", "Sanna Ghotbi" %}
+            {% assign crew=site.crew | where:"lang", page.lang | where:"title", "Pierre Mesure" %}
             {% for item in crew %}
               <div class="column is-size-4">
                 <img src="{{site.baseurl}}{{item.image}}">
