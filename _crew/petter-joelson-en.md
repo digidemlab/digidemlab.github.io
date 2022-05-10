@@ -11,5 +11,4 @@ mail: petter@digidemlab.org
 twitter: "@p_jo"
 ---
 
-Petter Joelson is a co-founder of Digidem Lab and has worked with web
-  and digital services for civil society for fifteen years.
+Petter Joelson is a co-founder of Digidem Lab and Civic Tech Sweden. He has worked with web and digital services for civil society for fifteen years.

@@ -10,4 +10,4 @@ mail: petter@digidemlab.org
 twitter: "@p_jo"
 ---
 
-Petter är medgrundare av Digidem Lab och initiativtagare till Civic Tech Sweden. Digital strateg med femton års erfarenhet av arbete med digitala tjänster för civilsamhället.
+Petter är medgrundare av Digidem Lab och Civic Tech Sweden. Digital strateg med femton års erfarenhet av arbete med digitala tjänster för civilsamhället.
