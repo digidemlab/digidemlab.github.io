@@ -23,4 +23,29 @@ Utgångspunkter är att skapa långsiktiga strukturer för dialogprocesser. Medb
   <p><strong>11.3</strong> ...verka för en inkluderande och hållbar urba­n­isering samt förbättra kapaciteten för del­tagande­baserad, integrerad och hållbar planering och förvaltning av bosättningar i alla länder.</p>
 </div>
 
-En viktig del av vårt arbete är att vi också är ett labb - en plats för att utveckla och testa framtidens verktyg och metoder. Vi har hittills stöttat [över 30 projekt](/lab/), genomförda av unga personer, och genom nätverket [CivicTechSweden](http://civictech.se) ordnar vi hackathons och meetups för att utveckla nya digitala tjänster för samhällsnytta.
+En viktig del av vårt arbete är att vi också är ett labb - en plats för att utveckla och testa framtidens verktyg och metoder. Vi har hittills stöttat [över 30 projekt](/lab/), genomförda av unga personer, och genom nätverket [Civic Tech Sweden](http://civictech.se) ordnar vi hackathons och meetups för att utveckla nya digitala tjänster för samhällsnytta.
+
+# Vårt team
+
+{% assign crew=site.crew | where:"lang", page.lang %}
+
+<div class="columns">
+  <div class="column is-offset-1-widescreen is-10-widescreen">
+    <div class="columns is-desktop is-multiline">
+      {% for item in crew %}
+        <div class="column is-half-desktop teaser-crew">
+          <figure class="image is-4by3">
+            <img src="{{site.baseurl}}{{item.image}}">
+          </figure>
+          <h3 class="title is-6">{{item.title}}</h3>
+          <p>
+            {{item.job}}<br>
+            {{item.phone}}<br>
+            <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
+          </p>
+          {{item.content}}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

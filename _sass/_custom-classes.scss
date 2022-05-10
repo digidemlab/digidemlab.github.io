@@ -30,13 +30,15 @@
 }
 
 @keyframes bganimation {
-  0%{
+  0% {
     background-position: 0% 0%;
   }
-  50%{
+
+  50% {
     background-position: 100% 100%;
   }
-  100%{
+
+  100% {
     background-position: 0% 0%;
   }
 }
@@ -44,7 +46,7 @@
 // Links
 
 aside a:hover,
-p > a:hover {
+p>a:hover {
   text-decoration: underline;
 }
 
@@ -93,12 +95,14 @@ p > a:hover {
   font-size: 3.375rem;
   line-height: 0.95;
   letter-spacing: -0.05em;
+
   &.lang-en {
     font-size: 3rem;
   }
 
   @include from($tablet) {
     font-size: 4.375rem;
+
     &.lang-en {
       font-size: 4rem;
     }
@@ -106,6 +110,7 @@ p > a:hover {
 
   @include from(550px) {
     font-size: 6rem;
+
     &.lang-en {
       font-size: 5rem;
     }
@@ -113,6 +118,7 @@ p > a:hover {
 
   @include from($desktop) {
     font-size: 7.5rem;
+
     &.lang-en {
       font-size: 7rem;
     }
@@ -120,6 +126,7 @@ p > a:hover {
 
   @include from($widescreen) {
     font-size: 11.25rem;
+
     &.lang-en {
       font-size: 10rem;
     }
@@ -135,7 +142,7 @@ p > a:hover {
 .title:not(:last-child),
 .subtitle:not(:last-child) {
   //@include until($widescreen) {
-    margin-bottom: 0.875rem;
+  margin-bottom: 0.875rem;
   //}
 }
 
@@ -152,15 +159,18 @@ p > a:hover {
 
 .subtitle.is-3 {
   font-size: 1.875rem;
+
   @include from($desktop) {
     font-size: 3.125rem;
   }
+
   line-height: 1.12;
 }
 
 .subtitle a,
 .title a,
 a.title {
+
   &:hover,
   &:active {
     text-decoration: underline !important;
@@ -191,6 +201,7 @@ a.title {
   border: 1.5rem solid $grey-light;
   max-width: 1370px;
   margin: 0 auto;
+
   @include from($desktop) {
     padding: 3rem 4.625rem 3.5rem;
   }
@@ -285,18 +296,18 @@ a.title {
 }
 
 .hero .title {
-  color: $text !important;
+  color: $text  !important;
 }
 
 .hero {
-  @include gradients($purple,$pink,$yellow);
+  @include gradients($purple, $pink, $yellow);
 }
 
 #page-services,
 #page-about,
 #page-majorna-linne {
   .hero {
-    @include gradients($green,$ash,$pink);
+    @include gradients($green, $ash, $pink);
   }
 }
 
@@ -308,6 +319,7 @@ a.title {
   left: calc(50% - 10px);
   width: 20px;
 }
+
 /*
 .navbar-burger span:nth-child(1) {
   top: calc(50% - 9px);
@@ -321,7 +333,7 @@ a.title {
 */
 
 .navbar,
-.navbar > .container {
+.navbar>.container {
   @include until($desktop) {
     min-height: inherit;
   }
@@ -338,12 +350,12 @@ a.title {
 }
 
 .hero .navbar-item {
-  color: $navbar-item-color !important;
+  color: $navbar-item-color  !important;
   border-bottom: 2px solid transparent;
 
   &:hover,
   &.is-active {
-    background: $navbar-item-hover-background-color !important;
+    background: $navbar-item-hover-background-color  !important;
   }
 }
 
@@ -393,7 +405,7 @@ a.title {
 }
 
 .navbar-brand .navbar-item {
-//  flex-shrink: 1;
+  //  flex-shrink: 1;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -409,7 +421,7 @@ a.title {
 
 // Mobile menu
 @include until($desktop) {
-  .hero .navbar-main.is-active{
+  .hero .navbar-main.is-active {
     position: fixed;
     top: 0;
     width: 100%;
@@ -431,7 +443,7 @@ a.title {
     .navbar-menu.is-active {
       height: 100%;
       padding-top: 5rem;
-		  background: $black;
+      background: $black;
     }
   }
 }
@@ -461,6 +473,7 @@ svg.logo-dropdown {
   .column:first-of-type {
     padding-bottom: 0;
   }
+
   .column:nth-of-type(2) {
     padding-bottom: 2rem;
   }
@@ -506,14 +519,15 @@ svg.logo-dropdown {
 
 // Mobile text
 @include until($desktop) {
+
   #mission p,
   .teaser-crew p,
   .teaser-small p,
   .teaser p,
   .content .box p,
-  .content > p,
-  .content > ul,
-  .content > ol,
+  .content>p,
+  .content>ul,
+  .content>ol,
   .accordion-body p,
   footer p {
     font-size: 1.125rem !important;
@@ -562,6 +576,7 @@ aside {
     clear: left;
     width: 25%;
   }
+
   @include from($fullhd) {
     padding-left: 3rem;
     // width: 16.6666666667%;
@@ -591,20 +606,29 @@ aside {
   p::after {
     content: '”';
   }
+
   @include from($desktop) {
     font-size: 2.75rem;
   }
 }
 
 // Textmarginal
-.content >,
+.content>,
 #accordion-basic {
-   p, h2, h3, h4, ul, ol, blockquote {
+
+  p,
+  h2,
+  h3,
+  h4,
+  ul,
+  ol,
+  blockquote {
     @include from($widescreen) {
       margin-left: 33.3333333333%;
       padding-left: $column-gap;
       padding-right: $column-gap;
     }
+
     @include from($fullhd) {
       width: 50%;
     }
@@ -648,7 +672,7 @@ aside {
     }
   }
 
-  p > img {
+  p>img {
     display: inline-block;
     margin-top: 1rem;
 
@@ -709,7 +733,7 @@ aside {
       }
     }
 
-    &+ em {
+    &+em {
       display: block;
 
       @include from($widescreen) {
@@ -720,7 +744,7 @@ aside {
   }
 
   figure figcaption,
-  img + em,
+  img+em,
   .caption {
     font-style: normal;
     @include monospace;
@@ -743,27 +767,23 @@ aside {
   }
 }
 
-.content > figure,
+.content>figure,
 .content .columns {
   margin-top: 1rem !important;
   margin-bottom: 1rem !important;
 
-  &+ .columns {
+  &+.columns {
     margin-top: -0.625rem;
   }
 
   @include until($widescreen) {
-    &+ .caption {
+    &+.caption {
       margin-top: -1rem;
     }
   }
-
-  @include from($widescreen) {
-    margin-top: 4rem !important;
-  }
 }
 
-.content > figure {
+.content>figure {
   @include from($widescreen) {
     margin-bottom: 3rem !important;
   }
@@ -819,9 +839,11 @@ aside {
     @include from($tablet) {
       font-size: 7.5rem;
     }
+
     @include from($desktop) {
       font-size: 12.5rem;
     }
+
     @include from($widescreen) {
       font-size: 22rem;
     }
@@ -861,13 +883,14 @@ aside {
   margin-bottom: .5em;
 }
 
-.content > p:last-of-type {
+.content>p:last-of-type {
   // margin-bottom: 2rem;
 }
 
 .content blockquote {
   margin-top: 0.75em;
 }
+
 .content blockquote:not(:last-child) {
   margin-bottom: 0.75em;
 }
@@ -965,7 +988,7 @@ aside {
 #project .container {
   @include from($desktop) {
     border-bottom: 1px solid;
-}
+  }
 }
 
 #mission.section {
@@ -974,9 +997,11 @@ aside {
   padding-right: 0;
   padding-left: 0;
 }
+
 #mission .column {
   // margin-bottom: 2rem;
 }
+
 #mission figure {
   margin-bottom: .5rem;
 }
@@ -1003,6 +1028,7 @@ aside {
   h3 {
     margin-bottom: 0;
   }
+
   p {
     margin-bottom: 1.5em;
   }
@@ -1078,9 +1104,11 @@ aside {
 .content .teaser-crew figure:not(:last-child) {
   margin-bottom: 1rem;
 }
+
 .column .teaser-crew .title:not(:last-child) {
   margin-top: 0;
 }
+
 .teaser-crew {
   margin-bottom: 2rem;
 
@@ -1091,6 +1119,7 @@ aside {
 
 .image-logo {
   margin: 1rem auto;
+
   img {
     width: auto !important;
     max-height: 100% !important;
@@ -1155,9 +1184,11 @@ aside {
 .accordion-head:hover {
   cursor: pointer;
 }
+
 .accordion-body {
   display: none;
 }
+
 .accordion-body.open {
   display: block;
 }
