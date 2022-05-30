@@ -14,7 +14,6 @@ links:
 - title: Botkyrkadialogens digitala plattform
   url: http://dialog.botkyrka.se
 ref: ''
-published: false
 
 ---
 Dialoger har hållits på olika orter i kommunen. Målet är att tillsammans göra Botkyrka bättre genom att fånga upp invånarnas synpunkter och på så sätt stärka närdemokratin, så att de som bor i området får vara med och påverka politiska beslut om hur stadsdelen ska utvecklas. När pandemin slog till i början av 2020 blev kommunen tvungna att tänka om kring hur de kan fortsätta att ha dialoger med medborgarna utan att riskera att sprida smitta. En del av lösningen blev den digitala dialogplattformen Decidim. Digidem Lab har hjälpt till med anpassning och utbildning av plattformen.
