@@ -39,9 +39,9 @@ En viktig del av vårt arbete är att vi också är ett labb - en plats för att
           </figure>
           <h3 class="title is-6">{{item.title}}</h3>
           <p>
-            {{item.job}}<br>
-            {{item.phone}}<br>
-            <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
+            {% if item.job %}{{item.job}}<br>{% endif %}
+            {% if item.phone %}<a href="tel:{{item.phone}}" class="text-white">{{item.phone}}</a><br>{% endif %}
+            {% if item.mail %}<a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>{% endif %}
           </p>
           {{item.content}}
         </div>

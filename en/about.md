@@ -20,3 +20,28 @@ The aim is to create sustainable frameworks for citizen participaton. Citizens s
 </div>
 
 An important part of our work is also to be a lab - a place to test and develop new methods and platforms. Digidem Lab has sponsored [over 30 projects](/lab/en/) by young people, and are founders of  [Civic Tech Sweden](http://civictech.se/en), a network for strengthening the civic tech sector.
+
+# Our team
+
+{% assign crew=site.crew | where:"lang", page.lang %}
+
+<div class="columns">
+  <div class="column is-offset-1-widescreen is-10-widescreen">
+    <div class="columns is-desktop is-multiline">
+      {% for item in crew %}
+        <div class="column is-half-desktop teaser-crew">
+          <figure class="image is-4by3">
+            <img src="{{site.baseurl}}{{item.image}}">
+          </figure>
+          <h3 class="title is-6">{{item.title}}</h3>
+          <p>
+            {% if item.job %}{{item.job}}<br>{% endif %}
+            {% if item.phone %}<a href="tel:{{item.phone}}" class="text-white">{{item.phone}}</a><br>{% endif %}
+            {% if item.mail %}<a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>{% endif %}
+          </p>
+          {{item.content}}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
