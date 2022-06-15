@@ -4,8 +4,8 @@ date: 2017-02-23 18:10:00 Z
 categories:
 - Digidem Lab
 lang: en
-image: "/uploads/anna.jpg"
 job: Engagement Strategist
+image: "/uploads/anna.jpg"
 phone: "+46 76 242 28 24"
 mail: anna@digidemlab.org
 ---
