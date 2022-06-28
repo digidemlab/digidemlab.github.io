@@ -25,8 +25,8 @@ Från hösten 2021 började en ny spännande fas när 800 medborgare från hela 
 
 [Conference on the Future of Europe: EU in the world and migration](https://www.youtube.com/watch?v=LoyE2QLu9kQ)
 
-* _Denna konferens var otroligt innovativ på så många sätt och vi är oerhört tacksamma för att vi var en del av den här resan. Vi tar med oss så mycket kunskap som vi hoppas kunna använda för att designa och genomföra ännu bättre deliberativa processer i Sverige.   
-   Pierre Mesure, uppdragsansvarig på Digidem Lab_
+* _Denna konferens var otroligt innovativ på så många sätt och vi är oerhört tacksamma för att vi var en del av den här resan. Vi tar med oss så mycket kunskap som vi hoppas kunna använda för att designa och genomföra ännu bättre deliberativa processer i Sverige.  
+  Pierre Mesure, uppdragsansvarig på Digidem Lab_
 
 Intresset för konferensen i Sverige var svagt men vi rekommenderar ändå att läsa [DNs intervju](https://www.dn.se/vetenskap/svensk-21-aring-ger-klimatpolitiska-rad-till-eu/) av Thilde Karlsson, från Fågelmara utanför Karlskrona som fick diskutera klimatfrågor som en av de 800 medborgarna. I sitt tal efterlyste hon en djärvare klimatpolitik och ett mer rättvist EU där ålder, bosättning, kön, religion och politiska preferenser inte ska vara diskriminerande. Hon lyfte att EU måste vara mer än en ekonomisk union och att medlemsstaterna måste visa mer solidaritet med varandra i kristider.
 
@@ -36,12 +36,12 @@ Vi rekommenderar även Sveriges Radios korta intervjuer av [Robin](https://sveri
 
 EUs toppolitiker har nu tagit emot de över 300 förslag som medborgarna tog fram inom nio olika politikområden; klimat och miljö, hälsa, en starkare ekonomi, social rättvisa och sysselsättning, EU i världen, värden och rättigheter, rättsstatsprincipen och säkerhet, den digitala omställningen, demokratin i EU, migration samt utbildning, kultur, ungdomsfrågor och idrott.
 
-  
+![](/uploads/1652104352929_20220509_ep-131077a_cu__1759.jpg)
+
 _Ni har bevisat att denna formen av demokrati fungerar. Och jag tror på att vi borde ge det mer utrymme, det borde bli en del av vårt sätt att utforma politik. Det är därför jag kommer att föreslå att vi i framtiden ger medborgarpanelerna tid och resurser att ge rekommendationer innan vi lägger fram viktiga lagstiftningsförslag. För jag är övertygad om att demokrati inte slutar med val, konferenser eller konvent. Det behöver bearbetas, vårdas och förbättras varje dag._
 
 Ursula von der Leyen, EU-kommissionens ordförande när hon tog emot rekommendationerna
 
 Alla förslag går att läsa här ([panel 1](https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHI0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3684485c66629cc3b34ac81528dc18745813fedb/COMM-2021-00809-00-04-SV-TRA-10.pdf), [panel 2](https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3FUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--27c46a9821975b1f56dd16de6cbc52dbc0861339/Panel%202%20recommendations%20FINAL_SV.pdf), [panel 3](https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTJzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c2b78aebf3ae4b8b4c59dcbaf664e5dce1950bf4/COMM-2021-00809-01-02-SV-TRA-20.pdf), [panel 4](https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclgxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7c8ec73933b409e20557da930c15a792cc8e211b/1249547SV.pdf)) och även konferensens slutrapport finns [här](https://futureu.europa.eu/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUl0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--899f1bfedf2d3fc6c36d4a9bc0dd42f54046562e/CoFE_Report_with_annexes_EN.pdf).
 
-  
 Förra veckan [publicerade](https://ec.europa.eu/commission/presscorner/detail/en/IP_22_3750) EU-kommissionen ett första svar där de förklarar hur de tänker använda rekommendationerna. Vissa kommer kunna integreras ganska lätt till EUs program medan flera kan kräva en ändring i fördragen, vilket kommissionen inte kan genomföra utan medlemsstaternas samtycke. I samma dokument uppger de att de kommer fortsätta använda sig av deliberativa metoder och medborgarpaneler för att involvera medborgare i t.ex. den kommande europeiska klimatlagen.
