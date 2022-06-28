@@ -30,7 +30,7 @@ Från hösten 2021 började en ny spännande fas när 800 medborgare från hela 
 
 Intresset för konferensen i Sverige var svagt men vi rekommenderar ändå att läsa [DNs intervju](https://www.dn.se/vetenskap/svensk-21-aring-ger-klimatpolitiska-rad-till-eu/) av Thilde Karlsson, från Fågelmara utanför Karlskrona som fick diskutera klimatfrågor som en av de 800 medborgarna. I sitt tal efterlyste hon en djärvare klimatpolitik och ett mer rättvist EU där ålder, bosättning, kön, religion och politiska preferenser inte ska vara diskriminerande. Hon lyfte att EU måste vara mer än en ekonomisk union och att medlemsstaterna måste visa mer solidaritet med varandra i kristider.
 
-![](/uploads/1652104352929_20220509_ep-131077a_cu__1759.jpg)
+![Copyright:	European Union 2022 - Source : EP](/uploads/1652104352929_20220509_ep-131077a_cu__1759.jpg)
 
 Vi rekommenderar även Sveriges Radios korta intervjuer av [Robin](https://sverigesradio.se/artikel/200-svenskar-slumpades-ut-robin-far-chans-att-besoka-eu) från Gävle och [Anna](https://sverigesradio.se/artikel/framtidskonferens-ska-ge-rost-at-eu-medborgare) från Stockholm.
 
