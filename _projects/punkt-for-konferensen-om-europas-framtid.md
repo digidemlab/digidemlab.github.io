@@ -2,7 +2,7 @@
 lang: sv
 date: 2022-06-28 14:40:20 +0200
 title: Punkt för Konferensen om Europas Framtid
-image: "/uploads/untitled-design-43.png"
+image: "/uploads/untitled-design-48.png"
 thumbnail: "/uploads/untitled-design-44.png"
 excerpt: ''
 ingress-text: Den 9 maj 2022, på Europadagen, avslutades Konferensen om Europas Framtid
