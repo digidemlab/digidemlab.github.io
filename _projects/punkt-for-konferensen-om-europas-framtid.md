@@ -62,4 +62,4 @@ Alla förslag går att läsa här ([panel 1](https://futureu.europa.eu/rails/act
 
 Förra veckan [publicerade](https://ec.europa.eu/commission/presscorner/detail/en/IP_22_3750) EU-kommissionen ett första svar där de förklarar hur de tänker använda rekommendationerna. Vissa kommer kunna integreras ganska lätt till EUs program medan flera kan kräva en ändring i fördragen, vilket kommissionen inte kan genomföra utan medlemsstaternas samtycke. I samma dokument uppger de att de kommer fortsätta använda sig av deliberativa metoder och medborgarpaneler för att involvera medborgare i t.ex. den kommande europeiska klimatlagen.
 
-Bildkälla: European Union 2022 - Source : EP
+_Bildkälla: European Union 2022 - Source : EP_
