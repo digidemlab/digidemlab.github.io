@@ -30,7 +30,7 @@ Från hösten 2021 började en ny spännande fas när 800 medborgare från hela 
 
 Intresset för konferensen i Sverige var svagt men vi rekommenderar ändå att läsa [DNs intervju](https://www.dn.se/vetenskap/svensk-21-aring-ger-klimatpolitiska-rad-till-eu/) av Thilde Karlsson, från Fågelmara utanför Karlskrona som fick diskutera klimatfrågor som en av de 800 medborgarna. I sitt tal efterlyste hon en djärvare klimatpolitik och ett mer rättvist EU där ålder, bosättning, kön, religion och politiska preferenser inte ska vara diskriminerande. Hon lyfte att EU måste vara mer än en ekonomisk union och att medlemsstaterna måste visa mer solidaritet med varandra i kristider.
 
-![Copyright:	European Union 2022 - Source : EP](/uploads/1652104352929_20220509_ep-131077a_cu__1759.jpg)
+![](/uploads/tilde.jpg)
 
 Vi rekommenderar även Sveriges Radios korta intervjuer av [Robin](https://sverigesradio.se/artikel/200-svenskar-slumpades-ut-robin-far-chans-att-besoka-eu) från Gävle och [Anna](https://sverigesradio.se/artikel/framtidskonferens-ska-ge-rost-at-eu-medborgare) från Stockholm.
 
@@ -45,3 +45,5 @@ Ursula von der Leyen, EU-kommissionens ordförande när hon tog emot rekommendat
 Alla förslag går att läsa här ([panel 1](https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHI0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3684485c66629cc3b34ac81528dc18745813fedb/COMM-2021-00809-00-04-SV-TRA-10.pdf), [panel 2](https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3FUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--27c46a9821975b1f56dd16de6cbc52dbc0861339/Panel%202%20recommendations%20FINAL_SV.pdf), [panel 3](https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTJzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c2b78aebf3ae4b8b4c59dcbaf664e5dce1950bf4/COMM-2021-00809-01-02-SV-TRA-20.pdf), [panel 4](https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclgxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7c8ec73933b409e20557da930c15a792cc8e211b/1249547SV.pdf)) och även konferensens slutrapport finns [här](https://futureu.europa.eu/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUl0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--899f1bfedf2d3fc6c36d4a9bc0dd42f54046562e/CoFE_Report_with_annexes_EN.pdf).
 
 Förra veckan [publicerade](https://ec.europa.eu/commission/presscorner/detail/en/IP_22_3750) EU-kommissionen ett första svar där de förklarar hur de tänker använda rekommendationerna. Vissa kommer kunna integreras ganska lätt till EUs program medan flera kan kräva en ändring i fördragen, vilket kommissionen inte kan genomföra utan medlemsstaternas samtycke. I samma dokument uppger de att de kommer fortsätta använda sig av deliberativa metoder och medborgarpaneler för att involvera medborgare i t.ex. den kommande europeiska klimatlagen.
+
+Bildkälla: European Union 2022 - Source : EP
