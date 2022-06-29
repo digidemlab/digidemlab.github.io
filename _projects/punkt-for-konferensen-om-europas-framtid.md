@@ -12,24 +12,24 @@ ingress-text: Den 9 maj 2022, på Europadagen, avslutades Konferensen om Europas
   av den största medborgardialogen på EU-nivå någonsin. Med detta inlägg tänkte vi
   sammanfatta det hela samt ge lite inspel kring vad som kan komma.
 links:
-- title: EU-kommissionen ett första svar på rekommendationerna
-  url: https://ec.europa.eu/commission/presscorner/detail/en/IP_22_3750
-- title: Förslag panel 4
-  url: https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclgxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7c8ec73933b409e20557da930c15a792cc8e211b/1249547SV.pdf
-- title: Förslag panel 3
-  url: https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTJzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c2b78aebf3ae4b8b4c59dcbaf664e5dce1950bf4/COMM-2021-00809-01-02-SV-TRA-20.pdf
-- title: Förslag panel 2
-  url: https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3FUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--27c46a9821975b1f56dd16de6cbc52dbc0861339/Panel%202%20recommendations%20FINAL_SV.pdf
-- title: Förslag panel 1
-  url: https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHI0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3684485c66629cc3b34ac81528dc18745813fedb/COMM-2021-00809-00-04-SV-TRA-10.pdf
-- title: Film från panelen i Maastricht
-  url: https://www.youtube.com/watch?v=LoyE2QLu9kQ
-- title: 'Medborgarpanel i Maastricht '
-  url: https://digidemlab.org/digidem-lab-pa-plats-i-maastricht-for-att-facilitera-den-sista-av-eu-s-medborgarpaneler-pa-temat-eu-i-varlden-och-migration/
 - title: Medborgarpanel i Strasbourg
   url: https://digidemlab.org/news/digidem-lab-faciliterar-pa-eus-medborgarjuries/
+- title: 'Medborgarpanel i Maastricht '
+  url: https://digidemlab.org/digidem-lab-pa-plats-i-maastricht-for-att-facilitera-den-sista-av-eu-s-medborgarpaneler-pa-temat-eu-i-varlden-och-migration/
+- title: Film från panelen i Maastricht
+  url: https://www.youtube.com/watch?v=LoyE2QLu9kQ
 - title: Plattformens slutrapport
   url: https://futureu.europa.eu/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWMyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b51b266667d430edda04d224dc331b1f5f87d9c/Kantar%20final%20report%20CoFoE.pdf
+- title: Förslag panel 1
+  url: https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHI0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3684485c66629cc3b34ac81528dc18745813fedb/COMM-2021-00809-00-04-SV-TRA-10.pdf
+- title: Förslag panel 2
+  url: https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3FUIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--27c46a9821975b1f56dd16de6cbc52dbc0861339/Panel%202%20recommendations%20FINAL_SV.pdf
+- title: Förslag panel 3
+  url: https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaTJzIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c2b78aebf3ae4b8b4c59dcbaf664e5dce1950bf4/COMM-2021-00809-01-02-SV-TRA-20.pdf
+- title: Förslag panel 4
+  url: https://futureu.europa.eu/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclgxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7c8ec73933b409e20557da930c15a792cc8e211b/1249547SV.pdf
+- title: EU-kommissionen ett första svar på rekommendationerna
+  url: https://ec.europa.eu/commission/presscorner/detail/en/IP_22_3750
 ref: ''
 published: false
 
