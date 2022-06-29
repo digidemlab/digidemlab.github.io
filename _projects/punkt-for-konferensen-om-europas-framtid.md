@@ -48,6 +48,8 @@ Intresset för konferensen i Sverige var svagt men vi rekommenderar ändå att l
 
 ![](/uploads/tilde.jpg)
 
+Bild: Thilde Karlsson under sitt tal. 
+
 Vi rekommenderar även Sveriges Radios korta intervjuer av [Robin](https://sverigesradio.se/artikel/200-svenskar-slumpades-ut-robin-far-chans-att-besoka-eu) från Gävle och [Anna](https://sverigesradio.se/artikel/framtidskonferens-ska-ge-rost-at-eu-medborgare) från Stockholm.
 
 # Vad händer nu?
