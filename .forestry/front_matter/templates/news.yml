@@ -65,6 +65,26 @@ fields:
     display_utc: false
   hidden: true
   default: now
+- name: categories
+  type: field_group_list
+  fields:
+  - name: category
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: jekyll-posts
+        file: 
+        path: 
+    label: Category
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Categories
 pages:
 - _crew/stephanie-toro.md
 - _posts/2020-03-24-digitala-dialogverktyg-underlättar-i-corona-krisen.md
