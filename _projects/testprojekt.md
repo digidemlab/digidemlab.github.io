@@ -11,6 +11,9 @@ ref: ''
 categories:
 - category: _posts/2022-03-21-coldigit-nordisk-forskningssamarbete-for-digitalt-deltagande.md
 - category: _posts/2019-03-18-deltagande-budget-i-biskopsgarden.markdown
+category:
+- Decidim
+- Medborgarbudget
 published: false
 
 ---
