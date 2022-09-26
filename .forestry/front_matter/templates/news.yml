@@ -85,6 +85,10 @@ fields:
     max: 
     labelField: 
   label: Categories
+- name: category
+  type: tag_list
+  default: []
+  label: Categories
 pages:
 - _crew/stephanie-toro.md
 - _posts/2020-03-24-digitala-dialogverktyg-underlättar-i-corona-krisen.md
