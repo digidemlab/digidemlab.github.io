@@ -14,6 +14,9 @@ categories:
 category:
 - Decidim
 - Medborgarbudget
+testar:
+- _posts/2021-12-15-digidem-lab-deltar-i-nobel-week-dialogue-2021.md
+- _posts/2020-11-30-digidem-lab-i-omfattande-nordiskt-forskningssamarbete.md
 published: false
 
 ---
