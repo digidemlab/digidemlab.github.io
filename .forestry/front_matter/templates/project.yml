@@ -4,10 +4,14 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Project name
 - type: datetime
   name: date
-  label: date
+  label: Date
+  hidden: true
+  config:
+    required: true
+  default: now
 - type: text
   name: ref
   label: ref
