@@ -73,7 +73,7 @@ fields:
     display_utc: false
   hidden: true
   default: now
-- name: testar
+- name: categories
   type: list
   config:
     use_select: true
@@ -81,8 +81,8 @@ fields:
     max: 
     source:
       type: pages
-      section: jekyll-posts
-  label: Testar
+      section: projects
+  label: Categories
 pages:
 - _crew/stephanie-toro.md
 - _posts/2020-03-24-digitala-dialogverktyg-underlättar-i-corona-krisen.md
