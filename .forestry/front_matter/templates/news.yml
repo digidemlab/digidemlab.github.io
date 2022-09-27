@@ -19,9 +19,17 @@ fields:
   name: excerpt
   label: Excerpt
   description: Short description shown in lists.
+  config:
+    required: true
+    min: 10
+    max: 250
 - type: textarea
   name: ingress-text
   label: Ingress
+  config:
+    required: true
+    min: 10
+    max: 300
 - type: field_group_list
   name: links
   label: Links
@@ -65,30 +73,6 @@ fields:
     display_utc: false
   hidden: true
   default: now
-- name: categories
-  type: field_group_list
-  fields:
-  - name: category
-    type: select
-    default: []
-    config:
-      required: false
-      options: []
-      source:
-        type: pages
-        section: jekyll-posts
-        file: 
-        path: 
-    label: Category
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Categories
-- name: category
-  type: tag_list
-  default: []
-  label: Categories
 - name: testar
   type: list
   config:
