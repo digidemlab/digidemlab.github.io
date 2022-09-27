@@ -5,6 +5,26 @@ fields:
 - type: text
   name: title
   label: Project name
+- type: file
+  name: image
+  label: Image
+- type: textarea
+  name: ingress-text
+  label: Ingress
+  config:
+    required: true
+    min: 10
+    max: 300
+- type: text
+  name: excerpt
+  label: Excerpt
+  config:
+    required: true
+    min: 10
+    max: 250
+- type: text
+  name: ref
+  label: Translation Id
 - type: datetime
   name: date
   label: Date
@@ -12,15 +32,3 @@ fields:
   config:
     required: true
   default: now
-- type: text
-  name: ref
-  label: ref
-- type: text
-  name: excerpt
-  label: excerpt
-- type: textarea
-  name: ingress-text
-  label: ingress-text
-- type: file
-  name: image
-  label: image
