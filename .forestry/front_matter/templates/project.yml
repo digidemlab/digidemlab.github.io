@@ -8,6 +8,21 @@ fields:
 - type: file
   name: image
   label: Image
+  description: Main image. Recommended size 1200x629 px, 72 dpi.
+- name: thumbnail
+  type: file
+  config:
+    maxSize:
+  label: Smaller image
+  description: Bild 560px bred, till nyhetsbrev.
+- type: text
+  name: excerpt
+  label: Excerpt
+  description: Short description shown in lists.
+  config:
+    required: true
+    min: 10
+    max: 250
 - type: textarea
   name: ingress-text
   label: Ingress
@@ -15,20 +30,56 @@ fields:
     required: true
     min: 10
     max: 300
-- type: text
-  name: excerpt
-  label: Excerpt
+- type: field_group_list
+  name: links
+  label: Links
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: url
+    label: url
+- name: ref
+  type: text
   config:
-    required: true
-    min: 10
-    max: 250
-- type: text
-  name: ref
-  label: Translation Id
-- type: datetime
-  name: date
+    required: false
+  label: Translation ID
+  description: ID för texter med samma innehåll men olika språk. Använd små bokstäver
+    och bindestreck.
+- name: lang
+  type: select
+  default: sv
+  config:
+    required: false
+    options:
+    - sv
+    - en
+    source:
+      type: simple
+      section:
+      file:
+      path:
+  label: Language
+  description: Språk. Välj mellan en för engelska eller sv för svenska.
+- name: date
+  type: datetime
   label: Date
-  hidden: true
+  description: Publication date
   config:
     required: true
+    date_format:
+    time_format:
+    display_utc: false
+  hidden: true
   default: now
+- name: categories
+  type: list
+  config:
+    use_select: true
+    min:
+    max:
+    source:
+      type: pages
+      section: themes
+  label: Categories
