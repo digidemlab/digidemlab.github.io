@@ -15,6 +15,9 @@ links:
   url: https://demokratiskastader.se/consul/
 - title: Bostadsbolagets boendebudget (plattformen Consul)
   url: https://bostadsbolaget.demokratiskastader.se/
+categories:
+- _themes/civic-tech-utveckling.md
+- _themes/medborgarbudget.md
 
 ---
 – Under rådande Corona-kris finns ju strikta restriktioner att exempelvis inte ses i stora grupper, vilket gör det svårare att ha fysiska medborgardialoger. Även mindre möten ställs in av rädsla för smittspridning. Men bara för att det blir svårare att ses måste vi inte sluta ha dialoger, säger Sanna Ghotbi, Citizen Participation Consultant på Digidem lab.

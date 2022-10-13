@@ -2,6 +2,9 @@
 title: Vi inleder samarbete med Föreningen Norden
 date: '2019-04-25 10:25:20'
 published: false
+categories:
+- _themes/civic-tech-utveckling.md
+- _themes/medborgarbudget.md
 ---
 
 <figure class="kg-card kg-image-card kg-card-hascaption"><img src="/content/images/2019/04/4_5911137822760240763-1.JPG" class="kg-image"><figcaption>Intressanta diskussioner mellan Digidem Lab och Föreningen Nordens personal</figcaption></figure><!--kg-card-end: image-->

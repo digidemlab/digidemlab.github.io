@@ -4,23 +4,20 @@ sv:
     ref: services
     url: /services/
     items:
-      - title: Vårt erbjudande
-        url: /services/
-        items:
-          - title: Vanliga frågor
-            url: /services/#faq
-          - title: Så arbetar vi
-            url: /services/#how-we-work
+      - title: Våra tjänster
+      - title: Medborgarbudget
+        url: /medborgarbudget/
+      - title: Medborgarjury
+        url: /medborgarjury/
+      - title: Community Organising
+        url: /community-organising-grasrot/
+      - title: Civic Tech och Digital utveckling
+        url: /civic-tech-utveckling/
       - title: Digitala plattformar
       - title: Consul
         url: /consul/
       - title: Decidim
         url: /decidim/
-      - title: Metoder
-      - title: Medborgarjury
-        url: /medborgarjury/
-      - title: Community Organising
-        url: /community-organising/
   - title: Uppdrag
     url: /work/
   - title: Om oss

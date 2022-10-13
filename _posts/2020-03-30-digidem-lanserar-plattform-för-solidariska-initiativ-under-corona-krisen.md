@@ -10,7 +10,8 @@ ingress-text: 'Var med och skapa förslag för hur vi kan stötta varandra under
 links:
 - title: Ageratillsammans.nu
   url: https://ageratillsammans.nu/
-
+categories:
+- _themes/civic-tech-utveckling.md
 ---
 Välkommen till en plattform öppen för alla som bor och verkar i Sverige! På [Ageratillsammans.nu](https://ageratillsammans.nu/ "Ageratillsammans.nu") kan du vara med och skapa förslag för hur vi kan stötta varandra under spridningen av COVID-19 men även bidra i skapandet av ett hållbart samhälle på lång sikt.
 

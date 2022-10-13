@@ -19,7 +19,8 @@ links:
   url: http://consider.it/
 - title: Loomio
   url: https://www.loomio.org/
-
+categories:
+- _themes/civic-tech-utveckling.md
 ---
 – Dels finns basverktyg som till exempel gemensam dokumenthantering och chat. Det kan vara bra att börja med istället för Googles tjänster, säger Petter Joelson, medgrundare av Digidem Lab och initiativtagare till Collective Tools.
 

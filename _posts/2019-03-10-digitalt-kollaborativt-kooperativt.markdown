@@ -4,6 +4,8 @@ date: '2019-03-10 13:21:00'
 image: "/uploads/IMG_4640.JPG"
 excerpt: "Digidem Lab deltog i panelsamtal och diskussioner på konferensen Cooperative Cities i Umeå 7-8 mars."
 ingress-text: Digidem Lab deltog i panelsamtal och diskussioner på konferensen Cooperative Cities i Umeå 7-8 mars, om hur vi kan skapa framtidens kooperativa och kollaborativa städer.
+categories:
+- _themes/civic-tech-utveckling.md
 ---
 
 Digidem Lab deltog i panelsamtal och diskussioner på konferensen Cooperative Cities i Umeå 7-8 mars, om hur vi kan skapa framtidens kooperativa och kollaborativa städer.

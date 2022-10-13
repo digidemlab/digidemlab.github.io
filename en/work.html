@@ -7,7 +7,7 @@ image: "/uploads/medialab2.jpg"
 ref: work
 ---
 
-{% assign projects=site.projects | where:"lang", page.lang | sort:date | reverse %}
-{% for item in projects %}
+{% assign clients=site.clients | where:"lang", page.lang | sort:date | reverse %}
+{% for item in clients %}
   {% include teaser.html %}
 {% endfor %}

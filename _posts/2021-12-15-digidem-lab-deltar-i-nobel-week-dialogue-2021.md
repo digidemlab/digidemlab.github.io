@@ -13,6 +13,10 @@ links:
 - title: Nobel Week Dialogue
   url: https://www.nobelprize.org/events/nobel-week-dialogue/gothenburg-2021/
 ref: ''
+categories:
+- _themes/medborgarbudget.md
+- _themes/community-organising-grasrot.md
+- _themes/civic-tech-utveckling.md
 
 ---
 Detta är bara några av frågorna som besvarades under Nobel Week Dialogue som ägde rum på Svenska mässan i Göteborg och digitalt den 9 december 2021.

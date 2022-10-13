@@ -14,7 +14,10 @@ links:
 - title: Pressmeddelande från Göteborgs stad
   url: https://goteborg.se/wps/portal/press-och-media/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9LcyczA0cfbydjc28zQO9_cz0wwkpiAJKG-AAjgb6BbmhigCtQt1s/dz/d5/L2dBISEvZ0FBIS9nQSEh/#/pressreleases/unikt-samarbete-kring-medborgarbudget-foer-engagemang-och-gemenskap-i-omraadet-kring-bjurslaettsskolan-3033896
 ref: ''
-
+categories:
+- _themes/medborgarbudget.md
+clients:
+- _clients/goteborg.md
 ---
 Digidem Lab har genomfört utbildningar och workshops för personal på Lundby stadsdelsförvaltning, bostadsföretagen Familjebostäder, Stena fastigheter och samverkansorganisationen Fastighetsägare centrala Hisingen (FCH) och personal på Bjurslättsskolan. Allt för att stärka arbetet med medborgarbudgeten och försöka inkludera tidigare erfarenheter. För att ha skolan i centrum för områdesutveckling är något som är väl beprövat på flera håll internationellt.
 

@@ -9,8 +9,8 @@
     {% if forloop.last %}<span class="navbar-item item-lang-space">|</span>{% endif %}
     <a class="navbar-item is-uppercase item-lang-{{forloop.index}} {% if item.lang == page.lang %}is-active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.lang }}</a>
   {% endfor %}
-  {% assign projects=site.projects | where:"ref", page.ref | sort: 'lang' %}
-  {% for item in projects %}
+  {% assign clients=site.clients | where:"ref", page.ref | sort: 'lang' %}
+  {% for item in clients %}
     {% if forloop.last %}<span class="navbar-item item-lang-space">|</span>{% endif %}
     <a class="navbar-item is-uppercase item-lang-{{forloop.index}} {% if item.lang == page.lang %}is-active{% endif %}" href="{{ site.baseurl }}{{ item.url }}">{{ item.lang }}</a>
   {% endfor %}

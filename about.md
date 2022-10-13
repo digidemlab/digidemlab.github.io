@@ -1,51 +1,41 @@
 ---
 title: Vi är Digidem Lab
-description: Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella
-  erfarenheter inom medborgardeltagande.
+description: Digidem Lab arbetar för en fördjupning och expandering av deltagande demokrati inom alla nivåer av samhället.
 ref: about
 image: "/uploads/medialab.jpg"
-ingress-text: Vi arbetar utifrån FN:s hållbarhetsmål och beprövade internationella
-  erfarenheter inom medborgardeltagande.
+ingress-text: Digidem Lab arbetar för en fördjupning och expandering av deltagande demokrati inom alla nivåer av samhället.
 links:
 - title: Digidem Lab ideell förening
   url: "/foreningen/"
 ---
 
-Det gör vi genom att erbjuda metoder och verktyg för medborgardeltagande som inkluderar underrepresenterade grupper i beslutsfattande.
 
-Utgångspunkter är att skapa långsiktiga strukturer för dialogprocesser. Medborgare ska känna sig trygga och stärkta i sitt deltagande och tjänstepersoner få effektiva verktyg för att förankra arbetssätt och metodik internt.
+Vi är ett arbetarägt kooperativ som designar och utvecklar metoder för politisk och demokratisk innovation. Vi driver frågan om deltagande demokrati och stöttar praktisk att folk ska ha möjlighet att påverka de beslut som påverkar deras liv.
 
-<div class="box">
-  <h2>Globala målen</h2>
-  <p class="is-medium">Vi arbetar för att uppnå FN:s hållbarhetsmål, med fokus på följande punkter:</p>
-  <p><strong>10.2</strong> ...verka för att alla människor, oavsett ålder, kön, funktions­ned­sättning, ras, etnicitet, ur­­sprung, religion eller ekonomisk eller annan ställning, blir inkluderade i det sociala, ekonomiska och ­politiska livet.</p>
-  <p><strong>16.7</strong> Säkerställa ett lyhört, inkluderande, deltagande­baserat och representativt beslutsfattande på alla nivåer.</p>
-  <p><strong>11.3</strong> ...verka för en inkluderande och hållbar urba­n­isering samt förbättra kapaciteten för del­tagande­baserad, integrerad och hållbar planering och förvaltning av bosättningar i alla länder.</p>
-</div>
+## Våra värderingar
+### Deltagande
+Vi tror på en utveckling av demokratin till att innefatta fler aspekter av samhället och att utveckla metoder för att skapa större deltagande. Vi tror på medskapande i alla aspekter av vårt arbete, även inom utveckling av processer och digitala verktyg för deltagande.
 
-En viktig del av vårt arbete är att vi också är ett labb - en plats för att utveckla och testa framtidens verktyg och metoder. Vi har hittills stöttat [över 30 projekt](/lab/), genomförda av unga personer, och genom nätverket [Civic Tech Sweden](http://civictech.se) ordnar vi hackathons och meetups för att utveckla nya digitala tjänster för samhällsnytta.
+### Mandat
+Vi vill att personer som är berörda av beslut ska ha vara med och fatta dem. Vi verkar för att våra projekt ska ha ett tydligt definierat mandat för deltagarna.
 
-# Vårt team
+### Transparens
+Vi verkar för större transparens inom deltagandeprocesser. Vi delar med oss av våra kunskaper och erfarenheter. Våra digitala verktyg har öppen källkod för att garantera säkerhet och möjlighet till granskning.
 
-{% assign crew=site.crew | where:"lang", page.lang %}
+### Samarbete
+Vi bygger vidare på andras lyckade erfarenheter och arbete och strävar efter att dela med oss av vår kunskap, kod och kunnande till andra. Vi bygger allianser lokalt, nationellt och internationellt med likasinnade organisationer och nätverk. Vi jobbar med olika typer av aktörer oberoende av om de är offentliga institutioner, företag eller från föreningsliv om vi ser att de har möjlighet att åstadkomma förändring.
 
-<div class="columns">
-  <div class="column is-offset-1-widescreen is-10-widescreen">
-    <div class="columns is-desktop is-multiline">
-      {% for item in crew %}
-        <div class="column is-half-desktop teaser-crew">
-          <figure class="image is-4by3">
-            <img src="{{site.baseurl}}{{item.image}}">
-          </figure>
-          <h3 class="title is-6">{{item.title}}</h3>
-          <p>
-            {% if item.job %}{{item.job}}<br>{% endif %}
-            {% if item.phone %}<a href="tel:{{item.phone}}" class="text-white">{{item.phone}}</a><br>{% endif %}
-            {% if item.mail %}<a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>{% endif %}
-          </p>
-          {{item.content}}
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
+### Kontinuerligt lärande
+Vi utvecklar ständigt våra metoder och verktyg för deltagande för att anpassa dem efter en föränderlig verklighet. Vi hämtar inspiration och knyter kontakter världen runt för kontinuerligt lärande, inpiration och innovation för att förbättra demokratin. Vi ser tvärvetenskaplighet och bredd som en tillgång.
+
+## Hur vi arbetar
+Vi ser deltagande som en process där vi kan göra insatser inom specifika delar, samtidigt som vi är medvetna om hur processen som helhet ser ut. Den här modellen utvecklades inom EU-projektet D-CENT.
+
+![Deltagandespiralen](/uploads/spiral_numbers.svg)
+![Deltagandespiralen](/uploads/deltagandespiral_text.png)
+
+
+## Vad vi gör
+* Processutveckling och rådgivning för deltagandeprocesser
+* Utbildning i metoder för demokratiskt deltagande och organisering
+* Utveckling och support för digitala verktyg för deltagande och transparens

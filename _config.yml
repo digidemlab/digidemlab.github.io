@@ -12,8 +12,12 @@ collections:
   posts:
     title: Posts
     output: true
-  projects:
-    title: Projects
+  clients:
+    title: Clients
+    output: true
+    permalink: "/:title/"
+  themes:
+    title: Themes
     output: true
     permalink: "/:title/"
   uploads:
@@ -34,7 +38,14 @@ defaults:
     lang: en
 - scope:
     path: ''
-    type: projects
+    type: clients
+  values:
+    layout: client
+    lang: sv
+    contact: true
+- scope:
+    path: ''
+    type: themes
   values:
     layout: page
     lang: sv
@@ -74,12 +85,15 @@ plugins:
 - jemoji
 - jekyll-seo-tag
 - jekyll-menus
+- jekyll-redirect-from
 #- jekyll-feed
+whitelist:
+  - jekyll-redirect-from
 emptyArray: []
 t:
   sv:
-    mission: Digidem Lab erbjuder tjänster och utvecklar metoder och verktyg för framtidens
-      deltagande demokrati.
+    mission: Digidem Lab arbetar för en fördjupning och expandering av deltagande demokrati inom alla nivåer av samhället.
+      Vi är ett arbetarägt kooperativ som designar och utvecklar metoder för politisk och demokratisk innovation.
     language: Svenska
     member:
     - title: Styrelsemedlem i Global Participatory Budgeting Hub.
@@ -92,6 +106,7 @@ t:
     - title: Utveckling av medborgardialog i Göteborg och Stockholm med stöd av Vinnova.
       image: "/assets/images/logo-vinnova.png"
       url: https://www.vinnova.se/
+    project-title: Våra uppdrag
     project-link: Läs mer om uppdraget
     more-projects: Fler uppdrag
     more-services: Läs mer om våra tjänster
@@ -116,6 +131,7 @@ t:
         Vinnova.
       image: "/assets/images/logo-vinnova.png"
       url: https://www.vinnova.se/en/
+    project-title: Projects
     project-link: Read about the project
     more-projects: More projects
     more-services: Read more about our services

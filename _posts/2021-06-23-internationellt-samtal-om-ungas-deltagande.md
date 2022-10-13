@@ -11,7 +11,9 @@ links:
 - title: Registrera er här!
   url: https://www.eventbrite.se/e/engaging-youth-in-decision-making-through-participatory-budgeting-tickets-159817589713
 ref: ''
-
+categories:
+- _themes/medborgarbudget.md
+- _themes/community-organising-grasrot.md
 ---
 Medborgarbudget startade i Porto Alegre, Brasilien, som ett sätt att bryta den negativa spiralen av ökad ojämlikhet. Genom att sätta de som påverkades av besluten i centrum gick staden från att vara en av de mest utsatta till en av de mest välmående samhällen i landet. 30 år senare finns det nu tusentals exempel på medborgarbudget världen över.
 

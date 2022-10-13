@@ -9,7 +9,10 @@ ingress-text: Digidem Lab har fått förtroendet av Vinnova att samordna och utv
 links:
 - title: Civic Tech Sweden
   url: https://civictech.se
-
+categories:
+- _themes/civic-tech-utveckling.md
+clients:
+- _clients/civic-tech-platform.md
 ---
 Tillsammans med RISE och Coompanion och i partnerskap med Mötesplats Social Innovation, Bron Innovation, Code for All och Centrum för Tjänsteforskning kommer vi att ge stöd till civic tech-projekt och utveckla samarbetet inom nätverket [Civic Tech Sweden](https://civictech.se).
 

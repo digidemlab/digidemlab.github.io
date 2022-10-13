@@ -4,7 +4,9 @@ date: '2019-04-02 13:37:42'
 image: "/uploads/photo_2019-03-26_14-50-02.jpg"
 ingress-text: Den 22 mars 2019 skedde det första konstituerande mötet för Consul Democracy Foundation, en internationell stiftelse som ska hantera, utveckla och sprida världens största digitala medborgarplattform.
 excerpt: Den 22 mars 2019 deltog Digidem Lab på det konstituerande mötet för Consul Democracy Foundation.
-
+categories:
+- _themes/civic-tech-utveckling.md
+- _themes/medborgarbudget.md
 ---
 
 Den 22 mars 2019 skedde det första konstituerande mötet för Consul Democracy Foundation, en internationell stiftelse som ska hantera, utveckla och sprida världens största digitala medborgarplattform. Consul används idag av omkring 100 institutioner i 35 länder och är en transparent open source medborgarplattform som gör det enkelt att skapa avancerade medborgarprocesser. Plattformen skapades av Madrid Stad 2015 och med tanke på dess globala spridning bestämde sig kommunen för att överlåta ansvaret av Consul till en oberoende styrelse bestående av personer från sju icke-vinstdrivande organisationer. En av de personerna är Sanna Ghotbi från Digidem Lab.

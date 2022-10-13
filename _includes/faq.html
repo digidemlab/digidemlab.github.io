@@ -1,9 +1,9 @@
-<h2 class="title" id="faq">Vanliga frågor om medborgardialog</h2>
+<h2 class="title" id="faq">Vanliga frågor</h2>
 <div id="accordion-basic">
-  {% for item in site.faq %}
-    <h3 class="title accordion-head">{{item.title}}</h3>
+  {% for item in page.faq %}
+    <h3 class="title accordion-head">{{item.question}}</h3>
     <div class="accordion-body">
-      {{item.content}}
+      <p>{{item.answer}}</p>
     </div>
   {% endfor %}
  </div>

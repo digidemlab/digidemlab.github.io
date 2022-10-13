@@ -9,7 +9,8 @@ ingress-text: Den 16 april arrangerar vi ett webinar där du får lär lära dig
 links:
 - title: Anmälningssida (Eventbride)
   url: https://www.eventbrite.com/e/webinar-digital-medborgardialog-under-och-efter-krisen-tickets-101619968060
-
+categories:
+- _themes/medborgarbudget.md
 ---
 Arbetet med medborgardialog har försvårats av Corona-pandemin och många verksamheter ser ett behov att digitalisera sina processer. Under de senaste veckorna har vi kontaktats av många kommuner som funderar på hur de ska hantera alla pågående och inplanerade dialoger. Fler efterfrågar konkreta verktyg och tips. Därför anordnar vi nu detta tillfälle för att dela med oss av den expertis vi samlat.
 

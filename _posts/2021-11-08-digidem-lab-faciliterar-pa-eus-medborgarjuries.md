@@ -14,7 +14,10 @@ links:
 - title: Conference on the Future of Europe
   url: https://futureu.europa.eu/?locale=en
 ref: ''
-
+categories:
+- _themes/medborgarbudget.md
+clients:
+- _clients/konferensen-om-europas-framtid.md
 ---
 Under hösten kommer 800 slumpmässigt valda medborgare från hela EU att ta fram rekommendationer för konferensens plenarförsamlingar. Digidem Labs Anna Sanne Göransson och Pierre Mesure var med i Strasbourg för att facilitera arbetsgrupper under första sessionen.
 

@@ -1,0 +1,44 @@
+<div class="box facts">
+  <div class="container">
+    <div class="columns">
+
+      {% if page.logotype %}
+      <div class="column">
+        <figure class="image is-3by2 image-logo">
+          <img src="{{site.baseurl}}{{page.logotype}}" alt="{{page.title}}" style="#min-height:100%">
+        </figure>
+      </div>
+      {% endif %}
+
+      <div class="column">
+        {% if page.client %}
+          <h3>Uppdragsgivare</h3>
+          <p>{{page.client}}</p>
+        {% endif %}
+
+        <h3>Projektperiod</h3>
+        <p>{{ page.year}}</p>
+      </div>
+      <div class="column">
+        {% if page.partners %}
+          <h3>Partners</h3>
+          <ul>
+            {% for item in page.partners %}
+              <li>{{item}}</li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+
+        {% if page.links %}
+          <h3>Webbplats</h3>
+          <ul>
+            {% for item in page.links %}
+              <li><a href="{{item.url}}">{{item.title}}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+<hr>

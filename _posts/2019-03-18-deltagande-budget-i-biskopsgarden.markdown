@@ -4,7 +4,11 @@ featured: true
 date: '2019-03-18 14:21:40'
 image: "/uploads/20190306_140629.jpg"
 excerpt: Digidem Lab har designat en boendebudget för Bostadsbolaget i norra Biskopsgården.
-ingress-text: Digidem Lab har designat en boendebudget för Bostadsbolaget i norra Biskopsgården och höll under mars månad utbildningar för chefer och områdespersonal. 
+ingress-text: Digidem Lab har designat en boendebudget för Bostadsbolaget i norra Biskopsgården och höll under mars månad utbildningar för chefer och områdespersonal.
+categories:
+- _themes/medborgarbudget.md
+clients:
+- _clients/bostadsbolaget.md
 ---
 
 

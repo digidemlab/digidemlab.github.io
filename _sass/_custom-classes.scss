@@ -183,6 +183,14 @@ a.title {
 
 // Mission, Services
 
+.mission-top {
+  @extend .notification;
+  padding: 1.5rem 2.5rem;
+
+  .subtitle.is-6 {
+    line-height: 1.25;
+  }
+}
 
 .mission {
   padding: 1.5rem 1.25rem;
@@ -207,6 +215,18 @@ a.title {
   }
 }
 
+.image-icon {
+  margin: 1rem;
+}
+
+.services-items {
+  margin-bottom: 3rem;
+
+  @include from($desktop) {
+    margin-bottom: 3rem;
+    margin-right: 1.5rem;
+  }
+}
 // Card
 
 .image {
@@ -512,6 +532,23 @@ svg.logo-dropdown {
   }
 }
 
+.box.facts {
+  font-family: $family-monospace;
+  font-size: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+
+  h3 {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin: 2rem 0 0.3rem;
+  }
+
+  .image-logo {
+    margin-top: -1rem;
+    margin-right: 2rem;
+  }
+}
 
 
 
@@ -1024,6 +1061,10 @@ aside {
   }
 }
 
+#page.page-client {
+  padding-bottom: 0;
+}
+
 #contact {
   h3 {
     margin-bottom: 0;
@@ -1060,12 +1101,6 @@ aside {
         padding-top: 1.5rem;
       }
     }
-  }
-}
-
-.services {
-  figure {
-    margin: 0 auto 1rem;
   }
 }
 
@@ -1118,11 +1153,18 @@ aside {
 }
 
 .image-logo {
-  margin: 1rem auto;
+  margin: 1rem auto 0;
 
   img {
     width: auto !important;
     max-height: 100% !important;
+    transition: all 0.5s ease-out;
+
+    &:hover,
+    &:active {
+      filter: grayscale(0.3);
+      opacity: 0.8;
+    }
   }
 }
 

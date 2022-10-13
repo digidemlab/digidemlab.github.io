@@ -1,0 +1,30 @@
+<section class="section no-padding-width" id="services">
+  <div class="services">
+    <div class="container">
+      <h2 class="title is-5 is-size-4-tablet is-size-3-desktop is-size-2-widescreen">Vi erbjuder</h2>
+      <div class="columns is-centered is-mobile is-multiline">
+
+        {% assign theme=site.themes | where:"lang", page.lang | sort:date | reverse %}
+
+        {% for item in theme %}
+          <div class="column column is-10-tablet is-6-desktop is-3-widescreen">
+            <figure class="image is-240x240 image-icon">
+              <a href="{{site.baseurl}}{{item.url}}">
+                <img src="{{site.baseurl}}{{item.icon}}">
+              </a>
+            </figure>
+            <h3 class="title is-6"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h3>
+            <ul>
+              {% for item in item.items %}
+                <li>{{item.text}}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endfor %}
+      </div>
+      <p class="has-text-centered">
+        <a class="button is-white" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/services/">{{site.t[page.lang].more-services}}</a>
+      </p>
+    </div>
+  </div>
+</section>

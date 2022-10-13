@@ -21,7 +21,7 @@ layout: default
 </section>
 
 
-{% assign project=site.projects | where:"lang", page.lang | sort:date | reverse %}
+{% assign post=site.posts | where:"lang", page.lang | sort:date | reverse %}
 
 <div id="content"></div>
 
@@ -34,9 +34,16 @@ layout: default
   </section>
 {% endif %}
 
+<section class="section">
+    <div class="notification is-info mission-top container">
+      <p class="subtitle is-6">{{site.t[page.lang].mission}}</p>
+    </div>
+</section>
+
+
 <section id="featured" class="section">
   <div class="container has-text-centered-widescreen">
-      {% for item in project limit:1 %}
+      {% for item in post limit:1 %}
         <figure class="image is-3by2">
           <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
         </figure>
@@ -62,40 +69,19 @@ layout: default
 <section id="project" class="section">
   <div class="container">
 
-    {% for item in project offset:1 limit:2 %}
+    {% for item in post offset:1 limit:2 %}
       {% include teaser.html %}
     {% endfor %}
 
     <p class="has-text-right-desktop has-text-centered read-more">
-      <a class="button" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/work/">{{site.t[page.lang].more-projects}}</a>
+      <a class="button" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/work/">{{site.t[page.lang].more-news}}</a>
     </p>
   </div>
 </section>
 
-<section id="mission" class="section">
-  <div class="container mission has-background-info">
-    <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen">{{page.mission.title}}</h2>
-    <div class="columns is-desktop is-multiline">
-      {% for item in page.mission.item %}
-        <div class="column is-full-desktop is-one-third-widescreen">
-          <figure class="image is-3by2">
-            <img src="{{site.baseurl}}{{item.image}}">
-          </figure>
-          <h3 class="title is-6 is">{{item.title}}</h3>
-          <p>{{item.text}}</p>
-        </div>
-      {% endfor %}
-    </div>
-    <p class="has-text-centered">
-      <a class="button is-white" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/services/">{{site.t[page.lang].more-services}}</a>
-    </p>
-  </div>
-</section>
+{% include themes.html %}
 
-
-{% if page.lang == 'sv' and site.posts.size > 0 %}
-  {% include news.html %}
-{% endif %}
+{% include clients.html %}
 
 {% if page.lang == 'sv' %}
   {% include newsletter.html %}

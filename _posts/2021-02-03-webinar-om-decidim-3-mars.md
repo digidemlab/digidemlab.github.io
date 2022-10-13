@@ -10,7 +10,9 @@ links:
 - title: Anmäl dig här! (Eventbrite)
   url: https://www.eventbrite.se/e/decidim-en-demokratiplattform-for-inkluderande-digital-medborgardialog-biljetter-141161173871?keep_tld=1
 ref: ''
-
+categories:
+- _themes/medborgarbudget.md
+- _themes/civic-tech-utveckling.md
 ---
 Välkommen till ett frukostwebbinarium onsdag den 3 mars kl 9:00 om Decidim med oss på Digidem Lab! Under 50 minuter berättar vi om plattformens historia, värderingar och funktioner. Vi delar med oss av exempel från vårt eget arbete med plattformen, och du får såklart chans att ställa frågor.
 

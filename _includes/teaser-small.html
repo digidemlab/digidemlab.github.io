@@ -1,13 +1,11 @@
-{% for item in site.posts limit:include.limit %}
-    <div class="column teaser-small">
-      {% if item.image %}
-        <a href="{{site.baseurl}}{{item.url}}">
-          <figure class="image is-3by2">
-            <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
-          </figure>
-        </a>
-      {% endif %}
-        <h3 class="subtitle is-6 is-size-4-widescreen"><a href="{{item.url}}">{{item.title}}</a></h3>
-        <p>{{ item.date | date: "%Y.%m.%d"}} | {{ item.excerpt }}</p>
-    </div>
-{% endfor %}
+<div class="column is-6-desktop teaser-small">
+  {% if item.image %}
+    <a href="{{site.baseurl}}{{item.url}}">
+      <figure class="image is-3by2">
+        <img src="{{site.baseurl}}{{item.image}}" alt="{{item.title}}">
+      </figure>
+    </a>
+  {% endif %}
+    <h3 class="subtitle is-6 is-size-4-widescreen"><a href="{{item.url}}">{{item.title}}</a></h3>
+    <p>{{ item.date | date: "%Y.%m.%d"}} | {{ item.excerpt }}</p>
+</div>

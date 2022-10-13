@@ -16,7 +16,10 @@ links:
 - title: Decidim heter den andra plattformen som Digidem Lab förordar
   url: https://digidemlab.org/decidim/
 ref: ''
-
+categories:
+- _themes/medborgarbudget.md
+clients:
+- _clients/uppsala.md
 ---
 I måndags höll Digidem Lab en digital utbildning för bland annat anställda på Uppsala kommun inför deras förstärkning av dialogarbetet i kommunen. Med hjälp av beprövade metoder kommer kommunen nu att arbeta för att öka kvinnors, utrikesföddas och ungas deltagande. Utöver att hålla i utbildningar kommer Digidem Lab att ge stöd i att utforma en processdesign, med målet att genomföra en dialog i stadsdelen Gottsunda.
 

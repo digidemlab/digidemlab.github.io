@@ -8,6 +8,9 @@ image: "/uploads/biskopsgarden.jpg"
 # notification:
 #   title: "Just nu: Tillfälligt krispaket för dialogprocesser under Corona-krisen."
 #   url: "/services/#crisis"
+# banner:
+#  - image: "/assets/images/banner-labbet.jpg"
+#    url: "#"
 mission:
   title: Vårt erbjudande
   item:
@@ -17,7 +20,7 @@ mission:
       metoder för att särskilt nå underrepresenterade grupper.
   - title: Säkerhet och flexibilitet
     image: "/uploads/workshop-small.jpg"
-    text: Vi arbetar med Consul och Decidim, två av de mest kompletta digitala plattformarna
+    text: Vi arbetar Decidim, den ledande digitala plattformen
       för medborgardeltagande med miljontals användare över hela världen.
   - title: Enklare hantering av dialoger
     image: "/uploads/paris-small.jpg"

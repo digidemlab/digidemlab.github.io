@@ -12,7 +12,8 @@ links:
 - title: Anmäl dig här! (Eventbrite)
   url: https://www.eventbrite.se/e/webinar-oka-trygghet-och-trivsel-genom-medbestammande-biljetter-139652653847
 ref: ''
-
+categories:
+- _themes/medborgarbudget.md
 ---
 Går det verkligen att öka tryggheten, tilliten och trivsel genom att låta boende bestämma själva? Vad säger forskningen och tidigare erfarenheter?
 

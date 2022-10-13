@@ -30,7 +30,7 @@ layout: default
   <div class="container page">
     <div class="columns columns-header">
       <div class="column is-10-fullhd">
-        {% if page.date %}
+        {% if page.is_post %}
           <div class="page-date">
             {{ page.date | date: "%Y.%m.%d"}}
           </div>
@@ -39,6 +39,22 @@ layout: default
         <p class="subtitle is-6 is-size-3-widescreen">{{page.ingress-text}}</p>
       </div>
     </div>
+
+    {% if page.clients %}
+    <aside class="facts project has-text-right-widescreen">
+      <h2 class="title is-6">Uppdrag</h2>
+        {% for item in page.clients %}
+          {% assign clients=site.clients | where:"path", item %}
+          {% assign client=clients[0] %}
+          <figure class="image is-3by2 image-logo">
+            <a href="{{site.baseurl}}{{client.url}}">
+              <img src="{{site.baseurl}}{{client.logotype}}" alt="{{client.title}}" title="{{client.title}}">
+            </a>
+          </figure>
+        {% endfor %}
+      </aside>
+    {% endif %}
+
 
     {% for item in site.data.menu[page.lang].primary %}
       {% if page.menu == item.ref and item.items %}
@@ -78,11 +94,110 @@ layout: default
       </aside>
     {% endif %}
 
+
     <div class="content">
+
       {{content}}
+
+      {% if page.faq %}
+        {% include faq.html %}
+      {% endif %}
     </div>
   </div>
+  <hr>
 </article>
+
+{% if page.path contains "_themes" %}
+
+  {% assign client=site.clients | where:"lang", page.lang | sort:date | reverse %}
+  <section id="projects" class="section">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-7-widescreen has-text-centered">
+          <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">Uppdrag</h2>
+          <p>Uppdrag inom {{page.title}}.</p>
+        </div>
+      </div>
+      <div class="columns partners is-multiline is-vcentered is-centered is-variable is-8">
+        {% for item in client %}
+          {% if item.categories contains page.path %}
+            <div class="column is-6-tablet is-4-desktop is-3-widescreen">
+              <a href="{{item.url}}" title="{{item.title}}">
+                <figure class="image is-3by2 image-logo">
+                    <img src="{{site.baseurl}}{{item.logotype}}" alt="{{item.title}}" style="#min-height:100%">
+                </figure>
+              </a>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+
+  <!-- Limit to last three years -->
+  {% capture last_years %}{{ site.time | date: "%Y" | minus:3 }}{% endcapture %}
+  {% assign news=site.posts | where:"lang", page.lang | sort:date | reverse %}
+  {% assign news_recent=site.posts | where:"lang", page.lang | sort:date | reverse %}
+
+  <section id="projects" class="section">
+    <div class="container">
+      <div class="columns is-centered">
+        <div class="column is-7-widescreen has-text-centered">
+          <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">Aktuellt</h2>
+          <p>Aktuellt inom {{page.title}}.</p>
+        </div>
+      </div>
+      <div class="columns is-desktop is-multiline">
+        {% for item in news %}
+          {% if item.categories contains page.path %}
+            {% assign item_year = item.date | date: "%Y" %}
+            {% if item_year >= last_years %}
+              {% include teaser-small.html %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+{% endif %}
+
+
+<!-- POST: related posts from same client -->
+{% for client_path in page.clients %}
+
+  {% assign clients=site.clients | where:"path", client_path %}
+  {% assign news=site.posts | where:"lang", page.lang | sort:date | reverse %}
+
+  <!-- check if there are any posts -->
+  {% for item in news %}
+    {% if item.clients contains client_path and item.url != page.url %}
+      {% assign ifnews=true %}
+    {% endif %}
+  {% endfor %}
+
+  {% if ifnews %}
+    <section id="projects" class="section">
+      <div class="container">
+        <div class="columns is-centered">
+          <div class="column is-7-widescreen has-text-centered">
+            <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">Aktuellt</h2>
+            <p>Aktuellt om {{clients[0].title}}.</p>
+          </div>
+        </div>
+        <div class="columns is-desktop is-multiline">
+          {% for item in news %}
+            {% if item.clients contains client_path and item.url != page.url %}
+              {% include teaser-small.html %}
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+    </section>
+  {% endif %}
+{% endfor %}
+
 
 {% if page.services.size > 0 %}
   {% include services.html %}

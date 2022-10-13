@@ -1,0 +1,21 @@
+<section id="mission" class="section">
+  <div class="container mission has-background-info">
+    <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen">{{page.mission.title}}</h2>
+    <div class="columns is-desktop is-multiline">
+      {% for item in page.mission.item %}
+        <div class="column is-full-desktop is-one-third-widescreen">
+          <figure class="image is-3by2">
+            <img src="{{site.baseurl}}{{item.image}}">
+          </figure>
+          <h3 class="title is-6 is">{{item.title}}</h3>
+          <p>{{item.text}}</p>
+        </div>
+      {% endfor %}
+    </div>
+    <!--
+    <p class="has-text-centered">
+      <a class="button is-white" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/services/">{{site.t[page.lang].more-services}}</a>
+    </p>
+  -->
+  </div>
+</section>
