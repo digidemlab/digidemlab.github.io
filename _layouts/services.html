@@ -45,7 +45,7 @@ layout: default
         <h2 class="title is-6">{{site.t[page.lang].read-more}}</h2>
         <ul>
           {% for item in page.links %}
-            <li><a href="{{item.url}}">{{item.title}}</a></li>
+            <li><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></li>
           {% endfor %}
         </ul>
       </aside>

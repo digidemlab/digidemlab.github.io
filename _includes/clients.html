@@ -17,7 +17,7 @@
 
       {% for item in clientfeat[0].items %}
         <div class="column is-6-tablet is-4-desktop is-3-widescreen">
-          <a href="{{item.url}}" title="{{item.title}}">
+          <a href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
             <figure class="image is-3by2 image-logo">
                 <img src="{{site.baseurl}}{{item.logotype}}" alt="{{item.title}}" style="#min-height:100%">
             </figure>
@@ -26,7 +26,7 @@
       {% endfor %}
       {% for item in clientfeat[1].items limit:size %}
         <div class="column is-6-tablet is-4-desktop is-3-widescreen">
-          <a href="{{item.url}}" title="{{item.title}}">
+          <a href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
             <figure class="image is-3by2 image-logo">
                 <img src="{{site.baseurl}}{{item.logotype}}" alt="{{item.title}}" style="#min-height:100%">
             </figure>

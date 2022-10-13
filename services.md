@@ -11,31 +11,6 @@ image: "/uploads/usertesting-top.jpg"
 ingress-text: Vi skapar medborgarcentrerade processer utifrån beprövade metoder för
   att särskilt nå underrepresenterade grupper.
 contact: true
-services:
-- title: Så här arbetar vi
-  items:
-  - title: Behovsanalys
-    icon: "/assets/images/icon-mapping.svg"
-    items:
-    - text: Inledande planering med de som är ansvariga för implementeringen.
-    - text: Kartläggning av lokala resurser, roller och utmaningar.
-  - title: Processdesign
-    icon: "/assets/images/icon-process.svg"
-    items:
-    - text: Design av steg-för-ste-gmodell med instruktioner om varje fas.
-    - text: Förankring av metoder i arbets- och ledningsgrupp.
-    - text: Workshop för nyckelpersoner bland medarbetare och civilsamhälle.
-  - title: Teknisk utveckling
-    icon: "/assets/images/icon-a-to-b.svg"
-    items:
-    - text: Installation av medborgarplattform utifrån identifierade behov.
-    - text: Anpassingar av färger och typsnitt.
-    - text: Utbildning i användning och administration av plattformen.
-  - title: Drift och vidareutveckling
-    icon: "/assets/images/icon-future.svg"
-    items:
-    - text: Drift och hosting av plattformen.
-    - text: Möjlighet att beställa ytterligare anpassningar eller utbildningar.
 mission:
   title: Så här arbetar vi
   item:
@@ -45,7 +20,7 @@ mission:
       metoder för att särskilt nå underrepresenterade grupper.
   - title: Säkerhet och flexibilitet
     image: "/uploads/workshop-small.jpg"
-    text: Vi arbetar med Consul och Decidim, två av de mest kompletta digitala plattformarna
+    text: Vi arbetar Decidim, den ledande digitala plattformen
       för medborgardeltagande med miljontals användare över hela världen.
   - title: Utbildning och support
     image: "/uploads/usertesting-small.jpg"

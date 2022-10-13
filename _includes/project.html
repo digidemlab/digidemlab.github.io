@@ -33,7 +33,7 @@
           <h3>Webbplats</h3>
           <ul>
             {% for item in page.links %}
-              <li><a href="{{item.url}}">{{item.title}}</a></li>
+              <li><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></li>
             {% endfor %}
           </ul>
         {% endif %}
