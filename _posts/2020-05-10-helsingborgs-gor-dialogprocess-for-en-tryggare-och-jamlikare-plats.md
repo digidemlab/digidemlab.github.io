@@ -15,7 +15,7 @@ links:
   url: 'https://tryggareplatser.helsingborg.se/. '
 ref: ''
 categories:
-- _themes/medborgardeltagande.md
+- _themes/medborgarbudget.md
 clients:
 - _clients/helsingborg.md
 ---

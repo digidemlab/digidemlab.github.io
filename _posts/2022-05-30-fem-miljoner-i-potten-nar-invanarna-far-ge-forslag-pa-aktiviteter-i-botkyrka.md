@@ -16,6 +16,7 @@ links:
   url: http://dialog.botkyrka.se
 ref: ''
 categories:
+- _themes/medborgarbudget.md
 - _themes/medborgardeltagande.md
 clients:
 - _clients/botkyrka.md
