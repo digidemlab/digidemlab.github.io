@@ -1,8 +1,7 @@
 ---
 lang: sv
 date: 2022-04-26 08:30:36 +0200
-title: Digidem Lab stöttar kvartersbudget i Malmö -  150 000 kronor ska ge liv åt
-  grannskapsträdgården Naturmolnet
+title: Digidem Lab stöttar kvartersbudget i Malmö
 permalink: /digidem-lab-stottar-kvartersbudget-i-malmo-150-000-kronor-ska-ge-liv-at-grannskapstradgarden-naturmolnet/
 image: "/uploads/naturmolnet_stor.jpg"
 thumbnail: "/uploads/naturmolnet_liten.png"
@@ -10,9 +9,7 @@ excerpt: Nu får boende i Sofielund komma med förslag på vad som ska hända i 
   Naturmolnet. Till sitt förfogande har de en kvartersbudget på 150 000 kronor.
 ingress-text: Nu får boende i Sofielund komma med förslag på vad som ska hända i grannskapsträdgården
   Naturmolnet. Till sitt förfogande har de en kvartersbudget på 150 000 kronor som
-  ska användas för att skapa sociala aktiviteter och ge liv åt platsen. Digidem Lab
-  hjälper till med design och genomförande av processen när de som bor i kvarteret
-  ska få lämna förslag på aktiviteter som främjar umgänge på platsen.
+  ska användas för att skapa sociala aktiviteter och ge liv åt platsen.
 links:
 - title: Växtvärket
   url: https://www.vaxtvarket.se/
@@ -30,6 +27,11 @@ categories:
 clients:
 - _clients/malmo-tillsammans.md
 ---
+
+Digidem Lab
+hjälper till med design och genomförande av processen när de som bor i kvarteret
+ska få lämna förslag på aktiviteter som främjar umgänge på platsen.
+
 Kvartersbudgeten bygger på metoden medborgarbudget och går ut på att invånare får lämna förslag och idéer på vad de vill göra för en avsatt budget, i detta fall 150 000 kronor. Därefter genomförs de förslag som får flest röster i röstningsprocessen. Bakom initiativet står [Malmö Tillsammans](https://www.malmotillsammans.se/) och [Växtvärket](https://www.vaxtvarket.se/) som hoppas att de med hjälp av lokalsamhällets idéer och önskemål ska kunna stärka demokratin och engagemanget, såväl på Sofielund som runtom i staden. I mitten av mars lanserades kvartersbudgeten digitalt, med den digitala Open Source-baserade plattformen Decidim. Digidem Lab har hjälpt till med anpassning och utbildning av plattformen där både boende och verksamma i kvarteret kan lämna förslag för vad de vill göra på [Naturmolnet](https://www.vaxtvarket.se/naturmolnet/) i sommar. I mars och april hölls två fysiska träffar, varav en på plats på Naturmolnet, där de fick veta mer om kvartersbudgeten och få hjälp att utveckla och lämna sina förslag. Alla som vill har fått lämna in sina förslag via den digitala plattformen fram tills den 26 april.
 
 Kvartersbudgeten är ett sätt att öka invånarnas inflytande och bygger på metoden medborgarbudget/participatory budgeting som har testats på flera olika platser, såväl internationellt som i Sverige. För att främja inflytande på riktigt sker satsningen i samverkan med civilsamhället och nyckelpersoner i området och baseras på de lokala behov som finns.

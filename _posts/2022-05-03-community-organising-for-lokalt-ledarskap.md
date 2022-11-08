@@ -10,10 +10,7 @@ excerpt:  Det organiseras kring bostäder, val och skola i Göteborgs förorter.
   organisering.
 ingress-text: Det organiseras kring bostäder, val och skola i Göteborgs förorter.
   Nu kommer organisatörerna för första gången erbjudas en vidareutbildning i lokal
-  organisering. Många som aktivt vill påverka samhällsutvecklingen märker att inte
-  alla medborgare inkluderas i att utforma demokratins villkor. För att skapa ett
-  mer jämlikt samhälle behövs effektiva verktyg för att engagera sig i lokalsamhället
-  och driva på förändring underifrån.
+  organisering.
 links:
 - title: Postkodstiftelsens satsning – Allas Röster.
   url: https://postkodstiftelsen.se/allas-roster/
@@ -29,6 +26,12 @@ categories:
 clients:
 - _clients/community-organising-for-lokalt-ledarskap.md
 ---
+
+Många som aktivt vill påverka samhällsutvecklingen märker att inte
+alla medborgare inkluderas i att utforma demokratins villkor. För att skapa ett
+mer jämlikt samhälle behövs effektiva verktyg för att engagera sig i lokalsamhället
+och driva på förändring underifrån.
+
 För första gången i Sverige erbjuds en fördjupande utbildning i det internationellt beprövade metodpaketet Community Organising. Utbildningen Community Organising för lokalt ledarskap syftar till att stärka civilsamhällets resurser för att skapa lokal förändring i utsatta områden. Genom satsningen vill Digidem Lab lyfta lokal kunskap och utveckla metoden för lokala svenska kontexter tillsammans med [Navet i Bergsjön](https://www.navet.org/), [Tillsammans Hjällbo](https://www.facebook.com/tillsammanshjallbo) och [Agera Göteborg](https://www.facebook.com/ageragoteborg/). Erfarna organisatörer träffas för fallstudier och workshops på avancerad nivå och är med och utbildar en ny generation lokala ledare i Tynnered, Bergsjön och Hjällbo. De organisationer som är med i utvecklingen och utbildningen vill stärka civilsamhällesorganisationers möjligheter till samverkan att möta lokalsamhällets utmaningar och behov - så att de som bor i området kan få ökat inflytande över exempelvis sina egna boende- och levnadsvillkor. Det nybildade nätverket Tillsammans Hjällbo är en av samverkansparterna som ser att lokal organisering ger lokalbefolkningen en stark röst.
 
 _- Vi är en grupp boende som organiserar oss mot en gentrifieringsprocess där vi trängs bort för att skapa plats för invånare med medel. Hjällbo har varit politiskt försummat i många år och när den politiska viljan väl har återupptäckt Hjällbo är det för att man ser mer potential i marken och byggnaderna än i människorna och detta är ett svek vi synliggör och vägrar acceptera,_ Tillsammans Hjällbo

@@ -1,19 +1,14 @@
 ---
 lang: sv
 date: 2022-02-16 11:37:05 +0100
-title: Digidem Lab på plats i Maastricht för att facilitera den sista av EU:s medborgarpaneler
-  på temat EU i världen och migration
+title: Digidem Lab faciliterar den sista av EU:s medborgarpaneler
 permalink: /digidem-lab-pa-plats-i-maastricht-for-att-facilitera-den-sista-av-eu-s-medborgarpaneler-pa-temat-eu-i-varlden-och-migration/
 image: "/uploads/maastricht.jpg"
 thumbnail: "/uploads/maastricht2.jpg"
 excerpt: Digidem Lab på plats i Maastricht för att facilitera den sista av EU:s medborgarpaneler
-  på temat EU i världen och migration
-ingress-text: 'För 30 år sedan, nästan på dagen, undertecknades Maastrichtfördraget
-  i Maastricht, Nederländerna och därmed upprättades Europeiska Unionen. Helgen den
-  11-13 februari, bara ett stenkast ifrån där fördraget signerats möttes ca 200 medborgare
-  från hela Europa för den fjärde och sista medborgarpanelen under “konferensen om
-  Europas framtid”. Digidem Labs Anna Sanne Göransson och Pierre Mesure var på plats
-  i Maastricht, för att facilitera panelen.  '
+  på temat EU i världen och migration.
+ingress-text: Digidem Lab är på plats i Maastricht för att facilitera den sista av EU:s medborgarpaneler
+  på temat EU i världen och migration.
 links:
 - title: EU:s medborgarplattform
   url: https://futureu.europa.eu/
@@ -30,6 +25,14 @@ categories:
 clients:
 - _clients/konferensen-om-europas-framtid.md
 ---
+
+För 30 år sedan, nästan på dagen, undertecknades Maastrichtfördraget
+  i Maastricht, Nederländerna och därmed upprättades Europeiska Unionen. Helgen den
+  11-13 februari, bara ett stenkast ifrån där fördraget signerats möttes ca 200 medborgare
+  från hela Europa för den fjärde och sista medborgarpanelen under “konferensen om
+  Europas framtid”. Digidem Labs Anna Sanne Göransson och Pierre Mesure var på plats
+  i Maastricht, för att facilitera panelen.
+
 [Som vi skrivit om innan ](https://digidemlab.org/digidem-lab-stotttar-eu-s-storsta-medborgardialog-nagonsin/)har Digidem Lab stöttat EU kommissionen i förberedelser och genomförande av den största medborgardialogen på EU-nivå någonsin. “Konferensen om Europas framtid” sätter medborgarna i fokus för diskussioner om hur EU ska utvecklas för att tackla framtida utmaningar. Medborgarpanelerna har spelat en viktig roll då representanter diskuterat idéer [från de evenemang som arrangerats över hela EU](https://futureu.europa.eu/meetings?locale=sv&pk_source=website&pk_medium=link&pk_campaign=europarl&pk_content=headlines_editorial) och lyft förslag som skickats in via [konferensens plattform Decidim](https://futureu.europa.eu/?locale=sv&pk_source=website&pk_medium=link&pk_campaign=europarl&pk_content=headlines_editorial), en av världens mest använda plattform för medborgardeltagande. Plattformen är det nav som konferensen om Europas framtid kretsar kring. Du kan fortfarande ladda upp ditt bidrag på plattformen före den 20 februari [här](https://futureu.europa.eu/pages/getinvolved)!
 
 Fyra olika medborgarpaneler har skett parallellt under konferensen där medborgarna fått chans att få feedback på sina rekommendationer de lämnat på plattformen från beslutsfattare. Teman som diskuterats är; ekonomi, social rättvisa och sysselsättning, demokrati, klimat och miljö och slutligen EU:s roll i världen och migration. Varje panel har träffats tre gånger och totalt har ca 200 slumpvis utvalda medborgare som speglar EU:s mångfald deltagit vid varje panel. En av dem var t.ex. 21-åriga studenten Thilde Karlsson från Fågelmara, [som DN intervjuat](https://www.dn.se/vetenskap/svensk-21-aring-ger-klimatpolitiska-rad-till-eu/).

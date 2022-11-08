@@ -10,9 +10,6 @@ excerpt:  I det treåriga forskningsprojektet Collective Intelligence through Di
 ingress-text: I det treåriga forskningsprojektet Collective Intelligence through Digital
   Tools (COLDIGIT) studerar Digidem Lab tillsammans med ett internationellt team av
   forskare hur digital demokrati kan användas för att skapa kollektiv intelligens.
-  Genom att studera, testa och utvärdera olika verktyg och metoder i konkreta deltagarprocesser
-  i Sverige, Finland och Norge hoppas projektet bidra med ny kunskap om hur kommuner
-  kan involvera medborgare i lokalt beslutsfattande på ett meningsfullt sätt.
 links:
 - title: Nordforsk
   url: https://www.nordforsk.org/programs/research-and-innovation-programme-digitalisation-public-sector
@@ -31,6 +28,11 @@ categories:
 clients:
 - _clients/coldigit.md
 ---
+
+Genom att studera, testa och utvärdera olika verktyg och metoder i konkreta deltagarprocesser
+i Sverige, Finland och Norge hoppas projektet bidra med ny kunskap om hur kommuner
+kan involvera medborgare i lokalt beslutsfattande på ett meningsfullt sätt.
+
 Syftet med COLDIGIT-projektet är också att generera ny kunskap om innovativa digitala verktyg för kollektiv intelligens, för att förstå hur de kan bidra till att lösa komplexa samhällsproblem ihop med medborgare i Norden. Verktygen ska testas genom tre piloter; medborgarbudgeten [Omastadi](https://omastadi.hel.fi) i Helsingfors, [medborgarpanelen Trondheim](https://borgerkraft.no) och boendebudgetarna i [Biskopsgården](https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/) och [Hammarkullen](https://digidemlab.org/300-000-kronor-i-hammarkullens-boendebudget/) i Göteborg.
 
 _- En viktig del av vårt arbete är att utvärdera alla metoder och verktyg och hur de används i våra uppdrag. Med forskningsprojekt som COLDIGIT får vi även samverka med erfarna forskare och jämföra våra resultat internationellt, säger Pierre Mesure_

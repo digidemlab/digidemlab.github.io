@@ -10,9 +10,7 @@ excerpt: Botkyrkadialogen som pågått sedan 2019 ger invånarna i Botkyrka möj
   och vardag.
 ingress-text: Botkyrkadialogen som pågått sedan 2019 ger invånarna i Botkyrka möjlighet
   att lämna in förslag till politiker kring saker som de vill förbättra i sin stadsdel
-  och vardag. Totalt finns 5 miljoner att fördela på aktiviteter och insatser under
-  2022. Digidem Lab har sedan våren 2020 stöttat upp i dialogprocessen genom den digitala
-  plattformen Decidim som används för att samla in förslag.
+  och vardag.
 links:
 - title: Botkyrkadialogens digitala plattform
   url: http://dialog.botkyrka.se
@@ -22,6 +20,11 @@ categories:
 clients:
 - _clients/botkyrka.md
 ---
+
+Totalt finns 5 miljoner att fördela på aktiviteter och insatser under
+2022. Digidem Lab har sedan våren 2020 stöttat upp i dialogprocessen genom den digitala
+plattformen Decidim som används för att samla in förslag.
+
 Dialoger har hållits på olika orter i kommunen. Målet är att tillsammans göra Botkyrka bättre genom att fånga upp invånarnas synpunkter och på så sätt stärka närdemokratin, så att de som bor i området får vara med och påverka politiska beslut om hur stadsdelen ska utvecklas. När pandemin slog till i början av 2020 blev kommunen tvungna att tänka om kring hur de kan fortsätta att ha dialoger med medborgarna utan att riskera att sprida smitta. En del av lösningen blev den digitala dialogplattformen Decidim. Digidem Lab har hjälpt till med anpassning och utbildning av plattformen.
 
 \- _“Vi är väldigt glada att vi kunde stötta Botkyrkadialogen och att de lyckades nå så många av sina invånare tack vare plattformen Decidim!_” säger Pierre från Digidem Lab.

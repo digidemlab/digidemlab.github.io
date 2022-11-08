@@ -8,10 +8,7 @@ thumbnail: "/uploads/nyhetsbrev.png"
 excerpt: Under våren får de som bor i Hammarkullen vara med och bestämma över
   hur 300 000 kr ska användas för att skapa sociala aktiviteter för de boende i Hammarkullen.
 ingress-text: 'Under våren får de som bor i Hammarkullen vara med och bestämma över
-  hur 300 000 kr ska användas för att skapa sociala aktiviteter för de boende i området.
-  Under temat “tillsammans igen” sker träffar i vår då hyresgästerna får lämna egna
-  idéer på aktiviteter och sedan rösta på förslag. Digidem Lab stöttar Bostadsbolaget
-  med boendebudgeten. '
+  hur 300 000 kr ska användas för att skapa sociala aktiviteter för de boende i området.'
 links:
 - url: https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/
   title: 'Biskopsgårdens nya boendebudget '
@@ -25,6 +22,11 @@ categories:
 clients:
 - _clients/bostadsbolaget.md
 ---
+
+Under temat “tillsammans igen” sker träffar i vår då hyresgästerna får lämna egna
+idéer på aktiviteter och sedan rösta på förslag. Digidem Lab stöttar Bostadsbolaget
+med boendebudgeten.
+
 ### Om uppdraget
 
 Boendebudgeten innebär att de som bor hos Bostadsbolaget i Hammarkullen får vara med och bestämma vad en del av Bostadsbolagets pengar ska användas till. Årets budget ligger på 300 000kr. Digidem Lab har tidigare stöttat i att genomföra [boendebudgetar i Biskopsgården](https://digidemlab.org/en-halv-miljon-i-biskopsgardens-nya-boendebudget/), som var de första i Norden att testa metoden. Vi stöttar processen när boende i Hammarkullen får lämna in idéer, utveckla projekt och rösta på förslag på vilka aktiviteter som ska utföras i området. Hyresgäster kommer lägga förslag kring temat sociala insatser för att främja umgänge i området.
