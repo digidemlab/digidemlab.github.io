@@ -2,10 +2,11 @@
 lang: sv
 date: 2022-03-21 13:17:07 +0100
 title: COLDIGIT - Nordiskt forskningssamarbete för digitalt deltagande
-redirect_from: /coldigit-nordisk-forskningssamarbete-for-digitalt-deltagande/
 image: "/uploads/coldigit_banner.jpg"
 thumbnail: "/uploads/coldigit_nyhetsbrev.jpg"
-excerpt: ''
+excerpt:  I det treåriga forskningsprojektet Collective Intelligence through Digital
+  Tools (COLDIGIT) studerar Digidem Lab tillsammans med ett internationellt team av
+  forskare hur digital demokrati kan användas för att skapa kollektiv intelligens.
 ingress-text: I det treåriga forskningsprojektet Collective Intelligence through Digital
   Tools (COLDIGIT) studerar Digidem Lab tillsammans med ett internationellt team av
   forskare hur digital demokrati kan användas för att skapa kollektiv intelligens.

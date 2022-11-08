@@ -7,7 +7,24 @@ image: "/uploads/medialab2.jpg"
 ref: work
 ---
 
-{% assign clients=site.clients | where:"lang", page.lang | sort:date | reverse %}
-{% for item in clients %}
+{% assign clients=site.clients | where:"lang", page.lang | sort:featured | reverse %}
+{% assign clientfeat=clients | group_by:"featured" | sort:"name" | reverse  %}
+
+
+{% for item in clientfeat[0].items %}
   {% include teaser.html %}
 {% endfor %}
+
+<hr>
+<div class="container">
+  <div class="columns is-centered">
+    <div class="column is-7-widescreen has-text-centered">
+    <!--  <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">{{site.t[page.lang].more-projects}}</h2> -->
+    </div>
+  </div>
+  <div class="columns partners is-mobile is-multiline is-vcentered is-centered is-variable is-tablet-8">
+    {% for item in clientfeat[1].items %}
+      {% include teaser-client.html %}
+    {% endfor %}
+  </div>
+</div>

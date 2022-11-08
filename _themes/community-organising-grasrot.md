@@ -1,7 +1,6 @@
 ---
 title: Community organising
 image: "/uploads/community organising (1).jpg"
-thumbnail: ''
 menu: services
 excerpt: Kurser och utbildningar i lokal organisering
 ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den

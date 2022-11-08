@@ -5,9 +5,9 @@ sv:
     url: /services/
     items:
       - title: Våra tjänster
-      - title: Medborgarbudget
+      - title: Medborgarbudget och medborgardeltagande
         url: /medborgarbudget/
-      - title: Medborgarjury
+      - title: Klimatpaneler och Medborgarjury
         url: /medborgarjury/
       - title: Community Organising
         url: /community-organising-grasrot/
@@ -28,7 +28,18 @@ sv:
 en:
   primary:
   - title: Services
+    ref: services
     url: /en/services/
+    items:
+      - title: Our services
+      - title: Participatory budget and citizen participation
+        url: /participatory-budget/
+      - title: Citizen Panels and Climate Assemblies
+        url: /citizen-panel/
+      - title: Community Organising
+        url: /community-organising-grass-roots/
+      - title: Civic Tech and Digital Development
+        url: /civic-tech-development/
   - title: Work
     url: /en/work/
   - title: About

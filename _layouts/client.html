@@ -84,21 +84,14 @@ layout: default
         <div class="container">
           <div class="columns is-centered">
             <div class="column is-7-widescreen has-text-centered">
-              <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">Uppdrag</h2>
-              <p>Fler uppdrag inom {{theme_post[0].title}}.</p>
+              <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">{{site.t[page.lang].project-title}}</h2>
+              <p>{{site.t[page.lang].project-related-more}} {{theme_post[0].title}}.</p>
             </div>
           </div>
-          <div class="columns partners is-multiline is-vcentered is-centered is-variable is-8">
-
+          <div class="columns partners is-mobile is-multiline is-vcentered is-centered is-variable is-tablet-8">
             {% for item in client %}
               {% if item.categories contains theme and item.url != page.url %}
-                <div class="column is-6-tablet is-4-desktop is-3-widescreen">
-                  <a href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
-                    <figure class="image is-3by2 image-logo">
-                      <img src="{{site.baseurl}}{{item.logotype}}" alt="{{item.title}}" style="#min-height:100%">
-                    </figure>
-                  </a>
-                </div>
+                {% include teaser-client.html %}
               {% endif %}
             {% endfor %}
           </div>

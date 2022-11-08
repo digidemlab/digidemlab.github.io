@@ -1,19 +1,16 @@
 ---
-title: Civic Tech och Digital Development
+title: Civic Tech and Digital Development
 image: "/uploads/civictech.jpg"
 thumbnail: ''
 menu: services
-excerpt: Nätverksträffar och koordinering av civic tech-utveckling
-ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
-  förändring ni vill se! Digidem Lab erbjuder kurser i Community organising
+excerpt: Networking meetings and coordination of civic tech development
+ingress-text: Digidem Lab promotes inclusive and citizen-centric digital development.
 icon: "/assets/images/icon-process.svg"
 items:
-- text: Design av steg-för-ste-gmodell med instruktioner om varje fas.
-- text: Förankring av metoder i arbets- och ledningsgrupp.
-- text: Workshop för nyckelpersoner bland medarbetare och civilsamhälle.
+- text: Develops digital technologies for civil society.
+- text: Building alliances in the civic tech field.
+- text: Advocating for inclusive and citizen-centric digital development.
 ref: civictech
 lang: en
 ---
-Digidem Lab erbjuder kurser i organisering med fokus på lokala sammanhang där deltagare får metoder och verktyg för att stärka ett community. Kursen är både teoretisk och praktisk och ger en grund i att navigera strategi, makt, jämlikhet, lyssnande med mera. Deltagarna har möjlighet att testa metoder direkt och reflektera över hur de kan användas i deras egen kontext.
-
-Kursen vänder sig till lokala organisatörer som på något sätt arbetar med lokal utveckling, föreningsaktiva, lokala ledare, facilitatörer och aktivister som inser behovet av att bygga makt underifrån och vill utveckla sin egen och andras förmåga att själva organisera för att skapa den förändring de vill se.
+We support associations and civil society with technological development and are a driving force in Civic Tech Sweden, part of the international Code for All network.

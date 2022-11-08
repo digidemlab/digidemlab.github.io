@@ -1,0 +1,13 @@
+---
+title: News
+description: News från Digidem Lab
+layout: page
+# ingress-text:
+image: "/uploads/medialab2.jpg"
+ref: news
+---
+
+{% assign news=site.posts | where:"lang", page.lang | sort:date | reverse %}
+{% for item in news %}
+  {% include teaser-news.html %}
+{% endfor %}

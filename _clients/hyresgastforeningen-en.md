@@ -4,16 +4,16 @@ title: Hyresgästföreningen - Vår stad
 featured: false
 logotype: '/uploads/logo-hyresgastforeningen.svg'
 image: /uploads/hyresgastforeningen-varstad.png
-ingress-text: Digidem Lab har utvecklat metoder för community organising och en digital plattform för Hyresgästföreningen.
-excerpt: Digidem Lab har utvecklat metoder för community organising och en digital plattform för Hyresgästföreningen.
+ingress-text: "Digidem Lab has developed methods for community organising and a digital platform for the national Swedish Tenants' Association."
+excerpt: "Digidem Lab has developed methods for community organising and a digital platform for the national Swedish Tenants' Association."
 client: Hyresgästföreningen
 links:
   - title: Hyresgästföreningen - Vår stad
     url: https://varstad.hyresgastforeningen.se/
 year: 2021-2022
 ref: hyresgastforeningen
-lang: sv
+lang: en
 categories:
-- _themes/medborgarbudget.md
-- _themes/community-organising-grasrot.md
+- _themes/participatory-budget.md
+- _themes/community-organising-grass-roots.md
 ---

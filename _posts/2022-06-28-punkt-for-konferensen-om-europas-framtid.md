@@ -5,13 +5,12 @@ title: Punkt för Konferensen om Europas Framtid
 permalink: /punkt-for-konferensen-om-europas-framtid/
 image: "/uploads/1200x629.jpg"
 thumbnail: "/uploads/untitled-design-44.png"
-excerpt: ''
+excerpt: Den 9 maj 2022, på Europadagen, avslutades Konferensen om Europas Framtid
+  och satte punkt för ett unikt år av event, debatt och deliberation mellan medborgare
+  från hela Europa om vilket EU de vill leva i.
 ingress-text: Den 9 maj 2022, på Europadagen, avslutades Konferensen om Europas Framtid
   och satte punkt för ett unikt år av event, debatt och deliberation mellan medborgare
-  från hela Europa om vilket EU de vill leva i. Digidem Lab var från början till slutet
-  en av de organisationer som stöttade EU-kommissionen i förberedelser och genomförandet
-  av den största medborgardialogen på EU-nivå någonsin. Med detta inlägg tänkte vi
-  sammanfatta det hela samt ge lite inspel kring vad som kan komma.
+  från hela Europa om vilket EU de vill leva i.
 links:
 - title: Medborgarpanel i Strasbourg
   url: https://digidemlab.org/news/digidem-lab-faciliterar-pa-eus-medborgarjuries/
@@ -37,6 +36,11 @@ categories:
 clients:
 - _clients/konferensen-om-europas-framtid.md
 ---
+Digidem Lab var från början till slutet
+en av de organisationer som stöttade EU-kommissionen i förberedelser och genomförandet
+av den största medborgardialogen på EU-nivå någonsin. Med detta inlägg tänkte vi
+sammanfatta det hela samt ge lite inspel kring vad som kan komma.
+
 Konferensen om Europas Framtid som pågått mellan april 2021 och maj 2022 har fungerat som ett offentligt forum för en öppen och inkluderande debatt om flera viktiga prioriteringar och utmaningar inom EU. En omfattande demokratisk process där människor från hela EU genom paneler, debatter och diskussioner delat med sig av sina idéer och bidragit till att forma vår gemensamma framtid. Först öppnades en digital plattform baserad på det öppna verktyget Decidim där alla i EU kunde lämna sina idéer, organisera och delta i event. Plattformen fick över 5 miljoner unika besökare, 700 000 deltog i event runt om i Europa, och av dessa kom nästan 19 000 idéer. Redan från maj 2020 var Digidem Lab involverad, med vår fransk partner Open Source Politics och flera andra organisationer från hela EU för att designa plattformen och hur medborgarna skulle involveras (det skrev vi mer om i [ett första inlägg](https://digidemlab.org/digidem-lab-stotttar-eu-s-storsta-medborgardialog-nagonsin/)). För att möta konferensens oerhörda behov, fick Decidim flera förbättringar för att göra det helt flerspråkigt (alla deltagare kunde skriva sina inlägg och läsa andras i sitt eget språk bland de 24 officiella EU-språk) och koppla det till avancerade analysverktyg. Efter lanseringen fortsatte vi att rådge EU-kommissionen, bl.a. med veckovisa rapporter om konferensens aktivitet som pekade på olika brister i deltagandet och hjälpte kommissionen och medlemsstaterna att rikta sin kommunikation.
 
 ![](/uploads/graf.jpg)  

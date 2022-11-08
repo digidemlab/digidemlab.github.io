@@ -6,7 +6,8 @@ title: Digidem Lab stöttar kvartersbudget i Malmö -  150 000 kronor ska ge liv
 permalink: /digidem-lab-stottar-kvartersbudget-i-malmo-150-000-kronor-ska-ge-liv-at-grannskapstradgarden-naturmolnet/
 image: "/uploads/naturmolnet_stor.jpg"
 thumbnail: "/uploads/naturmolnet_liten.png"
-excerpt: ''
+excerpt: Nu får boende i Sofielund komma med förslag på vad som ska hända i grannskapsträdgården
+  Naturmolnet. Till sitt förfogande har de en kvartersbudget på 150 000 kronor.
 ingress-text: Nu får boende i Sofielund komma med förslag på vad som ska hända i grannskapsträdgården
   Naturmolnet. Till sitt förfogande har de en kvartersbudget på 150 000 kronor som
   ska användas för att skapa sociala aktiviteter och ge liv åt platsen. Digidem Lab

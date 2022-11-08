@@ -1,9 +1,7 @@
 ---
 title: Våra tjänster
 description: Digidem Lab erbjuder nya verktyg och metoder för medborgardeltagande.
-layout: services
 ref: services
-menu: services
 # links:
 # - title: Tillfälligt krispaket för dialogprocesser under Corona-krisen
 #   url: "/uploads/Digidem Lab Krispaket.pdf"
@@ -27,3 +25,15 @@ mission:
     text: Vi erbjuder utbildning och support från idé till genomförande av deltagarprocesser,
       inom såväl digital utveckling som fysiska metoder.
 ---
+
+{% assign themes=site.themes | where:"lang", page.lang | reverse %}
+
+<section id="services" class="section">
+  <div class="container">
+    {% for item in themes %}
+      {% include teaser-icon.html %}
+    {% endfor %}
+  </div>
+</section>
+
+{% include mission.html %}

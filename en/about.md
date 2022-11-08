@@ -1,47 +1,37 @@
 ---
 title: We are Digidem Lab
-description: We work to improve citizen participation according to the UN Global Goals.
+description: Digidem Lab works for the deepening and expansion of participatory democracy at all levels of society.
 ref: about
 image: "/uploads/medialab.jpg"
-ingress-text: We work to improve citizen participation according to the UN Global
-  Goals.
+ingress-text: Digidem Lab works for the deepening and expansion of participatory democracy at all levels of society.
 ---
 
-We do this by providing methods and platforms for citizen participation and decision making with a focus on under-represented groups.
+We are a worker-owned cooperative that designs and develops methods for political and democratic innovation. We are passionate about participatory democracy and support practices that empower people to influence the decisions that affect their lives.
 
-The aim is to create sustainable frameworks for citizen participaton. Citizens should feel reassured and empowered in their participation and civil servants should have access to effective tools to administer participation.
+## Our values
+### Participation
+We believe in developing democracy to include more aspects of society and developing methods to create greater participation. We believe in co-creation in all aspects of our work, including the development of processes and digital tools for participation.
 
-<div class="box">
-  <h2>The Global Goals</h2>
-  <p class="is-medium">We work according to UN's Global Goals for Sustainable Development, focusing on:</p>
-  <p><strong>10.2</strong> By 2030, empower and promote the social, economic and political inclusion of all, irrespective of age, sex, disability, race, ethnicity, origin, religion or economic or other status.</p>
-  <p><strong>16.7</strong> Ensure responsive, inclusive, participatory and representative decision-making at all levels.</p>
-  <p><strong>11.3</strong> By 2030, enhance inclusive and sustainable urbanization and capacity for participatory, integrated and sustainable human settlement planning and management in all countries.</p>
-</div>
+### Mandate
 
-An important part of our work is also to be a lab - a place to test and develop new methods and platforms. Digidem Lab has sponsored [over 30 projects](/lab/en/) by young people, and are founders of  [Civic Tech Sweden](http://civictech.se/en), a network for strengthening the civic tech sector.
+We want people who are affected by decisions to have a say in making them. We work to ensure that our projects have a clearly defined mandate for participants.
 
-# Our team
+### Transparency
+We promote greater transparency in participatory processes. We share our knowledge and experience. Our digital tools are open source to ensure security and auditability.
 
-{% assign crew=site.crew | where:"lang", page.lang %}
+### Cooperation
+We build on the successful experiences and work of others and strive to share our knowledge, code and expertise with others.
 
-<div class="columns">
-  <div class="column is-offset-1-widescreen is-10-widescreen">
-    <div class="columns is-desktop is-multiline">
-      {% for item in crew %}
-        <div class="column is-half-desktop teaser-crew">
-          <figure class="image is-4by3">
-            <img src="{{site.baseurl}}{{item.image}}">
-          </figure>
-          <h3 class="title is-6">{{item.title}}</h3>
-          <p>
-            {% if item.job %}{{item.job}}<br>{% endif %}
-            {% if item.phone %}<a href="tel:{{item.phone}}" class="text-white">{{item.phone}}</a><br>{% endif %}
-            {% if item.mail %}<a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>{% endif %}
-          </p>
-          {{item.content}}
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
+### Continuous learning
+We are constantly developing our methods and tools for participation to adapt them to a changing reality.
+
+## How we work
+We see participation as a process in which we can take action on specific steps, while being aware of the process as a whole. This model was developed by the EU D-CENT project.
+
+![Democracy Spiral]({{site.baseurl}}/uploads/spiral_numbers.svg)
+![Democracy Spiral]({{site.baseurl}}/uploads/deltagandespiral_text_en.png)
+
+## What we do
+* Process development and advice for participatory processes
+* Training in democratic participation and community building
+* Development and support of digital tools for participation and transparency

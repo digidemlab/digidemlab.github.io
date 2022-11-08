@@ -92,8 +92,7 @@ whitelist:
 emptyArray: []
 t:
   sv:
-    mission: Digidem Lab arbetar för en fördjupning och expandering av deltagande demokrati inom alla nivåer av samhället.
-      Vi är ett arbetarägt kooperativ som designar och utvecklar metoder för politisk och demokratisk innovation.
+    mission: Digidem Lab tror på att förbättra, utveckla och nyskapa vår demokrati. Vi tror på att förflytta makt och mandat att formulera samhällets problem och lösningar. Därför tillhandahåller och utvecklar vi metoder för politisk och demokratisk innovation.
     language: Svenska
     member:
     - title: Styrelsemedlem i Global Participatory Budgeting Hub.
@@ -106,19 +105,29 @@ t:
     - title: Utveckling av medborgardialog i Göteborg och Stockholm med stöd av Vinnova.
       image: "/assets/images/logo-vinnova.png"
       url: https://www.vinnova.se/
-    project-title: Våra uppdrag
+    project-title-start: Våra uppdrag
+    project-title: Uppdrag
+    project-related: Uppdrag inom
+    project-related-more: Fler uppdrag inom
+    project-intro: Vi utvecklar demokratiskt deltagande för allt från internationella institutioner och städer
+       till lokalt föreningsliv.
     project-link: Läs mer om uppdraget
     more-projects: Fler uppdrag
+    project-client: Uppdragsgivare
+    project-duration: Projektperiod
+    project-partners: Partners
+    project-website: Webbplats
+    services-title: Vi erbjuder
     more-services: Läs mer om våra tjänster
-    news: Nyheter
+    news: Aktuellt
+    news-related: Aktuellt inom
     more-news: Fler nyheter
     read-more: Läs mer
     contact-title: Vill du veta mer?
     contact-text: Kontakta oss för att diskutera gemensamma projekt eller få ett prisförslag
       på våra tjänster.
   en:
-    mission: Digidem Lab offers services and develops platforms for the participatory
-      democracy of the future.
+    mission: "Digidem Lab believes in improving, developing and innovating our democracy. We believe in shifting power and mandate to formulate society's problems and solutions. Therefore, we provide and develop methods for political and democratic innovation."
     language: English
     member:
     - title: Board member of Global Participatory Budgeting Hub.
@@ -131,11 +140,21 @@ t:
         Vinnova.
       image: "/assets/images/logo-vinnova.png"
       url: https://www.vinnova.se/en/
+    project-title-start: Projects
     project-title: Projects
+    project-related: Projects about
+    project-related-more: Other projects about
+    project-intro: We develop participatory democracy for everything from international institutions and cities to local associations.
     project-link: Read about the project
     more-projects: More projects
+    project-client: Client
+    project-duration: Duration
+    project-partners: Partners
+    project-website: Website
+    services-title: Our services
     more-services: Read more about our services
     news: News
+    news-related: News about
     more-news: More news
     read-more: Read more
     contact-title: Get in touch!

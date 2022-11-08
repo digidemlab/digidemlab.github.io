@@ -1,0 +1,31 @@
+---
+title: Contact
+description: Get in touch to discuss ideas for projects or cooperation.
+ingress-text: Get in touch to discuss ideas for projects or cooperation.
+ref: contact
+image: "/uploads/communityorg.jpg"
+contact: true
+---
+
+{% assign crew=site.crew | where:"lang", page.lang %}
+
+<div class="columns">
+  <div class="column is-offset-1-widescreen is-10-widescreen">
+    <div class="columns is-desktop is-multiline">
+      {% for item in crew %}
+        <div class="column is-half-desktop teaser-crew">
+          <figure class="image is-4by3">
+            <img src="{{site.baseurl}}{{item.image}}">
+          </figure>
+          <h3 class="title is-6">{{item.title}}</h3>
+          <p>
+            {{item.job}}<br>
+            {{item.phone}}<br>
+            <a href="mailto:{{item.mail}}" class="text-white">{{item.mail}}</a>
+          </p>
+          {{item.content}}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

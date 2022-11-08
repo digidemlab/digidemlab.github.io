@@ -1,7 +1,7 @@
 <section class="section no-padding-width" id="services">
   <div class="services">
     <div class="container">
-      <h2 class="title is-5 is-size-4-tablet is-size-3-desktop is-size-2-widescreen">Vi erbjuder</h2>
+      <h2 class="title is-5 is-size-4-tablet is-size-3-desktop is-size-2-widescreen">{{site.t[page.lang].services-title}}</h2>
       <div class="columns is-centered is-mobile is-multiline">
 
         {% assign theme=site.themes | where:"lang", page.lang | sort:date | reverse %}
@@ -13,7 +13,7 @@
                 <img src="{{site.baseurl}}{{item.icon}}">
               </a>
             </figure>
-            <h3 class="title is-6"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h3>
+            <h3 class="title is-size-6"><a href="{{site.baseurl}}{{item.url}}">{{item.title}}</a></h3>
             <ul>
               {% for item in item.items %}
                 <li>{{item.text}}</li>

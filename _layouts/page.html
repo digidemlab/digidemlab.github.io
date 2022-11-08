@@ -41,12 +41,12 @@ layout: default
     </div>
 
     {% if page.clients %}
-    <aside class="facts project has-text-right-widescreen">
-      <h2 class="title is-6">Uppdrag</h2>
+    <aside class="project has-text-right-widescreen has-text-centered">
+      <h2 class="title is-6 is-hidden-widescreen">Uppdrag</h2>
         {% for item in page.clients %}
           {% assign clients=site.clients | where:"path", item %}
           {% assign client=clients[0] %}
-          <figure class="image is-3by2 image-logo">
+          <figure class="image image-logo">
             <a href="{{site.baseurl}}{{client.url}}">
               <img src="{{site.baseurl}}{{client.logotype}}" alt="{{client.title}}" title="{{client.title}}">
             </a>
@@ -58,8 +58,8 @@ layout: default
 
     {% for item in site.data.menu[page.lang].primary %}
       {% if page.menu == item.ref and item.items %}
-        <aside class="menu">
-          <ul class="menu-list">
+        <aside class="menu" id="accordion-menu">
+          <ul class="menu-list accordion-body">
             {% for item in item.items %}
               {% if item.url %}
                 <li><a class="{% if item.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
@@ -73,8 +73,8 @@ layout: default
                 </li>
               {% else %}
               </ul>
-              <p class="menu-label">{{ item.title }}</p>
-              <ul class="menu-list">
+              <p class="menu-label accordion-head">{{ item.title }}</p>
+              <ul class="menu-list accordion-body">
               {% endif %}
             {% endfor %}
           </ul>
@@ -110,29 +110,33 @@ layout: default
 {% if page.path contains "_themes" %}
 
   {% assign client=site.clients | where:"lang", page.lang | sort:date | reverse %}
-  <section id="projects" class="section">
-    <div class="container">
-      <div class="columns is-centered">
-        <div class="column is-7-widescreen has-text-centered">
-          <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">Uppdrag</h2>
-          <p>Uppdrag inom {{page.title}}.</p>
+
+  <!-- check if there are any posts -->
+  {% for item in client %}
+    {% if item.categories contains page.path %}
+      {% assign ifclients=true %}
+    {% endif %}
+  {% endfor %}
+
+  {% if ifclients %}
+    <section id="projects" class="section">
+      <div class="container">
+        <div class="columns is-centered">
+          <div class="column is-7-widescreen has-text-centered">
+            <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">{{site.t[page.lang].project-title}}</h2>
+            <p>{{site.t[page.lang].project-related}} {{page.title}}.</p>
+          </div>
+        </div>
+        <div class="columns partners is-mobile is-multiline is-vcentered is-centered is-variable is-tablet-8">
+          {% for item in client %}
+            {% if item.categories contains page.path %}
+              {% include teaser-client.html %}
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
-      <div class="columns partners is-multiline is-vcentered is-centered is-variable is-8">
-        {% for item in client %}
-          {% if item.categories contains page.path %}
-            <div class="column is-6-tablet is-4-desktop is-3-widescreen">
-              <a href="{{site.baseurl}}{{item.url}}" title="{{item.title}}">
-                <figure class="image is-3by2 image-logo">
-                    <img src="{{site.baseurl}}{{item.logotype}}" alt="{{item.title}}" style="#min-height:100%">
-                </figure>
-              </a>
-            </div>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  </section>
+    </section>
+  {% endif %}
 
 
   <!-- Limit to last three years -->
@@ -140,26 +144,38 @@ layout: default
   {% assign news=site.posts | where:"lang", page.lang | sort:date | reverse %}
   {% assign news_recent=site.posts | where:"lang", page.lang | sort:date | reverse %}
 
-  <section id="projects" class="section">
-    <div class="container">
-      <div class="columns is-centered">
-        <div class="column is-7-widescreen has-text-centered">
-          <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">Aktuellt</h2>
-          <p>Aktuellt inom {{page.title}}.</p>
+  <!-- check if there are any posts -->
+  {% for item in news %}
+    {% if item.categories contains page.path %}
+      {% assign item_year = item.date | date: "%Y" %}
+      {% if item_year >= last_years %}
+        {% assign ifnews=true %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+  {% if ifnews %}
+    <section id="projects" class="section">
+      <div class="container">
+        <div class="columns is-centered">
+          <div class="column is-7-widescreen has-text-centered">
+            <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">{{site.t[page.lang].news}}</h2>
+            <p>{{site.t[page.lang].news-related}} {{page.title}}.</p>
+          </div>
+        </div>
+        <div class="columns is-desktop is-multiline">
+          {% for item in news %}
+            {% if item.categories contains page.path %}
+              {% assign item_year = item.date | date: "%Y" %}
+              {% if item_year >= last_years %}
+                {% include teaser-small.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
         </div>
       </div>
-      <div class="columns is-desktop is-multiline">
-        {% for item in news %}
-          {% if item.categories contains page.path %}
-            {% assign item_year = item.date | date: "%Y" %}
-            {% if item_year >= last_years %}
-              {% include teaser-small.html %}
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    </div>
-  </section>
+    </section>
+  {% endif %}
 
 {% endif %}
 
@@ -182,8 +198,8 @@ layout: default
       <div class="container">
         <div class="columns is-centered">
           <div class="column is-7-widescreen has-text-centered">
-            <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">Aktuellt</h2>
-            <p>Aktuellt om {{clients[0].title}}.</p>
+            <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">{{site.t[page.lang].news}}</h2>
+            <p>{{site.t[page.lang].news-related}} {{clients[0].title}}.</p>
           </div>
         </div>
         <div class="columns is-desktop is-multiline">

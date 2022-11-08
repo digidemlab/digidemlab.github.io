@@ -3,7 +3,7 @@ title: Civic Tech och Digital utveckling
 image: "/uploads/civictech.jpg"
 thumbnail: ''
 menu: services
-excerpt:  Digidem Lab verkar för en inkluderande och medborgarcentrerad digital utveckling
+excerpt: Nätverksträffar och koordinering av civic tech-utveckling
 ingress-text: Digidem Lab verkar för en inkluderande och medborgarcentrerad digital utveckling.
 icon: "/assets/images/icon-process.svg"
 items:

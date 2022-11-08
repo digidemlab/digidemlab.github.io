@@ -183,6 +183,10 @@ a.title {
 
 // Mission, Services
 
+#mission-top {
+  padding-bottom: 0;
+}
+
 .mission-top {
   @extend .notification;
   padding: 1.5rem 2.5rem;
@@ -213,10 +217,18 @@ a.title {
   @include from($desktop) {
     padding: 3rem 4.625rem 3.5rem;
   }
+
+  h3.is-size-6 {
+    @include widescreen-only {
+      font-size: 1.25rem !important;
+
+    }
+  }
 }
 
 .image-icon {
-  margin: 1rem;
+  padding: 1rem;
+  margin: auto;
 }
 
 .services-items {
@@ -255,7 +267,8 @@ a.title {
   }
 
   &.is-300x300,
-  &.is-240x240 {
+  &.is-240x240,
+  &.is-1by1 {
     max-width: 100%;
   }
 }
@@ -329,6 +342,16 @@ a.title {
   .hero {
     @include gradients($green, $ash, $pink);
   }
+}
+
+#page-services #services .image {
+  @include desktop-only {
+    height: 160px;
+  }
+  @include until($desktop) {
+    margin: 0 auto 0.5em;
+  }
+
 }
 
 
@@ -509,18 +532,19 @@ svg.logo-dropdown {
 
 
 .box {
-  margin-top: 3rem;
-  margin-bottom: 3rem !important;
+
 
   @include until($desktop) {
     padding: 0;
-    margin: 2rem 0 !important;
+    // margin: 2rem 0 !important;
   }
 
   @include from($desktop) {
     background-image: url("../images/box-top.png"), url("../images/box-bottom.png");
     background-repeat: no-repeat;
     background-position: 2% 0%, 98% 100%;
+    margin-top: 3rem;
+    margin-bottom: 3rem !important;
   }
 
   strong {
@@ -532,21 +556,42 @@ svg.logo-dropdown {
   }
 }
 
-.box.facts {
+.box.client {
   font-family: $family-monospace;
   font-size: 1rem;
-  padding-top: 2rem;
-  padding-bottom: 3rem;
+  margin-bottom: 0;
+
+  @include until($tablet) {
+    .column {
+      padding-top: 0 !important;
+      padding-bottom: 0 !important;
+    }
+
+    .image-logo {
+      margin-top: -1rem;
+      margin-bottom: -1rem;
+    }
+  }
+
+  @include from($desktop) {
+    padding-top: 2.2rem;
+    padding-bottom: 3rem;
+  }
 
   h3 {
     font-weight: bold;
     font-size: 1.1rem;
-    margin: 2rem 0 0.3rem;
+    margin: 1rem 0 0.3rem;
+    @include from($desktop) {
+      margin-top: 2rem;
+    }
   }
 
   .image-logo {
-    margin-top: -1rem;
-    margin-right: 2rem;
+// margin-top: -1rem;
+  @include from($desktop) {
+      margin-right: 2rem;
+    }
   }
 }
 
@@ -558,6 +603,7 @@ svg.logo-dropdown {
 @include until($desktop) {
 
   #mission p,
+  .mission-top p,
   .teaser-crew p,
   .teaser-small p,
   .teaser p,
@@ -1107,8 +1153,11 @@ aside {
 // Page
 
 .columns.columns-header {
-  margin-bottom: 4rem !important;
+  margin-bottom: 1rem !important;
 
+  @include from($tablet) {
+    margin-bottom: 4rem !important;
+  }
   @include from($widescreen) {
     margin-bottom: 6rem !important;
   }
@@ -1152,6 +1201,10 @@ aside {
   }
 }
 
+aside .image-logo {
+  margin-bottom: 2rem;
+}
+
 .image-logo {
   margin: 1rem auto 0;
 
@@ -1159,6 +1212,7 @@ aside {
     width: auto !important;
     max-height: 100% !important;
     transition: all 0.5s ease-out;
+    margin: 0 auto;
 
     &:hover,
     &:active {
@@ -1208,40 +1262,43 @@ aside {
 }
 
 // Accordion
-.accordion-head {
-  &::before {
-    @include monospace;
-    font-size: 1.5rem !important;
-    font-weight: normal;
-    content: '+';
-    padding-right: 0.5rem;
-    color: $purple;
+#accordion-basic {
+   .accordion-head {
+    &::before {
+      @include monospace;
+      font-size: 1.5rem !important;
+      font-weight: normal;
+      content: '+';
+      padding-right: 0.5rem;
+      color: $purple;
+    }
+
+    &.open::before {
+      content: '−';
+    }
   }
 
-  &.open::before {
-    content: '−';
+  .accordion-head:hover {
+    cursor: pointer;
+  }
+
+  .accordion-body {
+    display: none;
+  }
+
+  .accordion-body.open {
+    display: block;
   }
 }
-
-.accordion-head:hover {
-  cursor: pointer;
-}
-
-.accordion-body {
-  display: none;
-}
-
-.accordion-body.open {
-  display: block;
-}
-
 
 // Menu
 
 .menu {
-  border-bottom: 1.5rem solid $grey-light;
-  margin-bottom: 3rem;
-  padding-bottom: 2rem;
+  @include from($widescreen) {
+    border-bottom: 1.5rem solid $grey-light;
+    margin-bottom: 3rem;
+  }
+  padding-bottom: 1rem;
 }
 
 .menu-list a {
@@ -1257,6 +1314,39 @@ aside {
   @include monospace;
   text-transform: none !important;
 }
+
+#accordion-menu {
+  @include until($widescreen) {
+
+    .accordion-head {
+      &::before {
+        @include monospace;
+        font-weight: normal;
+        padding-right: 0.5rem;
+        content: '+';
+        color: $purple;
+      }
+
+      &.open::before {
+        content: '−';
+      }
+    }
+
+    .accordion-head:hover {
+      cursor: pointer;
+    }
+
+    .accordion-body {
+      display: none;
+    }
+  }
+
+  .accordion-body.open {
+    display: block;
+  }
+}
+
+
 
 // Misc
 

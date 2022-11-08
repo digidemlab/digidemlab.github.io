@@ -3,17 +3,17 @@ title: Community organising
 image: "/uploads/community organising (1).jpg"
 thumbnail: ''
 menu: services
-excerpt: Kurser och utbildningar i lokal organisering
-ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
-  förändring ni vill se! Digidem Lab erbjuder kurser i Community organising
+excerpt: Training for community organisers
+ingress-text: Organise with your local community to create the change you want to see! Digidem Lab offers training in community organising.
 icon: "/assets/images/icon-campaign.svg"
 items:
-- text: Design av steg-för-ste-gmodell med instruktioner om varje fas.
-- text: Förankring av metoder i arbets- och ledningsgrupp.
-- text: Workshop för nyckelpersoner bland medarbetare och civilsamhälle.
+- text: Methods for local organising.
+- text: Build local knowledge and power.
+- text: Create resilient and strong organisations.
 ref: communityorg
 lang: en
 ---
-Digidem Lab erbjuder kurser i organisering med fokus på lokala sammanhang där deltagare får metoder och verktyg för att stärka ett community. Kursen är både teoretisk och praktisk och ger en grund i att navigera strategi, makt, jämlikhet, lyssnande med mera. Deltagarna har möjlighet att testa metoder direkt och reflektera över hur de kan användas i deras egen kontext.
 
-Kursen vänder sig till lokala organisatörer som på något sätt arbetar med lokal utveckling, föreningsaktiva, lokala ledare, facilitatörer och aktivister som inser behovet av att bygga makt underifrån och vill utveckla sin egen och andras förmåga att själva organisera för att skapa den förändring de vill se.
+Digidem Lab offers courses in organising with a focus on local contexts, providing participants with methods and tools to strengthen their community. The course is both theoretical and practical and provides a foundation in navigating strategy, power, equity, listening and more. Participants have the opportunity to test methods directly and reflect on how they can be used in their own context.
+
+The course is aimed at local organisers who are in some way working on local development, association activists, community leaders, facilitators and activists who recognise the need to build power from below and want to develop their own and others' capacity to self-organise to create the change they want to see.

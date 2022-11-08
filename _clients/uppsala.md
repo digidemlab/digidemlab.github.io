@@ -4,8 +4,8 @@ title: Uppsala kommun
 featured: false
 image: /uploads/skarmavbild-2020-09-28-kl-11-10-49.png
 logotype: '/uploads/logo-uppsala.svg'
-ingress-text: Uppsala kommun satsar inkluderande medborgardeltagande.
-excerpt: Uppsala kommun satsar inkluderande medborgardeltagande.
+ingress-text: Uppsala kommun satsar på inkluderande medborgardeltagande.
+excerpt: Uppsala kommun satsar på inkluderande medborgardeltagande.
 client: Uppsala kommun
 year: 2020
 ref: uppsala

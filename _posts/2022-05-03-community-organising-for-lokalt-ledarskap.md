@@ -5,7 +5,9 @@ title: Community Organising för lokalt ledarskap
 permalink: /community-organising-for-lokalt-ledarskap/
 image: "/uploads/postkod.jpg"
 thumbnail: "/uploads/postkod_liten.jpg"
-excerpt: ''
+excerpt:  Det organiseras kring bostäder, val och skola i Göteborgs förorter.
+  Nu kommer organisatörerna för första gången erbjudas en vidareutbildning i lokal
+  organisering.
 ingress-text: Det organiseras kring bostäder, val och skola i Göteborgs förorter.
   Nu kommer organisatörerna för första gången erbjudas en vidareutbildning i lokal
   organisering. Många som aktivt vill påverka samhällsutvecklingen märker att inte

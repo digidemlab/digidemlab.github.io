@@ -34,7 +34,7 @@ layout: default
   </section>
 {% endif %}
 
-<section class="section">
+<section class="section" id="mission-top">
     <div class="notification is-info mission-top container">
       <p class="subtitle is-6">{{site.t[page.lang].mission}}</p>
     </div>
@@ -56,7 +56,7 @@ layout: default
           <p class="is-size-7 is-hidden-widescreen">{{ item.ingress-text }}</p>
 
           <div class="links is-hidden-touch is-hidden-desktop-only">
-            <a class="button" href="{{site.baseurl}}{{item.url}}">{{site.t[page.lang].project-link}}</a>
+            <a class="button" href="{{site.baseurl}}{{item.url}}">{{site.t[page.lang].read-more}}</a>
           </div>
         </div>
       </div>
@@ -74,7 +74,7 @@ layout: default
     {% endfor %}
 
     <p class="has-text-right-desktop has-text-centered read-more">
-      <a class="button" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/work/">{{site.t[page.lang].more-news}}</a>
+      <a class="button" href="{{site.baseurl}}{% if page.lang=='en' %}/en{% endif %}/news/">{{site.t[page.lang].more-news}}</a>
     </p>
   </div>
 </section>

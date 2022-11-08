@@ -1,0 +1,32 @@
+---
+title: Our services
+description: Digidem Lab offers a range of methods and platforms for citizen participation.
+ref: services
+image: "/uploads/usertesting-top.jpg"
+ingress-text: We design inclusive processes for citizen participation.
+contact: true
+mission:
+  title: How we work
+  item:
+  - title: Inclusive participation
+    image: "/uploads/paris-small.jpg"
+    text: We design citizen centered processes based on international experiences and methods, to specifically involve under-represented groups.
+  - title: Security and flexibility
+    image: "/uploads/workshop-small.jpg"
+    text: We use Decidim, the leading digital platform for citizen participation, with millions of users all over the world.
+  - title: Simpler administration of dialogues
+    image: "/uploads/usertesting-small.jpg"
+    text: By implementing a digital platform for citizen participation, local authorities can administer all their processes from one place.
+---
+
+{% assign themes=site.themes | where:"lang", page.lang | reverse %}
+
+<section id="services" class="section">
+  <div class="container">
+    {% for item in themes %}
+      {% include teaser-icon.html %}
+    {% endfor %}
+  </div>
+</section>
+
+{% include mission.html %}

@@ -23,10 +23,10 @@ Vi vill att personer som är berörda av beslut ska ha vara med och fatta dem. V
 Vi verkar för större transparens inom deltagandeprocesser. Vi delar med oss av våra kunskaper och erfarenheter. Våra digitala verktyg har öppen källkod för att garantera säkerhet och möjlighet till granskning.
 
 ### Samarbete
-Vi bygger vidare på andras lyckade erfarenheter och arbete och strävar efter att dela med oss av vår kunskap, kod och kunnande till andra. Vi bygger allianser lokalt, nationellt och internationellt med likasinnade organisationer och nätverk. Vi jobbar med olika typer av aktörer oberoende av om de är offentliga institutioner, företag eller från föreningsliv om vi ser att de har möjlighet att åstadkomma förändring.
+Vi bygger vidare på andras lyckade erfarenheter och arbete och strävar efter att dela med oss av vår kunskap, kod och kunnande till andra.
 
 ### Kontinuerligt lärande
-Vi utvecklar ständigt våra metoder och verktyg för deltagande för att anpassa dem efter en föränderlig verklighet. Vi hämtar inspiration och knyter kontakter världen runt för kontinuerligt lärande, inpiration och innovation för att förbättra demokratin. Vi ser tvärvetenskaplighet och bredd som en tillgång.
+Vi utvecklar ständigt våra metoder och verktyg för deltagande för att anpassa dem efter en föränderlig verklighet.
 
 ## Hur vi arbetar
 Vi ser deltagande som en process där vi kan göra insatser inom specifika delar, samtidigt som vi är medvetna om hur processen som helhet ser ut. Den här modellen utvecklades inom EU-projektet D-CENT.

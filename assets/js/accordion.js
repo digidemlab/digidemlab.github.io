@@ -22,4 +22,6 @@ var jsaccordion = {
 // ON PAGE LOAD
 window.addEventListener('load', function(){
   jsaccordion.init("accordion-basic");
+  jsaccordion.init("accordion-menu");
+
 });

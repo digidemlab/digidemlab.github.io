@@ -5,7 +5,8 @@ title: 300 000 kronor i Hammarkullens boendebudget!
 permalink: /300-000-kronor-i-hammarkullens-boendebudget/
 image: "/uploads/hammarkullen5.jpg"
 thumbnail: "/uploads/nyhetsbrev.png"
-excerpt: ''
+excerpt: Under våren får de som bor i Hammarkullen vara med och bestämma över
+  hur 300 000 kr ska användas för att skapa sociala aktiviteter för de boende i Hammarkullen.
 ingress-text: 'Under våren får de som bor i Hammarkullen vara med och bestämma över
   hur 300 000 kr ska användas för att skapa sociala aktiviteter för de boende i området.
   Under temat “tillsammans igen” sker träffar i vår då hyresgästerna får lämna egna
