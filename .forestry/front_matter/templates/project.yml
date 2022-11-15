@@ -86,3 +86,5 @@ fields:
       type: pages
       section: themes
   label: Categories
+pages:
+- _projects/test-project-2.md
