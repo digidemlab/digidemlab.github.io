@@ -12,7 +12,7 @@ fields:
 - name: thumbnail
   type: file
   config:
-    maxSize: 
+    maxSize:
   label: Smaller image
   description: Bild 560px bred, till nyhetsbrev.
 - type: text
@@ -57,9 +57,9 @@ fields:
     - en
     source:
       type: simple
-      section: 
-      file: 
-      path: 
+      section:
+      file:
+      path:
   label: Language
   description: Språk. Välj mellan en för engelska eller sv för svenska.
 - name: date
@@ -68,8 +68,8 @@ fields:
   description: Publication date
   config:
     required: true
-    date_format: 
-    time_format: 
+    date_format:
+    time_format:
     display_utc: false
   hidden: true
   default: now
@@ -77,22 +77,22 @@ fields:
   type: list
   config:
     use_select: true
-    min: 
-    max: 
+    min:
+    max:
     source:
       type: pages
       section: themes
   label: Categories
-- name: projects
+- name: clients
   type: list
   config:
     use_select: true
     min: 
-    max: 
+    max:
     source:
       type: pages
-      section: projects
-  label: Projects
+      section: clients
+  label: Client
 pages:
 - _crew/stephanie-toro.md
 - _posts/2020-03-24-digitala-dialogverktyg-underlättar-i-corona-krisen.md
