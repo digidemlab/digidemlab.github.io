@@ -4,8 +4,8 @@ title: Dialogue in Skärholmen
 featured: true
 logotype: '/uploads/logo-stockholm.svg'
 image: /uploads/skarholmen.jpg
-ingress-text: Skärholmen uses Decidim for participatory budgeting.
-excerpt: Skärholmen uses Decidim for participatory budgeting.
+ingress-text: "Digidem Lab works with Skärholmen's participatory budgeting."
+excerpt: "Digidem Lab works with Skärholmen's participatory budgeting."
 client: City of Stockholm, Skärholmen
 year: 2019-
 links:
