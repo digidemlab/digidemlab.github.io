@@ -10,9 +10,14 @@ sections:
   templates:
   - news
 - type: directory
-  path: _projects
-  label: Projects
-  create: all
+  path: _clients
+  label: Clients
+  create: documents
+  match: "**/*"
+- type: directory
+  path: _themes
+  label: Themes
+  create: documents
   match: "**/*"
 - type: directory
   path: _crew
