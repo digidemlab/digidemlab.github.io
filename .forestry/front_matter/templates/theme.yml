@@ -4,39 +4,70 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
+- type: file
+  name: icon
+  label: Icon
+  description: Icon. SVG or PNG in 512x512 px.
 - type: file
   name: image
   label: image
+  description: Main image. Recommended size 1200x629 px, 72 dpi.
+- name: thumbnail
+  type: file
+  config:
+    maxSize:
+  label: Smaller image
+  description: Bild 560px bred, till nyhetsbrev.
 - type: text
   name: excerpt
-  label: excerpt
-- type: text
+  label: Excerpt
+  description: Short description shown in lists.
+  config:
+    required: true
+    min: 10
+    max: 250
+- type: textarea
   name: ingress-text
-  label: ingress-text
-- type: file
-  name: icon
-  label: icon
+  label: Ingress
+  config:
+    required: true
+    min: 10
+    max: 300
 - type: field_group_list
   name: items
-  label: items
+  label: Bullet points
   fields:
   - type: textarea
     name: text
     label: text
 - type: text
   name: ref
-  label: ref
-- type: text
-  name: lang
-  label: lang
+  label: Translation ID
+  description: ID för texter med samma innehåll men olika språk. Använd små bokstäver
+    och bindestreck.
+- name: lang
+  type: select
+  default: sv
+  config:
+    required: false
+    options:
+    - sv
+    - en
+    source:
+      type: simple
+      section:
+      file:
+      path:
+  label: Language
+  description: Språk. Välj mellan en för engelska eller sv för svenska.
 - type: field_group_list
   name: faq
-  label: faq
+  label: FAQ
   fields:
   - type: text
     name: question
-    label: question
+    label: Question
   - type: textarea
     name: answer
-    label: answer
+    label: Answer
