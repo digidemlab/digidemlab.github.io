@@ -5,6 +5,9 @@ fields:
 - type: text
   name: title
   label: Title
+- name: featured
+  type: boolean
+  label: Featured
 - type: file
   name: image
   label: Image
