@@ -12,7 +12,7 @@ fields:
 - name: thumbnail
   type: file
   config:
-    maxSize:
+    maxSize: 
   label: Smaller image
   description: Bild 560px bred, till nyhetsbrev.
 - type: text
@@ -57,9 +57,9 @@ fields:
     - en
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   label: Language
   description: Språk. Välj mellan en för engelska eller sv för svenska.
 - name: date
@@ -68,8 +68,8 @@ fields:
   description: Publication date
   config:
     required: true
-    date_format:
-    time_format:
+    date_format: 
+    time_format: 
     display_utc: false
   hidden: true
   default: now
@@ -77,8 +77,8 @@ fields:
   type: list
   config:
     use_select: true
-    min:
-    max:
+    min: 
+    max: 
     source:
       type: pages
       section: themes
@@ -88,7 +88,7 @@ fields:
   config:
     use_select: true
     min: 
-    max:
+    max: 
     source:
       type: pages
       section: clients
@@ -110,27 +110,9 @@ pages:
 - _posts/2021-06-23-internationellt-samtal-om-ungas-deltagande.md
 - _posts/2021-11-08-digidem-lab-faciliterar-pa-eus-medborgarjuries.md
 - _posts/2021-12-15-digidem-lab-deltar-i-nobel-week-dialogue-2021.md
-- _posts/2022-03-21-coldigit-nordisk-forskningssamarbete-for-digitalt-deltagande.md
 - _posts/nytt-webinar-om-digitala-medborgardialoger-på-engelska.md
 - _posts/test.md
-- _projects/300-000-kronor-i-hammarkullens-boendebudget.md
-- _projects/coldigit-nordiskt-forskningssamarbete-for-digitalt-deltagande.md
-- _projects/coldigit-presented-at-decidim-fest.md
-- _projects/community-organising-for-lokalt-ledarskap.md
-- _projects/digidem-lab-hjalper-chicago-att-stalla-om-till-digitala-dialoger.md
-- _projects/digidem-lab-pa-plats-i-maastricht-for-att-facilitera-den-sista-av-eu-s-medborgarpaneler-pa-temat-eu-i-varlden-och-migration.md
-- _projects/digidem-lab-stottar-kvartersbudget-i-malmo-150-000-kronor-ska-ge-liv-at-grannskapstradgarden-naturmolnet.md
-- _projects/digidem-lab-stotttar-eu-s-storsta-medborgardialog-nagonsin.md
-- _projects/fem-miljoner-i-potten-nar-invanarna-far-ge-forslag-pa-aktiviteter-i-botkyrka.md
-- _projects/helsingborgs-gor-dialogprocess-for-en-tryggare-och-jamlikare-plats.md
-- _projects/nytt-stort-uppdrag-for-new-york-stad.md
-- _projects/ostersjo-samarbete-studerar-effekterna-av-ungas-deltagande.md
-- _projects/punkt-for-konferensen-om-europas-framtid.md
-- _projects/skolan-i-centrum-för-lundbys-unika-medborgarbudget.md
-- _projects/testprojekt.md
-- community-organising.md
 - consul.md
 - decidim.md
 - foreningen.md
 - lediga-tjänster.md
-- medborgarjury.md
