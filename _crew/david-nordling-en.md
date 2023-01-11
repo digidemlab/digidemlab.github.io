@@ -5,7 +5,7 @@ categories:
 - Digidem Lab
 lang: en
 job: Participation consultant
-image: "/uploads/david.jpg"
+image: "/uploads/david2.jpg"
 mail: david@digidemlab.org
 ---
 

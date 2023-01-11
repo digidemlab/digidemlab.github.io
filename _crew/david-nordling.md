@@ -4,7 +4,7 @@ date: 2018-02-23 17:08:00 Z
 categories:
 - Digidem Lab
 job: Konsult i medborgardeltagande
-image: "/uploads/david.jpg"
+image: "/uploads/david2.jpg"
 mail: david@digidemlab.org
 ---
 
