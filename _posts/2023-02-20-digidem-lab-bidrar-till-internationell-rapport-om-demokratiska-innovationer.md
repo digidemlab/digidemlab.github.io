@@ -16,7 +16,7 @@ ref: ''
 categories:
 - _themes/medborgarbudget.md
 clients:
-- _clients/coldigit-en.md
+- _clients/coldigit.md
 
 ---
 Under tre års tid fördjupas förståelsen för deltagande demokrati, genom att konsortiet i detalj studerar olika praktiker och metoder i Göteborg, Helsingfors och i Trondheim. En rapport har nu publicerats av den brittiska innovationsmyndigheten Nesta som visar på ett ramverk för att lyckas med demokratisk innovation i offentliga organisationer.
