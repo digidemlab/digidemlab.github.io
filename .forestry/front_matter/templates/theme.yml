@@ -15,8 +15,6 @@ fields:
   description: Main image. Recommended size 1200x629 px, 72 dpi.
 - name: thumbnail
   type: file
-  config:
-    maxSize:
   label: Smaller image
   description: Bild 560px bred, till nyhetsbrev.
 - type: text
@@ -56,9 +54,6 @@ fields:
     - en
     source:
       type: simple
-      section:
-      file:
-      path: 
   label: Language
   description: Språk. Välj mellan en för engelska eller sv för svenska.
 - type: field_group_list
