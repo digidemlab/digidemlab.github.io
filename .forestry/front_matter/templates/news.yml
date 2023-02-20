@@ -96,3 +96,5 @@ fields:
       type: pages
       section: clients
   label: Client
+pages:
+- _posts/digidem-lab-bidrar-till-internationell-rapport-om-demokratiska-innovationer.md
