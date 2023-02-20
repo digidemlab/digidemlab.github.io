@@ -2,27 +2,13 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: admin
-webhook_url: 
+webhook_url:
 sections:
 - type: jekyll-posts
   label: News
   create: all
   templates:
   - news
-- type: directory
-  path: _clients
-  label: Clients
-  create: documents
-  match: "**/*"
-  templates:
-  - client
-- type: directory
-  path: _themes
-  label: Themes
-  create: documents
-  match: "**/*"
-  templates:
-  - theme
 - type: directory
   path: _crew
   label: Crew
