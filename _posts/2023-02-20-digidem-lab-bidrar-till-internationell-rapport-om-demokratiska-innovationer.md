@@ -1,12 +1,11 @@
 ---
 lang: sv
 date: 2023-02-20 10:02:33 +0100
-title: Digidem Lab bidrar till internationell rapport om demokratiska innovationer
+title: Ny rapport om demokratiska innovationer
 featured: true
 image: "/uploads/nesta_stor.jpeg"
 thumbnail: "/uploads/nesta_liten.jpeg"
-excerpt: Ny rapport visar på ett ramverk för att lyckas med demokratisk innovation
-  i offentliga organisationer.
+excerpt: Digidem Lab bidrar till internationell rapport om demokratiska innovationer.
 ingress-text: Digidem Lab ingår sedan år 2020 i det europeiska forskningskonsortiet
   Collective Intelligence through Digital Tools (COLDIGIT).
 links:
