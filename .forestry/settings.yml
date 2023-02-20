@@ -9,13 +9,6 @@ sections:
   create: all
   templates:
   - news
-- type: directory
-  path: _crew
-  label: Crew
-  create: documents
-  match: "**/*"
-  templates:
-  - crew
 - type: jekyll-pages
   label: Pages
   create: all
