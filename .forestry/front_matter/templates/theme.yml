@@ -58,7 +58,7 @@ fields:
       type: simple
       section:
       file:
-      path:
+      path: 
   label: Language
   description: Språk. Välj mellan en för engelska eller sv för svenska.
 - type: field_group_list
