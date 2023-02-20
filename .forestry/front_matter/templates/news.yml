@@ -15,7 +15,7 @@ fields:
 - name: thumbnail
   type: file
   config:
-    maxSize:
+    maxSize: 
   label: Smaller image
   description: Bild 560px bred, till nyhetsbrev.
 - type: text
@@ -48,7 +48,8 @@ fields:
   config:
     required: false
   label: Translation ID
-  description: ID för texter med samma innehåll men olika språk. Använd små bokstäver och bindestreck.
+  description: ID för texter med samma innehåll men olika språk. Använd små bokstäver
+    och bindestreck.
 - name: lang
   type: select
   default: sv
@@ -59,9 +60,9 @@ fields:
     - en
     source:
       type: simple
-      section:
-      file:
-      path:
+      section: 
+      file: 
+      path: 
   label: Language
   description: Språk. Välj mellan en för engelska eller sv för svenska.
 - name: date
@@ -70,8 +71,8 @@ fields:
   description: Publication date
   config:
     required: true
-    date_format:
-    time_format:
+    date_format: 
+    time_format: 
     display_utc: false
   hidden: true
   default: now
@@ -79,8 +80,8 @@ fields:
   type: list
   config:
     use_select: true
-    min:
-    max:
+    min: 
+    max: 
     source:
       type: pages
       section: themes
@@ -89,8 +90,8 @@ fields:
   type: list
   config:
     use_select: true
-    min:
-    max:
+    min: 
+    max: 
     source:
       type: pages
       section: clients

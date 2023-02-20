@@ -4,28 +4,56 @@ hide_body: true
 fields:
 - type: datetime
   name: date
-  label: date
+  label: Date
+  description: Publication date
+  config:
+    required: true
+  default: now
+  hidden: true
 - type: text
   name: title
-  label: title
-- type: boolean
-  name: featured
-  label: featured
-- type: file
-  name: logotype
-  label: logotype
-- type: file
-  name: image
-  label: image
+  label: Title
+  description: Can be the same as client name, or more specific.
 - type: text
   name: client
-  label: client
+  label: Client
+  description: Client name
+  config:
+    required: true
+- type: boolean
+  name: featured
+  label: Featured
+- type: file
+  name: logotype
+  label: Logotype
+  description: Logotype. SVG-format 478x318 px.
+- type: file
+  name: image
+  label: Image
+  description: Main image. Recommended size 1200x629 px, 72 dpi.
+- type: textarea
+  name: excerpt
+  label: Excerpt
+  description: Short description shown in lists.
+  config:
+    required: true
+    min: 10
+    max: 250
+- type: textarea
+  name: ingress-text
+  label: Ingress
+  config:
+    required: true
+    min: 10
+    max: 300
 - type: list
   name: partners
-  label: partners
+  label: Partners
+  description: Project partners.
 - type: text
   name: year
-  label: year
+  label: Year
+  description: Active years. For example 2020- or 2020-2022.
 - type: field_group_list
   name: links
   label: links
@@ -38,16 +66,28 @@ fields:
     label: url
 - type: text
   name: ref
-  label: ref
-- type: text
-  name: lang
-  label: lang
+  label: Translation ID
+  description: ID för texter med samma innehåll men olika språk. Använd små bokstäver
+    och bindestreck.
+- name: lang
+  type: select
+  default: sv
+  config:
+    required: true
+    options:
+    - sv
+    - en
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Language
 - type: list
   name: categories
-  label: categories
-- type: textarea
-  name: excerpt
-  label: excerpt
-- type: textarea
-  name: ingress-text
-  label: ingress-text
+  label: Categories
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: themes
