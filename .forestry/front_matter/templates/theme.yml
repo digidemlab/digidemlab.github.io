@@ -1,13 +1,14 @@
 ---
-label: Project
+label: Theme
 hide_body: false
 fields:
 - type: text
   name: title
-  label: Project name
-- name: featured
-  type: boolean
-  label: Featured
+  label: Title
+- type: file
+  name: icon
+  label: Icon
+  description: Icon. SVG or PNG in 512x512 px.
 - type: file
   name: image
   label: Image
@@ -15,18 +16,18 @@ fields:
 - name: thumbnail
   type: file
   config:
-    maxSize: 
-  label: Smaller image
+    maxSize: 64
+  label: Thumbnail
   description: Bild 560px bred, till nyhetsbrev.
 - type: text
   name: excerpt
   label: Excerpt
   description: Short description shown in lists.
   config:
-    required: true
     min: 10
     max: 250
-- type: textarea
+    required: true
+- type: text
   name: ingress-text
   label: Ingress
   config:
@@ -34,19 +35,24 @@ fields:
     min: 10
     max: 300
 - type: field_group_list
-  name: links
-  label: Links
+  name: items
+  label: Bullet points
+  fields:
+  - type: textarea
+    name: text
+    label: text
+- type: field_group_list
+  name: faq
+  label: faq
   fields:
   - type: text
-    name: title
-    label: title
-  - type: text
-    name: url
-    label: url
-- name: ref
-  type: text
-  config:
-    required: false
+    name: question
+    label: question
+  - type: textarea
+    name: answer
+    label: answer
+- type: text
+  name: ref
   label: Translation ID
   description: ID för texter med samma innehåll men olika språk. Använd små bokstäver
     och bindestreck.
@@ -54,7 +60,7 @@ fields:
   type: select
   default: sv
   config:
-    required: false
+    required: true
     options:
     - sv
     - en
@@ -64,27 +70,3 @@ fields:
       file: 
       path: 
   label: Language
-  description: Språk. Välj mellan en för engelska eller sv för svenska.
-- name: date
-  type: datetime
-  label: Date
-  description: Publication date
-  config:
-    required: true
-    date_format: 
-    time_format: 
-    display_utc: false
-  hidden: true
-  default: now
-- name: categories
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: 
-    source:
-      type: pages
-      section: themes
-  label: Categories
-pages:
-- _projects/test-project-2.md

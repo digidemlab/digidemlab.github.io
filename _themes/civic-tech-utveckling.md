@@ -7,9 +7,7 @@ excerpt: Nätverksträffar och koordinering av civic tech-utveckling
 ingress-text: Digidem Lab verkar för en inkluderande och medborgarcentrerad digital utveckling.
 icon: "/assets/images/icon-process.svg"
 items:
-- text: Utvecklar digital teknik för civilsamhället.
-- text: Bygger allianser inom civic tech-fältet.
-- text: Verkar för inkluderande och medborgarcentrerad digital utveckling.
+- text: Vi hjälper dig lyckas med inkluderande och medborgarcentrerad digital utveckling! Tillsammans med våra partners inom Civic Tech Sweden driver vi projekt och utvecklar digital teknik för civilsamhället.
 ref: civictech
 lang: sv
 ---

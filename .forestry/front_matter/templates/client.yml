@@ -1,13 +1,32 @@
 ---
-label: News
-hide_body: false
+label: Client
+hide_body: true
 fields:
+- type: datetime
+  name: date
+  label: Date
+  description: Publication date
+  config:
+    required: true
+  default: now
+  hidden: true
 - type: text
   name: title
   label: Title
-- name: featured
-  type: boolean
+  description: Can be the same as client name, or more specific.
+- type: text
+  name: client
+  label: Client
+  description: Client name
+  config:
+    required: true
+- type: boolean
+  name: featured
   label: Featured
+- type: file
+  name: logotype
+  label: Logotype
+  description: Logotype. SVG-format 478x318 px.
 - type: file
   name: image
   label: Image
@@ -15,10 +34,10 @@ fields:
 - name: thumbnail
   type: file
   config:
-    maxSize: 
-  label: Smaller image
+    maxSize: 64
+  label: Thumbnail
   description: Bild 560px bred, till nyhetsbrev.
-- type: text
+- type: textarea
   name: excerpt
   label: Excerpt
   description: Short description shown in lists.
@@ -33,9 +52,17 @@ fields:
     required: true
     min: 10
     max: 300
+- type: list
+  name: partners
+  label: Partners
+  description: Project partners.
+- type: text
+  name: year
+  label: Year
+  description: Active years. For example 2020- or 2020-2022.
 - type: field_group_list
   name: links
-  label: Links
+  label: links
   fields:
   - type: text
     name: title
@@ -43,10 +70,8 @@ fields:
   - type: text
     name: url
     label: url
-- name: ref
-  type: text
-  config:
-    required: false
+- type: text
+  name: ref
   label: Translation ID
   description: ID för texter med samma innehåll men olika språk. Använd små bokstäver
     och bindestreck.
@@ -54,7 +79,7 @@ fields:
   type: select
   default: sv
   config:
-    required: false
+    required: true
     options:
     - sv
     - en
@@ -64,37 +89,11 @@ fields:
       file: 
       path: 
   label: Language
-  description: Språk. Välj mellan en för engelska eller sv för svenska.
-- name: date
-  type: datetime
-  label: Date
-  description: Publication date
-  config:
-    required: true
-    date_format: 
-    time_format: 
-    display_utc: false
-  hidden: true
-  default: now
-- name: categories
-  type: list
+- type: list
+  name: categories
+  label: Categories
   config:
     use_select: true
-    min: 
-    max: 
     source:
       type: pages
       section: themes
-  label: Categories
-- name: clients
-  type: list
-  config:
-    use_select: true
-    min: 
-    max: 
-    source:
-      type: pages
-      section: clients
-  label: Client
-pages:
-- _posts/digidem-lab-bidrar-till-internationell-rapport-om-demokratiska-innovationer.md

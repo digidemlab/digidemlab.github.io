@@ -4,22 +4,35 @@ auto_deploy: false
 admin_path: admin
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: jekyll-posts
-  label: Posts
+  label: News
   create: all
+  templates:
+  - news
 - type: directory
-  path: _projects
-  label: Projects
-  create: all
+  path: _clients
+  label: Clients
+  create: documents
   match: "**/*"
+  templates:
+  - client
+- type: directory
+  path: _themes
+  label: Themes
+  create: documents
+  match: "**/*"
+  templates:
+  - theme
 - type: directory
   path: _crew
   label: Crew
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - crew
+- type: jekyll-pages
+  label: Pages
+  create: all
 - type: document
   path: _data/menu.yml
   label: Menu
