@@ -4,8 +4,8 @@ title: Dialog i Skärholmen
 featured: true
 logotype: '/uploads/logo-stockholm.svg'
 image: /uploads/skarholmen.jpg
-ingress-text: Skärholmen anlitar Digidem Lab för medborgarbudgetar.
-excerpt: Skärholmen anlitar Digidem Lab för medborgarbudgetar.
+ingress-text: Skärholmen anlitar Digidem Lab för medborgarförslag.
+excerpt: Skärholmen anlitar Digidem Lab för medborgarförslag.
 client: Stockholms stad, Skärholmen
 year: 2019-
 links:
