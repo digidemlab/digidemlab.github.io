@@ -159,3 +159,6 @@ t:
     read-more: Read more
     contact-title: Get in touch!
     contact-text: Get in touch to discuss ideas for projects or cooperation.
+
+sass:
+    style: compressed
