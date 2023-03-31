@@ -25,6 +25,8 @@ sv:
   secondary:
   - title: Kontakt
     url: /contact/
+  - title: Lediga tjänster
+    url: /lediga-tjanster/
 en:
   primary:
   - title: Services
