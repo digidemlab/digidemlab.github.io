@@ -5,8 +5,8 @@ ref: about
 image: "/uploads/medialab.jpg"
 ingress-text: Digidem Lab arbetar för en fördjupning och expandering av deltagande demokrati inom alla nivåer av samhället.
 links:
-- title: Digidem Lab ideell förening
-  url: "/foreningen/"
+- title: Democracy Upgraded (tidigare Digidem Lab ideell förening)
+  url: "https://democracyupgraded.org"
 ---
 
 
