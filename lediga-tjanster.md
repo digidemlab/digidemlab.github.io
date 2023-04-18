@@ -10,7 +10,7 @@ image: "/uploads/image-1.jpg"
 
 ---
 
-Digidem Lab är ett medarbetarägt företag som utifrån vår expertis inom deltagandemetoder, facilitering och digital utveckling arbetar för för ökat demokratiskt deltagande. Det gör vi genom att genomföra medborgarpaneler tillsammans med Livsmedelsverket, deltagande budgetar med allt från New York stad till Botkyrka kommun och utbildningar i lokal organisering för föreningslivet.
+Digidem Lab är ett medarbetarägt företag som utifrån vår expertis inom deltagandemetoder, facilitering och digital utveckling arbetar för ökat demokratiskt deltagande. Det gör vi genom att genomföra medborgarpaneler tillsammans med Livsmedelsverket, deltagande budgetar med allt från New York stad till Botkyrka kommun och utbildningar i lokal organisering för föreningslivet.
 
 Vi kombinerar deltagande i externt finansierade utvecklings- och forskningsprojekt med konsultuppdrag för offentlig sektor och civilsamhälle. Ett prioriterat område för kommande år är klimatjurys för lokal omställning.
 
