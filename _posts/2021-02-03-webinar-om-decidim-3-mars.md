@@ -2,7 +2,7 @@
 lang: sv
 date: 2021-02-03 15:34:34 +0100
 title: Frukostwebbinarium om Decidim den 3 mars
-image: "/uploads/eioqmuewsae5f-r-1-1059x675.png"
+image: "/uploads/eioqmuewsae5f-r-1-1059x675.jpg"
 thumbnail: "/uploads/decidim.png"
 excerpt: Decidim, en demokratiplattform för att lätt komma igång med digital medborgardialog
 ingress-text: en demokratiplattform för att lätt komma igång med digital medborgardialog

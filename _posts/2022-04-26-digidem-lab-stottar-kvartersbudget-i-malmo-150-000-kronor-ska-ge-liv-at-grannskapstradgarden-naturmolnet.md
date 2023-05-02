@@ -4,7 +4,7 @@ date: 2022-04-26 08:30:36 +0200
 title: Digidem Lab stöttar kvartersbudget i Malmö
 permalink: /digidem-lab-stottar-kvartersbudget-i-malmo-150-000-kronor-ska-ge-liv-at-grannskapstradgarden-naturmolnet/
 image: "/uploads/naturmolnet_stor.jpg"
-thumbnail: "/uploads/naturmolnet_liten.png"
+thumbnail: "/uploads/naturmolnet_liten.jpg"
 excerpt: Nu får boende i Sofielund komma med förslag på vad som ska hända i grannskapsträdgården
   Naturmolnet. Till sitt förfogande har de en kvartersbudget på 150 000 kronor.
 ingress-text: Nu får boende i Sofielund komma med förslag på vad som ska hända i grannskapsträdgården
@@ -52,5 +52,5 @@ Denna satsning är ytterligare steg på vägen mot att medborgarprocesser ska va
 
 [Malmö Tillsammans](https://www.malmotillsammans.se/) står för finansiering och projektledning av Naturmolnets kvartersbudget. [Växtvärket](https://www.vaxtvarket.se/), som verkar för goda uppväxtvillkor för barn i städer, och som ansvarar för verksamheten på [Naturmolnet](https://www.vaxtvarket.se/naturmolnet/), bidrar med kompetens kring hållbar stads- och platsutveckling.
 
-**Om metoden**  
+**Om metoden**
 Kvartersbudget innebär att invånarna i kvarteret får bestämma över vad en viss andel pengar ska användas till för att utveckla området. Invånarna diskuterar idéer innan de skapar konkreta förslag som alla röstar på och de vinnande förslagen genomförs. Kvartersbudgeten bygger på metoden medborgarbudget. Metoden har använts och testats både nationellt och internationellt.

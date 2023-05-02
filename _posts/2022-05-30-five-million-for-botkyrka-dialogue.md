@@ -2,8 +2,8 @@
 lang: en
 date: 2022-05-30 10:46:43 +0200
 title: The Botkyrka dialogue gives local residents a voice
-image: "/uploads/untitled-design-29.png"
-thumbnail: "/uploads/liten_botkyrka.png"
+image: "/uploads/botkyrka.jpg"
+thumbnail: "/uploads/botkyrka_liten.jpg"
 excerpt: The Botkyrka Dialogue, which has been running since 2019, gives the residents of Botkyrka the opportunity
   to submit suggestions to politicians about things they would like to improve in their district
   and everyday life.

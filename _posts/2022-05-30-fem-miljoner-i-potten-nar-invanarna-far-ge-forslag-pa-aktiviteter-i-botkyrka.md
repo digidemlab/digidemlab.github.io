@@ -3,8 +3,8 @@ lang: sv
 date: 2022-05-30 10:46:43 +0200
 title: Fem miljoner i potten när invånarna får ge förslag på aktiviteter i Botkyrka
 permalink: /fem-miljoner-i-potten-nar-invanarna-far-ge-forslag-pa-aktiviteter-i-botkyrka/
-image: "/uploads/untitled-design-29.png"
-thumbnail: "/uploads/liten_botkyrka.png"
+image: "/uploads/botkyrka.jpg"
+thumbnail: "/uploads/botkyrka_liten.jpg"
 excerpt: Botkyrkadialogen som pågått sedan 2019 ger invånarna i Botkyrka möjlighet
   att lämna in förslag till politiker kring saker som de vill förbättra i sin stadsdel
   och vardag.

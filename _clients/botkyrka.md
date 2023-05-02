@@ -3,7 +3,7 @@ date: 2020-09-09 10:38:35 +0100
 title: Botkyrkadialogen
 featured: false
 logotype: '/uploads/logo-botkyrka.svg'
-image: /uploads/untitled-design-29.png
+image: /uploads/botkyrka.jpg
 ingress-text: Botkyrka kommun använder plattformen Decidim för medborgarbudgetar.
 excerpt: Botkyrkadialogen använder plattformen Decidim för medborgarbudgetar.
 client: Botkyrka kommun
