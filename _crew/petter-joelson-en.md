@@ -5,7 +5,7 @@ categories:
 - Digidem Lab
 lang: en
 image: "/uploads/petter.jpg"
-job: Director
+job: Digital director
 phone: "+46 70 867 42 44"
 mail: petter@digidemlab.org
 twitter: "@p_jo"
