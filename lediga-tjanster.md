@@ -1,9 +1,9 @@
 ---
-title: Lediga tjänster
+title: Ledig tjänst som adminstrativ projektledare
 image: ''
 thumbnail: ''
 excerpt: Lediga tjänster hos Digidem Lab
-ingress-text: Kommande lediga tjänster hos Digidem Lab
+ingress-text: Vi söker en administrativ projektledare på deltid.
 published: true
 image: "/uploads/image-1.jpg"
 
@@ -16,36 +16,23 @@ Vi kombinerar deltagande i externt finansierade utvecklings- och forskningsproje
 
 Digidem Lab är ett kooperativt företag där vi är måna om att skapa en arbetskultur som styrs av andra principer än vinstmaximering. Vi inspireras av de [kooperativa principerna](https://svenskkooperation.se/om-kooperation/de-sju-kooperativa-principerna-pa-svenska/) kring samarbete, arbetsplatsdemokrati och samhällsnytta i verksamheten och [nyare idéer](https://elements.disco.coop/) om commonsproduktion och care work.
 
-### Under året kommer vi att rekrytera
-* [Verksamhetsledare](#kommande-tjänst-verksamhetsledare)
-* [Systemadministratör och teknisk support](#kommande-tjänst-systemadministratör-och-teknisk-support)
+## Adminstrativ projektledare
 
-## Kommande tjänst: Verksamhetsledare
-
-Som verksamhetsledare har du övergripande ansvar för den löpande verksamheten, inklusive personalansvar och ekonomiskt ansvar. Arbetet innebär också strategiskt utvecklingsarbete för att säkerställa långsiktigt hållbar ekonomi. Inom företaget arbetar du med våra fasta medarbetare, men också med ett bredare nätverk av facilitatörer, programmerare och andra som bidrar till våra projekt.
+Som administrativ projektledare har du övergripande ansvar för administration, ekonomi och tidsplanering för projekt. Arbetet innebär också strategiskt utvecklingsarbete för att säkerställa långsiktigt hållbar ekonomi. Inom företaget arbetar du med våra fasta medarbetare, men också med ett bredare nätverk av facilitatörer, programmerare och andra som bidrar till våra projekt.
 
 ### Arbetsuppgifter
-* Samordna personal och ha överblick över arbetsuppgifter inom projekt.
-* Ansvara för uppstartsprocesser i nya projekt.
+* Tidsplanera arbetsuppgifter inom projekt.
 * Ansvara för projektledning och uppföljning i utvalda projekt.
 * Stötta nykundsförsäljning och mersälj.
-* Coacha och utveckla företagets medarbetare.
-* Löpande budgetansvar och kontakt med externt bokföringsföretag.
-* Vara en resurs i projektansökning och rapportering.
+* Löpande hantering av ekonomi och kontakt med externt bokföringsföretag.
+* Vara en resurs i projektansökningarna och rapportering.
 
 ### Det är meriterande om du har
-* Flera års erfarenhet som projektledare och/eller chef.
+* Flera års erfarenhet som inom projektledning eller administration.
 * Erfarenhet av engagemang eller arbete inom civilsamhället.
+* Erfarenhet av arbete inom offentlig förvaltning.
 * Kunskaper eller utbildning inom något mer än projektledning och ledarskap.
 
-Tjänsten är på 75-100% enligt överenskommelse. Som anställd har du efter ett år möjlighet att bli medlem och delägare i företaget. Vi tillämpar likalön på 37 000 som omförhandlas gemensamt på årsmötet. Anställningsvillkor enligt kollektivavtal med Fremia.
+Tjänsten är på 50%. Som anställd har du efter ett år möjlighet att bli medlem och delägare i företaget. Vi tillämpar likalön på 37 000 som omförhandlas gemensamt på årsmötet. Anställningsvillkor enligt kollektivavtal med Fremia.
 
-Vi kommer tillsätta tjänsten när vi har hittat rätt person. Skicka gärna din intresseanmälan med CV redan nu till <rekrytering@digidemlab.org>, vi går löpande igenom intresseanmälningarna.
-
-## Kommande tjänst: Systemadministratör och teknisk support
-
-Ansvar för underhåll, support och vidareutveckling av digitala plattformar för medborgardeltagande, främst för plattformen [Decidim](https://github.com/decidim/decidim). Digital utveckling inom innovationsprojekt.
-
-Som anställd har du efter ett år möjlighet att bli medlem och delägare i företaget. Vi tillämpar likalön på 37 000 som omförhandlas gemensamt på årsmötet. Anställningsvillkor enligt kollektivavtal med Fremia.
-
-Vi har ännu inte ett datum för när tjänsten kommer att tillsättas. Skicka gärna din intresseanmälan med CV redan nu till <rekrytering@digidemlab.org> om det låter intressant.
+Vi kommer tillsätta tjänsten när vi har hittat rätt person. Skicka ansökan med CV till <rekrytering@digidemlab.org>, vi går löpande igenom ansökningarna. Under perioden 7 juli till 6 augusti är vi på semester och har inte möjlighet att svara på frågor om tjänsten.
