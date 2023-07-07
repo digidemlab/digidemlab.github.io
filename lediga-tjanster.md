@@ -4,7 +4,7 @@ thumbnail: '/uploads/image-1-thumb.jpg'
 excerpt: Digidem Lab söker administrativ projektledare för deltidstjänst.
 ingress-text: Vi söker en administrativ projektledare på deltid.
 published: true
-image: "/uploads/image-1.jpg"
+image: "/uploads/image-1-thumb.jpg"
 
 
 ---
