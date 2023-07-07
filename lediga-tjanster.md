@@ -1,7 +1,7 @@
 ---
 title: Ledig tjänst som administrativ projektledare
 thumbnail: '/uploads/image-1-thumb.jpg'
-excerpt: Digidem Lab söker administrativ projektledare för deltidstjänst.
+excerpt: Digidem Lab söker administrativ projektledare för deltidstjänst i Göteborg.
 ingress-text: Vi söker en administrativ projektledare på deltid.
 published: true
 image: "/uploads/image-1-thumb.jpg"
@@ -17,7 +17,7 @@ Digidem Lab är ett kooperativt företag där vi är måna om att skapa en arbet
 
 ## Adminstrativ projektledare
 
-Som administrativ projektledare har du övergripande ansvar för administration, ekonomi och tidsplanering för projekt. Arbetet innebär också strategiskt utvecklingsarbete för att säkerställa långsiktigt hållbar ekonomi. Inom företaget arbetar du med våra fasta medarbetare, men också med ett bredare nätverk av facilitatörer, programmerare och andra som bidrar till våra projekt.
+Som administrativ projektledare har du övergripande ansvar för administration, ekonomi och tidsplanering för projekt. Arbetet innebär också strategiskt utvecklingsarbete för att säkerställa långsiktigt hållbar ekonomi. Inom företaget arbetar du med våra fasta medarbetare, men också med ett bredare nätverk av facilitatörer, programmerare och andra som bidrar till våra projekt. Arbetet sker från vårt kontor i Göteborg.
 
 ### Arbetsuppgifter
 * Tidsplanera arbetsuppgifter inom projekt.
