@@ -2,7 +2,7 @@
 lang: sv
 date: 2020-08-28 14:10:20 +0200
 title: 'Premiär för Lundbys medborgarbudget: "Din idé"'
-image: "/uploads/dsc_0016.jpg"
+image: "/uploads/dsc_0016.JPG"
 thumbnail: ''
 excerpt: Nu drar stadsdelen Lundby igång sin medborgarbudget tillsammans med bostadsföretagen
   Familjebostäder och Stena Fastigheter och föreningen FCH. Skolan är i centrum för
