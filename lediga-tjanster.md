@@ -2,7 +2,7 @@
 title: Ledig tjänst som verksamhetsledare
 thumbnail: '/uploads/image-1-thumb.jpg'
 excerpt: Digidem Lab söker verksamhetsledare för deltidstjänst i Göteborg.
-ingress-text: Vi söker en verksamhetsledare på deltid
+ingress-text: Digidem Lab söker verksamhetsledare för deltidstjänst i Göteborg.
 published: true
 image: "/uploads/image-1-thumb.jpg"
 
