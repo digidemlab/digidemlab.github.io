@@ -1,6 +1,6 @@
 ---
 title: Sanna Ghotbi (on leave)
-date: 2024-04-23T18:08:00.000+00:00
+date: 2023-04-23T18:08:00.000+00:00
 categories:
 - Digidem Lab
 image: "/uploads/sanna.jpg"
