@@ -9,7 +9,7 @@ excerpt: Digidem Lab och Nätverkstan ordnar utbildning i Community Organising.
 ingress-text:  Vill du få nya verktyg för att få till den skillnad du eller din organisation arbetar med?
 links:
 - title: kursbeskrivning
-  url: https://www.natverkstan.net/wp-content/uploads/2023/07/Community-Organizer_YH2023.pdf
+  url: https://www.natverkstan.net/wp-content/uploads/2023/09/Community-Organizer_2023_rev.pdf
 categories:
 - _themes/community-organising-grasrot.md
 
