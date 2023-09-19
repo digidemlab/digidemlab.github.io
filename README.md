@@ -1,5 +1,5 @@
 # digidemlab.github.io
-Public website for DigiDem Lab, digidemlab.org
+Public website for Digidem Lab, digidemlab.org
 
 HTML files are based on Minima - if you need to configure
 the post or page layouts, copy [those files](https://github.com/jekyll/minima/tree/master/_layouts) in as needed.

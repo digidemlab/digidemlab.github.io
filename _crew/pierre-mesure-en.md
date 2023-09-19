@@ -1,6 +1,6 @@
 ---
-title: Pierre Mesure
-date: 2018-01-23 18:08:00 Z
+title: Pierre Mesure (former collaborator 2018-2023)
+date: 2024-01-23 18:08:00 Z
 categories:
 - Digidem Lab
 lang: en
