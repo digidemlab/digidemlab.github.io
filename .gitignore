@@ -7,3 +7,5 @@ _site
 assets/raw
 node_modules
 .htaccess
+Gemfile
+Gemfile.lock
