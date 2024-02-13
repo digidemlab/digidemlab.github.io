@@ -9,3 +9,4 @@ node_modules
 .htaccess
 Gemfile
 Gemfile.lock
+.ruby-version

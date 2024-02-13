@@ -2,6 +2,7 @@
 title: Digidem Lab
 name: Digidem Lab
 timezone: CET
+excerpt_separator: ""
 collections:
   crew:
     title: Crew

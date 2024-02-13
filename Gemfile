@@ -1,5 +1,7 @@
+source 'https://rubygems.org' do
 
-source 'https://rubygems.org'
+  gem "jekyll", "3.9.0"
 
-gem 'github-pages', group: :jekyll_plugins
-# gem 'jekyll-redirect-from'
+  # Gems here
+  gem 'github-pages', group: :jekyll_plugins
+end

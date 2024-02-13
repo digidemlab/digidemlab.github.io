@@ -15,4 +15,3 @@ ref: ''
 ---
 
 Digidem Lab ideell förening har bytt namn till Democracy Upgraded, mer information finns på föreningens hemsida, [democracyupgraded.org](https://democracyupgraded.org).
-
