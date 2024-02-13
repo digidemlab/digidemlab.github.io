@@ -6,8 +6,7 @@ featured: true
 image: "/uploads/nesta_stor.jpeg"
 thumbnail: "/uploads/nesta_liten.jpeg"
 excerpt: Digidem Lab bidrar till internationell rapport om demokratiska innovationer.
-ingress-text: Digidem Lab ingår sedan år 2020 i det europeiska forskningskonsortiet
-  Collective Intelligence through Digital Tools (COLDIGIT).
+ingress-text: Digidem Lab ingår sedan år 2020 i det europeiska forskningskonsortiet Collective Intelligence through Digital Tools (COLDIGIT).
 links:
 - title: Rapporten från Nesta
   url: https://media.nesta.org.uk/documents/Democratic_innovation_and_digital_participation.pdf
