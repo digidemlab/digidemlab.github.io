@@ -15,7 +15,7 @@ links:
     url: https://www.transparency.lt/en/participatory-budgeting-2021/
   - title: Infographic about the project
     url: https://www.transparency.lt/wp-content/uploads/2021/08/Infografikas_EN.pdf
-year: 2020
+year: "2020"
 ref: transparency-international
 lang: en
 categories:

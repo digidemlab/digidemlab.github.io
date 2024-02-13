@@ -7,7 +7,7 @@ logotype: '/uploads/logo-uppsala.svg'
 ingress-text: Uppsala kommun satsar på inkluderande medborgardeltagande.
 excerpt: Uppsala kommun satsar på inkluderande medborgardeltagande.
 client: Uppsala kommun
-year: 2020
+year: "2020"
 ref: uppsala
 lang: sv
 categories:
