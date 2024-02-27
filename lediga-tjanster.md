@@ -1,12 +1,11 @@
 ---
+published: true
 title: Ledig tjänst som verksamhetsledare
-thumbnail: '/uploads/image-1-thumb.jpg'
+image: /uploads/image-1-thumb.jpg
+thumbnail: /uploads/image-1-thumb.jpg
 excerpt: Digidem Lab söker verksamhetsledare för deltidstjänst i Göteborg.
 ingress-text: Digidem Lab söker verksamhetsledare för deltidstjänst i Göteborg.
-published: true
-image: "/uploads/image-1-thumb.jpg"
-
-
+date: 2024-01-27T23:00:00.000Z
 ---
 
 Digidem Lab är ett medarbetarägt företag som utifrån vår expertis inom deltagandemetoder, facilitering och digital utveckling arbetar för ökat demokratiskt deltagande. Det gör vi genom att genomföra medborgarpaneler tillsammans med Livsmedelsverket, deltagande budgetar med allt från New York stad till Botkyrka kommun och utbildningar i lokal organisering för föreningslivet.
@@ -20,6 +19,7 @@ Digidem Lab är ett kooperativt företag där vi är måna om att skapa en arbet
 Som verksamhetsledare har du övergripande ansvar för den löpande verksamheten, inklusive personalansvar och ekonomiskt ansvar. Arbetet innebär också strategiskt utvecklingsarbete för att säkerställa långsiktigt hållbar ekonomi. Inom företaget arbetar du med våra fasta medarbetare, men också med ett bredare nätverk av facilitatörer, programmerare och andra som bidrar till våra projekt. Arbetet sker från vårt kontor i Göteborg.
 
 ### Arbetsuppgifter
+
 * Samordna personal och ha överblick över arbetsuppgifter inom projekt.
 * Ansvara för uppstartsprocesser i nya projekt.
 * Ansvara för projektledning och uppföljning i utvalda projekt
@@ -29,6 +29,7 @@ Som verksamhetsledare har du övergripande ansvar för den löpande verksamheten
 * Vara en resurs i projektansökning och rapportering.
 
 ### Det är meriterande om du har
+
 * Flera års erfarenhet som projektledare och/eller chef.
 * Erfarenhet av engagemang eller arbete inom civilsamhället.
 * Erfarenhet av arbete inom offentlig förvaltning.
@@ -36,4 +37,4 @@ Som verksamhetsledare har du övergripande ansvar för den löpande verksamheten
 
 Tjänsten är på 75% med chans att gå upp till heltid i framtiden. Som anställd har du efter ett år möjlighet att bli medlem och delägare i företaget. Vi tillämpar likalön på 37 000 som omförhandlas gemensamt på årsmötet. Anställningsvillkor enligt kollektivavtal med Fremia.
 
-Vi kommer tillsätta tjänsten när vi har hittat rätt person. Skicka ansökan med CV till <rekrytering@digidemlab.org>, vi går löpande igenom ansökningarna.
+Vi kommer tillsätta tjänsten när vi har hittat rätt person. Skicka ansökan med CV till [rekrytering@digidemlab.org](mailto:rekrytering@digidemlab.org), vi går igenom ansökningarna löpande.
