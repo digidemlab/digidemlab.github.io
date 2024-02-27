@@ -10,5 +10,3 @@ node_modules
 Gemfile
 Gemfile.lock
 .ruby-version
-
-.env
