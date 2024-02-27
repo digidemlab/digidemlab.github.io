@@ -4,7 +4,10 @@
   "description": "Public website for Digidem Lab, digidemlab.org",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tinacms dev -c \"bundle exec jekyll serve\"",
+    "build": "tinacms build && bundle exec jekyll build",
+    "tinacms": "tinacms"
   },
   "repository": {
     "type": "git",
@@ -19,8 +22,6 @@
   "homepage": "https://github.com/digidemlab/digidemlab.github.io#readme",
   "dependencies": {
     "tinacms": "^1.5.28"
-  },
-  "devDependencies": {
     "@tinacms/cli": "^1.5.39",
     "@types/node": "^20.11.20"
   }
