@@ -3,7 +3,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: Build TinaCMS
+- name: Build TinaCMS
   env:
     TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
     TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
