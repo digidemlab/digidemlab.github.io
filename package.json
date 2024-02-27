@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/digidemlab/digidemlab.github.io#readme",
   "dependencies": {
-    "tinacms": "^1.5.28"
+    "tinacms": "^1.5.28",
     "@tinacms/cli": "^1.5.39",
     "@types/node": "^20.11.20"
   }
