@@ -28,8 +28,8 @@ We are constantly developing our methods and tools for participation to adapt th
 ## How we work
 We see participation as a process in which we can take action on specific steps, while being aware of the process as a whole. This model was developed by the EU D-CENT project.
 
-![Democracy Spiral]({{site.baseurl}}/uploads/spiral_numbers.svg)
-![Democracy Spiral]({{site.baseurl}}/uploads/deltagandespiral_text_en.png)
+![Democracy Spiral](/uploads/spiral_numbers.svg)
+![Democracy Spiral](/uploads/deltagandespiral_text_en.png)
 
 ## What we do
 * Process development and advice for participatory processes

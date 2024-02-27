@@ -31,8 +31,8 @@ Vi utvecklar ständigt våra metoder och verktyg för deltagande för att anpass
 ## Hur vi arbetar
 Vi ser deltagande som en process där vi kan göra insatser inom specifika delar, samtidigt som vi är medvetna om hur processen som helhet ser ut. Den här modellen utvecklades inom EU-projektet D-CENT.
 
-![Deltagandespiralen]({{site.baseurl}}/uploads/spiral_numbers.svg)
-![Deltagandespiralen]({{site.baseurl}}/uploads/deltagandespiral_text.png)
+![Deltagandespiralen](/uploads/spiral_numbers.svg)
+![Deltagandespiralen](/uploads/deltagandespiral_text.png)
 
 
 ## Vad vi gör
