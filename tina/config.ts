@@ -45,6 +45,13 @@ export default defineConfig({
         },
         fields: [
           {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body of Document",
@@ -63,6 +70,13 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
           {
             type: "rich-text",
             name: "body",
@@ -83,6 +97,13 @@ export default defineConfig({
         },
         fields: [
           {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body of Document",
@@ -101,6 +122,14 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+            description: "Can be the same as client name, or more specific."
+          },
           {
             type: "rich-text",
             name: "body",
@@ -121,6 +150,13 @@ export default defineConfig({
         },
         fields: [
           {
+            type: "string",
+            name: "title",
+            label: "Title",
+            isTitle: true,
+            required: true,
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body of Document",
@@ -139,6 +175,13 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
+          {
+            type: "string",
+            name: "title",
+            label: "Name",
+            isTitle: true,
+            required: true,
+          },
           {
             type: "rich-text",
             name: "body",

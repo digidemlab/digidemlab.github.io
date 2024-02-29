@@ -6,44 +6,51 @@ export function clientFields() {
       name: "date",
       label: "Date",
       required: true,
-    },
-    {
-      type: "string",
-      name: "title",
-      label: "Title",
+      description: "Publication date",
     },
     {
       type: "string",
       name: "client",
       label: "Client",
       required: true,
+      description: "Client name",
     },
     {
       type: "boolean",
       name: "featured",
       label: "Featured",
+      description: "Displayed on front page",
     },
     {
       type: "image",
       name: "logotype",
       label: "Logotype",
+      description: "Logotype. SVG-format 478x318 px.",
     },
     {
       type: "image",
       name: "image",
       label: "Image",
+      description: "Main image. Recommended size 1200x629 px, 72 dpi."
     },
     {
       type: "image",
       name: "thumbnail",
       label: "Thumbnail",
+      description: "Bild 560px bred, till nyhetsbrev.",
     },
     {
       type: "string",
       name: "excerpt",
       label: "Excerpt",
+      description: "Short description shown in lists. Max 250 characters long.",
       ui: {
         component: "textarea",
+        validate: (value) => {
+          if (value?.length > 250) {
+            return 'Text can not be more than 250 character long.'
+          }
+        },
       },
       required: true,
     },
@@ -52,8 +59,14 @@ export function clientFields() {
       name: "ingress_text",
       nameOverride: "ingress-text",
       label: "Ingress",
+      description: "Max 300 characters long.",
       ui: {
         component: "textarea",
+        validate: (value) => {
+          if (value?.length > 300) {
+            return 'Text can not be more than 300 character long.'
+          }
+        },
       },
       required: true,
     },
@@ -62,11 +75,13 @@ export function clientFields() {
       name: "partners",
       label: "Partners",
       list: true,
+      description: "Project partners.",
     },
     {
       type: "string",
       name: "year",
       label: "Year",
+      description: "Active years. For example 2020- or 2020-2022."
     },
     {
       type: "object",
@@ -90,6 +105,7 @@ export function clientFields() {
       type: "string",
       name: "ref",
       label: "Translation ID",
+      description: "ID för texter med samma innehåll men olika språk. Använd små bokstäver och bindestreck."
     },
     {
       type: "string",
@@ -99,30 +115,28 @@ export function clientFields() {
       required: true,
     },
     {
-      type: "string",
+      type: "reference",
       name: "categories",
       label: "Categories",
-      list: true,
+      collections: ['themes'],
+      description: "Select a theme with the same language as this post."
     },
   ] as TinaField[];
 }
 export function crewFields() {
   return [
     {
-      type: "string",
-      name: "title",
-      label: "title",
-    },
-    {
       type: "datetime",
       name: "date",
       label: "date",
+      description: "Publication date",
     },
     {
-      type: "string",
+      type: "reference",
       name: "categories",
-      label: "categories",
-      list: true,
+      label: "Categories",
+      collections: ['themes'],
+      description: "Select a theme with the same language as this post."
     },
     {
       type: "string",
@@ -154,29 +168,36 @@ export function crewFields() {
 export function newsFields() {
   return [
     {
-      type: "string",
-      name: "title",
-      label: "Title",
-    },
-    {
       type: "boolean",
       name: "featured",
       label: "Featured",
+      description: "Displayed on front page",
     },
     {
       type: "image",
       name: "image",
       label: "Image",
+      description: "Main image. Recommended size 1200x629 px, 72 dpi.",
     },
     {
       type: "image",
       name: "thumbnail",
       label: "Smaller image",
+      description: "Bild 560px bred, till nyhetsbrev.",
     },
     {
       type: "string",
       name: "excerpt",
       label: "Excerpt",
+      description: "Short description shown in lists. Max 250 characters long.",
+      ui: {
+        component: "textarea",
+        validate: (value) => {
+          if (value?.length > 250) {
+            return 'Text can not be more than 250 character long.'
+          }
+        },
+      },
       required: true,
     },
     {
@@ -184,8 +205,14 @@ export function newsFields() {
       name: "ingress_text",
       nameOverride: "ingress-text",
       label: "Ingress",
+      description: "Max 300 characters long.",
       ui: {
         component: "textarea",
+        validate: (value) => {
+          if (value?.length > 300) {
+            return 'Text can not be more than 300 character long.'
+          }
+        },
       },
       required: true,
     },
@@ -211,6 +238,7 @@ export function newsFields() {
       type: "string",
       name: "ref",
       label: "Translation ID",
+      description: "ID för texter med samma innehåll men olika språk. Använd små bokstäver och bindestreck.",
     },
     {
       type: "string",
@@ -223,32 +251,30 @@ export function newsFields() {
       name: "date",
       label: "Date",
       required: true,
+      description: "Publication date",
     },
     {
-      type: "string",
+      type: "reference",
       name: "categories",
       label: "Categories",
-      list: true,
+      collections: ['themes'],
+      description: "Select a theme with the same language as this post."
     },
     {
-      type: "string",
+      type: "reference",
       name: "clients",
       label: "Client",
-      list: true,
+      collections: ['clients']
     },
   ] as TinaField[];
 }
 export function themeFields() {
   return [
     {
-      type: "string",
-      name: "title",
-      label: "Title",
-    },
-    {
       type: "image",
       name: "icon",
       label: "Icon",
+      description: "Icon. SVG or PNG in 512x512 px.",
     },
     {
       type: "image",
@@ -264,6 +290,15 @@ export function themeFields() {
       type: "string",
       name: "excerpt",
       label: "Excerpt",
+      description: "Short description shown in lists. Max 250 characters long.",
+      ui: {
+        component: "textarea",
+        validate: (value) => {
+          if (value?.length > 250) {
+            return 'Text can not be more than 250 character long.'
+          }
+        },
+      },
       required: true,
     },
     {
@@ -271,6 +306,15 @@ export function themeFields() {
       name: "ingress_text",
       nameOverride: "ingress-text",
       label: "Ingress",
+      description: "Max 300 characters long.",
+      ui: {
+        component: "textarea",
+        validate: (value) => {
+          if (value?.length > 300) {
+            return 'Text can not be more than 300 character long.'
+          }
+        },
+      },
       required: true,
     },
     {
@@ -314,6 +358,7 @@ export function themeFields() {
       type: "string",
       name: "ref",
       label: "Translation ID",
+      description: "ID för texter med samma innehåll men olika språk. Använd små bokstäver och bindestreck.",
     },
     {
       type: "string",
