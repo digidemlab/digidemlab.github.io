@@ -132,16 +132,15 @@ export function crewFields() {
       description: "Publication date",
     },
     {
-      type: "reference",
+      type: "string",
       name: "categories",
       label: "Categories",
-      collections: ['themes'],
-      description: "Select a theme with the same language as this post."
     },
     {
       type: "string",
       name: "lang",
-      label: "lang",
+      label: "Language",
+      options: ["sv", "en"],
     },
     {
       type: "string",
@@ -152,6 +151,7 @@ export function crewFields() {
       type: "image",
       name: "image",
       label: "image",
+      description: "Image size 510 x 363px",
     },
     {
       type: "string",
@@ -280,11 +280,13 @@ export function themeFields() {
       type: "image",
       name: "image",
       label: "Image",
+      description: "Main image. Recommended size 1200x629 px, 72 dpi.",
     },
     {
       type: "image",
       name: "thumbnail",
       label: "Thumbnail",
+      description: "Bild 560px bred, till nyhetsbrev.",
     },
     {
       type: "string",
