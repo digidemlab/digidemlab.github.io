@@ -1,5 +1,5 @@
 ---
-title: Digidem Lab leder i Sveriges första nationella medborgarråd om klimatet
+title: Digidem Lab leder nationellt medborgarråd om klimatet
 featured: true
 image: /uploads/livsmedelsverket.jpg
 thumbnail: /uploads/livsmedelsverket_small.jpg
