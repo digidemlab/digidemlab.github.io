@@ -11,6 +11,7 @@ links:
 lang: sv
 date: 2024-03-07T23:00:00.000Z
 categories: _themes/medborgarjury.md
+clients: _clients/Medborgarrd-om-Klimatet-fr-Stockholms-universitet.md
 ---
 
 60 slumpmässigt utvalda personer från hela landet ska under våren ta sig an frågan Hur bör Sverige sänka utsläppen i enlighet med Parisavtalet? Deltagarna kommer träffas flera gånger under våren för att lyssna in kunskap från olika experter, diskutera och komma fram till förslag och  rekommendationer, som i maj kommer att överlämnas till riksdagspartiernas klimatpolitiska talespersoner. Projektet är en del av forskningsprogrammet Fairtrans och sker i samarbete mellan Stockholms  universitet, Högskolan i Gävle, Uppsala universitet, Lunds universitet och IVL Miljöinsititutet.
