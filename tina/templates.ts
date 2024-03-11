@@ -245,6 +245,7 @@ export function newsFields() {
       name: "lang",
       label: "Language",
       options: ["sv", "en"],
+      required: true,
     },
     {
       type: "datetime",

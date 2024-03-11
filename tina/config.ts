@@ -95,6 +95,19 @@ export default defineConfig({
         match: {
           include: "**/*",
         },
+        ui: {
+          filename: {
+            // if disabled, the editor can not edit the filename
+            readonly: true,
+            // Example of using a custom slugify function
+            slugify: (values) => {
+              // Values is an object containing all the values of the form. In this case it is {title?: string, topic?: string}
+              return `${values?.date?.substring(0,10)}-${values?.title
+                ?.toLowerCase()
+                .replace(/ /g, '-').replace(/å|ä/g, 'a').replace(/ö/g, 'o')}`
+            },
+          },
+        },
         fields: [
           {
             type: "string",
