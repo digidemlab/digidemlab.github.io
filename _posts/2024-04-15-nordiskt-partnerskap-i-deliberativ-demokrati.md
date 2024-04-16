@@ -22,7 +22,7 @@ Vi står inför komplexa samhällsutmaningar med minskande förtroende för demo
 
 Partnerskapet tror på att de nordiska välfärdsstaterna kan bygga upp robusta demokratier och fungera som en global förebild. Nordic Deliberation har bildats för att främja och underlätta sådana framtida samarbeten. Detta partnerskap utgörs av de främsta aktörerna inom deliberativ demokrati i de nordiska länderna: We Do Democracy i Danmark, Sitra i Finland, Digidem i Sverige, Analyse & Tal i Danmark och Norge samt SoCentral i Norge. Genom en gemensam strävan efter förnyelse och samarbete hoppas vi kunna forma en ljusare framtid för demokratin, både i Norden och bortom dess gränser.
 
-![](</uploads/Namnlös design (2).png>)
+![](</uploads/Namnlös design (2).png>)Sveriges första nationella medborgarråd beställd av Livsmedelverket 2023.
 
 #### Deliberativ våg i Europa och Norden
 
@@ -35,7 +35,7 @@ Deliberativ demokrati är på frammarsch globalt och demokratiska innovationer b
 \
 Deliberation innebär att vi når fram till något genom att samtala tillsammans. På ett enkelt sätt innebär det att i en representativ demokrati fattar valda politiker beslut på medborgarnas vägnar. En deliberativ demokrati kan utvidga och komplettera den representativa demokratin genom att involvera fler människor i beslutsprocesserna genom diskussion, reflektion och förståelse.Forskning visar att deliberativa, representativa processer såsom medborgarfullmäktige kan leda till bättre politik, möjliggöra för politiker att fatta svåra beslut och öka förtroendet mellan medborgare och myndigheter. Det kan också motverka polarisering och visa att deltagarna faktiskt kan ändra åsikt och preferenser om det aktuella ämnet under processens gång.
 
-![](</uploads/Namnlös design (3).png>)
+![](</uploads/Namnlös design (3).png>)Samtal mellan rådsmedlemmar där medborgaren representerar sig själv är kärnan i medborgarråd.
 
 #### Vad kommer det nordiska nätverket att göra?
 
