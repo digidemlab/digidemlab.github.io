@@ -1,5 +1,6 @@
 ---
 title: Nordiskt partnerskap i deliberativ demokrati
+featured: true
 image: /uploads/38312837631_13b0d78807_z.jpg
 excerpt: >-
   Vi välkomnar den deliberativa vågen - ett nytt nordiskt partnerskap med de
@@ -27,16 +28,14 @@ Partnerskapet tror på att de nordiska välfärdsstaterna kan bygga upp robusta 
 Deliberativ demokrati är på frammarsch globalt och demokratiska innovationer blir alltmer internationellt orienterade med samarbeten och projekt över nationsgränserna. Under de senaste fem åren har utvecklingen fått fart även i Norden, med 53 medborgarpaneler genomförda sedan 2019.
 
 > Med många likheter mellan de demokratiska systemen och välfärdsmodellerna finns mycket att vinna på ett närmare samarbete mellan de nordiska aktörerna. Partnerskapet kommer att fungera som en ingångsport för hela den nordiska demokratisektorn, en databas över metoder och fakta om deliberativ demokrati i de nordiska länderna, samt en kompetent konsortium för att ta sig an storskaliga, gränssnittande deliberativa uppgifter.\
-> \
->
+> \\
 
 ##### Vad är deliberativ demokrati och varför behöver vi det?
 
 \
 Deliberation innebär att vi når fram till något genom att samtala tillsammans. På ett enkelt sätt innebär det att i en representativ demokrati fattar valda politiker beslut på medborgarnas vägnar. En deliberativ demokrati kan utvidga och komplettera den representativa demokratin genom att involvera fler människor i beslutsprocesserna genom diskussion, reflektion och förståelse.Forskning visar att deliberativa, representativa processer såsom medborgarfullmäktige kan leda till bättre politik, möjliggöra för politiker att fatta svåra beslut och öka förtroendet mellan medborgare och myndigheter. Det kan också motverka polarisering och visa att deltagarna faktiskt kan ändra åsikt och preferenser om det aktuella ämnet under processens gång.
 
-![](</uploads/Namnlös design (3).png>)\
-
+![](</uploads/Namnlös design (3).png>)\\
 
 ##### Vad kommer det nordiska nätverket att göra?
 
