@@ -18,26 +18,26 @@ categories: _themes/medborgarbudget.md
 
 Vi står inför komplexa samhällsutmaningar med minskande förtroende för demokratin. Det Nordiska Deliberationspartnerskapets mål är tydligt: att främja införandet av deliberativ demokrati i de nordiska länderna med ett starkt fokus på att ge medborgarna en mer betydande roll i beslutsprocesserna som påverkar deras liv och omgivning. I tätt samarbete med forskare strävar vi efter att visa på hur sådana processer kan förstärka och komplettera våra representativa demokratier. Det är vår övertygelse, berättar Zakia Elvang, en av grundarna av partnerskapet och en partner på We Do Democracy, att detta initiativ kommer att utgöra en väsentlig länk i kedjan för att skapa en mer inkluderande och effektiv demokratisk modell för norden.
 
-##### Inspirera internationellt
+#### Inspirera internationellt
 
 Partnerskapet tror på att de nordiska välfärdsstaterna kan bygga upp robusta demokratier och fungera som en global förebild. Nordic Deliberation har bildats för att främja och underlätta sådana framtida samarbeten. Detta partnerskap utgörs av de främsta aktörerna inom deliberativ demokrati i de nordiska länderna: We Do Democracy i Danmark, Sitra i Finland, Digidem i Sverige, Analyse & Tal i Danmark och Norge samt SoCentral i Norge. Genom en gemensam strävan efter förnyelse och samarbete hoppas vi kunna forma en ljusare framtid för demokratin, både i Norden och bortom dess gränser.
 
 ![](</uploads/Namnlös design (2).png>)
 
-##### Deliberativ våg i Europa och Norden
+#### Deliberativ våg i Europa och Norden
 
 Deliberativ demokrati är på frammarsch globalt och demokratiska innovationer blir alltmer internationellt orienterade med samarbeten och projekt över nationsgränserna. Under de senaste fem åren har utvecklingen fått fart även i Norden, med 53 medborgarpaneler genomförda sedan 2019.
 
 > Med många likheter mellan de demokratiska systemen och välfärdsmodellerna finns mycket att vinna på ett närmare samarbete mellan de nordiska aktörerna. Partnerskapet kommer att fungera som en ingångsport för hela den nordiska demokratisektorn, en databas över metoder och fakta om deliberativ demokrati i de nordiska länderna, samt en kompetent konsortium för att ta sig an storskaliga, gränssnittande deliberativa uppgifter.
 
-##### Vad är deliberativ demokrati och varför behöver vi det?
+#### Vad är deliberativ demokrati och varför behöver vi det?
 
 \
 Deliberation innebär att vi når fram till något genom att samtala tillsammans. På ett enkelt sätt innebär det att i en representativ demokrati fattar valda politiker beslut på medborgarnas vägnar. En deliberativ demokrati kan utvidga och komplettera den representativa demokratin genom att involvera fler människor i beslutsprocesserna genom diskussion, reflektion och förståelse.Forskning visar att deliberativa, representativa processer såsom medborgarfullmäktige kan leda till bättre politik, möjliggöra för politiker att fatta svåra beslut och öka förtroendet mellan medborgare och myndigheter. Det kan också motverka polarisering och visa att deltagarna faktiskt kan ändra åsikt och preferenser om det aktuella ämnet under processens gång.
 
-![](</uploads/Namnlös design (3).png>)\\
+![](</uploads/Namnlös design (3).png>)
 
-##### Vad kommer det nordiska nätverket att göra?
+#### Vad kommer det nordiska nätverket att göra?
 
 * Fungera som central kontaktpunkt med översikt över den demokratiska sektorn i de nordiska länderna.
 * Underlätta nätverk och evenemang för beslutsfattare på hög nivå och tjänstemän som arbetar med eller är intresserade av deliberativ demokrati.
@@ -46,7 +46,7 @@ Deliberation innebär att vi når fram till något genom att samtala tillsammans
 * En metodologisk kunskapsbank för bästa praxis vid organisering, utformning, facilitation och säkring av påverkan för deliberativ demokrati.
 * Databas över tidigare mini-offentligheter i de nordiska länderna.
 
-##### Vilka är de grundandarna för Nordic Deliberation?
+#### Vilka är de grundandarna för Nordic Deliberation?
 
 [Digidem Lab](https://digidemlab.org/) är ett arbetarägt kooperativ som arbetar för fördjupning och utvidgning av deltagande demokrati på alla samhällsnivåer. "Vi tror på att skifta makt och mandat för att formulera samhällets problem och lösningar. Därför erbjuder och utvecklar vi metoder för politisk och demokratisk innovation." Digidem Lab designar och driver medborgarråd och deltagarbudgetar på både nationell och kommunal nivå i Sverige. Kontaktperson: [Jonas Linde](https://www.linkedin.com/in/jlinde/) , [jonas@digidemlab.org](mailto:jonas@digidemlab.org)
 
