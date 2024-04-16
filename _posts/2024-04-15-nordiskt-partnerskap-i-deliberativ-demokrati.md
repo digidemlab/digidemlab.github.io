@@ -58,4 +58,4 @@ Deliberation innebär att vi når fram till något genom att samtala tillsammans
 
 [Analyse & Tal](https://www.ogtal.dk/) är ett samarbete med bas i Köpenhamn, Oslo och Århus som arbetar med dataanalys. [Analyse & Tall SA](https://www.linkedin.com/company/analyseogtall/) specialiserar sig på att kvantifiera komplexa utmaningar: Kartläggning av sociala fenomen och tendenser, mätning av attityder och beteende, och kvantifiering av digitala och sociala rörelser. Kontaktpersoner: Partner [Aylin Maria Dursun](https://www.linkedin.com/in/aylin-maria-dursun-249a3963/) ([aylin@ogtall.no](mailto:aylin@ogtall.no)), partner Konrad Jervell ([konrad@ogtall.no](mailto:konrad@ogtall.no))
 
-Följ oss och våra partners för att följa med i utvecklingen!
+Prenumerera på vårt nyhetsbrev för att följa med i utvecklingen!
