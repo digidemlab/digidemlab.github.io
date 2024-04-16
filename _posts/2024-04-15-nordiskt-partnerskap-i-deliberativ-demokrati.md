@@ -1,7 +1,7 @@
 ---
 title: Nordiskt partnerskap i deliberativ demokrati
 featured: true
-image: /uploads/38312837631_13b0d78807_z.jpg
+image: /uploads/Namnlös design (4).png
 excerpt: >-
   Vi välkomnar den deliberativa vågen - ett nytt nordiskt partnerskap med de
   ledande aktörerna!
