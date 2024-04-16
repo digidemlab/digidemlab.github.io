@@ -8,6 +8,7 @@ excerpt: >-
 ingress-text: >-
   I en enad strävan att stärka de nordiska demokratierna tar det Nordiska
   Deliberationspartnerskapet nu sina första steg. 
+ref: nyttnatverk
 lang: sv
 date: 2024-04-15T22:00:00.000Z
 categories: _themes/medborgarbudget.md
