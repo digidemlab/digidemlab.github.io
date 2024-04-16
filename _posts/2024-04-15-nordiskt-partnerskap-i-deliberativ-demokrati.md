@@ -28,8 +28,7 @@ Partnerskapet tror på att de nordiska välfärdsstaterna kan bygga upp robusta 
 
 Deliberativ demokrati är på frammarsch globalt och demokratiska innovationer blir alltmer internationellt orienterade med samarbeten och projekt över nationsgränserna. Under de senaste fem åren har utvecklingen fått fart även i Norden, med 53 medborgarpaneler genomförda sedan 2019.
 
-> Med många likheter mellan de demokratiska systemen och välfärdsmodellerna finns mycket att vinna på ett närmare samarbete mellan de nordiska aktörerna. Partnerskapet kommer att fungera som en ingångsport för hela den nordiska demokratisektorn, en databas över metoder och fakta om deliberativ demokrati i de nordiska länderna, samt en kompetent konsortium för att ta sig an storskaliga, gränssnittande deliberativa uppgifter.\
-> \\
+> Med många likheter mellan de demokratiska systemen och välfärdsmodellerna finns mycket att vinna på ett närmare samarbete mellan de nordiska aktörerna. Partnerskapet kommer att fungera som en ingångsport för hela den nordiska demokratisektorn, en databas över metoder och fakta om deliberativ demokrati i de nordiska länderna, samt en kompetent konsortium för att ta sig an storskaliga, gränssnittande deliberativa uppgifter.
 
 ##### Vad är deliberativ demokrati och varför behöver vi det?
 
