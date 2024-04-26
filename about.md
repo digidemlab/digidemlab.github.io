@@ -1,16 +1,16 @@
 ---
 title: Vi är Digidem Lab
-description: Digidem Lab arbetar för en fördjupning och expandering av deltagande demokrati inom alla nivåer av samhället.
+description: Digidem Lab är ett oberoende demokratilabb som stöttar stadsdelar, kommuner och offentliga institutioner i att utföra effektiva och inkluderande medborgardialoger.
 ref: about
 image: "/uploads/medialab.jpg"
-ingress-text: Digidem Lab arbetar för en fördjupning och expandering av deltagande demokrati inom alla nivåer av samhället.
+ingress-text: Digidem Lab är ett oberoende demokratilabb som stöttar stadsdelar, kommuner och offentliga institutioner i att utföra effektiva och inkluderande medborgardialoger.
 links:
 - title: Democracy Upgraded (tidigare Digidem Lab ideell förening)
   url: "https://democracyupgraded.org"
 ---
 
 
-Vi är ett arbetarägt kooperativ som designar och utvecklar metoder för politisk och demokratisk innovation. Vi driver frågan om deltagande demokrati och stöttar praktisk att folk ska ha möjlighet att påverka de beslut som påverkar deras liv.
+Vi studerar, testar och erbjuder internationellt beprövade digitala verktyg och metoder för medborgardeltagande och skapar medborgarcentrerade processer för att särskilt nå underrepresenterade grupper.
 
 ## Våra värderingar
 ### Deltagande

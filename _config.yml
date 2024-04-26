@@ -96,16 +96,15 @@ t:
     mission: Digidem Lab tror på att förbättra, utveckla och nyskapa vår demokrati. Vi tror på att förflytta makt och mandat att formulera samhällets problem och lösningar. Därför erbjuder och utvecklar vi metoder för politisk och demokratisk innovation.
     language: Svenska
     member:
-    - title: Styrelsemedlem i Global Participatory Budgeting Hub.
-      image: "/assets/images/logo-pbp.png"
-      url: https://www.participatorybudgeting.org/globalpbhub/
-    - title: Styrelsemedlem och medgrundare till internationella Consul Democracy
-        Foundation.
-      image: "/assets/images/logo-consul.png"
-      url: https://consulproject.org
-    - title: Utveckling av medborgardialog i Göteborg och Stockholm med stöd av Vinnova.
-      image: "/assets/images/logo-vinnova.png"
-      url: https://www.vinnova.se/
+    - title: Officiell utvecklingspartner för Decidim
+      image: "/assets/images/logo-decidim.svg"
+      url: https://decidim.org
+    - title: Partner i Collective Intelligence through Digital Tools
+      image: "/assets/images/logo-coldigit.png"
+      url: https://blogs.helsinki.fi/collective-intelligence-through-digital-tools-coldigit/
+    - title: Medgrundare och partner i Nordic Deliberation Network
+      image: "/assets/images/icon-vote.svg"
+      url: /news/nordiskt-partnerskap-i-deliberativ-demokrati/
     project-title-start: Våra uppdrag
     project-title: Uppdrag
     project-related: Uppdrag inom
@@ -131,16 +130,15 @@ t:
     mission: "Digidem Lab believes in improving, developing and innovating our democracy. We believe in shifting power and mandate to formulate society's problems and solutions. Therefore, we provide and develop methods for political and democratic innovation."
     language: English
     member:
-    - title: Board member of Global Participatory Budgeting Hub.
-      image: "/assets/images/logo-pbp.png"
-      url: https://www.participatorybudgeting.org/globalpbhub/
-    - title: Co-founder and board member of Consul Democracy Foundation.
-      image: "/assets/images/logo-consul.png"
-      url: https://consulproject.org
-    - title: Developing new methods for citizen participation with the support of
-        Vinnova.
-      image: "/assets/images/logo-vinnova.png"
-      url: https://www.vinnova.se/en/
+    - title: Official Decidim partner
+      image: "/assets/images/logo-decidim.svg"
+      url: https://decidim.org
+    - title: Partner in Collective Intelligence through Digital Tools
+      image: "/assets/images/logo-coldigit.png"
+      url: https://blogs.helsinki.fi/collective-intelligence-through-digital-tools-coldigit/
+    - title: Co-founding partner of Nordic Deliberation Network
+      image: "/assets/images/icon-vote.svg"
+      url: https://www.wedodemocracy.com/nordic-deliberation-partnership-joins-forces-to-strengthen-nordic-democracies/
     project-title-start: Projects
     project-title: Projects
     project-related: Projects about

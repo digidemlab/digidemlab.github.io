@@ -1,12 +1,12 @@
 ---
 title: We are Digidem Lab
-description: Digidem Lab works for the deepening and expansion of participatory democracy at all levels of society.
+description:  Digidem Lab is an independent democracy lab that supports neighbourhoods, municipalities and public institutions in conducting effective and inclusive citizen dialogues.
 ref: about
 image: "/uploads/medialab.jpg"
-ingress-text: Digidem Lab works for the deepening and expansion of participatory democracy at all levels of society.
+ingress-text: Digidem Lab is an independent democracy lab that supports neighbourhoods, municipalities and public institutions in conducting effective and inclusive citizen dialogues.
 ---
 
-We are a worker-owned cooperative that designs and develops methods for political and democratic innovation. We are passionate about participatory democracy and support practices that empower people to influence the decisions that affect their lives.
+We study, test and offer internationally proven digital tools and methods for civic participation and create citizen-centred processes to reach underrepresented groups.
 
 ## Our values
 ### Participation

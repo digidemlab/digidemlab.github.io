@@ -3,7 +3,7 @@ title: Jon-Arvid Johnson
 date: 2023-02-23 18:08:00 Z
 categories:
 - Digidem Lab
-image: "/uploads/placeholder.png"
+image: "/uploads/jonarvid.jpg"
 job: System Administration & Development
 mail: jonarvid@digidemlab.org
 ---
