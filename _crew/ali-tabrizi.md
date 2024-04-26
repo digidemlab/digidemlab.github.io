@@ -5,7 +5,7 @@ categories:
 - Digidem Lab
 lang: sv
 job: Verksamhetsledare
-image: "/uploads/placeholder.png"
+image: "/uploads/ali.jpg"
 phone: "+46 703 103 304"
 mail: ali@digidemlab.org
 featured: true
