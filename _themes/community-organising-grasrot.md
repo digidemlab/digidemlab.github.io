@@ -3,11 +3,10 @@ title: Community organising
 image: "/uploads/community organising (1).jpg"
 menu: services
 excerpt: Kurser och utbildningar i lokal organisering
-ingress-text: Utveckla din egen och andras förmåga att organisera för att skapa den
-  förändring ni vill se! Digidem Lab erbjuder kurser i Community organising
+ingress-text: Utbildningar i organisering med fokus på lokala behov och utmaningar, som ger din organisation förutsättningar att växa och utvecklas.
 icon: "/assets/images/icon-campaign.svg"
 items:
-- text: Vi hjälper dig att lyckas med att bygga lokalt organisering och ledarskap! Våra beprövade metodpaket kombinerat med fokus på lokala behov och utmaningar ger din organisation förutsättningar att växa och utvecklas.
+- text: Vi hjälper dig att lyckas med att bygga lokalt organisering och ledarskap! Våra metodpaket kombinerat med fokus på lokala behov och utmaningar ger din organisation förutsättningar att växa och utvecklas.
 ref: communityorg
 lang: sv
 ---
