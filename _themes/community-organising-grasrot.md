@@ -11,6 +11,8 @@ items:
 ref: communityorg
 lang: sv
 ---
-Digidem Lab erbjuder kurser i organisering med fokus på lokala sammanhang där deltagare får metoder och verktyg för att stärka ett community. Kursen är både teoretisk och praktisk och ger en grund i att navigera strategi, makt, jämlikhet, lyssnande med mera. Deltagarna har möjlighet att testa metoder direkt och reflektera över hur de kan användas i deras egen kontext.
+Digidem Lab erbjuder skräddarsydda kurser i organisering med fokus på lokala sammanhang där deltagare får metoder och verktyg för att stärka ett community. Kurserna ger en grund i att navigera strategi, makt, jämlikhet, lyssnande med mera. Deltagarna har möjlighet att testa metoder direkt och reflektera över hur de kan användas i deras egen kontext.
 
-Kursen vänder sig till lokala organisatörer som på något sätt arbetar med lokal utveckling, föreningsaktiva, lokala ledare, facilitatörer och aktivister som inser behovet av att bygga makt underifrån och vill utveckla sin egen och andras förmåga att själva organisera för att skapa den förändring de vill se.
+Våra kurser vänder sig till organisationer som vill utveckla sitt arbete för lokal utveckling. Föreningsaktiva, lokala ledare, facilitatörer och aktivister ges verktyg att bygga makt underifrån och vill utveckla sin egen och andras förmåga att själva organisera för att skapa den förändring de vill se.
+
+Digidem Lab ledde den första fördjupande KY-utbildningen i community organising 2022 i samarbete med bland andra Rädda Barnen, Amnesty International och Svenska kyrkan. Vi har tidigare utvecklat metodpaketet community organising i samarbete med internationella partners och med stöd av Svenska Postkodstiftelsen 2021.

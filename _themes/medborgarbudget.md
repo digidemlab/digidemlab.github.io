@@ -2,8 +2,8 @@
 title: Medborgarbudget och Medborgardeltagande
 image: /uploads/majorna.jpg
 menu: services
-excerpt: Processdesign och digitala verktyg för deltagande budgetar
-ingress-text: Processdesign och digitala verktyg för deltagande budgetar.
+excerpt: Processdesign och digitala verktyg för medborgardeltagande och medborgarbudgetar
+ingress-text: Processdesign och digitala verktyg för medborgardeltagande och medborgarbudgetar.
 icon: "/assets/images/icon-budget.png"
 items:
 - text: Vi hjälper dig att sjösätta processer för medborgardeltagande! Särskilt fokus på underrepresenterade grupper och digitala plattformar i kombination med fysiska processer bidrar till  träffsäkra beslut.
@@ -23,8 +23,8 @@ faq:
 
 ---
 
+Digidem Lab stöttar stadsdelar, kommuner och offentliga institutioner i att utföra effektiva och inkluderande medborgardialoger. Vi arbetar med processer för allt från stora städer som **New York City** och **Chicago** till lokala medborgarbudgetar för **Gislaved** och **Biskopsgården**.
+
+Som officiell partner för den digitala medborgarplattformen [Decidim](https://decidim.org/partners/) utvecklar och stödjer vi digitalt medborgardeltagande i kombination med processdesign och facilitering. Vi erbjuder stöd i alla steg av utveckling, planering och genomförande av processer för medborgardeltagande för att säkerställa ett inkluderande deltagande.
+
 Vi skapar medborgarcentrerade processer utifrån internationellt beprövade metoder, med ett särskilt fokus på att nå underrepresenterade grupper. Medborgarcentrerade processer såsom medborgar- eller boendebudget har potentialen att stötta offentliga organisationer i mer effektivt och träffsäkert beslutsfattande. Dessutom ger processerna upphov till fler kontaktytor mellan organisation och medborgare, vilket har potentialen att stärka både den vertikala och den horisontella tilliten. Därtill visar forskning att den som deltar i en medborgarbudget är mer benägen att engagera sig på andra sätt i civilsamhället. Exempelvis har [amerikanska studier](https://www.participatorybudgeting.org/participatory-budgeting-increases-voter-turnout-7/) visat på att valdeltagandet ökar bland de som deltog i medborgarbudgetprocesser (Particpatory Budgeting).
-
-Medborgarbudget som styrningsmetod har sitt ursprung i Porto Allegre i Brasilien, där den började användas under 80-talet. Sedan dess har metoden spridits används nu av tusentals städer runtom i världen. Ett nordiskt exempel är processen [OmaStadi](https://omastadi.hel.fi/?locale=sv), där tiotusentals helsingforsbor bidrar till att utveckla staden.
-
-Som team har vi lång er­­farenhet, både utifrån en svensk kontext och i internationella uppdrag, av att arbeta för att skapa mötesplatser för grupper som står långt från besluts­fattandet. Vi kombinerar fysiska metoder som bygger för­­troende och egen­makt med digitala plattformar som sänker tröskeln för deltagande.

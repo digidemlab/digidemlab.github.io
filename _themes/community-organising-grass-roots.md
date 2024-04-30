@@ -14,6 +14,8 @@ ref: communityorg
 lang: en
 ---
 
-Digidem Lab offers courses in organising with a focus on local contexts, providing participants with methods and tools to strengthen their community. The course is both theoretical and practical and provides a foundation in navigating strategy, power, equity, listening and more. Participants have the opportunity to test methods directly and reflect on how they can be used in their own context.
+Digidem Lab offers organising courses with a focus on local contexts, providing participants with methods and tools to strengthen a community. The courses provide a foundation in navigating strategy, power, equality, listening and more. Participants have the opportunity to test methods directly and reflect on how they can be used in their own context.
 
-The course is aimed at local organisers who are in some way working on local development, association activists, community leaders, facilitators and activists who recognise the need to build power from below and want to develop their own and others' capacity to self-organise to create the change they want to see.
+Our courses are aimed at organisations that want to develop their work for local development. Associations, local leaders, facilitators and activists are given tools to build power from below and want to develop their own and others' ability to organise themselves to create the change they want to see.
+
+Digidem Lab led the first Swedish in-depth training in community organising in 2022 in collaboration with Save the Children, Amnesty International and the Church of Sweden, among others. We have previously developed the community organising methodology package in collaboration with international partners and with the support of the Swedish Postcode Foundation in 2021.

@@ -8,7 +8,7 @@ ingress-text: Utveckla din egen och andras förmåga att organisera för att ska
   förändring ni vill se! Digidem Lab erbjuder kurser i Community organising
 icon: "/assets/images/icon-vote.svg"
 items:
-- text: Design av steg-för-ste-gmodell med instruktioner om varje fas.
+- text: Design av steg-för-stegmodell med instruktioner om varje fas.
 - text: Förankring av metoder i arbets- och ledningsgrupp.
 - text: Workshop för nyckelpersoner bland medarbetare och civilsamhälle.
 published: false
