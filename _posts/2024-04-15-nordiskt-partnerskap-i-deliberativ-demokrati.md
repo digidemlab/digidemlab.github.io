@@ -7,11 +7,11 @@ excerpt: >-
   ledande aktörerna!
 ingress-text: >-
   I en enad strävan att stärka de nordiska demokratierna tar det Nordiska
-  Deliberationspartnerskapet nu sina första steg. 
+  Deliberationspartnerskapet nu sina första steg.
 ref: nyttnatverk
 lang: sv
 date: 2024-04-15T22:00:00.000Z
-categories: _themes/medborgarbudget.md
+categories: _themes/medborgarjury.md
 ---
 
 #### Visionen är att att överbrygga klyftan mellan medborgare och det politiska etablissemanget, med målet att säkerställa robusta demokratier och accelerera den nordiska deliberativa vågen.

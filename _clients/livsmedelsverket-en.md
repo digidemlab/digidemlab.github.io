@@ -11,5 +11,5 @@ year: "2023"
 ref: livsmedelsverket
 lang: en
 categories:
-- _themes/medborgarjury.md
+- _themes/citizen-panel.md
 ---

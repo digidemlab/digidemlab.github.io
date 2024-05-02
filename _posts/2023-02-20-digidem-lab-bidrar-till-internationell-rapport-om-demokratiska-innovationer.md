@@ -10,7 +10,7 @@ ingress-text: Digidem Lab ingår sedan år 2020 i det europeiska forskningskonso
 links:
 - title: Rapporten från Nesta
   url: https://media.nesta.org.uk/documents/Democratic_innovation_and_digital_participation.pdf
-ref: ''
+ref: 'coldigit-nesta'
 categories:
 - _themes/medborgarbudget.md
 clients:

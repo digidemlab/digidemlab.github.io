@@ -2,7 +2,7 @@
 lang: sv
 date: 2023-09-07 10:02:33 +0100
 title: Ny kurs i lokal organisering
-featured: true
+featured: false
 image: /uploads/communityorg.jpg
 thumbnail: /uploads/communityorg.jpg
 excerpt: Digidem Lab och Nätverkstan ordnar utbildning i Community Organising.
