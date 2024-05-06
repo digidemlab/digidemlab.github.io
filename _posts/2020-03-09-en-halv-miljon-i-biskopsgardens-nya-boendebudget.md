@@ -19,7 +19,7 @@ links:
 categories:
 - _themes/medborgarbudget.md
 clients:
-- _clients/goteborg.md
+- _clients/bostadsbolaget.md
 ---
 ### Uppdraget
 
