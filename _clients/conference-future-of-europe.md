@@ -20,8 +20,8 @@ links:
 ref: europas-framtid
 lang: en
 categories:
-- _themes/participatory-budget.md
 - _themes/citizen-panel.md
+- _themes/participatory-budget.md
 
 ---
 
