@@ -1,5 +1,5 @@
 ---
-title: Citizens' Assembly for the Climate with the City of Gothenburg
+title: Citizens' Assembly on Climate with the City of Gothenburg
 featured: true
 image: /uploads/medborgarpanel-diskussioner.jpg
 thumbnail: /uploads/medborgarpanel-diskussioner.jpg
