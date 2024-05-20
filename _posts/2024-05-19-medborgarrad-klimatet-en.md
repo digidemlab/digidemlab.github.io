@@ -1,8 +1,8 @@
 ---
 title: Sweden's first national climate assembly comes to an end
 featured: true
-image: /uploads/medborgarrad-mok-wide.jpg
-thumbnail: /uploads/medborgarrad-mok-liten.jpg
+image: /uploads/livsmedelsverket.jpg
+thumbnail: /uploads/livsmedelsverket_small.jpg
 excerpt: '"Act now" urges Swedish climate assembly.'
 ingress-text: '"Act now" urges Swedish climate assembly.'
 links:

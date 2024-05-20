@@ -1,8 +1,8 @@
 ---
 title: Sveriges första medborgarråd om klimatet avslutas
 featured: true
-image: /uploads/medborgarrad-mok-wide.jpg
-thumbnail: /uploads/medborgarrad-mok-liten.jpg
+image: /uploads/livsmedelsverket.jpg
+thumbnail: /uploads/livsmedelsverket_small.jpg
 excerpt: '"Agera nu" är budskapet från medborgarråd om klimatet.'
 ingress-text: '"Agera nu" är budskapet från medborgarråd om klimatet.'
 links:
