@@ -7,9 +7,9 @@ image: /uploads/communityorg.jpg
 thumbnail: /uploads/communityorg.jpg
 excerpt: Digidem Labs och Nätverkstans fortbildningskurs i Community Organising kommer tillbaka i höts.
 ingress-text:  Vill du få nya verktyg för att få till den skillnad du eller din organisation arbetar med?
-#links:
-#- title: kursbeskrivning
-#  url: https://www.natverkstan.net/wp-content/uploads/2023/09/Community-Organizer_2023_rev.pdf
+links:
+- title: Kursinformation och anmälan
+  url: https://www.communityorganising.se
 categories:
 - _themes/community-organising-grasrot.md
 
