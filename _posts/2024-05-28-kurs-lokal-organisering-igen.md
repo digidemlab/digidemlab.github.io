@@ -15,7 +15,7 @@ categories:
 
 ---
 
-Den uppskattade YH-kursen i Community Organsing kommer tillbaka i höst. Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare.
+Den uppskattade YH-kursen i Community Organising kommer tillbaka i höst. Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare.
 
 * 30 YH-poäng
 * Deltid på 12 veckor i Göteborg
