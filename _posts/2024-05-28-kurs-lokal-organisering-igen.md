@@ -25,7 +25,9 @@ Den uppskattade YH-kursen i Community Organising kommer tillbaka i höst. Fortbi
 
 Under utbildningen får du kunskap om ramverket för Community Organising, dess teorier och begreppssystem. Utbildningen går att kombinera med arbete och du arbetar med case från din egen organisation kring utmaningar med att arbeta medlemsstyrt, lyfta lokala ledare, kartlägga makt, organisera hållbart och vara strategiskt långsiktig.
 
-Utbildningen ges av Digidem Lab och Nätverkstan i samarbete med internationella partners inom Community Organising. Utbildningen är framtagen i samarbete med Rädda Barnen, Svenska Kyrkan Göteborgs Stift, Folkets Hus och Parker, Frihamnsdagarna, Navet i Bergsjön, Saqmi, PAGE 28, Positiva Gruppen Göteborg och Göthenburgo och baseras på utmaningar de möter i sitt dagliga arbete och de behov av samverkan och kunskap de ser.
+Community Organising anordnas av Digidem Lab och Nätverkstan i samarbete med internationella partners inom Community Organising. Kursen finansieras av Myndigheten för Yrkeshögskolan och Västra Götalandsregionen.
+
+Utbildningen är framtagen i samarbete med Rädda Barnen, Svenska Kyrkan Göteborgs Stift, Folkets Hus och Parker, Frihamnsdagarna, Navet i Bergsjön, Saqmi, PAGE 28, Positiva Gruppen Göteborg och Göthenburgo och baseras på utmaningar de möter i sitt dagliga arbete och de behov av samverkan och kunskap de ser.
 
 Ansök nu och forma en bättre framtid! Sista ansökningsdag är den 22 augusti 2024. [Ansök här](https://form.digidemlab.org/ansokan-yh-kurs-2024) med ett kort CV över erfarenhet inom civilsamhället.
 
