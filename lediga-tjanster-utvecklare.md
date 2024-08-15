@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Kommande tjänst: Utvecklare och systemadministratör"
+title: "Ny tjänst: Utvecklare och systemadministratör"
 image: /uploads/civictech.jpg
 thumbnail: /uploads/civictech_small.jpeg
 excerpt: Digidem Lab söker dig som vill utveckla open source-tjänster för deltagande och demokrati.
@@ -25,7 +25,7 @@ Vi strävar efter att stärka civic tech-sektorn i Sverige och internationellt o
 
 Tjänsten är under utveckling och vi är öppna för att diskutera omfattning och arbete som anställd eller på konsultbasis. Vårt kontor finns i Göteborg och du bör kunna vara på plats minst ett par gånger per månad.
 
-Skicka gärna intresseanmälan med CV redan nu till <rekrytering@digidemlab.org> om det låter intressant. (Vi svarar på eventuella frågor från 5 augusti.)
+Skicka intresseanmälan med CV till <rekrytering@digidemlab.org>.
 
 ### Om Digidem Lab
 
