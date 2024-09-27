@@ -55,31 +55,32 @@ layout: default
       </aside>
     {% endif %}
 
-
-    {% for item in site.data.menu[page.lang].primary %}
-      {% if page.menu == item.ref and item.items %}
-        <aside class="menu" id="accordion-menu">
-          <ul class="menu-list accordion-body">
-            {% for item in item.items %}
-              {% if item.url %}
-                <li><a class="{% if item.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
-                  {% if item.items %}
-                    <ul>
-                      {% for subitem in item.items %}
-                        <li><a class="{% if subitem.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{subitem.url}}">{{subitem.title}}</a>
-                      {% endfor %}
-                    </ul>
-                  {% endif %}
-                </li>
-              {% else %}
-              </ul>
-              <p class="menu-label accordion-head">{{ item.title }}</p>
-              <ul class="menu-list accordion-body">
-              {% endif %}
-            {% endfor %}
-          </ul>
-        </aside>
-      {% endif %}
+    {% for menu-item in site.data.menu[page.lang] %}
+      {% for item in menu-item[1] %}
+        {% if page.menu == item.ref and item.items %}
+          <aside class="menu" id="accordion-menu">
+            <ul class="menu-list accordion-body">
+              {% for item in item.items %}
+                {% if item.url %}
+                  <li><a class="{% if item.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{item.url}}">{{item.title}}</a>
+                    {% if item.items %}
+                      <ul>
+                        {% for subitem in item.items %}
+                          <li><a class="{% if subitem.url==page.url %}is-active{% endif %}" href="{{site.baseurl}}{{subitem.url}}">{{subitem.title}}</a>
+                        {% endfor %}
+                      </ul>
+                    {% endif %}
+                  </li>
+                {% else %}
+                </ul>
+                <p class="menu-label accordion-head">{{ item.title }}</p>
+                <ul class="menu-list accordion-body">
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </aside>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
 
 
