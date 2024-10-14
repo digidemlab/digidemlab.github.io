@@ -1,6 +1,6 @@
 ---
 title: Kurs i lokal organisering tillbaka i höst
-featured: true
+featured: false
 image: /uploads/communityorg.jpg
 thumbnail: /uploads/communityorg.jpg
 excerpt: >-
