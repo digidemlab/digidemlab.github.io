@@ -5,7 +5,7 @@ image: /uploads/communityorg.jpg
 thumbnail: /uploads/communityorg.jpg
 excerpt: >-
   Digidem Labs och Nätverkstans fortbildningskurs i Community Organising kommer
-  tillbaka i höts.
+  tillbaka i höst.
 ingress-text: >-
   Vill du få nya verktyg för att få till den skillnad du eller din organisation
   arbetar med?
