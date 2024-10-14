@@ -1,18 +1,20 @@
 ---
-lang: sv
-date: 2024-05-28 10:02:33 +0100
 title: Kurs i lokal organisering tillbaka i höst
 featured: true
 image: /uploads/communityorg.jpg
 thumbnail: /uploads/communityorg.jpg
-excerpt: Digidem Labs och Nätverkstans fortbildningskurs i Community Organising kommer tillbaka i höts.
-ingress-text:  Vill du få nya verktyg för att få till den skillnad du eller din organisation arbetar med?
+excerpt: >-
+  Digidem Labs och Nätverkstans fortbildningskurs i Community Organising kommer
+  tillbaka i höts.
+ingress-text: >-
+  Vill du få nya verktyg för att få till den skillnad du eller din organisation
+  arbetar med?
 links:
-- title: Kursinformation och anmälan
-  url: https://www.communityorganising.se
-categories:
-- _themes/community-organising-grasrot.md
-
+  - title: Kursinformation och anmälan
+    url: 'https://www.communityorganising.se'
+lang: sv
+date: 2024-05-28T09:02:33.000Z
+categories: _themes/community-organising-grasrot.md
 ---
 
 Den uppskattade YH-kursen i Community Organising kommer tillbaka i höst. Fortbildningskursen är skräddarsydd för dig med erfarenhet och passion för samhällsförbättring. Kursen ger nya verktyg och vässar dina nuvarande med skarpa föreläsare.
@@ -36,7 +38,7 @@ Ansök nu och forma en bättre framtid! Sista ansökningsdag är den 22 augusti 
 -->
 
 > Efter ha sett de konkreta verktyg för arbetslivet som vår organisations
-studerande förra terminen fått med sig av vidareutbildningen ser jag att vi verkligen stärks som
-organisation såväl som på individnivå.
+> studerande förra terminen fått med sig av vidareutbildningen ser jag att vi verkligen stärks som
+> organisation såväl som på individnivå.
 
-_Henrik Frykberg, Stiftsadjunkt Göteborgs Stift_
+*Henrik Frykberg, Stiftsadjunkt Göteborgs Stift*
