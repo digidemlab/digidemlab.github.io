@@ -37,4 +37,4 @@ Utbytet i Colombia har finansierats av biståndsorganisationen ForumCiv.
 
 ”I en tid när demokratin står under hårt tryck, och urholkas i land efter land, är den här typen av internationella utbyten, där vi får utveckla metoder för att tvärtom fördjupa demokratin, avgörande.”\
 \
-*Bild: *Juan Estrada Cespedes
+Bild: Juan Estrada Cespedes
