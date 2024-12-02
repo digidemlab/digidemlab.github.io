@@ -7,6 +7,7 @@ excerpt: Digidem Lab söker dig som vill arbeta som projektledare på ett demokr
 ingress-text:  Digidem Lab söker dig som vill arbeta som projektledare på ett demokratilabb som verkar för att utveckla demokratin och öka medborgarens inkluderingen i omställningen mot ett mer hållbart samhälle.
 date: 2024-01-27T23:00:00.000Z
 menu: lediga-tjanster
+published: false
 ---
 
 Tjänsten är i huvudsak förlagd till Göteborg men eftersom våra uppdragsgivare finns i hela Sverige kan tjänsteresor förekomma.

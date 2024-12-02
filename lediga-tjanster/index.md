@@ -12,7 +12,6 @@ menu: lediga-tjanster
 
 ## Just nu söker vi
 
-* ### [Administrativ projektledare](/lediga-tjanster/projektledare-2024/)
 * ### [Utvecklare och systemadministratör](/lediga-tjanster/utvecklare-2024/)
 
 ## Om Digidem Lab

@@ -7,4 +7,5 @@ categories:
 image: "/uploads/niki.png"
 job: Administrative Project Manager
 mail: niki@digidemlab.org
+published: false
 ---
