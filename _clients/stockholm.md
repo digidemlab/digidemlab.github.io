@@ -8,9 +8,9 @@ ingress-text: Skärholmen anlitar Digidem Lab för medborgarförslag.
 excerpt: Skärholmen anlitar Digidem Lab för medborgarförslag.
 client: Stockholms stad, Skärholmen
 year: 2019-
-links:
-  - title: Dialog i Skärholmen
-    url: https://skarholmen.demokratiskastader.se
+#links:
+#  - title: Dialog i Skärholmen
+#    url: https://skarholmen.demokratiskastader.se
 ref: stockholm
 lang: sv
 categories:

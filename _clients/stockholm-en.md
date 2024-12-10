@@ -8,9 +8,9 @@ ingress-text: "Digidem Lab works with Skärholmen's citizen proposals."
 excerpt: "Digidem Lab works with Skärholmen's citizen proposals."
 client: City of Stockholm, Skärholmen
 year: 2019-
-links:
-  - title: Dialogue in Skärholmen
-    url: https://skarholmen.demokratiskastader.se
+#links:
+#  - title: Dialogue in Skärholmen
+#    url: https://skarholmen.demokratiskastader.se
 ref: stockholm
 lang: en
 categories:
