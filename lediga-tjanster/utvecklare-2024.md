@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: "Utvecklare och systemadministratör"
 image: /uploads/civictech.jpg
 thumbnail: /uploads/civictech_small.jpeg
