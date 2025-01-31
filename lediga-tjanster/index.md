@@ -10,9 +10,7 @@ ref: lediga-tjanster
 menu: lediga-tjanster
 ---
 
-## Just nu söker vi
-
-* ### [Utvecklare och systemadministratör](/lediga-tjanster/utvecklare-2024/)
+Just nu har vi inga lediga tjänster, men skicka gärna CV och intresseanmälan om du är intresserade av att jobba med oss i framtiden!
 
 ## Om Digidem Lab
 
