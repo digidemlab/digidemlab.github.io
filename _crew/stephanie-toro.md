@@ -5,7 +5,7 @@ categories:
 - Digidem Lab
 image: "/uploads/stephanie3.jpg"
 job: Outreach strategist
-phone: "+46 76 897 91 66"
+phone: "+46 70 316 59 37"
 mail: stephanie@digidemlab.org
 ---
 
