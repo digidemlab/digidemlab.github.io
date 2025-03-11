@@ -6,7 +6,7 @@ lang: sv
 job: Administrativ Projektledare
 image: /uploads/Kim_hemsida.jpeg
 phone: ''
-mail: Kimberly@digidemlab.org
+mail: kimberly@digidemlab.org
 ---
 
 Administrativ projektledare specialiserad på dekoloniala principer och metoder, med ansvar för verksamhetens administration, men även för projektledning av projekt.
