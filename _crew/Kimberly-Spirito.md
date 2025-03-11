@@ -4,7 +4,7 @@ date: 2025-03-10T23:00:00.000Z
 categories: Digidem Lab
 lang: sv
 job: Administrativ Projektledare
-image: ''
+image: /uploads/IMG_9455.jpeg
 phone: ''
 mail: Kimberly@digidemlab.org
 ---
