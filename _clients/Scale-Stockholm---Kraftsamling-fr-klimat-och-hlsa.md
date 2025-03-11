@@ -6,7 +6,10 @@ featured: true
 logotype: /uploads/sthlm.png
 image: /uploads/Namnlös design(2).png
 thumbnail: /uploads/Stockholm 560.png
-excerpt: ''
+excerpt: >-
+  Scale Stockholm är ett EU-finansierat projekt inom NetZeroCities som skapar
+  lokala lösningar för en grönare och hälsosammare stad. Digidem Lab utvecklar
+  metoder för demokratiskt deltagande.
 ingress-text: Klimat och hälsa i fokus
 partners:
   - Stockholm Stad
