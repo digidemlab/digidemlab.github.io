@@ -31,8 +31,6 @@ sv:
     items:
       - title: Lediga tjänster
         url: /lediga-tjanster/
-      - title: Utvecklare och systemadministratör
-        url: /lediga-tjanster/utvecklare-2024/
 en:
   primary:
   - title: Services
