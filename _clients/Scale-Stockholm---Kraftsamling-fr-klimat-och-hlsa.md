@@ -22,7 +22,7 @@ partners:
   - Sweco
 year: '2 maj 2024 – 30 april 2026 '
 links:
-  - title: 'Läs mer om SCALE här:'
+  - title: Mer om SCALE här
     url: >-
       https://start.stockholm/om-stockholms-stad/projekt/eu-projekt/programperiod-2021-2027/klimat-miljo-och-mobilitet/scale-stockholm/
 lang: sv
