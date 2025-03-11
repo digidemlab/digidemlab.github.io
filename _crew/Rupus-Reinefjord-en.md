@@ -5,7 +5,7 @@ categories: Digidem Lab
 lang: en
 job: Developer & System Administrator
 image: /uploads/Rupus_hemsida.jpeg
-mail: Rupus@digidemlab.org
+mail: rupus@digidemlab.org
 ---
 
 Developer and system administrator for digital services and platforms.
