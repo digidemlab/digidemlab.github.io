@@ -6,7 +6,7 @@ lang: en
 job: Administrative Project Manager
 image: /uploads/Kim_hemsida.jpeg
 phone: '+46760506409'
-mail: Kimberly@digidemlab.org
+mail: kimberly@digidemlab.org
 ---
 
 Administrative Project Manager specializing in decolonial principles and methods, responsible for the organization's administration as well as project management.
