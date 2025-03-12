@@ -32,12 +32,12 @@ Hur kan invånare, föreningar och lokala företag ha en aktiv roll i Stockholms
 
 Stockholm har satt upp ambitiösa klimatmål för 2030. För att nå dit krävs bred samverkan och innovativa åtgärder. Scale Stockholm är en del av EU:s NetZeroCities Pilot Cities Programme och finansieras genom Horizon 2020, där målet är att snabba på omställningen till klimatneutrala städer. Samtidigt ska projektet bidra till bättre folkhälsa genom att minska utsläpp och skapa hållbara livsmiljöer.
 
-Projektet tar avstamp i fyra geografiska pilotområden där det redan finns pågående hållbarhetsinitiativ. Innerstaden, Norra Djurgårdsstaden, Järva och Stockholm Green Innovation District (Årsta–Sickla). Dessa områden skiljer sig åt i befolkning, bebyggelse och lokala förutsättningar, vilket ger unika möjligheter att testa och anpassa olika metoder.
+Projektet tar avstamp i fyra geografiska områden där det redan finns pågående hållbarhetsinitiativ. Innerstaden, Norra Djurgårdsstaden, Järva och Stockholm Green Innovation District (Årsta–Sickla). Dessa områden skiljer sig åt i befolkning, bebyggelse och lokala förutsättningar, vilket ger unika möjligheter att testa och anpassa olika insatser.
 
 Ett av projektets viktigaste verktyg är lokala omställningsarenor, där invånare, föreningar och företag bjuds in för att utveckla och prioritera konkreta insatser inom klimat och hälsa, testa åtgärderna under ett år, följa upp och anpassa dem eller skala upp de lösningar som fungerar och sprida dem till fler delar av staden.
 
 För att säkerställa att processen är inkluderande och tillgänglig används metoder för delaktighet och samskapande, där Digidem Lab bidrar med expertis inom medborgarinvolvering och digital demokrati.
 
-Som en av samarbetspartnerna ansvarar Digidem Lab för att utveckla och implementera metoder för invånarinvolvering. Vi arbetar för att säkerställa att stockholmare har en aktiv röst i stadens klimatarbete och att insatserna bygger på deras erfarenheter och behov. Genom digitala och fysiska dialogprocesser skapar vi en plattform där idéer kan förverkligas och medborgarinflytande blir en självklar del av hållbar stadsutveckling.
+Som en av samarbetspartnerna ansvarar Digidem Lab för att utveckla och implementera metoder för invånarinvolvering. Vi arbetar för att säkerställa att stockholmare har en aktiv röst i stadens klimatarbete och att insatserna bygger på deras erfarenheter och behov. Genom digitala och fysiska dialogprocesser skapar vi en plattform där idéer kan förverkligas och medborgarinflytande blir en självklar del av Stockholms stads klimatarbete.
 
 Följ projektets utveckling och lär dig mer om Digidem Labs arbete med delaktighet och demokrati här på vår hemsida.
