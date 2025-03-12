@@ -26,7 +26,7 @@ How can residents, associations, and local businesses play an active role in Sto
 
 Stockholm has set ambitious climate goals for 2030, requiring broad collaboration and innovative measures. Scale Stockholm is part of the EU’s NetZeroCities Pilot Cities Programme and is funded through Horizon 2020, aiming to accelerate the transition to climate-neutral cities. At the same time, the project seeks to improve public health by reducing emissions and creating sustainable living environments.
 
-The project focuses on four geographical pilot areas where sustainability initiatives are already underway: the Inner City, Norra Djurgårdsstaden, Järva, and the Stockholm Green Innovation District (Årsta–Sickla). These areas differ in population, urban development, and local conditions, providing unique opportunities to test and adapt different methods.
+The project focuses on four geographical areas where sustainability initiatives are already underway: the Inner City, Norra Djurgårdsstaden, Järva, and the Stockholm Green Innovation District (Årsta–Sickla). These areas differ in population, urban development, and local conditions, providing unique opportunities to test and adapt different approaches.
 
 One of the project’s key tools is local transition arenas, where residents, associations, and businesses collaborate to develop and prioritize concrete climate and health initiatives. These initiatives are tested over a year, evaluated, adjusted, or scaled up to expand successful solutions across the city.
 
