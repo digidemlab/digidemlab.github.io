@@ -1,8 +1,6 @@
 ---
 title: Ali Tabrizi
 date: 2017-02-23 18:10:00 Z
-categories:
-- Digidem Lab
 lang: sv
 job: Verksamhetsledare
 image: "/uploads/ali.jpg"

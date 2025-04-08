@@ -1,8 +1,6 @@
 ---
 title: Petter Joelson
 date: 2018-02-23 18:08:00 Z
-categories:
-- Digidem Lab
 lang: en
 image: "/uploads/petter.jpg"
 job: Digital director

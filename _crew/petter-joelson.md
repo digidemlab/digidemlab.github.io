@@ -1,8 +1,6 @@
 ---
 title: Petter Joelson
 date: 2018-02-23 18:08:00 Z
-categories:
-- Digidem Lab
 image: "/uploads/petter.jpg"
 job: Digital director
 phone: "+46 70 867 42 44"
