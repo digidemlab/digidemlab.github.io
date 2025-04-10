@@ -10,6 +10,7 @@ items:
 - text: Vi hjälper dig lyckas med inkluderande och medborgarcentrerad digital utveckling! Tillsammans med våra partners inom Civic Tech Sweden driver vi projekt och utvecklar digital teknik för medborgardeltagande.
 ref: civictech
 lang: sv
+published: false
 ---
 
 Vi stöttar föreningsliv och civilsamhälle med teknisk utveckling och är drivande i Civic Tech Sweden, en del av det internationella nätverket Code for All. Som en del i det arbetet drev vi 2020-2022 projektet Civic Tech Platform med stöd av Vinnova, som samordna och stöttade svenska civic tech-initiativ.
