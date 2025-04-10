@@ -1,5 +1,5 @@
 ---
-title: Platform for Civic Participation in the City of Gothenburg
+title: 'Gothenburg Municipality: Joint platform for Civic Participation '
 date: 2025-04-09T22:00:00.000Z
 client: Gothenburg Municipality
 logotype: /uploads/logo-goteborg.svg
