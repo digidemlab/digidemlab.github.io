@@ -226,6 +226,10 @@ a.title {
   }
 }
 
+.has-shadow img {
+  box-shadow: 0 0 5px 2px #eee
+}
+
 .image-icon {
   padding: 1rem;
   margin: auto;
@@ -595,6 +599,78 @@ svg.logo-dropdown {
   }
 }
 
+// Rounded image
+
+.image img.is-rounded {
+  border: 10px solid $pink;
+}
+.content figure.is-pulled-left {
+  margin: 1rem 2rem 3rem !important;
+}
+
+@include from($desktop) {
+  .content figure.is-pulled-left {
+    margin: 2rem 0 1rem 4rem !important;
+    padding-right: 2rem;
+  }
+  .image.is-128x128 {
+    height: 256px;
+    width: 256px;
+  }
+}
+@include from($fullhd) {
+  .content figure.is-pulled-left {
+    margin-left: 5rem !important;
+    padding-right: 0;
+  }
+}
+
+
+// Tags
+
+.tags .tag {
+  border: 1px solid black;
+  color: $purple;
+  font-weight: bold;
+}
+
+// Tabs
+
+.tabs-wrapper ul {
+  margin-left: 0 !important;
+}
+
+.tabs-content li {
+    display: none;
+    list-style: none;
+}
+
+.tabs-content li.is-active {
+    display: block;
+}
+
+.tabs-content {
+  border-bottom: 1px solid #dbdbdb;
+}
+
+@include until($desktop) {
+  .tabs ul {
+    flex-direction: column;
+
+    li {
+      width: 100%;
+
+      a:hover {
+        text-decoration: underline !important;
+      }
+
+      &.is-active a {
+        background: $green !important;
+        border: none;
+      }
+    }
+  }
+}
 
 
 // Content
@@ -695,6 +771,11 @@ aside {
   }
 }
 
+blockquote + p.small {
+  @include monospace;
+  margin-bottom: 3rem !important;
+}
+
 // Textmarginal
 .content>,
 #accordion-basic {
@@ -705,7 +786,8 @@ aside {
   h4,
   ul,
   ol,
-  blockquote {
+  blockquote,
+  .tags {
     @include from($widescreen) {
       margin-left: 33.3333333333%;
       padding-left: $column-gap;

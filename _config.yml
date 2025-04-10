@@ -66,7 +66,7 @@ defaults:
     lang: sv
 permalink: "/:title/"
 email: admin@digidemlab.org
-baseurl:
+baseurl: ''
 url: https://digidemlab.org
 author: Digidem Lab
 twitter:
