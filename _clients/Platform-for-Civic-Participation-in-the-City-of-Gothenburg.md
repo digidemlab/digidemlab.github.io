@@ -1,7 +1,7 @@
 ---
 title: Platform for Civic Participation in the City of Gothenburg
 date: 2025-04-09T22:00:00.000Z
-client: Göteborg Stad
+client: Gothenburg Municipality
 logotype: /uploads/logo-goteborg.svg
 image: /uploads/DSC_0098.JPG
 thumbnail: /uploads/Göteborg Stad Decidim.JPG
@@ -10,9 +10,9 @@ excerpt: >-
   participation. Digidem Lab has provided expertise and the Decidim platform to
   strengthen local democracy, enhance engagement, and unify processes across the
   city.
-ingress-text: Stadengemensam plattform för medborgarinflytande.
+ingress-text: City-wide platform for citizen influence.
 partners:
-  - Göteborg Stad
+  - Gothenburg Municipality
 year: 2024 - ongoing
 links:
   - title: Read more here
