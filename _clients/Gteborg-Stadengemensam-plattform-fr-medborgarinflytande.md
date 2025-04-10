@@ -1,5 +1,5 @@
 ---
-title: Medborgar­inflytande Göteborgs Stad
+title: 'Göteborgs Stad: Stadengemensam plattform för medborgarinflytande.'
 date: 2025-04-09T22:00:00.000Z
 client: Göteborg Stad
 logotype: /uploads/logo-goteborg.svg
@@ -10,7 +10,7 @@ excerpt: >-
   medborgarinflytande. Digidem Lab har bidragit med expertis och
   Decidim-plattformen för att stärka lokal demokrati, öka delaktighet och skapa
   enhetliga processer i hela staden.
-ingress-text: Stadengemensam plattform för medborgarinflytande.
+ingress-text: ''
 partners:
   - Göteborg Stad
 year: 2024 - pågående
