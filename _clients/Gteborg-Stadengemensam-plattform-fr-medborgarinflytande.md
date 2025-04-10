@@ -24,7 +24,7 @@ categories: _themes/civic-tech-utveckling.md
 
 Under 2024 satsade Göteborg Stad på att stärka den lokala demokratin genom att erbjuda ett gemensamt digitalt verktyg för att genomföra medborgarbudgetar och andra delaktighetsprocesser. Fördelen med ett stadsgemensamt verktyg är att det skapar likvärdiga förutsättningar för delaktighet över hela staden. Genom att använda en och samma plattform för medborgarbudgetar och andra demokratiska processer kan alla förvaltningar och bolag arbeta mer samordnat, transparent och effektivt med medborgardialog. Det ger också medborgarna en tydlig och enhetlig väg in i stadens beslutsprocesser, vilket gör det enklare att förstå hur man kan vara med och påverka – oavsett var i staden man bor.
 
-Digidem Lab har bidragit med att utveckla verktyget genom Decidim, samt genom expertis inom digital delaktighet, processdesign och strategisk rådgivning för att anpassa och implementera plattformen efter stadens behov. Plattformen har implementerats på stadens egna servrar och lanserades vid årsskiftet 2024–2025. Den är nu tillgänglig för samtliga förvaltningar och bolag inom staden och Digidem Lab fortsätter att stötta initiativet under 2025.
+Digidem Lab har bidragit med att utveckla verktyget genom Decidim, samt med expertis inom digital delaktighet, processdesign och strategisk rådgivning för att anpassa och implementera plattformen efter stadens behov. Plattformen har implementerats på stadens egna servrar och lanserades vid årsskiftet 2024–2025. Den är nu tillgänglig för samtliga förvaltningar och bolag inom staden och tre processer är redan igång. Digidem Lab fortsätter att stötta initiativet under 2025.
 
 Uppdraget syftar till att:
 
