@@ -17,6 +17,7 @@ year: 2024 - ongoing
 links:
   - title: Read more here
     url: 'https://medborgarinflytande.goteborg.se/'
+ref: Gteborg-Stadengemensam-plattform-fr-medborgarinflytande.md
 lang: en
 categories: _themes/civic-tech-utveckling.md
 ---
