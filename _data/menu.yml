@@ -14,8 +14,8 @@ sv:
       - title: Civic Tech och Digital utveckling
         url: /civic-tech-utveckling/
       - title: Digitala plattformar
-      - title: Consul
-        url: /consul/
+    #  - title: Consul
+    #    url: /consul/
       - title: Decidim
         url: /decidim/
   - title: Uppdrag
