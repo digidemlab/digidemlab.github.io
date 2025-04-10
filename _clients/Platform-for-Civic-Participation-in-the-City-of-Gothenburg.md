@@ -10,7 +10,7 @@ excerpt: >-
   participation. Digidem Lab has provided expertise and the Decidim platform to
   strengthen local democracy, enhance engagement, and unify processes across the
   city.
-ingress-text: City-wide platform for citizen influence.
+ingress-text: ''
 partners:
   - Gothenburg Municipality
 year: 2024 - ongoing
