@@ -12,6 +12,7 @@ items:
 - text: Advocating for inclusive and citizen-centric digital development.
 ref: civictech
 lang: en
+published: false
 ---
 
 We support associations and civil society with technological development and are a driving force in Civic Tech Sweden, part of the international network Code for All. As part of this work, we ran the Civic Tech Platform project in 2020-2022 with the support of Vinnova, which coordinated and supported Swedish civic tech initiatives.

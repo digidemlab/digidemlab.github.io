@@ -11,13 +11,15 @@ sv:
         url: /medborgarjury/
       - title: Community Organising
         url: /community-organising-grasrot/
-      - title: Civic Tech och Digital utveckling
-        url: /civic-tech-utveckling/
-      - title: Digitala plattformar
+      - title: Digitalt medborgardeltagande med Decidim
+        url: /digitalt-medborgardeltagande-decidim/
+  #    - title: Civic Tech och Digital utveckling
+  #      url: /civic-tech-utveckling/
+    #  - title: Digitala plattformar
     #  - title: Consul
     #    url: /consul/
-      - title: Decidim
-        url: /decidim/
+    #  - title: Decidim
+    #    url: /decidim/
   - title: Uppdrag
     url: /work/
   - title: Om oss
@@ -44,8 +46,8 @@ en:
         url: /citizen-panel/
       - title: Community Organising
         url: /community-organising-grass-roots/
-      - title: Civic Tech and Digital Development
-        url: /civic-tech-development/
+      - title: Digital Citizen Participation with Decidim
+        url: /digital-citizen-participation-decidim-en/
   - title: Work
     url: /en/work/
   - title: About
