@@ -1,5 +1,5 @@
 ---
-title: 'Göteborgs Stad: Stadengemensam plattform för medborgarinflytande.'
+title: 'Göteborg Stad: Stadengemensam plattform för medborgarinflytande.'
 date: 2025-04-09T22:00:00.000Z
 client: Göteborg Stad
 logotype: /uploads/logo-goteborg.svg
