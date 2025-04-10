@@ -17,6 +17,7 @@ year: 2024 - pågående
 links:
   - title: Läs mer här
     url: 'https://medborgarinflytande.goteborg.se/'
+ref: Platform-for-Civic-Participation-in-the-City-of-Gothenburg.md
 lang: sv
 categories: _themes/civic-tech-utveckling.md
 ---
