@@ -2,6 +2,7 @@
 title: 'Göteborg Stad: Stadengemensam plattform för medborgarinflytande.'
 date: 2025-04-09T22:00:00.000Z
 client: Göteborg Stad
+featured: true
 logotype: /uploads/logo-goteborg.svg
 image: /uploads/DSC_0098.JPG
 thumbnail: /uploads/Göteborg Stad Decidim.JPG
@@ -17,9 +18,9 @@ year: 2024 - pågående
 links:
   - title: Läs mer här
     url: 'https://medborgarinflytande.goteborg.se/'
-ref: Platform-for-Civic-Participation-in-the-City-of-Gothenburg.md
+ref: goteborg-decidim
 lang: sv
-categories: _themes/civic-tech-utveckling.md
+categories: _themes/digitalt-medborgardeltagande-decidim.html
 ---
 
 Under 2024 satsade Göteborg Stad på att stärka den lokala demokratin genom att erbjuda ett gemensamt digitalt verktyg för att genomföra medborgarbudgetar och andra delaktighetsprocesser. Fördelen med ett stadsgemensamt verktyg är att det skapar likvärdiga förutsättningar för delaktighet över hela staden. Genom att använda en och samma plattform för medborgarbudgetar och andra demokratiska processer kan alla förvaltningar och bolag arbeta mer samordnat, transparent och effektivt med medborgardialog. Det ger också medborgarna en tydlig och enhetlig väg in i stadens beslutsprocesser, vilket gör det enklare att förstå hur man kan vara med och påverka – oavsett var i staden man bor.

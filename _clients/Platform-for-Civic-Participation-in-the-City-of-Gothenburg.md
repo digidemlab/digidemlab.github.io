@@ -2,6 +2,7 @@
 title: 'Gothenburg Municipality: Joint platform for Civic Participation '
 date: 2025-04-09T22:00:00.000Z
 client: Gothenburg Municipality
+featured: true
 logotype: /uploads/logo-goteborg.svg
 image: /uploads/DSC_0098.JPG
 thumbnail: /uploads/Göteborg Stad Decidim.JPG
@@ -17,7 +18,7 @@ year: 2024 - ongoing
 links:
   - title: Read more here
     url: 'https://medborgarinflytande.goteborg.se/'
-ref: Gteborg-Stadengemensam-plattform-fr-medborgarinflytande.md
+ref: goteborg-decidim
 lang: en
 categories: _themes/civic-tech-utveckling.md
 ---
