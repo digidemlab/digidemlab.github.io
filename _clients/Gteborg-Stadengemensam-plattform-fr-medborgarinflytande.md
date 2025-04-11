@@ -1,5 +1,5 @@
 ---
-title: 'Göteborg Stad: Gemensam plattform för medborgarinflytande.'
+title: 'Göteborg Stad: Gemensam plattform för medborgar- inflytande.'
 date: 2025-04-09T22:00:00.000Z
 client: Göteborg Stad
 featured: true
