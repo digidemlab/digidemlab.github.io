@@ -20,6 +20,7 @@ links:
   - title: Read more here
     url: 'https://netzerocities.eu/swedens-pilot-city-activity-scale-stockholm/'
 lang: en
+ref: scale
 ---
 
 How can residents, associations, and local businesses play an active role in Stockholm’s climate efforts? This is the core question of Scale Stockholm, an EU-funded project where the city, together with various partners, develops local solutions for a greener and healthier future. Digidem Lab is involved in developing methods for citizen participation and democratic engagement in the city’s climate transition.

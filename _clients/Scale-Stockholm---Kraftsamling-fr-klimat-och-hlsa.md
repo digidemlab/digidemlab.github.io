@@ -26,6 +26,7 @@ links:
     url: >-
       https://start.stockholm/om-stockholms-stad/projekt/eu-projekt/programperiod-2021-2027/klimat-miljo-och-mobilitet/scale-stockholm/
 lang: sv
+ref: scale
 ---
 
 Hur kan invånare, föreningar och lokala företag ha en aktiv roll i Stockholms klimatarbete? Det är kärnfrågan i Scale Stockholm, ett EU-finansierat projekt där staden tillsammans med en rad samarbetspartners skapar lokala lösningar för en grönare och hälsosammare framtid. Digidem Lab är med för att utveckla metoder för invånarmedverkan och demokratiskt deltagande i stadens klimatomställning.
