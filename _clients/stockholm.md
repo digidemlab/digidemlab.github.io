@@ -2,7 +2,7 @@
 title: Stockholm Stad - medborgardeltagande och dialoger
 date: 2019-09-09T09:38:35.000Z
 client: Stockholms stad
-featured: true
+featured: false
 logotype: /uploads/logo-stockholm.svg
 image: /uploads/Namnlös design(2).png
 excerpt: ''
