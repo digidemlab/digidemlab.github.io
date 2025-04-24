@@ -7,7 +7,7 @@ logotype: /uploads/logo-stockholm.svg
 image: /uploads/Namnlös design(2).png
 excerpt: ''
 ingress-text: ''
-year: 2019-2025
+year: 2019 -
 ref: stockholm
 lang: sv
 categories: _themes/medborgarbudget.md
