@@ -1,18 +1,16 @@
 ---
-date: 2019-09-09 10:38:35 +0100
-title: Dialog i Skärholmen
+title: Stockholm Stad - medborgardeltagande och dialoger
+date: 2019-09-09T09:38:35.000Z
+client: Stockholms stad
 featured: true
-logotype: '/uploads/logo-stockholm.svg'
+logotype: /uploads/logo-stockholm.svg
 image: /uploads/skarholmen.jpg
-ingress-text: Skärholmen anlitar Digidem Lab för medborgarförslag.
-excerpt: Skärholmen anlitar Digidem Lab för medborgarförslag.
-client: Stockholms stad, Skärholmen
-year: 2019-
-#links:
-#  - title: Dialog i Skärholmen
-#    url: https://skarholmen.demokratiskastader.se
+excerpt: ''
+ingress-text: ''
+year: 2019-2025
 ref: stockholm
 lang: sv
-categories:
-- _themes/medborgarbudget.md
+categories: ''
 ---
+
+Digdem Lab har samarbetat med Stockholm Stad för att genomföra medborgardeltagande och medborgardialoger. Under 2019 genomfördes en medborgardialog i Skärholmen, och under 2024-2025 har projektet Scale Stockholm genomförts. 
