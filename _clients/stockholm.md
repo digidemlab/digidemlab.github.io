@@ -4,13 +4,13 @@ date: 2019-09-09T09:38:35.000Z
 client: Stockholms stad
 featured: true
 logotype: /uploads/logo-stockholm.svg
-image: /uploads/skarholmen.jpg
+image: /uploads/Namnlös design(2).png
 excerpt: ''
 ingress-text: ''
 year: 2019-2025
 ref: stockholm
 lang: sv
-categories: ''
+categories: _themes/medborgarbudget.md
 ---
 
 Digdem Lab har samarbetat med Stockholm Stad för att genomföra medborgardeltagande och medborgardialoger. Under 2019 genomfördes en medborgardialog i Skärholmen, och under 2024-2025 har projektet Scale Stockholm genomförts. 
