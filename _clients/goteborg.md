@@ -1,5 +1,5 @@
 ---
-title: Göteborgs Stads medborgarbudgetar och medborgarråd
+title: Göteborgs Stads medborgardeltagande -budgetar & råd
 date: 2024-01-09T09:38:35.000Z
 client: Göteborgs Stad
 featured: true
@@ -17,3 +17,4 @@ lang: sv
 categories: _themes/medborgarbudget.md
 ---
 
+Digidem Lab har länge varit samarbetspartner med Göteborg Stad. Vi har tillsammans arbetat med projekt som handlat om medborgardeltagande, medborgarbudgetar och medborgarråd. 
