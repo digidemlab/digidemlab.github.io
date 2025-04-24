@@ -5,6 +5,7 @@ client: 'Stockholms stad (Miljöförvaltningen) '
 logotype: /uploads/logo-stockholm.svg
 image: /uploads/Stockholm 1200.png
 thumbnail: /uploads/Stockholm 560.png
+excerpt: Climate and Health in Focus
 ingress-text: Climate and Health in Focus
 partners:
   - Stockholm Stad
@@ -19,16 +20,21 @@ year: '2 May 2024 – 30 April 2026 '
 links:
   - title: Read more here
     url: 'https://netzerocities.eu/swedens-pilot-city-activity-scale-stockholm/'
-lang: en
 ref: scale
+lang: en
 ---
 
-How can residents, associations, and local businesses play an active role in Stockholm’s climate efforts? This is the core question of Scale Stockholm, an EU-funded project where the city, together with various partners, develops local solutions for a greener and healthier future. Digidem Lab is involved in developing methods for citizen participation and democratic engagement in the city’s climate transition.
+How can residents, associations, and local businesses take an active role in Stockholm’s climate efforts?
+That is the core question of Scale Stockholm, an EU-funded project where the city, together with a range of partners, is creating local solutions for a greener and healthier future. Digidem Lab is involved to develop methods for citizen participation and democratic engagement in the city’s climate transition.
 
-Stockholm has set ambitious climate goals for 2030, requiring broad collaboration and innovative measures. Scale Stockholm is part of the EU’s NetZeroCities Pilot Cities Programme and is funded through Horizon 2020, aiming to accelerate the transition to climate-neutral cities. At the same time, the project seeks to improve public health by reducing emissions and creating sustainable living environments.
+Stockholm has set ambitious climate goals for 2030. Achieving them requires broad collaboration and innovative action. Scale Stockholm is part of the EU’s NetZeroCities Pilot Cities Programme, funded by Horizon 2020, which aims to accelerate the transition to climate-neutral cities. At the same time, the project contributes to public health by reducing emissions and creating sustainable living environments.
 
-The project focuses on four geographical areas where sustainability initiatives are already underway: the Inner City, Norra Djurgårdsstaden, Järva, and the Stockholm Green Innovation District (Årsta–Sickla). These areas differ in population, urban development, and local conditions, providing unique opportunities to test and adapt different approaches.
+The project is rooted in four geographical areas where sustainability initiatives are already underway: Inner City, Norra Djurgårdsstaden, Järva, and Stockholm Green Innovation District (Årsta–Sickla). These areas differ in population, urban development, and local conditions, offering unique opportunities to test and adapt various interventions.
 
-One of the project’s key tools is local transition arenas, where residents, associations, and businesses collaborate to develop and prioritize concrete climate and health initiatives. These initiatives are tested over a year, evaluated, adjusted, or scaled up to expand successful solutions across the city.
+One of the project’s key tools is local transition arenas, where residents, associations, and businesses are invited to co-develop concrete actions for climate and health together with Stockholm’s district administrations, central departments, and city-owned companies in the selected areas. Ideas that are developed into pilot projects will be tested over the course of a year, evaluated, and scaled up to other parts of the city if they prove successful.
 
-To ensure an inclusive and accessible process, participatory and co-creation methods are used. Digidem Lab contributes expertise in citizen engagement and digital democracy.
+To ensure that the process is inclusive and accessible, participatory and co-creative methods are used, with Digidem Lab contributing its expertise in citizen involvement.
+
+As one of the project partners, Digidem Lab is responsible for developing and implementing meaningful methods for citizen participation. Within Scale, we work to ensure that Stockholmers have an active voice in the city’s climate work, and that actions are grounded in their experiences and needs.
+
+Follow the project’s progress and learn more about Digidem Lab’s work with participation and democracy on our website.
