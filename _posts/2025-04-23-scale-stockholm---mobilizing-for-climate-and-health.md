@@ -1,6 +1,6 @@
 ---
 title: Scale Stockholm - Mobilizing for Climate and Health
-image: /uploads/Namnlös design(3).png
+image: /uploads/Namnlös design(4).png
 excerpt: Climate and health in focus
 ingress-text: >-
   Digidem Lab is collaborating with the City of Stockholm, KI, Royal Djurgården,
