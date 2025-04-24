@@ -1,6 +1,6 @@
 ---
 title: City of Stockholm – Citizen Participation and Dialogues
-date: 2025-04-23T22:00:00.000Z
+date: 2025-04-22T22:00:00.000Z
 client: City of Stockholm
 featured: false
 logotype: /uploads/logo-stockholm.svg
