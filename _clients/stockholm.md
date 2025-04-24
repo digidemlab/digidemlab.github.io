@@ -1,6 +1,6 @@
 ---
 title: Stockholm Stad - medborgardeltagande och dialoger
-date: 2019-09-09T09:38:35.000Z
+date: 2025-04-23T22:00:00.000Z
 client: Stockholms stad
 featured: false
 logotype: /uploads/logo-stockholm.svg
@@ -13,4 +13,4 @@ lang: sv
 categories: _themes/medborgarbudget.md
 ---
 
-Digdem Lab har samarbetat med Stockholm Stad för att genomföra medborgardeltagande och medborgardialoger. Under 2019 genomfördes en medborgardialog i Skärholmen, och under 2024-2025 har projektet Scale Stockholm genomförts. 
+Digdem Lab har samarbetat med Stockholm Stad för att genomföra medborgardeltagande och medborgardialoger. Under 2019 genomfördes en medborgardialog i Skärholmen, och under 2024-2025 har projektet Scale Stockholm genomförts.
