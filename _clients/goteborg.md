@@ -1,17 +1,19 @@
 ---
-date: 2024-01-09 10:38:35 +0100
 title: Göteborgs Stads medborgarbudgetar och medborgarråd
-featured: true
-logotype: '/uploads/logo-goteborg.svg'
-image: /uploads/majorna.jpg
-ingress-text: Digidem Lab gör medborgarråd för klimatomställning och ett flertal medborgarbudgetar för Göteborgs stad.
-excerpt: Digidem Lab gör medborgarråd för klimatomställning och ett flertal medborgarbudgetar för Göteborgs stad.
+date: 2024-01-09T09:38:35.000Z
 client: Göteborgs Stad
+featured: true
+logotype: /uploads/logo-goteborg.svg
+image: /uploads/majorna.jpg
+excerpt: >-
+  Digidem Lab gör medborgarråd för klimatomställning och ett flertal
+  medborgarbudgetar för Göteborgs stad.
+ingress-text: >-
+  Digidem Lab gör medborgarråd, medborgarbudgetar och möjliggör
+  medborgardeltagande för Göteborgs stad.
 year: 2019-
 ref: goteborg
 lang: sv
-categories:
-- _themes/medborgarbudget.md
-- _themes/medborgarjury.md
-
+categories: _themes/medborgarbudget.md
 ---
+
