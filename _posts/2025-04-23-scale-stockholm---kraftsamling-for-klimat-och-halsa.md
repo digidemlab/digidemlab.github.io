@@ -1,7 +1,7 @@
 ---
 title: Scale Stockholm - Kraftsamling för klimat och hälsa
 featured: true
-image: /uploads/SGID_DSC_0097.JPG
+image: /uploads/Namnlös design(3).png
 excerpt: Klimat och hälsa i fokus
 ingress-text: >-
   Digidem Lab samarbetar med Stockholm Stad, KI, Royal Djurgården, Kista Science
