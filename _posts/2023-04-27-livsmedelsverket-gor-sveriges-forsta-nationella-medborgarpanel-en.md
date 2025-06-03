@@ -12,7 +12,7 @@ links:
   url: https://www.livsmedelsverket.se/om-oss/samarbeten-och-projekt/projekt2/medborgarpanel
 ref: ''
 categories:
-- _themes/medborgarjury.md
+- _themes/medborgarrad.md
 clients:
 - _clients/livsmedelsverket.md
 

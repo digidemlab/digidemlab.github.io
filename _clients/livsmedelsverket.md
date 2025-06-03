@@ -11,7 +11,7 @@ year: "2023"
 ref: livsmedelsverket
 lang: sv
 categories:
-- _themes/medborgarjury.md
+- _themes/medborgarrad.md
 ---
 
 För att ge rekommendationer till regeringen om hur hela Sverige kan äta mer hållbart och hälsosammare, beslutade Livsmedelsverket (SLV) att organisera ett medborgarråd, den första processen av sitt slag i Sverige. Digidem Lab anlitades för planering och genomförandet av det nationella medborgarrådet.

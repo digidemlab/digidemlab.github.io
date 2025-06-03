@@ -11,7 +11,7 @@ ingress-text: >-
 ref: nyttnatverk
 lang: sv
 date: 2024-04-15T22:00:00.000Z
-categories: _themes/medborgarjury.md
+categories: _themes/medborgarrad.md
 ---
 
 #### Visionen är att att överbrygga klyftan mellan medborgare och det politiska etablissemanget, med målet att säkerställa robusta demokratier och accelerera den nordiska deliberativa vågen.

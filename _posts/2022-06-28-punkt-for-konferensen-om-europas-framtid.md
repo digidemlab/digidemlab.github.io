@@ -32,7 +32,7 @@ links:
   url: https://ec.europa.eu/commission/presscorner/detail/en/IP_22_3750
 ref: ''
 categories:
-- _themes/medborgarjury.md
+- _themes/medborgarrad.md
 clients:
 - _clients/konferensen-om-europas-framtid.md
 ---

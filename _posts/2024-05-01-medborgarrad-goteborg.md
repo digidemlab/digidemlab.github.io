@@ -10,7 +10,7 @@ links:
     url: https://goteborg.se/wps/portal/enhetssida/miljo-och-klimat-goteborg/tillsammans-for-miljon/medborgarrad
 lang: sv
 ref: medborgarrad-goteborg
-categories: _themes/medborgarjury.md
+categories: _themes/medborgarrad.md
 clients: _clients/goteborg.md
 ---
 

@@ -24,6 +24,6 @@ ref: coldigit
 lang: sv
 categories:
 - _themes/medborgarbudget.md
-- _themes/medborgarjury.md
+- _themes/medborgarrad.md
 
 ---

@@ -1,0 +1,1060 @@
+---
+title: Styleguide
+description: Stilguide för Digidem Lab's webbplats.
+ref: styleguide
+image: "/uploads/medialab2.jpg"
+ingress-text: En komplett styleguide för Digidem Lab's webbplats med typografi, färger, knappar, komponenter och layout-struktur.
+layout: default
+---
+<style>
+  body {
+    background: #efefef;
+    overflow: hidden;
+  }
+  h2.styleguide {
+      margin: 8rem 0 4rem !important;
+      border-bottom: 3px solid #000;
+  }
+  h3.styleguide {
+    margin: 4rem 0 2rem !important;
+    border-bottom: 1px solid #000;
+  }
+  .styleguide.element {
+    padding: 2rem;
+    margin: 2rem 0;
+    background: white;
+
+  }
+
+</style>
+
+<div class="section">
+  <div class="container">
+    <h1 class="title styleguide is-1">Styleguide</h1>
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
+      <h2 class="title is-4">Innehåll</h2>
+      <div class="columns is-multiline">
+        <div class="column is-6">
+          <ul class="menu-list">
+            <li><a href="#typografi">Typografi</a>
+              <ul>
+                <li><a href="#rubriker">Rubriker</a></li>
+                <li><a href="#brodtext">Brödtext</a></li>
+                <li><a href="#monospace">Monospace (Space Mono)</a></li>
+                <li><a href="#lankar">Länkar</a></li>
+              </ul>
+            </li>
+            <li><a href="#farger">Färger</a>
+              <ul>
+                <li><a href="#primara-farger">Primära färger</a></li>
+                <li><a href="#graskala">Gråskala</a></li>
+              </ul>
+            </li>
+            <li><a href="#funktionella-css">Funktionella CSS-klasser</a>
+              <ul>
+                <li><a href="#knappar">Knappar</a></li>
+                <li><a href="#taggar">Taggar</a></li>
+                <li><a href="#notifikationer">Notifikationer</a></li>
+              </ul>
+            </li>
+            <li><a href="#grid-system">Grid System</a>
+              <ul>
+                <li><a href="#kolumner">Kolumner</a></li>
+                <li><a href="#responsivitet">Responsivitet</a></li>
+              </ul>
+            </li>
+            <li><a href="#navigation">Navigation och Header</a>
+              <ul>
+                <li><a href="#hero-start">Hero på startsidan</a></li>
+                <li><a href="#hero-pages">Hero på övriga sidor</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <div class="column is-6">
+          <ul class="menu-list">
+            <li><a href="#layout-moduler">Layout-moduler</a>
+              <ul>
+                <li><a href="#featured">Featured (toppnyhet)</a></li>
+                <li><a href="#themes">Themes (Temarutor)</a></li>
+                <li><a href="#clients">Clients (Kundrutor)</a></li>
+                <li><a href="#footer">Footer</a></li>
+              </ul>
+            </li>
+            <li><a href="#komponenter">Komponenter</a>
+              <ul>
+                <li><a href="#rubrik-ingress">Rubrik med ingress</a></li>
+                <li><a href="#box">Box</a></li>
+                <li><a href="#teaser">Teaser</a></li>
+                <li><a href="#teaser-small">Teaser small</a></li>
+                <li><a href="#brodtext-komponenter">Brödtext</a></li>
+                <li><a href="#faktaruta">Faktaruta</a></li>
+                <li><a href="#citat">Citat</a></li>
+                <li><a href="#tabs">Tabs/flikar</a></li>
+                <li><a href="#dl-element">Definition List</a></li>
+                <li><a href="#accordion">Accordion/Flikar (FAQ)</a></li>
+                <li><a href="#kontaktruta">Kontaktruta</a></li>
+                <li><a href="#projektinfo">Projektinformation</a></li>
+                <li><a href="#bildhantering">Bildhantering</a></li>
+                <li><a href="#logotyper">Logotyper och ikoner</a></li>
+                <li><a href="#ikongalleri">Ikongalleri</a></li>
+              </ul>
+            </li>
+            <li><a href="#layout-struktur">Layout-struktur</a></li>
+            <li><a href="#forms">Forms</a></li>
+            <li><a href="#best-practices">Best Practices</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+</div>
+
+<div class="section">
+  <div class="container">
+    <h2 class="title styleguide is-2" id="typografi">Typografi</h2>
+    <p>Digidem Lab använder två huvudfonter: <strong>GT Zirkon</strong> för rubriker och brödtext, samt <strong>Space Mono</strong> för vissa komponenter och accenttext.</p>
+
+    <h3 class="title styleguide is-4" id="rubriker">Rubriker</h3>
+    <div class="styleguide element">
+      <h1 class="title is-1">Rubrik 1 (is-1)</h1>
+      <h2 class="title is-2">Rubrik 2 (is-2)</h2>
+      <h2 class="title is-3">Rubrik 3 (is-3)</h2>
+      <h3 class="title is-4">Rubrik 4 (is-4)</h3>
+      <h4 class="title is-5">Rubrik 5 (is-5)</h4>
+      <h5 class="title is-6">Rubrik 6 (is-6)</h5>
+    </div>
+
+    <h3 class="title styleguide is-4" id="brodtext">Brödtext</h3>
+    <div class="styleguide element">
+      <p>Standardbrödtext är 1.25em (20px) med radavstånd 1.2.</p>
+      <p class="is-size-7">Liten text (is-size-7) - 1.0625rem</p>
+      <p class="is-size-6">Normal text (is-size-6) - 1.625rem</p>
+      <p class="is-size-4">Större text (is-size-4) - 2.75rem</p>
+      <p><strong>Fetstil (strong)</strong></p>
+      <p><em>Kursiv text (em)</em></p>
+    </div>
+
+    <h3 class="title styleguide is-4" id="monospace">Monospace (Space Mono)</h3>
+    <div class="styleguide element">
+      <p><span style="font-family: 'Space Mono', monospace;">Space Mono används för speciella textdelar och faktaboxar.</span></p>
+    </div>
+
+    <h3 class="title styleguide is-4" id="lankar">Länkar</h3>
+    <div class="styleguide element">
+      <p><a href="#">Standardlänk</a></p>
+      <p><a href="#" class="button">Länk som knapp</a></p>
+      <p class="read-more"><a href="#">Läs mer-länk</a></p>
+    </div>
+
+    <h2 class="title styleguide is-2" id="farger">Färger</h2>
+    <h3 class="title styleguide is-4" id="primara-farger">Primära färger</h3>
+    <div class="styleguide element">
+      <div class="columns is-multiline">
+        <div class="column is-4">
+          <div style="background-color: #FF7484; height: 100px; padding: 10px; color: white;">
+            <p><strong>Rosa (Pink)</strong><br>#FF7484</p>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div style="background-color: #00F1A4; height: 100px; padding: 10px; color: black;">
+            <p><strong>Grön (Green)</strong><br>#00F1A4</p>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div style="background-color: #FFB800; height: 100px; padding: 10px; color: black;">
+            <p><strong>Gul (Yellow)</strong><br>#FFB800</p>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div style="background-color: #AD0470; height: 100px; padding: 10px; color: white;">
+            <p><strong>Lila (Purple)</strong><br>#AD0470</p>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div style="background-color: #E50046; height: 100px; padding: 10px; color: white;">
+            <p><strong>Röd (Red)</strong><br>#E50046</p>
+          </div>
+        </div>
+        <div class="column is-4">
+          <div style="background-color: #7D6771; height: 100px; padding: 10px; color: white;">
+            <p><strong>Askgrå (Ash)</strong><br>#7D6771</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="graskala">Gråskala</h3>
+    <div class="styleguide element">
+      <div class="columns is-multiline">
+        <div class="column is-3">
+          <div style="background-color: #000; height: 100px; padding: 10px; color: white;">
+            <p><strong>Svart</strong><br>#000000</p>
+          </div>
+        </div>
+        <div class="column is-3">
+          <div style="background-color: #808080; height: 100px; padding: 10px; color: white;">
+            <p><strong>Mörkgrå</strong><br>#808080</p>
+          </div>
+        </div>
+        <div class="column is-3">
+          <div style="background-color: #C8C8C8; height: 100px; padding: 10px; color: black;">
+            <p><strong>Grå</strong><br>#C8C8C8</p>
+          </div>
+        </div>
+        <div class="column is-3">
+          <div style="background-color: #E9E4E3; height: 100px; padding: 10px; color: black;">
+            <p><strong>Ljusgrå</strong><br>#E9E4E3</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
+    <h2 class="title styleguide is-2" id="funktionella-css">Funktionella CSS-klasser</h2>
+
+    <h3 class="title styleguide is-4" id="knappar">Knappar</h3>
+    <div class="styleguide element">
+      <p><a class="button">Standard knapp</a></p>
+      <p><a class="button is-white">Vit knapp</a></p>
+    </div>
+
+    <h3 class="title styleguide is-4" id="taggar">Taggar</h3>
+    <div class="styleguide element">
+      <div class="tags">
+        <span class="tag">Standard</span>
+        <span class="tag is-primary">Primär</span>
+        <span class="tag is-info">Info</span>
+        <span class="tag is-success">Success</span>
+        <span class="tag is-warning">Varning</span>
+        <span class="tag is-danger">Fara</span>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="notifikationer">Notifikationer</h3>
+    <div class="styleguide element">
+      <div class="notification is-info">
+        <p>Info notification</p>
+      </div>
+      <div class="notification is-warning">
+        <p>Varning notification</p>
+      </div>
+    </div>
+
+    <h2 class="title styleguide is-2" id="grid-system">Grid System</h2>
+    <p>Digidem Lab använder Bulma's grid-system med kolumner och brytpunkter.</p>
+
+    <h3 class="title styleguide is-4" id="kolumner">Kolumner</h3>
+    <div class="styleguide element">
+      <div class="columns">
+        <div class="column" style="background-color: #E9E4E3; padding: 10px;">
+          <p>column</p>
+        </div>
+        <div class="column" style="background-color: #E9E4E3; padding: 10px;">
+          <p>column</p>
+        </div>
+        <div class="column" style="background-color: #E9E4E3; padding: 10px;">
+          <p>column</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="responsivitet">Responsivitet</h3>
+    <p>Brytpunkter:</p>
+    <ul>
+      <li><strong>Mobil:</strong> &lt; 410px</li>
+      <li><strong>Tablet:</strong> 410px</li>
+      <li><strong>Desktop:</strong> 710px</li>
+      <li><strong>Widescreen:</strong> 960px</li>
+      <li><strong>Fullhd:</strong> 1200px</li>
+    </ul>
+    <hr>
+
+    <div class="styleguide element">
+      <div class="columns">
+        <div class="column is-full-mobile is-half-tablet is-one-third-desktop" style="background-color: #E9E4E3; padding: 10px;">
+          <p>is-full-mobile is-half-tablet is-one-third-desktop</p>
+        </div>
+        <div class="column is-full-mobile is-half-tablet is-one-third-desktop" style="background-color: #E9E4E3; padding: 10px;">
+          <p>is-full-mobile is-half-tablet is-one-third-desktop</p>
+        </div>
+        <div class="column is-full-mobile is-full-tablet is-one-third-desktop" style="background-color: #E9E4E3; padding: 10px;">
+          <p>is-full-mobile is-full-tablet is-one-third-desktop</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
+    <h2 class="title styleguide is-2" id="navigation">Navigation och Header</h2>
+
+    <h3 class="title styleguide is-4" id="hero-start">Hero på startsidan</h3>
+    <p>Startsidan använder en speciell hero med bakgrundsanimation av färger och stort rubriktypsnitt.</p>
+  </div>
+</div>
+
+<section class="hero is-fullheight is-front is-primary">
+    <!-- Hero head: will stick at the top -->
+  <div class="hero-head">
+    <nav class="navbar navbar-top">
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="/">
+            <!-- <img src="/assets/images/digidemlab.svg" alt="Digidem Lab" width="308" height="78px"> -->
+            <svg id="logo" data-name="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.99 75.5" alt="Digidem Lab" width="308" height="78px"><path d="M256.33,40.16a4.05,4.05,0,0,0-2.54-.58v12a4,4,0,0,0,2.54-.59c1-.69,1.7-2.22,1.7-5.41S257.29,40.85,256.33,40.16Z"/><path d="M125.17,26.06c-.58-1.86-1.69-2.07-3.65-2.07V51.51c2,0,3.07-.21,3.65-2.12a17,17,0,0,0,.54-4.13c.05-1.86.05-4.35.05-7.54s0-5.67-.05-7.53A17.83,17.83,0,0,0,125.17,26.06Z"/><polygon points="232.42 29.93 232.1 29.93 231.94 30.94 230.3 43.24 234.22 43.24 232.58 30.94 232.42 29.93"/><path d="M0,0V75.5H300V0ZM50.72,53.21c-1.54,3-4.4,4-9.71,4H36.5v-39H41c5.31,0,8.17,1.06,9.71,4s1.7,7.85,1.7,15.49S52.2,50.24,50.72,53.21Zm16.54,4H61.53v-39h5.73Zm24.45-25H86v-6a3.53,3.53,0,0,0-.74-2.44,1.63,1.63,0,0,0-1.17-.43,1.77,1.77,0,0,0-1.69,1.44,4,4,0,0,0-.21,1.43v23a4.11,4.11,0,0,0,.21,1.44,1.77,1.77,0,0,0,1.69,1.43,1.63,1.63,0,0,0,1.17-.43A3.53,3.53,0,0,0,86,49.23V42.66H84.43V37.83h7.28v11.4a10.57,10.57,0,0,1-.95,4.19,7.52,7.52,0,0,1-2.28,2.92,7.12,7.12,0,0,1-4.41,1.33,7.27,7.27,0,0,1-4.45-1.33,7.38,7.38,0,0,1-2.23-2.92,10.57,10.57,0,0,1-1-4.19v-23a10.57,10.57,0,0,1,1-4.19,6.71,6.71,0,0,1,6.68-4.24,7.19,7.19,0,0,1,4.41,1.32,7.52,7.52,0,0,1,2.28,2.92,10.57,10.57,0,0,1,.95,4.19Zm14.89,25h-5.73v-39h5.73Zm23.4-4c-1.54,3-4.4,4-9.7,4h-4.51v-39h4.51c5.3,0,8.16,1.06,9.7,4s1.7,7.85,1.7,15.49S131.49,50.24,130,53.21Zm23.92-29.06h-7.37V34.38h5.3v6.26h-5.3V51.36h7.37v5.88h-13.1v-39h13.1Zm30.6,33.09h-5.31V31.1h-.32l-.21,1.64L175,57.24h-2.44l-3.66-24.5-.21-1.64h-.32V57.24h-5.3v-39h7l3.39,17.82.27,2.07h.11l.26-2.07,3.4-17.82h7Zm31.78,0H203v-39h5.72V51.94h7.59Zm19.78,0-1.06-8H229.5l-1.06,8h-5.57l5.89-39h7l5.89,39Zm26-3.5c-1.32,2-3.6,3.34-7,3.5h-7.05v-39h5c3.39,0,6,.64,7.79,2.28s2.65,4.19,2.65,8.06a10.34,10.34,0,0,1-.74,4.51A11.1,11.1,0,0,1,260,36.66c1.43.8,2.49,2.28,3.34,4.78a14.66,14.66,0,0,1,.64,4.77A13.53,13.53,0,0,1,262.11,53.74Z"/><path d="M256.33,24.52a4.34,4.34,0,0,0-2.54-.58V34.33a4.42,4.42,0,0,0,2.54-.58c1-.64,1.7-1.91,1.7-4.62S257.29,25.16,256.33,24.52Z"/><path d="M45.89,26.06C45.31,24.2,44.19,24,42.23,24V51.51c2,0,3.08-.21,3.66-2.12a16.65,16.65,0,0,0,.53-4.13c0-1.86,0-4.35,0-7.54s0-5.67,0-7.53A17.39,17.39,0,0,0,45.89,26.06Z"/></svg>
+          </a>
+          <span class="navbar-burger burger" data-target="navbar-menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+        </div>
+      </div>
+    </nav>
+    <nav class="navbar navbar-main" id="overlay">
+      <div class="container">
+        <div class="navbar-menu" id="navbar-menu">
+          <div class="navbar-start">
+            <a class="navbar-item " href="/services/">Tjänster</a>
+            <a class="navbar-item " href="/work/">Uppdrag</a>
+            <a class="navbar-item " href="/about/">Om oss</a>
+          </div>
+          <div class="navbar-end">
+            <a class="navbar-item" href="/contact/">Kontakt</a>
+            <a class="navbar-item" href="/lediga-tjanster/">Lediga tjänster</a>
+            <a class="navbar-item is-uppercase item-lang-1 " href="/en/">en</a>
+            <span class="navbar-item item-lang-space">|</span>
+            <a class="navbar-item is-uppercase item-lang-2 is-active" href="/">sv</a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+  <!-- Hero content: will be in the middle -->
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <h1 class="title lang-sv">Framtidens deltagande demokrati</h1>
+    </div>
+  </div>
+  <!-- Hero footer: will stick at the bottom -->
+  <div class="hero-foot">
+    <div class="container has-text-centered">
+      <a class="link-down" href="#content"><img src="/assets/images/pil.svg" alt="down" width="100" height="100"></a>
+    </div>
+  </div>
+</section>
+
+<div class="section">
+  <div class="container">
+    <h3 class="title styleguide is-4" id="hero-pages">Hero på övriga sidor</h3>
+    <p>Alla sidors hero-sektion innehåller huvudbilden, navigation och pil nedåt. Se toppen av denna sida för ett exempel.</p>
+  </div>
+</div>
+
+<section class="hero is-fullheight is-primary">
+ <!-- Hero head: will stick at the top -->
+ <div class="hero-head">
+   <nav class="navbar navbar-top">
+     <div class="container">
+       <div class="navbar-brand">
+         <a class="navbar-item" href="/">
+           <!-- <img src="/assets/images/digidemlab.svg" alt="Digidem Lab" width="308" height="78px"> -->
+           <svg id="logo" data-name="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.99 75.5" alt="Digidem Lab" width="308" height="78px"><path d="M256.33,40.16a4.05,4.05,0,0,0-2.54-.58v12a4,4,0,0,0,2.54-.59c1-.69,1.7-2.22,1.7-5.41S257.29,40.85,256.33,40.16Z"/><path d="M125.17,26.06c-.58-1.86-1.69-2.07-3.65-2.07V51.51c2,0,3.07-.21,3.65-2.12a17,17,0,0,0,.54-4.13c.05-1.86.05-4.35.05-7.54s0-5.67-.05-7.53A17.83,17.83,0,0,0,125.17,26.06Z"/><polygon points="232.42 29.93 232.1 29.93 231.94 30.94 230.3 43.24 234.22 43.24 232.58 30.94 232.42 29.93"/><path d="M0,0V75.5H300V0ZM50.72,53.21c-1.54,3-4.4,4-9.71,4H36.5v-39H41c5.31,0,8.17,1.06,9.71,4s1.7,7.85,1.7,15.49S52.2,50.24,50.72,53.21Zm16.54,4H61.53v-39h5.73Zm24.45-25H86v-6a3.53,3.53,0,0,0-.74-2.44,1.63,1.63,0,0,0-1.17-.43,1.77,1.77,0,0,0-1.69,1.44,4,4,0,0,0-.21,1.43v23a4.11,4.11,0,0,0,.21,1.44,1.77,1.77,0,0,0,1.69,1.43,1.63,1.63,0,0,0,1.17-.43A3.53,3.53,0,0,0,86,49.23V42.66H84.43V37.83h7.28v11.4a10.57,10.57,0,0,1-.95,4.19,7.52,7.52,0,0,1-2.28,2.92,7.12,7.12,0,0,1-4.41,1.33,7.27,7.27,0,0,1-4.45-1.33,7.38,7.38,0,0,1-2.23-2.92,10.57,10.57,0,0,1-1-4.19v-23a10.57,10.57,0,0,1,1-4.19,6.71,6.71,0,0,1,6.68-4.24,7.19,7.19,0,0,1,4.41,1.32,7.52,7.52,0,0,1,2.28,2.92,10.57,10.57,0,0,1,.95,4.19Zm14.89,25h-5.73v-39h5.73Zm23.4-4c-1.54,3-4.4,4-9.7,4h-4.51v-39h4.51c5.3,0,8.16,1.06,9.7,4s1.7,7.85,1.7,15.49S131.49,50.24,130,53.21Zm23.92-29.06h-7.37V34.38h5.3v6.26h-5.3V51.36h7.37v5.88h-13.1v-39h13.1Zm30.6,33.09h-5.31V31.1h-.32l-.21,1.64L175,57.24h-2.44l-3.66-24.5-.21-1.64h-.32V57.24h-5.3v-39h7l3.39,17.82.27,2.07h.11l.26-2.07,3.4-17.82h7Zm31.78,0H203v-39h5.72V51.94h7.59Zm19.78,0-1.06-8H229.5l-1.06,8h-5.57l5.89-39h7l5.89,39Zm26-3.5c-1.32,2-3.6,3.34-7,3.5h-7.05v-39h5c3.39,0,6,.64,7.79,2.28s2.65,4.19,2.65,8.06a10.34,10.34,0,0,1-.74,4.51A11.1,11.1,0,0,1,260,36.66c1.43.8,2.49,2.28,3.34,4.78a14.66,14.66,0,0,1,.64,4.77A13.53,13.53,0,0,1,262.11,53.74Z"/><path d="M256.33,24.52a4.34,4.34,0,0,0-2.54-.58V34.33a4.42,4.42,0,0,0,2.54-.58c1-.64,1.7-1.91,1.7-4.62S257.29,25.16,256.33,24.52Z"/><path d="M45.89,26.06C45.31,24.2,44.19,24,42.23,24V51.51c2,0,3.08-.21,3.66-2.12a16.65,16.65,0,0,0,.53-4.13c0-1.86,0-4.35,0-7.54s0-5.67,0-7.53A17.39,17.39,0,0,0,45.89,26.06Z"/></svg>
+         </a>
+         <span class="navbar-burger burger" data-target="navbar-menu">
+           <span></span>
+           <span></span>
+           <span></span>
+         </span>
+       </div>
+     </div>
+   </nav>
+   <nav class="navbar navbar-main" id="overlay">
+     <div class="container">
+       <div class="navbar-menu" id="navbar-menu">
+         <div class="navbar-start">
+           <a class="navbar-item " href="/services/">Tjänster</a>
+           <a class="navbar-item " href="/work/">Uppdrag</a>
+           <a class="navbar-item " href="/about/">Om oss</a>
+         </div>
+         <div class="navbar-end">
+           <a class="navbar-item" href="/contact/">Kontakt</a>
+           <a class="navbar-item" href="/lediga-tjanster/">Lediga tjänster</a>
+           <a class="navbar-item is-uppercase item-lang-1 " href="/participatory-budget-residents/">en</a>
+           <span class="navbar-item item-lang-space">|</span>
+           <a class="navbar-item is-uppercase item-lang-2 is-active" href="/boendebudget-biskopsgarden/">sv</a>
+         </div>
+       </div>
+     </div>
+   </nav>
+ </div>
+ <!-- Hero content: will be in the middle -->
+ <div class="hero-body">
+   <div class="container has-text-centered">
+     <figure class="image is-2by1">
+       <img src="/uploads/biskopsgarden.jpg">
+     </figure>
+   </div>
+ </div
+ <!-- Hero footer: will stick at the bottom -->
+ <div class="hero-foot">
+   <div class="container has-text-centered">
+     <a class="link-down" href="#content"><img src="/assets/images/pil.svg" alt="down" width="100" height="100"></a>
+   </div>
+ </div>
+</section>
+
+<div class="section">
+  <div class="container">
+
+    <h2 class="title styleguide is-2" id="layout-moduler">Layout-moduler</h2>
+
+    <h3 class="title styleguide is-4" id="featured">Featured (toppnyhet på startsida)</h3>
+    <p>Toppnyheten på startsidan har särskild framhävning med stor bild och text.</p>
+
+    <div class="styleguide element">
+      <section id="featured" class="section">
+        <div class="container has-text-centered-widescreen">
+          <figure class="image is-3by2">
+            <img src="{{site.baseurl}}/uploads/medialab2.jpg" alt="Exempel toppnyhet">
+          </figure>
+          <div class="columns is-centered">
+            <div class="column is-10-widescreen">
+              <h2 class="title is-6 is-size-4-tablet is-size-1-widescreen is-spaced"><a href="#">Göteborg Stad: Gemensam plattform för medborgarinflytande</a></h2>
+              <p class="subtitle is-3 is-hidden-touch is-hidden-desktop-only">Göteborg Stad inför gemensamt digitalt verktyg för ökat medborgarinflytande.</p>
+              <p class="is-size-7 is-hidden-widescreen">Göteborg Stad inför gemensamt digitalt verktyg för ökat medborgarinflytande.</p>
+              <div class="links is-hidden-touch is-hidden-desktop-only">
+                <a class="button" href="#">Läs mer</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <h3 class="title styleguide is-4" id="themes">Themes (Temarutor på tjänstesidan)</h3>
+    <p>Temarutor visar våra olika tjänster med ikoner.</p>
+
+    <div class="styleguide element">
+      <section id="services" class="section">
+        <div class="container">
+          <div class="columns is-desktop teaser">
+            <div class="column is-3-desktop is-offset-2-widescreen">
+              <a href="#">
+                <figure class="image is-240x240">
+                  <img src="{{site.baseurl}}/assets/images/icon-jury.png" alt="Medborgarråd">
+                </figure>
+              </a>
+            </div>
+            <div class="column is-10-tablet is-offset-1-tablet is-offset-0-desktop is-6-widescreen is-5-fullhd">
+              <h2 class="title is-6 is-size-5-tablet is-size-4-widescreen"><a href="#">Medborgarråd</a></h2>
+              <p>Metoden medborgarråd används för att involvera medborgare i mer komplexa samhällsutmaningar.</p>
+              <p class="read-more is-hidden-touch is-hidden-desktop-only"><a href="#">Läs mer</a><p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <h3 class="title styleguide is-4" id="clients">Clients (Kundrutor med logotyper)</h3>
+    <p>Kundrutor visar våra olika uppdragsgivare med logotyper.</p>
+
+    <div class="styleguide element">
+      <section id="partners" class="section">
+        <div class="container">
+          <div class="columns is-centered">
+            <div class="column is-7-widescreen has-text-centered">
+              <h2 class="title is-6 is-size-4-tablet is-size-3-widescreen section-title">Våra uppdrag</h2>
+              <p>Vi utvecklar demokratiskt deltagande för allt från internationella institutioner och städer till lokalt föreningsliv.</p>
+            </div>
+          </div>
+          <div class="columns partners is-mobile is-multiline is-vcentered is-centered is-variable is-tablet-8">
+            <div class="column is-6-mobile is-6-tablet is-4-desktop is-3-widescreen">
+              <a href="#" title="Stockholm Stad">
+                <figure class="image is-3by2 image-logo">
+                  <img src="{{site.baseurl}}/uploads/logo-stockholm.svg" alt="Stockholm Stad" style="#min-height:100%">
+                </figure>
+              </a>
+            </div>
+            <div class="column is-6-mobile is-6-tablet is-4-desktop is-3-widescreen">
+              <a href="#" title="Göteborg Stad">
+                <figure class="image is-3by2 image-logo">
+                  <img src="{{site.baseurl}}/uploads/logo-goteborg.svg" alt="Göteborg Stad" style="#min-height:100%">
+                </figure>
+              </a>
+            </div>
+            <div class="column is-6-mobile is-6-tablet is-4-desktop is-3-widescreen">
+              <a href="#" title="EU Kommissionen">
+                <figure class="image is-3by2 image-logo">
+                  <img src="{{site.baseurl}}/uploads/logo-future-europe.svg" alt="EU Kommissionen" style="#min-height:100%">
+                </figure>
+              </a>
+            </div>
+          </div>
+          <p class="has-text-centered">
+            <a class="button is-white" href="#">Fler uppdrag</a>
+          </p>
+        </div>
+      </section>
+    </div>
+
+    <h3 class="title styleguide is-4" id="footer">Footer</h3>
+    <p>Sidfoten innehåller logotyp, beskrivning, partners och sociala medier.</p>
+  </div>
+</div>
+
+<footer class="footer" style="background: linear-gradient(240deg, #ff7484 0%, #ad0470 100%);">
+  <div class="container">
+    <div class="columns is-mobile is-multiline">
+      <div class="column is-7-mobile is-7-tablet is-5-desktop is-3-widescreen">
+        <a href="#"><img src="{{site.baseurl}}/assets/images/digidemlab.svg" alt="Digidem Lab" width="241" height="61px"></a>
+      </div>
+      <div class="column is-10-mobile is-10-tablet is-7-desktop is-5-widescreen">
+        <p>Digidem Lab tror på att förbättra, utveckla och nyskapa vår demokrati. Vi tror på att förflytta makt och mandat att formulera samhällets problem och lösningar. Därför erbjuder och utvecklar vi metoder för politisk och demokratisk innovation.</p>
+        <p>Content is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.</p>
+      </div>
+      <div class="column is-full-mobile is-full-tablet is-full-desktop is-4-widescreen">
+        <div class="has-text-right-desktop">
+          <a href="#"><span class="icon is-medium"><i class="fab fa-twitter fa-lg"></i></span></a>
+          <a href="#"><span class="icon is-medium"><i class="fab fa-facebook fa-lg"></i></span></a>
+          <a href="#"><span class="icon is-medium"><i class="fab fa-instagram fa-lg"></i></span></a>
+          <a href="#"><span class="icon is-medium"><i class="fab fa-github fa-lg"></i></span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="section">
+  <div class="container">
+    <h2 class="title styleguide is-2" id="komponenter">Komponenter</h2>
+
+    <h3 class="title styleguide is-4" id="rubrik-ingress">Rubrik med ingress</h3>
+    <p>Sidhuvudet med titel och ingress som används på alla sidor. Se toppen av denna sida för exempel.</p>
+
+    <div class="styleguide element">
+      <div class="columns columns-header">
+        <div class="column is-10-fullhd">
+          <h1 class="title is-5 is-size-4-tablet is-size-3-desktop is-size-1-widescreen is-spaced">Exempel på sidrubrik</h1>
+          <p class="subtitle is-6 is-size-3-widescreen">Detta är en exempel på en ingress som används på alla sidor. Den har större textstorlek för att introducera sidans innehåll.</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="box">Box</h3>
+    <p>Box-elementet används för att rama in innehåll.</p>
+
+    <div class="styleguide element">
+      <div class="box">
+        <h4 class="title is-5">Exempel på box-innehåll</h4>
+        <p>Detta är ett innehåll i en box, som kan användas för att framhäva viss information. Den har en subtil skuggeffekt och rundade hörn.</p>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="teaser">Teaser (projekt och nyhetslistning)</h3>
+    <p>Teaser-komponenten används för att visa nyheter och projekt i listor.</p>
+
+    <div class="styleguide element">
+      <div class="columns is-desktop teaser">
+        <div class="column is-half-desktop">
+          <a href="#">
+            <figure class="image is-3by2">
+              <img src="{{site.baseurl}}/uploads/medialab2.jpg" alt="Exempel bild">
+            </figure>
+          </a>
+        </div>
+        <div class="column is-5-widescreen is-4-fullhd">
+          <h2 class="title is-6 is-size-5-tablet is-size-4-widescreen"><a href="#">Exempel på teaser-rubrik</a></h2>
+          <p>Detta är en exempel på teaser-text som skulle kunna handla om ett projekt eller en nyhet. Den ger en kort introduktion till innehållet.</p>
+          <p class="read-more"><a href="#">Läs mer</a></p>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="teaser-small">Teaser small (mindre nyhetslisting)</h3>
+    <div class="styleguide element">
+      <div class="columns">
+        <div class="column is-6-desktop teaser-small">
+          <a href="#">
+            <figure class="image is-3by2">
+              <img src="{{site.baseurl}}/uploads/medialab2.jpg" alt="Exempel bild">
+            </figure>
+          </a>
+          <h3 class="subtitle is-6 is-size-4-widescreen"><a href="#">Exempel på mindre teaser</a></h3>
+          <p>2025.04.23 | Detta är en mindre teaser som ofta används på startsidan för nyheter.</p>
+        </div>
+        <div class="column is-6-desktop teaser-small">
+          <a href="#">
+            <figure class="image is-3by2">
+              <img src="{{site.baseurl}}/uploads/medialab2.jpg" alt="Exempel bild">
+            </figure>
+          </a>
+          <h3 class="subtitle is-6 is-size-4-widescreen"><a href="#">Exempel på mindre teaser</a></h3>
+          <p>2025.04.23 | Detta är en mindre teaser som ofta används på startsidan för nyheter.</p>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="brodtext-komponenter">Brödtext</h3>
+    <p>Löpande text med rubriker.</p>
+
+    <div class="styleguide element">
+      <div class="content">
+        <p>Vi studerar, testar och erbjuder internationellt beprövade digitala verktyg och metoder för medborgardeltagande och skapar medborgarcentrerade processer för att särskilt nå underrepresenterade grupper.</p>
+        <h2 id="våra-värderingar">Våra värderingar</h2>
+        <h3 id="deltagande">Deltagande</h3>
+        <p>Vi tror på en utveckling av demokratin till att innefatta fler aspekter av samhället och att utveckla metoder för att skapa större deltagande. Vi tror på medskapande i alla aspekter av vårt arbete, även inom utveckling av processer och digitala verktyg för deltagande.</p>
+        <h2 id="vad-vi-gör">Vad vi gör</h2>
+        <ul>
+          <li>Processutveckling och rådgivning för deltagandeprocesser</li>
+          <li>Utbildning i metoder för demokratiskt deltagande och organisering</li>
+          <li>Utveckling och support för digitala verktyg för deltagande och transparens</li>
+        </ul>
+      </div>
+    </div>
+
+
+    <h3 class="title styleguide is-4" id="faktaruta">Faktaruta</h3>
+    <p>Faktarutor visas oftast i sidopanel med monospace-font.</p>
+
+    <div class="styleguide element">
+      <div class="container page">
+        <aside class="facts has-text-right-widescreen">
+          <h2 class="title is-6">Läs mer</h2>
+          <ul>
+            <li><a href="https://democracyupgraded.org">Democracy Upgraded (tidigare Digidem Lab ideell förening)</a></li>
+          </ul>
+        </aside>
+        <div class="content">
+        </div>
+      </div>
+      <hr>
+    </div>
+
+    <h3 class="title styleguide is-4" id="citat">Citat</h3>
+    <p>Citat framhävs med större text, rosa färg och fet stil.</p>
+
+    <div class="styleguide element">
+      <div class="content">
+        <blockquote>
+          <p>Detta är hur ett citat ser ut på Digidem Lab's webbplats. Det använder rosa färg, fetstil och större textstorlek för att sticka ut på sidan.</p>
+        </blockquote>
+        <p class="small">Citatattribution – Namnet på personen som citerats</p>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="tabs">Tabs/flikar</h3>
+    <p>Tabs-komponenten används för att visa relaterat innehåll i flikar, exempelvis på tjänstesidan för Decidim.</p>
+
+    <div class="styleguide element">
+      <div class="tabs-wrapper">
+        <div class="tabs is-boxed has-text-weight-bold is-size-7 is-size-6-fullhd is-centered">
+          <ul>
+            <li class="is-active">
+              <a>Flik 1</a>
+            </li>
+            <li>
+              <a>Flik 2</a>
+            </li>
+            <li>
+              <a>Flik 3</a>
+            </li>
+            <li>
+              <a>Flik 4</a>
+            </li>
+          </ul>
+        </div>
+        <div class="tabs-content">
+          <ul>
+            <li class="is-active">
+              <div class="columns is-multiline teaser">
+                <div class="column is-full is-7-widescreen">
+                  <img src="{{site.baseurl}}/uploads/medialab2.jpg">
+                </div>
+                <div class="column is-5-widescreen is-4-fullhd pt-4">
+                  <p>Detta är innehållet i den första fliken. Det kan innehålla bilder, texter eller andra komponenter.</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="columns is-multiline teaser">
+                <div class="column is-full is-7-widescreen">
+                  <img src="{{site.baseurl}}/uploads/medialab2.jpg">
+                </div>
+                <div class="column is-5-widescreen is-4-fullhd">
+                  <p>Detta är innehållet i den andra fliken.</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="columns is-multiline teaser">
+                <div class="column is-full is-7-widescreen">
+                  <img src="{{site.baseurl}}/uploads/medialab2.jpg">
+                </div>
+                <div class="column is-5-widescreen is-4-fullhd">
+                  <p>Detta är innehållet i den tredje fliken.</p>
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="columns is-multiline teaser">
+                <div class="column is-full is-7-widescreen">
+                  <img src="{{site.baseurl}}/uploads/medialab2.jpg">
+                </div>
+                <div class="column is-5-widescreen is-4-fullhd">
+                  <p>Detta är innehållet i den fjärde fliken.</p>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="dl-element">Definition List (sifferpresentation)</h3>
+    <p>Definition list används för att presentera stora siffror eller statistik med förklarande text.</p>
+
+    <div class="styleguide element">
+      <div class="content">
+        <dl>
+          <dt>78%</dt>
+          <dd>Deltagare som tyckte att processen var mycket givande</dd>
+          <dt>3400</dt>
+          <dd>Antal inlämnade förslag i medborgarbudgeten</dd>
+        </dl>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="accordion">Accordion/Flikar (FAQ)</h3>
+    <p>Accordion används främst för vanliga frågor (FAQ).</p>
+
+    <div class="styleguide element">
+      <div class="content">
+        <div id="accordion-basic">
+          <h3 class="title accordion-head">Vad är Digidem Lab?</h3>
+          <div class="accordion-body">
+            <p>Digidem Lab är ett oberoende demokratilabb som arbetar med att skapa framtidens deltagande demokrati, med fokus på innovativa digitala verktyg och inkluderande metoder.</p>
+          </div>
+          <h3 class="title accordion-head">Vilka tjänster erbjuder ni?</h3>
+          <div class="accordion-body">
+            <p>Vi erbjuder konsultation, utbildning och implementering av digitala verktyg för medborgardeltagande, med fokus på Decidim-plattformen, medborgarbudgetar, dialogprocesser och medborgarråd.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="kontaktruta">Kontaktruta</h3>
+    <p>Kontaktrutan visas ofta längst ner på innehållssidor och visar kontaktinformation. Se botten av denna sida för ett exempel.</p>
+
+    <div class="styleguide element">
+      <div class="content">
+        <div class="box">
+          <h2 class="title is-5 is-size-4-tablet is-size-3-widescreen"><span class="has-background-primary is-padded">Vill du veta mer?</span></h2>
+          <p class="is-size-7 is-size-6-widescreen">Kontakta oss för att diskutera gemensamma projekt eller få ett prisförslag på våra tjänster.</p>
+          <div class="columns is-mobile">
+            <div class="column is-size-4">
+              <img src="{{site.baseurl}}/uploads/stephanie3.jpg" class="is-rounded">
+            </div>
+            <div class="column">
+              <h3 class="title is-7 is-size-6-widescreen">Stephanie Toro</h3>
+              <p class="is-size-7 is-size-6-widescreen">
+                Outreach strategist<br>
+                +46 70 316 59 37<br>
+                <a href="mailto:steph@digidemlab.org" class="text-white">steph@digidemlab.org</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="projektinfo">Projektinformation</h3>
+    <p>För projektsidor används en speciell informationsruta.</p>
+
+    <div class="styleguide element">
+      <div class="box client">
+        <div class="container">
+          <div class="columns is-multiline">
+            <div class="column is-6-tablet is-4-widescreen">
+              <figure class="image image-logo">
+                <img src="{{site.baseurl}}/assets/images/digidemlab-logo.svg" alt="Logotyp exempel">
+              </figure>
+            </div>
+            <div class="column">
+              <h3>Uppdragsgivare</h3>
+              <p>Exempelkund</p>
+              <h3>Projektperiod</h3>
+              <p>2022-2025</p>
+            </div>
+            <div class="column">
+              <h3>Partners</h3>
+              <ul>
+                <li>Partner 1</li>
+                <li>Partner 2</li>
+              </ul>
+              <h3>Webbplats</h3>
+              <ul>
+                <li><a href="#">Projektlänk</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="bildhantering">Bildhantering</h3>
+    <p>Bilder i artiklar är utfallande från texten.</p>
+
+    <div class="styleguide element">
+      <div class="content">
+        <p><img src="/uploads/biskop1-wide.jpg" alt="" /></p>
+        <p><img src="/uploads/biskop2.jpg" alt="" /> <img src="/uploads/biskop3.jpg" alt="" /> <em>Wokshops för Bostadsbolaget.</em></p>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="logotyper">Logotyper och ikoner</h3>
+    <p>Användning av logotyper i presentationen av partners och ikoner för tjänster.</p>
+
+    <div class="styleguide element">
+      <div class="columns partners is-mobile is-multiline is-vcentered is-centered is-variable is-tablet-8">
+        <div class="column is-6-mobile is-4-tablet">
+          <a href="#" title="Partner exempel">
+            <figure class="image is-3by2 image-logo">
+              <img src="{{site.baseurl}}/assets/images/logo-vinnova.png" alt="Partner exempel" style="#min-height:100%">
+            </figure>
+          </a>
+        </div>
+        <div class="column is-6-mobile is-4-tablet">
+          <a href="#" title="Partner exempel">
+            <figure class="image is-3by2 image-logo">
+              <img src="{{site.baseurl}}/assets/images/digidemlab-logo.svg" alt="Partner exempel" style="#min-height:100%">
+            </figure>
+          </a>
+        </div>
+        <div class="column is-6-mobile is-4-tablet">
+          <a href="#" title="Partner exempel">
+            <figure class="image is-3by2 image-logo">
+              <img src="{{site.baseurl}}/assets/images/logo-decidim.svg" alt="Partner exempel" style="#min-height:100%">
+            </figure>
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <h3 class="title styleguide is-4" id="ikongalleri">Ikongalleri</h3>
+    <p>Digidem Lab använder ett antal ikoner i SVG-format för att illustrera tjänster, metoder och koncept. Här är en samling av tillgängliga ikoner från assets/images-mappen:</p>
+
+    <div class="styleguide element">
+      <div class="columns is-multiline">
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-a-to-b.svg" alt="A till B ikon">
+          </figure>
+          <p class="has-text-centered">icon-a-to-b.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-campaign.svg" alt="Kampanj ikon">
+          </figure>
+          <p class="has-text-centered">icon-campaign.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-future.svg" alt="Framtid ikon">
+          </figure>
+          <p class="has-text-centered">icon-future.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-installation.svg" alt="Installation ikon">
+          </figure>
+          <p class="has-text-centered">icon-installation.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-jury.png" alt="Jury ikon">
+          </figure>
+          <p class="has-text-centered">icon-jury.png</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-large.svg" alt="Storskalig ikon">
+          </figure>
+          <p class="has-text-centered">icon-large.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-mapping.svg" alt="Kartläggning ikon">
+          </figure>
+          <p class="has-text-centered">icon-mapping.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-medium.svg" alt="Medelstor ikon">
+          </figure>
+          <p class="has-text-centered">icon-medium.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-process.svg" alt="Process ikon">
+          </figure>
+          <p class="has-text-centered">icon-process.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-small.svg" alt="Liten ikon">
+          </figure>
+          <p class="has-text-centered">icon-small.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-support.svg" alt="Support ikon">
+          </figure>
+          <p class="has-text-centered">icon-support.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-training.svg" alt="Träning ikon">
+          </figure>
+          <p class="has-text-centered">icon-training.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-vote.svg" alt="Röstning ikon">
+          </figure>
+          <p class="has-text-centered">icon-vote.svg</p>
+        </div>
+        <div class="column is-3">
+          <figure class="image is-240x240">
+            <img src="{{site.baseurl}}/assets/images/icon-budget.png" alt="Budget ikon">
+          </figure>
+          <p class="has-text-centered">icon-budget.png</p>
+        </div>
+      </div>
+    </div>
+
+    <h4>Användning av ikoner</h4>
+    <p>Ikonerna används främst för att representera tjänster, metoder och erbjudanden. Här är ett exempel på hur en ikon används i en tjänstepresentation:</p>
+
+      <pre><code class="language-html">
+        &lt;figure class="image image-icon"&gt;
+          &lt;img src="{{site.baseurl}}/assets/images/icon-installation.svg"&gt;
+        &lt;/figure&gt;
+      </code></pre>
+
+      <p>Lämpliga CSS-klasser för ikoner:</p>
+
+      <pre><code class="language-css">
+        .image-icon {
+          padding: 1rem;
+          margin: auto;
+        }
+
+        .image.is-240x240 {
+          max-width: 100%;
+        }
+      </code></pre>
+
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
+    <h2 class="title styleguide is-2" id="layout-struktur">Layout-struktur</h2>
+
+    <h3 class="title styleguide is-4">Sektioner</h3>
+    <p>Webbplatsens innehåll är strukturerat i sektioner med containers.</p>
+    <pre><code class="language-html">
+  &lt;section class="section"&gt;
+    &lt;div class="container"&gt;
+      &lt;!-- Innehåll --&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+    </code></pre>
+
+    <h3 class="title styleguide is-4">Sidhuvud</h3>
+    <p>Standard sidhuvud för innehållssidor.</p>
+    <pre><code class="language-html">
+  &lt;div class="columns columns-header"&gt;
+    &lt;div class="column is-10-fullhd"&gt;
+      &lt;h1 class="title is-5 is-size-4-tablet is-size-3-desktop is-size-1-widescreen is-spaced"&gt;{{page.title}}&lt;/h1&gt;
+      &lt;p class="subtitle is-6 is-size-3-widescreen"&gt;{{page.ingress-text}}&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+    </code></pre>
+
+    <h2 class="title styleguide is-2" id="forms">Forms</h2>
+    <p>Formulärfält användning med Bulma-klasser.</p>
+
+    <div class="styleguide element">
+      <div class="field">
+        <label class="label">Namn</label>
+        <div class="control">
+          <input class="input" type="text" placeholder="Ditt namn">
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label">Email</label>
+        <div class="control">
+          <input class="input" type="email" placeholder="Din e-post">
+        </div>
+      </div>
+
+      <div class="field">
+        <label class="label">Meddelande</label>
+        <div class="control">
+          <textarea class="textarea" placeholder="Ditt meddelande"></textarea>
+        </div>
+      </div>
+
+      <div class="field">
+        <div class="control">
+          <button class="button">Skicka</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <div class="container">
+    <h2 class="title styleguide is-2" id="best-practices">Best Practices</h2>
+    <h3 class="title styleguide is-4">Tillgänglighet</h3>
+    <ul>
+      <li>Använd semantiska HTML5-element (header, section, footer, etc.)</li>
+      <li>Tilldela alt-text till alla bilder</li>
+      <li>Se till att färgkontrast uppfyller WCAG 2.1 AA-standard</li>
+      <li>Strukturera innehåll med korrekt rubrikhierarki (h1, h2, osv.)</li>
+    </ul>
+
+    <h3 class="title styleguide is-4">Responsiv design</h3>
+    <ul>
+      <li>Använd Bulma's responsiva klasser (is-mobile, is-tablet, is-desktop, etc.)</li>
+      <li>Testa gränssnittet på olika enheter och skärmstorlekar</li>
+      <li>Använd flexbox för flexibla layouter</li>
+    </ul>
+
+    <h3 class="title styleguide is-4">Filstorlekar och optimering</h3>
+    <ul>
+      <li>Bilder ska vara optimerade för webben (idealt under 200KB)</li>
+      <li>Använd SVG för ikoner och logotyper när möjligt</li>
+      <li>Rekommenderade bildstorlekar:
+        <ul>
+          <li>Hero-bilder: 1200x629px</li>
+          <li>Artikelbilder: 1200x629px</li>
+          <li>Logotyper: SVG eller 478x318px</li>
+          <li>Ikoner: SVG i 512x512px</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>

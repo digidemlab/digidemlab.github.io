@@ -12,7 +12,7 @@ links:
     url: https://www.mynewsdesk.com/se/su/pressreleases/presstraeff-20-maj-nationellt-medborgarraad-presenterar-foerslag-om-klimatet-3322971
 lang: sv
 ref: medborgarrad-klimatet
-categories: _themes/medborgarjury.md
+categories: _themes/medborgarrad.md
 clients: _clients/Medborgarrd-om-Klimatet-fr-Stockholms-universitet.md
 
 ---

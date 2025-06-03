@@ -15,7 +15,7 @@ partners:
 year: 2023-
 ref: stockholmsuniversitet
 lang: sv
-categories: _themes/medborgarjury.md
+categories: _themes/medborgarrad.md
 ---
 
 

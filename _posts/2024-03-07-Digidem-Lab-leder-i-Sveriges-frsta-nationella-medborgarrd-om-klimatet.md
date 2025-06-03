@@ -10,7 +10,7 @@ links:
     url: 'https://fairtrans.nu/medborgarrad-om-klimatet/'
 lang: sv
 date: 2024-03-07T23:00:00.000Z
-categories: _themes/medborgarjury.md
+categories: _themes/medborgarrad.md
 clients: _clients/Medborgarrd-om-Klimatet-fr-Stockholms-universitet.md
 ---
 

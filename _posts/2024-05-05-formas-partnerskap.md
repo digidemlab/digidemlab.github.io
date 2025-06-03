@@ -11,7 +11,7 @@ links:
   - title: Anmälan till webbinarium
     url: https://form.digidemlab.org/?page_id=215
 lang: sv
-categories: _themes/medborgarjury.md
+categories: _themes/medborgarrad.md
 ---
 
 

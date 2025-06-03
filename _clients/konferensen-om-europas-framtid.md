@@ -18,7 +18,7 @@ links:
 ref: europas-framtid
 lang: sv
 categories:
-- _themes/medborgarjury.md
+- _themes/medborgarrad.md
 - _themes/medborgarbudget.md
 excerpt: Digidem Lab har tillsammans med OSP stöttat EU-kommissionen i förberedelser och genomförande av den största medborgardialogen på EU-nivå någonsin.
 ingress-text: Digidem Lab har tillsammans med OSP stöttat EU kommissionen i förberedelser och genomförande av den största medborgardialogen på EU-nivå någonsin.

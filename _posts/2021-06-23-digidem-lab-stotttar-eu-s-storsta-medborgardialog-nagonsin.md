@@ -16,7 +16,7 @@ links:
   url: https://futureu.europa.eu/
 ref: ''
 categories:
-- _themes/medborgarjury.md
+- _themes/medborgarrad.md
 clients:
 - _clients/konferensen-om-europas-framtid.md
 

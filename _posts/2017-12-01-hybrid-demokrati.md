@@ -11,7 +11,7 @@ links:
   url: https://medium.com/digidemlab/projektet-hybrid-demokrati-att-anv%C3%A4nda-sig-av-medborgarjurys-38f27e069022
 image: "/uploads/hybriddemokrati1.jpg"
 categories:
-- _themes/medborgarjury.md
+- _themes/medborgarrad.md
 ---
 
 ## Vad är en medborgarjury?

@@ -24,7 +24,7 @@ links:
 ref: ''
 categories:
 - _themes/medborgarbudget.md
-- _themes/medborgarjury.md
+- _themes/medborgarrad.md
 clients:
 - _clients/coldigit.md
 ---
