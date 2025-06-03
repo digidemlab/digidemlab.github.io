@@ -1,5 +1,5 @@
 ---
-title: Stephanie Toro
+title: Steph Toro
 date: 2020-10-13T08:18:03.000Z
 job: Outreach strategist
 image: /uploads/stephanie3.jpg
