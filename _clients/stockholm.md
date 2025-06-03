@@ -1,5 +1,5 @@
 ---
-title: Stockholm Stad - medborgardeltagande och dialoger
+title: Stockholm medborgardeltagande och dialoger
 date: 2025-04-22T22:00:00.000Z
 client: Stockholms stad
 featured: true
