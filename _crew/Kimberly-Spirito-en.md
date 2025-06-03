@@ -1,5 +1,5 @@
 ---
-title: Kimberly Spirito
+title: Kimberly Spirito Thörn
 date: 2025-03-10T23:00:00.000Z
 lang: en
 job: Administrative Project Manager
