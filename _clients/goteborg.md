@@ -1,5 +1,5 @@
 ---
-title: 'Göteborg Medborgardeltagande, budgetar & råd'
+title: 'Göteborg Stads Medborgar           -deltagande, budgetar & råd'
 date: 2024-01-09T09:38:35.000Z
 client: Göteborgs Stad
 featured: true
