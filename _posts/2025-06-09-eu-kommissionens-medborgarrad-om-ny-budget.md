@@ -17,7 +17,7 @@ categories: _themes/medborgarrad.md
 clients: _clients/European-Citizen-Panel.md
 ---
 
-**Under våren har Digidem Lab, på uppdrag från Europeiska kommissionen, utfört en slumpmässig urvalsprocess för att skicka fem svenska medborgare till Bryssel för att delta i ett medborgarråd som samlat 150 EU-medborgare från 27 länder för att sammanställa rekommendationer gällande frågan: ”Vad bör EU spendera pengar på för att förbättra vår gemensamma framtid?”**
+**Under våren har Digidem Lab, på uppdrag från Europeiska kommissionen, utfört en slumpmässig urvalsprocess för att skicka fem svenska medborgare till Bryssel för att delta i ett medborgarråd som samlat 150 EU-medborgare från 27 länder för att sammanställa rekommendationer gällande frågan: ”*Vad bör EU spendera pengar på för att förbättra vår gemensamma framtid?”***
 
 Under 2025 kommer kommissionen att lägga fram ett förslag till en ny europeisk långtidsbudget som börjar gälla 2028. Denna budget kommer därefter att beslutas av Europaparlamentet och medlemsstaterna. Innan dess har 150 slumpvis utvalda EU-medborgare från 27 EU-länder fått chansen att påverka förslaget genom att under tre helger, från mars till maj, delta i ett medborgarråd.
 
