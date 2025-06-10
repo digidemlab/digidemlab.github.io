@@ -7,7 +7,7 @@ excerpt: >-
   budget.
 ingress-text: 'Digidem Lab stöttar Europeiska Kommissionens medborgarråd om EU:s nya budget.'
 links:
-  - title: Läs mer här
+  - title: 'EU-kommissionen: Medborgarnas deltagarplattform'
     url: >-
       https://citizens.ec.europa.eu/european-citizens-panels/european-citizens-panel-new-european-budget_en
 ref: ecp1
