@@ -9,7 +9,7 @@ ingress-text: >-
   Digidem Lab supports the European Commission's citizen panel regarding EU:s
   new budget.
 links:
-  - title: Läs mer här
+  - title: European Commission Citizens’ Engagement Platform
     url: >-
       https://citizens.ec.europa.eu/european-citizens-panels/european-citizens-panel-new-european-budget_en
 ref: ecp1
