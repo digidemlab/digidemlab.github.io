@@ -19,7 +19,7 @@ categories: _themes/medborgarrad.md
 clients: _clients/European-Commission---European-Citizen-panel.md
 ---
 
-During the spring, Digidem Lab, on behalf of the European Commission, carried out a random selection process to send five Swedish citizens to Brussels to participate in a citizens’ panel that gathered 150 EU citizens from 27 countries to develop recommendations on the question: “What should the EU spend money on to improve our common future?”
+**During the spring, Digidem Lab, on behalf of the European Commission, carried out a random selection process to send five Swedish citizens to Brussels to participate in a citizens’ panel that gathered 150 EU citizens from 27 countries to develop recommendations on the question: *“What should the EU spend money on to improve our common future?”***
 
 In 2025, the Commission will present a proposal for a new long-term European budget that will take effect in 2028. This budget will then be decided upon by the European Parliament and the Member States. Before that, 150 randomly selected EU citizens from 27 EU countries have had the opportunity to influence the proposal by participating in a citizens’ panel over three weekends between March and May.
 
