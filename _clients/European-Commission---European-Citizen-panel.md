@@ -2,6 +2,7 @@
 title: European Commission - European Citizen panel
 date: 2025-06-02T22:00:00.000Z
 client: European Commission
+featured: true
 logotype: /uploads/LOGO CE_EN_RGB_VERTICAL_POS.svg
 image: /uploads/European Citizen Panel 2025.png
 ingress-text: >-
