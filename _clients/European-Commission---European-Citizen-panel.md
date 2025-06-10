@@ -15,7 +15,7 @@ links:
     url: 'https://citizens.ec.europa.eu/index_en'
 ref: SORT-EU
 lang: en
-categories: _themes/medborgarrad.md
+categories: _themes/citizen-panel.md
 ---
 
 The European Commission has introduced citizens’ panels as a recurring feature of democratic life in the EU, with the aim of strengthening citizens’ participation in political decision-making. Each panel brings together 150 randomly selected citizens from all 27 Member States. The participants reflect Europe’s diversity, and the panels are tasked with discussing and providing recommendations on key political issues that affect the entire Union.
