@@ -10,7 +10,7 @@ links:
   - title: Läs mer här
     url: >-
       https://citizens.ec.europa.eu/european-citizens-panels/european-citizens-panel-new-european-budget_en
-ref: ecp1-sv
+ref: ecp1
 lang: sv
 date: 2025-06-09T22:00:00.000Z
 categories: _themes/medborgarrad.md
@@ -25,6 +25,6 @@ Rådet inleddes med en helg av fysiska möten i Bryssel i mars. Där delades de 
 
 EU-kommissionens medborgarråd under våren var det första av tre tänkta under 2025–2026, och Digidem Lab arbetar med att genomföra den slumpmässiga urvalsprocessen i Sverige för alla tre medborgarråd. Detta innebär att vi under våren har koordinerat rekrytering av intresserade medborgare från fem slumpvis utvalda platser i landet: Göteborg, Uppsala, Upplands-Bro, Upplands Väsby och Ulricehamn, varav en individ från varje plats har valts ut genom lottning. Detta för att försäkra att deltagarna valts ut på ett rättvist sätt och att gruppen är representativ för Sveriges medborgare. Fem individer har fått bidra till EU:s policys, fått betalda resor till Bryssel, fått betalt för sitt deltagande samt fått träffa individer från 27 olika länder.
 
-Det andra av EU-kommissionens tre medborgarråd kommer att handla om rättvisa mellan generationer och ske under hösten 2025. Digidem Lab arbetar med genomföra den slumpmässiga urvalsprocessen i Sverige under sommaren. Håll utkik efter kommande nyheter om detta medborgarråd! 
+Det andra av EU-kommissionens tre medborgarråd kommer att handla om rättvisa mellan generationer och ske under hösten 2025. Digidem Lab arbetar med genomföra den slumpmässiga urvalsprocessen i Sverige under sommaren. Håll utkik efter kommande nyheter om detta medborgarråd!
 
 [(Bildkälla: European Citizens' Panel on the New EU Budget)](https://citizens.ec.europa.eu/european-citizens-panel-new-european-budget_sv#paragraph_682 "Bildkälla")
