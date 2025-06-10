@@ -9,6 +9,8 @@ ingress-text: >-
   Digidem Lab supports the European Commission's citizen panel regarding EU:s
   new budget.
 links:
+  - title: Work page
+    url: 'https://digidemlab.org/European-Citizen-Panel/'
   - title: European Commission Citizens’ Engagement Platform
     url: >-
       https://citizens.ec.europa.eu/european-citizens-panels/european-citizens-panel-new-european-budget_en
