@@ -1,8 +1,8 @@
 ---
-title: 'YH-kursen i Community Organising kommer tillbaka!  '
+title: YH-kursen i Community Organising kommer tillbaka
 featured: true
 image: /uploads/YH-Nyhet.JPG
-excerpt: Ansökan till kursen Community Organising är nu öppen!
+excerpt: Ansökan är öppen!
 ingress-text: >-
   Kursen Community Organising är till för dig som är engagerad i civilsamhället
   och vill ta nästa steg.
