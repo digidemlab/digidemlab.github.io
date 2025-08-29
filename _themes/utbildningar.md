@@ -6,7 +6,7 @@ excerpt: Många kommuner står inför utmaningen att skapa medborgardialoger som
 ingress-text: Många kommuner står inför utmaningen att skapa medborgardialoger som känns meningsfulla, är kvalitativa och möjliga att genomföra med de resurser som finns.
 icon: "/assets/images/icon-training.png"
 items:
-- text: Men med rätt metod och en ambitionsnivå som är i takt med kommunens förutsättningar, går det att forma dialoger som verkligen gör skillnad – där fler får komma till tals och resultaten blir tydliga.
+- text: Digidem Lab erbjuder utbildningar för att skapa medborgardialoger som känns meningsfulla, är kvalitativa och möjliga att genomföra med de resurser som finns.
 lang: sv
 ref: utbildning
 contact: true
@@ -14,6 +14,7 @@ featured: true
 
 ---
 
+Digidem Lab erbjuder utbildningar för att skapa medborgardialoger som känns meningsfulla, är kvalitativa och möjliga att genomföra med de resurser som finns.
 
 Ni är alltid välkomna att kontakta oss om en specifik metod eller utmaning så skräddarsyr vi en utbildning för er. Vi erbjuder fördjupande utbildningar inom olika metoder, sortition (slumpade urval för rekrytering) till representativa medborgarråd, facilitering, och design av deltagandeprocesser.
 
