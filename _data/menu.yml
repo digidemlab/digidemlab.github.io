@@ -13,6 +13,15 @@ sv:
         url: /community-organising-grasrot/
       - title: Digitalt medborgardeltagande med Decidim
         url: /digitalt-medborgardeltagande-decidim/
+      - title: Utbildningar
+        url: /utbildningar/
+        items:
+          - title: Metodöversikt för medborgardeltagande
+            url: /utbildning-medborgardeltagande/
+          - title: Introduktionskurs i metoden medborgarråd
+            url: /utbildning-medborgarrad/
+          - title: En-till-en-samtalsutbildning
+            url: /utbildning-en-till-en-samtal/
   #    - title: Civic Tech och Digital utveckling
   #      url: /civic-tech-utveckling/
     #  - title: Digitala plattformar
@@ -27,12 +36,14 @@ sv:
   secondary:
   - title: Kontakt
     url: /contact/
-  - title: Lediga tjänster
-    ref: lediga-tjanster
-    url: /lediga-tjanster/
-    items:
-      - title: Lediga tjänster
-        url: /lediga-tjanster/
+  - title: Utbildningar
+    url: /utbildningar/
+ # - title: Lediga tjänster
+ #   ref: lediga-tjanster
+ #   url: /lediga-tjanster/
+ #   items:
+ #     - title: Lediga tjänster
+ #       url: /lediga-tjanster/
 en:
   primary:
   - title: Services

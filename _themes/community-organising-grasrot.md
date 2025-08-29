@@ -9,6 +9,8 @@ items:
 - text: Vi hjälper dig att lyckas med att bygga lokalt organisering och ledarskap! Våra metodpaket kombinerat med fokus på lokala behov och utmaningar ger din organisation förutsättningar att växa och utvecklas.
 ref: communityorg
 lang: sv
+featured: true
+
 ---
 Digidem Lab erbjuder skräddarsydda kurser i organisering med fokus på lokala sammanhang där deltagare får metoder och verktyg för att stärka ett community. Kurserna ger en grund i att navigera strategi, makt, jämlikhet, lyssnande med mera. Deltagarna har möjlighet att testa metoder direkt och reflektera över hur de kan användas i deras egen kontext.
 

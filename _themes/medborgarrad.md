@@ -17,6 +17,8 @@ links:
   url: https://fairtrans.nu/medborgarrad-om-klimatet
 - title: Livsmedelsverkets medborgarråd
   url: https://www.livsmedelsverket.se/om-oss/press/nyheter/pressmeddelanden/medborgarpanel-gav-forslag-pa-hur-vi-kan-ata-hallbart-och-halsosamt
+featured: true
+
 ---
 
 I en tid där demokratin utmanas av polarisering och minskat förtroende för institutioner, växer behovet av nya former för medborgarinflytande.

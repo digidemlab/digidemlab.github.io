@@ -13,6 +13,8 @@ items:
 - text: They formulate recommendations that are passed on to decision-making bodies.
 lang: en
 ref: medborgarrad
+featured: true
+
 ---
 
 The process relies on the sessions, where a representative sample of citizens meet to analyse the challenge together.  The methodology requires that participants have the chance to thoroughly familiarise themselves with the issue and listen to experts in the specific field. Through specially designed workshops, participants discuss with people from different educational backgrounds, economic status, geographical areas, ages, genders and ethnic backgrounds, explore possible actions and solutions, and together develop recommendations on how your organisation can address the societal challenge at hand.

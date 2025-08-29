@@ -12,6 +12,8 @@ items:
 - text: Create resilient and strong organisations.
 ref: communityorg
 lang: en
+featured: true
+
 ---
 
 Digidem Lab offers organising courses with a focus on local contexts, providing participants with methods and tools to strengthen a community. The courses provide a foundation in navigating strategy, power, equality, listening and more. Participants have the opportunity to test methods directly and reflect on how they can be used in their own context.
