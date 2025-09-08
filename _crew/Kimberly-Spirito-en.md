@@ -8,4 +8,4 @@ phone: '+46760506409'
 mail: kimberly@digidemlab.org
 ---
 
-Administrative Project Manager specializing in decolonial principles and methods, responsible for the organization's administration as well as project management.
+Kimberly is our administrative project manager specializing in decolonial principles and methods, responsible for the organization's administration as well as project management.
