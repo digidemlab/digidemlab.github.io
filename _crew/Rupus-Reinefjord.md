@@ -7,4 +7,4 @@ image: /uploads/Rupus_hemsida.jpeg
 mail: rupus@digidemlab.org
 ---
 
-Rupus är en utvecklare och systemadministratör för digitala tjänster och plattformar.
+Rupus är vår utvecklare och systemadministratör för digitala tjänster och plattformar.
