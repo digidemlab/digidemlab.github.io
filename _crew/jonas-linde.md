@@ -7,4 +7,4 @@ image: /uploads/jonas.jpg
 mail: jonas@digidemlab.org
 ---
 
-Jonas är projektledare specialiserad på medborgarpaneler, sortitionprocesser och hållbarhetsfrågor.
+Jonas är vår projektledare specialiserad på medborgarpaneler, sortitionprocesser och hållbarhetsfrågor.
