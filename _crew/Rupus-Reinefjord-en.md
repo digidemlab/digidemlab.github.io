@@ -7,4 +7,4 @@ image: /uploads/Rupus_hemsida.jpeg
 mail: rupus@digidemlab.org
 ---
 
-Rupus is a developer and system administrator for digital services and platforms.
+Rupus is our developer and system administrator for digital services and platforms.
