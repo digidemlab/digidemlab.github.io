@@ -7,4 +7,4 @@ image: /uploads/jonas.jpg
 mail: jonas@digidemlab.org
 ---
 
-Jonas is a project manager specialized in citizen panels, sortition processes and sustainability issues.
+Jonas is our project manager specialized in citizen panels, sortition processes and sustainability issues.
