@@ -26,3 +26,5 @@ Genom klimatdialogen utvecklar Digidem Lab tillsammans med Lunds kommun ett nytt
 Läs mer om projektet på uppdragssidan eller på Lunds Kommuns hemsida.
 
 *Bild från: JackF, Getty Images*
+
+**![](</uploads/Lunds kommun logo horisontellt FÄRG RGB_300.png>)![](/uploads/SEI-Logo-Extended-Dark-Green-RGB.png)![](/uploads/Lunds_universitet_L_RGB.png)
