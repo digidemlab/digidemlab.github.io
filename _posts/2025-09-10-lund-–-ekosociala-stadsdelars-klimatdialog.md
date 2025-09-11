@@ -24,3 +24,5 @@ Digidem Lab ansvarar för att leda rekryteringen av deltagare genom ett stratifi
 Genom klimatdialogen utvecklar Digidem Lab tillsammans med Lunds kommun ett nytt arbetssätt baserat på metoden för medborgarråd som kan bli en modell för hur kommuner kan involvera invånare i komplexa samhällsutmaningar.
 
 Läs mer om projektet på uppdragssidan eller på Lunds Kommuns hemsida.
+
+*Bild från: JackF, Getty Images*
