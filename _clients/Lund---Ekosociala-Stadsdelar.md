@@ -12,7 +12,7 @@ partners:
   - Lunds Universitet
   - Stockholm Environmental Institute
 year: 2024-2026
-ref: LUND-EKOSOC
+ref: lund-ecosoc
 lang: sv
 categories: _themes/medborgarrad.md
 ---
