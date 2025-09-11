@@ -27,4 +27,4 @@ Read more about the project on the assignment page or on Lund municipality's web
 
 *Image credit: JackF, Getty Images*
 
-**![](</uploads/Lunds kommun logo horisontellt FÄRG RGB_300.png>)![](/uploads/SEI-Logo-Extended-Dark-Green-RGB.png)![](/uploads/Lunds_universitet_L_RGB.png)
+![](/uploads/SEI-Logo-Extended-Dark-Green-RGB.png)![](/uploads/Lunds_universitet_L_RGB.png)
