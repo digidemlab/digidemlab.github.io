@@ -2,10 +2,10 @@
 title: Digidem Lab leder klimatdialog i Lund
 featured: true
 image: /uploads/Namnlös design(7).png
-excerpt: >-
+excerpt: ''
+ingress-text: >-
   Boende i Norra Fäladen bjuds in för att ta fram rekommendationer kring jämlik
   klimatomställning.
-ingress-text: Digidem Lab leder klimatdialog i Lund
 links:
   - title: Uppdragssida
     url: 'https://digidemlab.org/Lund-Ekosociala-Stadsdelar/'
