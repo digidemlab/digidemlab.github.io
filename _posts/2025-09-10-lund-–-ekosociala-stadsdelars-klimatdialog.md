@@ -1,6 +1,7 @@
 ---
 title: Lund – Ekosociala Stadsdelars Klimatdialog
 featured: true
+image: /uploads/Klimatdialog.png
 ingress-text: Digidem Lab leder klimatdialog i Lund
 links:
   - title: Uppdragssida
