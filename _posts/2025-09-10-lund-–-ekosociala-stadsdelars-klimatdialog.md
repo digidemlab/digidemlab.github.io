@@ -15,7 +15,7 @@ categories: _themes/medborgarrad.md
 clients: _clients/Lund---Ekosociala-Stadsdelar.md
 ---
 
-Projektet Ekosociala Stadsdelar: Redskap för hållbar konsumtion och inkluderande klimatomställning genomförs i ett samarbete mellan [Lunds kommun](https://lund.se/), Digidem Lab, [Lunds universitet](https://www.lu.se/)  och [Swedish Environmental Institute](https://www.sei.org/) . En central del i projektet är en klimatdialog som leds av Digidem Lab. Ett 20-tal boende i Norra Fäladen får tillsammans ta fram åtgärder som kan minska hushållens konsumtionsbaserade utsläpp utan att minska på möjligheten att leva ett gott liv.
+Projektet Ekosociala Stadsdelar: Redskap för hållbar konsumtion och inkluderande klimatomställning genomförs i ett samarbete mellan [Lunds kommun](https://lund.se/), Digidem Lab, [Lunds universitet](https://www.lu.se/)  och [Stockholm Environmental Institute](https://www.sei.org/) . En central del i projektet är en klimatdialog som leds av Digidem Lab. Ett 20-tal boende i Norra Fäladen får tillsammans ta fram åtgärder som kan minska hushållens konsumtionsbaserade utsläpp utan att minska på möjligheten att leva ett gott liv.
 
 I mitten av september skickas inbjudan ut till ca 2000 boende, som har möjlighet att anmäla sig för att delta i dialogen. Sedan lottas ett representativt urval på ca 20 personer fram som blir kallade att delta. Syftet är att skapa en dialog där ny kunskap, olika erfarenheter och perspektiv kan mötas och tillsammans med Lunds Kommun ta reda på vad som behövs för att boende på Norra Fäladen ska kunna minska sina klimatutsläpp och samtidigt leva ett gott liv. Likt ett medborgarråd kommer deltagarna gemensamt att utforma rekommendationer till kommunens politiker.
 
