@@ -23,6 +23,6 @@ The project Eco-Social Neighborhoods: Tools for Sustainable Consumption and Incl
 
 The results will contribute to the Lund municipality's work on developing a climate roadmap and neighborhood programs for the different districts, as well as to the goal of halving household consumption-based emissions per resident by 2030.
 
-*Image from: Kampus Productions, Pexels*
+*Image credit: Kampus Productions, Pexels*
 
 ![](/uploads/SEI-Logo-Extended-Dark-Green-RGB.png)![](/uploads/Lunds_universitet_L_RGB.png)
