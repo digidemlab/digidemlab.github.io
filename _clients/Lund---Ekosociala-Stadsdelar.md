@@ -2,7 +2,7 @@
 title: Lund - Ekosociala Stadsdelar
 date: 2025-09-10T22:00:00.000Z
 client: Lund Kommun
-featured: true
+featured: false
 logotype: /uploads/Lunds kommun logo horisontellt FÄRG RGB_300.png
 image: /uploads/Namnlös design(6).png
 ingress-text: >-
