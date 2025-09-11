@@ -4,7 +4,7 @@ date: 2025-09-10T22:00:00.000Z
 client: Lund municipality
 featured: false
 logotype: /uploads/Lunds kommun logo horisontellt FÄRG RGB_300.png
-image: /uploads/Ekosocial.png
+image: /uploads/Namnlös design(6).png
 ingress-text: >-
   Digidem Lab has been tasked with strengthening citizens’ voices in Lund’s
   climate transition.
