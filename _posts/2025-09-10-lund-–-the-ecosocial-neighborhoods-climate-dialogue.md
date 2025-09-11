@@ -9,7 +9,7 @@ lang: en
 date: 2025-09-10T22:00:00.000Z
 ---
 
-The project Ecosocial Neighborhoods: Tools for Sustainable Consumption and Inclusive Climate Transition is carried out in collaboration between the Lund municipality, Digidem Lab, Lund University, and Stockholm Environment Institute. A central part of the project is a climate dialogue led by Digidem Lab. Around 20 residents in Norra Fäladen will together develop measures that can reduce households’ consumption-based emissions without compromising the possibility of living a good life.
+The project Ecosocial Neighborhoods: Tools for Sustainable Consumption and Inclusive Climate Transition is carried out in collaboration between the [Lund municipality,](https://lund.se/ "lund municipality en link") Digidem Lab, [Lund University](), and Stockholm Environment Institute. A central part of the project is a climate dialogue led by Digidem Lab. Around 20 residents in Norra Fäladen will together develop measures that can reduce households’ consumption-based emissions without compromising the possibility of living a good life.
 
 In mid-September, an invitation will be sent out to approximately 2,000 residents, who will have the opportunity to sign up to participate in the dialogue. A representative sample of about 20 people will then be randomly selected and invited to take part. The aim is to create a dialogue where new knowledge, diverse experiences, and perspectives can meet and, together with the City of Lund, identify what is needed for residents of Norra Fäladen to reduce their climate emissions while still enjoying a good quality of life. Similar to a citizens’ assembly, the participants will jointly develop recommendations for the municipality’s politicians.
 
