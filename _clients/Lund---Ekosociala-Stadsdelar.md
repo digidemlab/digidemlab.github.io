@@ -23,4 +23,6 @@ Projektet Ekosociala Stadsdelar: Redskap för hållbar konsumtion och inkluderan
 
 Resultatet bidrar till Lunds kommuns arbete med att ta fram en klimatfärdplan och utveckla stadsdelsprogram för de olika stadsdelarna, samt till målet att halvera hushållens konsumtionsbaserade utsläpp per invånare till år 2030.
 
+*Bild från: Kampus Productions, Pexels*
+
 ![](/uploads/SEI-Logo-Extended-Dark-Green-RGB.png)![](/uploads/Lunds_universitet_L_RGB.png)
