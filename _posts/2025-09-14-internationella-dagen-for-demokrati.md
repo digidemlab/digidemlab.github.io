@@ -16,4 +16,4 @@ Den 15 September är det Internationella dagen för demokrati – en påminnelse
 
 Dagen i ära erbjuder vi 20% rabatt på våra utbildningar för medborgardeltagande för att främja arbetet med just dialog och delat beslutsfattande. Erbjudandet gäller från och med 15 September till 15 Oktober.
 
-Läs mer om utbildningarna bland våra tjänster.
+Läs mer om utbildningarna bland våra[ tjänster.](https://digidemlab.org/services/ "Tjänster")
